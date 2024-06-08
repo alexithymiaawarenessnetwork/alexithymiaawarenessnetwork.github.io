@@ -1,2 +1,2 @@
 # alexithymiaawarenessnetwork.github.io
-Github hosted site
+Github hosted site: www.alexithymiaawarenessnetwork.org
