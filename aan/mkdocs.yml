@@ -5,3 +5,12 @@ site_description: "AAN: The Alexithymia Awareness Network"
 keywords: "alexithymia, awareness, network, AAN, emotions, feelings, mental health, psychology, psychiatry, neurology, neuroscience, research, support, community, resources, information, education, advocacy, activism, empowerment, acceptance, understanding"
 theme: material
 site_dir: "../docs"
+
+nav:
+  - Introduction: index.md
+  - Mission: mission.md
+  - Advisors: advisors.md
+  - Network: network.md
+  - Resources: resources.md
+  - Lexicon: lexicon.md
+  - Contact: contact.md
