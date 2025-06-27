@@ -4,3 +4,4 @@ site_url: "https://alexithymiaawarenessnetwork.org"
 site_description: "AAN: The Alexithymia Awareness Network"
 keywords: "alexithymia, awareness, network, AAN, emotions, feelings, mental health, psychology, psychiatry, neurology, neuroscience, research, support, community, resources, information, education, advocacy, activism, empowerment, acceptance, understanding"
 theme: material
+site_dir: "../docs"
