@@ -39,7 +39,7 @@ This lexicon provides a comprehensive collection of emotional and feeling-relate
 
 **Key Insight:** Emotions exist in varying intensities and can combine to form complex emotions (e.g., Joy + Trust = Love).
 
-**Authoritative Source:** [Plutchik's Research](https://www.paulekman.com/resources/universal-emotions/)
+**Authoritative Source:** [Plutchik's Research](https://www.paulekman.com/resources/universal-emotions/) | [Buy "The Emotions"](https://bookshop.org/p/books/the-emotions-robert-plutchik/vByH9TKoMXdxtcg6?ean=9780819182869)
 
 **Quote:** *"Emotions are the result of evolution and have been selected because they serve adaptive functions."* — Robert Plutchik
 
