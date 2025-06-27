@@ -6,11 +6,19 @@ keywords: "alexithymia, awareness, network, AAN, emotions, feelings, mental heal
 theme: material
 site_dir: "../docs"
 
+# Include CNAME file for GitHub Pages custom domain
+extra:
+  generator: false
+
+# Copy CNAME file to output directory
+plugins:
+  - search
+
 nav:
   - Introduction: index.md
   - Mission: mission.md
-  - Network: network.md
-  - Lexicon: lexicon.md
-  - Resources: resources.md
   - Advisors: advisors.md
+  - Network: network.md
+  - Resources: resources.md
+  - Lexicon: lexicon.md
   - Contact: contact.md
