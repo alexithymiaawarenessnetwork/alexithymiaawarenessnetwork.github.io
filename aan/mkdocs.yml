@@ -9,8 +9,8 @@ site_dir: "../docs"
 nav:
   - Introduction: index.md
   - Mission: mission.md
-  - Advisors: advisors.md
   - Network: network.md
-  - Resources: resources.md
   - Lexicon: lexicon.md
+  - Resources: resources.md
+  - Advisors: advisors.md
   - Contact: contact.md
