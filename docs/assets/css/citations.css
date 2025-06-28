@@ -1,0 +1,284 @@
+/**
+ * Citation Hover Box Styles
+ * Styles for the citation hover system that integrates with Material Design theme
+ */
+
+/* Citation hover box container */
+.citation-hover-box {
+    background: var(--md-default-bg-color, #ffffff);
+    border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+    border-radius: 8px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12), 0 2px 8px rgba(0, 0, 0, 0.08);
+    font-family: var(--md-text-font, "Roboto", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif);
+    font-size: 0.8rem;
+    line-height: 1.5;
+    max-width: min(500px, 90vw);
+    min-width: 280px;
+    opacity: 0;
+    padding: 0;
+    pointer-events: auto;
+    transform: translateY(-8px);
+    transition: opacity 0.2s ease-out, transform 0.2s ease-out;
+    z-index: 10000;
+}
+
+/* Visible state */
+.citation-hover-box.citation-hover-visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Header section */
+.citation-header {
+    background: var(--md-primary-fg-color, #1976d2);
+    border-radius: 8px 8px 0 0;
+    color: var(--md-primary-bg-color, #ffffff);
+    padding: 16px 20px 12px;
+    position: relative;
+}
+
+.citation-title {
+    color: inherit;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.3;
+    margin: 0 24px 8px 0;
+}
+
+.citation-authors {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 0.85rem;
+    font-weight: 400;
+    margin: 0;
+}
+
+/* Close button */
+.citation-close {
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.8);
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: 300;
+    height: 32px;
+    line-height: 1;
+    padding: 0;
+    position: absolute;
+    right: 12px;
+    top: 12px;
+    transition: color 0.2s ease;
+    width: 32px;
+}
+
+.citation-close:hover {
+    color: rgba(255, 255, 255, 1);
+}
+
+.citation-close:focus {
+    outline: 2px solid rgba(255, 255, 255, 0.5);
+    outline-offset: 2px;
+}
+
+/* Content sections */
+.citation-publication,
+.citation-description,
+.citation-access-links {
+    padding: 0 20px;
+}
+
+.citation-publication {
+    border-bottom: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+    color: var(--md-default-fg-color--light, #666666);
+    font-size: 0.85rem;
+    padding-bottom: 12px;
+    padding-top: 16px;
+}
+
+.citation-description {
+    color: var(--md-default-fg-color, #333333);
+    font-size: 0.9rem;
+    line-height: 1.6;
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+
+/* Access links section */
+.citation-access-links {
+    border-bottom: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+
+.citation-access-links strong {
+    color: var(--md-default-fg-color--light, #666666);
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.citation-access-links a {
+    color: var(--md-accent-fg-color, #1976d2);
+    font-size: 0.85rem;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.citation-access-links a:hover {
+    color: var(--md-accent-fg-color--transparent, rgba(25, 118, 210, 0.8));
+    text-decoration: underline;
+}
+
+/* Footer section */
+.citation-footer {
+    padding: 16px 20px;
+}
+
+.citation-data-link {
+    background: var(--md-default-fg-color--lightest, #f5f5f5);
+    border: 1px solid var(--md-default-fg-color--lighter, #e0e0e0);
+    border-radius: 4px;
+    color: var(--md-default-fg-color--light, #666666);
+    display: inline-block;
+    font-size: 0.8rem;
+    padding: 8px 12px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.citation-data-link:hover {
+    background: var(--md-default-fg-color--lighter, #e0e0e0);
+    color: var(--md-default-fg-color, #333333);
+    text-decoration: none;
+}
+
+/* Dark theme support */
+[data-md-color-scheme="slate"] .citation-hover-box {
+    background: var(--md-default-bg-color, #2d3748);
+    border-color: var(--md-default-fg-color--lightest, #4a5568);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3), 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+[data-md-color-scheme="slate"] .citation-publication {
+    border-bottom-color: var(--md-default-fg-color--lightest, #4a5568);
+    color: var(--md-default-fg-color--light, #a0aec0);
+}
+
+[data-md-color-scheme="slate"] .citation-description {
+    color: var(--md-default-fg-color, #e2e8f0);
+}
+
+[data-md-color-scheme="slate"] .citation-access-links {
+    border-bottom-color: var(--md-default-fg-color--lightest, #4a5568);
+}
+
+[data-md-color-scheme="slate"] .citation-access-links strong {
+    color: var(--md-default-fg-color--light, #a0aec0);
+}
+
+[data-md-color-scheme="slate"] .citation-data-link {
+    background: var(--md-default-fg-color--lightest, #4a5568);
+    border-color: var(--md-default-fg-color--lighter, #718096);
+    color: var(--md-default-fg-color--light, #a0aec0);
+}
+
+[data-md-color-scheme="slate"] .citation-data-link:hover {
+    background: var(--md-default-fg-color--lighter, #718096);
+    color: var(--md-default-fg-color, #e2e8f0);
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .citation-hover-box {
+        font-size: 0.85rem;
+        max-width: calc(100vw - 20px);
+        min-width: calc(100vw - 20px);
+    }
+    
+    .citation-header {
+        padding: 14px 16px 10px;
+    }
+    
+    .citation-title {
+        font-size: 0.95rem;
+        margin-right: 32px;
+    }
+    
+    .citation-authors {
+        font-size: 0.8rem;
+    }
+    
+    .citation-close {
+        right: 8px;
+        top: 8px;
+    }
+    
+    .citation-publication,
+    .citation-description,
+    .citation-access-links,
+    .citation-footer {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    
+    .citation-description {
+        font-size: 0.85rem;
+    }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+    .citation-hover-box {
+        border-width: 2px;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+    }
+    
+    .citation-close:focus {
+        outline-width: 3px;
+    }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+    .citation-hover-box {
+        transition: opacity 0.1s ease;
+    }
+    
+    .citation-hover-box.citation-hover-visible {
+        transform: none;
+    }
+}
+
+/* Print styles */
+@media print {
+    .citation-hover-box {
+        display: none !important;
+    }
+}
+
+/* Focus management for accessibility */
+.citation-hover-box:focus-within {
+    outline: 2px solid var(--md-accent-fg-color, #1976d2);
+    outline-offset: 2px;
+}
+
+/* Ensure proper stacking context */
+#citation-hover-container {
+    isolation: isolate;
+}
+
+/* Animation keyframes for smooth entrance */
+@keyframes citation-fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(-8px) scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+.citation-hover-box.citation-hover-visible {
+    animation: citation-fade-in 0.2s ease-out;
+}

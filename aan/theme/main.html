@@ -3,9 +3,17 @@
 {% block extrahead %}
   {{ super() }}
   {% include "partials/gtm-head.html" %}
+  <!-- Citation hover box styles -->
+  <link rel="stylesheet" href="{{ 'assets/css/citations.css' | url }}">
 {% endblock %}
 
 {% block content %}
   {% include "partials/gtm-body.html" %}
   {{ super() }}
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  <!-- Citation hover box functionality -->
+  <script src="{{ 'assets/js/citations.js' | url }}"></script>
 {% endblock %}
