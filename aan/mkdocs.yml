@@ -21,18 +21,22 @@ exclude_docs: |
 
 nav:
   - Home: index.md
-  - Mission: mission.md
-  - Lexicon: lexicon.md
-  - Resources: resources.md
-  - Books: books.md
-  - Papers: papers.md
-  - Podcasts: podcasts.md
-  - Tools: tools.md
-  - Support: support.md
-  - Studies: studies.md
-  - FAQ: faq.md
-  - Plutchik: plutchik.md
-  - Ekman: ekman.md
-  - Network: network.md
-  - Advisors: advisors.md
-  - Contact: contact.md
+  - About Us:
+    - Mission: mission.md
+    - Network: network.md
+    - Advisors: advisors.md
+    - Contact: contact.md
+  - Emotion Researchers:
+    - Plutchik: plutchik.md
+    - Ekman: ekman.md
+  - Understanding Alexithymia:
+    - FAQ: faq.md
+    - Lexicon: lexicon.md
+    - Studies: studies.md
+  - Resources:
+    - Resources: resources.md
+    - Books: books.md
+    - Papers: papers.md
+    - Podcasts: podcasts.md
+    - Tools: tools.md
+    - Support: support.md
