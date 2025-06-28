@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% include "partials/gtm-head.html" %}
+{% endblock %}
+
+{% block content %}
+  {% include "partials/gtm-body.html" %}
+  {{ super() }}
+{% endblock %}
