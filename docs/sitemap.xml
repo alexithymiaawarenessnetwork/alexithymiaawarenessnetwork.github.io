@@ -11,6 +11,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://alexithymiaawarenessnetwork.org/bagby/</loc>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://alexithymiaawarenessnetwork.org/bermond/</loc>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://alexithymiaawarenessnetwork.org/books/</loc>
          <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
@@ -56,6 +66,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://alexithymiaawarenessnetwork.org/parker/</loc>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://alexithymiaawarenessnetwork.org/plutchik/</loc>
          <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
@@ -71,6 +86,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://alexithymiaawarenessnetwork.org/sifneos/</loc>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://alexithymiaawarenessnetwork.org/studies/</loc>
          <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
@@ -81,7 +101,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://alexithymiaawarenessnetwork.org/taylor/</loc>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://alexithymiaawarenessnetwork.org/tools/</loc>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://alexithymiaawarenessnetwork.org/vorst/</loc>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://alexithymiaawarenessnetwork.org/wilcox/</loc>
          <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>

@@ -12,6 +12,7 @@
 [] ADD Gather nice visuals to use
 [] MAKE Build out any missing needed visuals
 [] ADD to the papers section, there's plenty missing
+[] ADD Labs/Groups/Organizations section to cover collaborative research work (Toronto Alexithymia group: Taylor/Bagby/Parker, Amsterdam collaboration: Bermond/Vorst, etc.)
 
 ## Structure
 [] ADD Apps page - link to app official forums / website, downloads page (with referring partner id?)
@@ -30,5 +31,3 @@
 [] Add additional tracking components to theme/partials/ if needed
 [] Update theme documentation in theme/README.md as components are added
 [] Document the composable theme architecture for future contributors
-
-
