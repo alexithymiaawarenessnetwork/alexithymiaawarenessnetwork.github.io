@@ -43,21 +43,22 @@ We exist to:
 ### 🧠 **Understanding Alexithymia**
 - [**FAQ**](faq.md) - Common questions and answers about alexithymia
 - [**Lexicon**](lexicon.md) - A comprehensive guide to emotion words and feelings
-- [**Research Studies**](studies.md) - Latest scientific findings and ongoing research
 
-### 📚 **Educational Materials**
+### 📱 **Digital Resources**
+- [**Apps**](apps.md) - Mobile applications and digital tools for emotional awareness
+- [**Assessment Tools**](tools.md) - Validated instruments for measuring alexithymia
 - [**Books**](books.md) - Recommended reading on alexithymia and emotional intelligence
 - [**Research Papers**](papers.md) - Academic publications and scientific literature
 - [**Podcasts**](podcasts.md) - Audio content exploring emotional awareness
 
-### 🔬 **Emotion Research**
-- [**Plutchik's Wheel**](plutchik.md) - Understanding the eight basic emotions
-- [**Ekman's Basic Emotions**](ekman.md) - The six universal facial expressions
+### 🔬 **Research & Science**
+- [**Research Studies**](studies.md) - Latest scientific findings and ongoing research
+- [**Research Labs**](labs.md) - Global emotion research laboratories and institutions
+- [**Emotion Researchers**](plutchik.md) - Profiles of leading researchers in the field
 
-### 🛠️ **Tools & Support**
-- [**Assessment Tools**](tools.md) - Validated instruments for measuring alexithymia
-- [**Support Resources**](support.md) - Finding help and professional guidance
-- [**General Resources**](resources.md) - Additional materials and information
+### 🤝 **Community & Support**
+- [**Conferences**](conferences.md) - Academic conferences and professional events
+- [**Support Resources**](support.md) - Finding help, community, and professional guidance
 
 ## About Us
 

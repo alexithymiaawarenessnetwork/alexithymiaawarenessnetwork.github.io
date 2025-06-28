@@ -41,13 +41,15 @@ nav:
   - Understanding Alexithymia:
     - FAQ: faq.md
     - Lexicon: lexicon.md
-    - Studies: studies.md
   - Resources:
-    - Resources: resources.md
+    - Apps: apps.md
+    - Tools: tools.md
     - Books: books.md
     - Papers: papers.md
     - Podcasts: podcasts.md
+  - Research:
+    - Studies: studies.md
+    - Labs: labs.md
   - Community & Events:
     - Conferences: conferences.md
-    - Tools: tools.md
     - Support: support.md

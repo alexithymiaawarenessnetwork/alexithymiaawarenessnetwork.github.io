@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://alexithymiaawarenessnetwork.org/apps/</loc>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://alexithymiaawarenessnetwork.org/bagby/</loc>
          <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
@@ -42,6 +47,11 @@
     </url>
     <url>
          <loc>https://alexithymiaawarenessnetwork.org/faq/</loc>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://alexithymiaawarenessnetwork.org/labs/</loc>
          <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
