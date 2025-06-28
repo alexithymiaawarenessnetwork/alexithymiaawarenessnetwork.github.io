@@ -35,9 +35,10 @@ nav:
     - Studies: studies.md
   - Resources:
     - Resources: resources.md
-    - Conferences: conferences.md
     - Books: books.md
     - Papers: papers.md
     - Podcasts: podcasts.md
+  - Community & Events:
+    - Conferences: conferences.md
     - Tools: tools.md
     - Support: support.md
