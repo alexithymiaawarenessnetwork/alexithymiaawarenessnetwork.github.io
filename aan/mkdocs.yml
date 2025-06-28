@@ -14,6 +14,11 @@ extra:
 plugins:
   - search
 
+# Exclude affiliate config from site build
+exclude_docs: |
+  affiliate_config.json
+  generate_links.py
+
 nav:
   - Introduction: index.md
   - Mission: mission.md

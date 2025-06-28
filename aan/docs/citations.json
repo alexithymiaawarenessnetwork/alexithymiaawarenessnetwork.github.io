@@ -24,9 +24,18 @@
       "description": "Comprehensive academic treatment of alexithymia, covering assessment, clinical applications, and theoretical frameworks.",
       "publisher": "Cambridge University Press",
       "isbn": "9780521454643",
-      "bookshop_url": "https://bookshop.org/p/books/disorders-of-affect-regulation-alexithymia-in-medical-and-psychiatric-illness-graeme-j-taylor/18804134?ean=9780521454643",
-      "barnes_noble_url": "https://www.barnesandnoble.com/w/disorders-of-affect-regulation-graeme-j-taylor/1100267891",
-      "amazon_url": "https://www.amazon.com/Disorders-Affect-Regulation-Alexithymia-Psychiatric/dp/0521454646",
+      "retailers": {
+        "bookshop_org": {
+          "url": "https://bookshop.org/p/books/disorders-of-affect-regulation-alexithymia-in-medical-and-psychiatric-illness-graeme-j-taylor/18804134",
+          "ean": "9780521454643"
+        },
+        "barnes_noble": {
+          "slug": "disorders-of-affect-regulation-graeme-j-taylor/1100267891"
+        },
+        "amazon": {
+          "asin": "0521454646"
+        }
+      },
       "tags": ["alexithymia", "comprehensive", "clinical", "assessment"]
     },
     {
@@ -38,9 +47,18 @@
       "description": "Foundational work on emotion theory introducing Plutchik's Wheel of Emotions and the eight primary emotions framework.",
       "publisher": "University Press of America",
       "isbn": "9780819182869",
-      "bookshop_url": "https://bookshop.org/p/books/the-emotions-robert-plutchik/vByH9TKoMXdxtcg6?ean=9780819182869",
-      "barnes_noble_url": "https://www.barnesandnoble.com/w/emotions-robert-plutchik/1100267892",
-      "amazon_url": "https://www.amazon.com/Emotions-Robert-Plutchik/dp/0819182869",
+      "retailers": {
+        "bookshop_org": {
+          "url": "https://bookshop.org/p/books/the-emotions-robert-plutchik/vByH9TKoMXdxtcg6",
+          "ean": "9780819182869"
+        },
+        "barnes_noble": {
+          "slug": "emotions-robert-plutchik/1100267892"
+        },
+        "amazon": {
+          "asin": "0819182869"
+        }
+      },
       "tags": ["emotion theory", "plutchik", "wheel of emotions", "foundational"]
     },
     {
@@ -52,9 +70,18 @@
       "description": "Seminal work establishing the six basic emotions and their universal facial expressions across cultures.",
       "publisher": "Pergamon Press",
       "isbn": "9780080166438",
-      "bookshop_url": "https://bookshop.org/p/books/emotions-in-the-human-face-paul-ekman/18804135",
-      "barnes_noble_url": "https://www.barnesandnoble.com/w/emotions-in-the-human-face-paul-ekman/1100267893",
-      "amazon_url": "https://www.amazon.com/Emotions-Human-Face-Paul-Ekman/dp/0080166431",
+      "retailers": {
+        "bookshop_org": {
+          "url": "https://bookshop.org/p/books/emotions-in-the-human-face-paul-ekman/18804135",
+          "ean": "9780080166438"
+        },
+        "barnes_noble": {
+          "slug": "emotions-in-the-human-face-paul-ekman/1100267893"
+        },
+        "amazon": {
+          "asin": "0080166431"
+        }
+      },
       "tags": ["basic emotions", "facial expressions", "cross-cultural", "ekman"]
     },
     {
@@ -65,11 +92,22 @@
       "type": "book",
       "description": "Philosophical treatise establishing three primary affects (joy, sadness, desire) as the foundation of all emotions.",
       "publisher": "Various editions",
-      "url": "https://plato.stanford.edu/entries/spinoza/",
-      "gutenberg_url": "https://www.gutenberg.org/ebooks/3800",
-      "bookshop_url": "https://bookshop.org/p/books/ethics-baruch-spinoza/18804136",
-      "barnes_noble_url": "https://www.barnesandnoble.com/w/ethics-baruch-spinoza/1100267894",
-      "amazon_url": "https://www.amazon.com/Ethics-Baruch-Spinoza/dp/0486200663",
+      "free_sources": {
+        "stanford_encyclopedia": "https://plato.stanford.edu/entries/spinoza/",
+        "gutenberg": "https://www.gutenberg.org/ebooks/3800"
+      },
+      "retailers": {
+        "bookshop_org": {
+          "url": "https://bookshop.org/p/books/ethics-baruch-spinoza/18804136",
+          "ean": "9780486200668"
+        },
+        "barnes_noble": {
+          "slug": "ethics-baruch-spinoza/1100267894"
+        },
+        "amazon": {
+          "asin": "0486200663"
+        }
+      },
       "tags": ["philosophy", "historical", "affects", "spinoza"]
     },
     {
@@ -80,10 +118,21 @@
       "type": "book",
       "description": "Evolutionary analysis of emotional expression, establishing the biological basis of emotions across species.",
       "publisher": "John Murray",
-      "url": "https://www.gutenberg.org/ebooks/1227",
-      "bookshop_url": "https://bookshop.org/p/books/the-expression-of-the-emotions-in-man-and-animals-charles-darwin/18804137",
-      "barnes_noble_url": "https://www.barnesandnoble.com/w/expression-of-the-emotions-in-man-and-animals-charles-darwin/1100267895",
-      "amazon_url": "https://www.amazon.com/Expression-Emotions-Animals-Charles-Darwin/dp/0226136507",
+      "free_sources": {
+        "gutenberg": "https://www.gutenberg.org/ebooks/1227"
+      },
+      "retailers": {
+        "bookshop_org": {
+          "url": "https://bookshop.org/p/books/the-expression-of-the-emotions-in-man-and-animals-charles-darwin/18804137",
+          "ean": "9780226136509"
+        },
+        "barnes_noble": {
+          "slug": "expression-of-the-emotions-in-man-and-animals-charles-darwin/1100267895"
+        },
+        "amazon": {
+          "asin": "0226136507"
+        }
+      },
       "tags": ["evolution", "emotional expression", "darwin", "historical"]
     },
     {
@@ -95,9 +144,18 @@
       "description": "Research-based exploration of vulnerability, shame resilience, and emotional courage in personal and professional contexts.",
       "publisher": "Gotham Books",
       "isbn": "9781592408412",
-      "bookshop_url": "https://bookshop.org/p/books/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead-brene-brown/6633526?ean=9781592408412",
-      "barnes_noble_url": "https://www.barnesandnoble.com/w/daring-greatly-brene-brown/1111446982",
-      "amazon_url": "https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms/dp/1592408419",
+      "retailers": {
+        "bookshop_org": {
+          "url": "https://bookshop.org/p/books/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead-brene-brown/6633526",
+          "ean": "9781592408412"
+        },
+        "barnes_noble": {
+          "slug": "daring-greatly-brene-brown/1111446982"
+        },
+        "amazon": {
+          "asin": "1592408419"
+        }
+      },
       "tags": ["vulnerability", "shame resilience", "emotional courage", "brene brown"]
     },
     {
@@ -119,9 +177,18 @@
       "description": "Groundbreaking work on the somatic marker hypothesis and the integration of emotion and reason in decision-making.",
       "publisher": "Putnam Publishing",
       "isbn": "9780399138942",
-      "bookshop_url": "https://bookshop.org/p/books/descartes-error-emotion-reason-and-the-human-brain-antonio-damasio/6633527?ean=9780399138942",
-      "barnes_noble_url": "https://www.barnesandnoble.com/w/descartes-error-antonio-damasio/1100267896",
-      "amazon_url": "https://www.amazon.com/Descartes-Error-Emotion-Reason-Human/dp/014303622X",
+      "retailers": {
+        "bookshop_org": {
+          "url": "https://bookshop.org/p/books/descartes-error-emotion-reason-and-the-human-brain-antonio-damasio/6633527",
+          "ean": "9780399138942"
+        },
+        "barnes_noble": {
+          "slug": "descartes-error-antonio-damasio/1100267896"
+        },
+        "amazon": {
+          "asin": "014303622X"
+        }
+      },
       "tags": ["somatic markers", "emotion-reason integration", "neuroscience", "damasio"]
     },
     {
@@ -164,9 +231,17 @@
       "publisher": "Cambridge University Press",
       "isbn": "9781108416641",
       "url": "https://assets.cambridge.org/97811084/16641/excerpt/9781108416641_excerpt.pdf",
-      "bookshop_url": "https://bookshop.org/p/books/cambridge-handbook-alexithymia/18804138",
-      "barnes_noble_url": "https://www.barnesandnoble.com/w/cambridge-handbook-alexithymia/1100267897",
-      "amazon_url": "https://www.amazon.com/Cambridge-Handbook-Alexithymia/dp/1108416641",
+      "retailers": {
+        "bookshop_org": {
+          "search": "cambridge-handbook-alexithymia"
+        },
+        "barnes_noble": {
+          "slug": "cambridge-handbook-alexithymia/1100267897"
+        },
+        "amazon": {
+          "asin": "1108416641"
+        }
+      },
       "tags": ["contemporary", "handbook", "cambridge", "comprehensive"]
     },
     {
@@ -178,9 +253,18 @@
       "description": "Foundational work on mindfulness practice and its applications to emotional awareness and regulation.",
       "publisher": "Hyperion",
       "isbn": "9780786880706",
-      "bookshop_url": "https://bookshop.org/p/books/wherever-you-go-there-you-are-mindfulness-meditation-in-everyday-life-jon-kabat-zinn/6633528?ean=9780786880706",
-      "barnes_noble_url": "https://www.barnesandnoble.com/w/wherever-you-go-there-you-are-jon-kabat-zinn/1100267898",
-      "amazon_url": "https://www.amazon.com/Wherever-You-Go-There-Are/dp/0786880708",
+      "retailers": {
+        "bookshop_org": {
+          "url": "https://bookshop.org/p/books/wherever-you-go-there-you-are-mindfulness-meditation-in-everyday-life-jon-kabat-zinn/6633528",
+          "ean": "9780786880706"
+        },
+        "barnes_noble": {
+          "slug": "wherever-you-go-there-you-are-jon-kabat-zinn/1100267898"
+        },
+        "amazon": {
+          "asin": "0786880708"
+        }
+      },
       "tags": ["mindfulness", "meditation", "emotional awareness", "kabat-zinn"]
     },
     {
@@ -192,9 +276,18 @@
       "description": "Exploration of the Danish concept of hygge and its relationship to contentment and emotional well-being.",
       "publisher": "William Morrow",
       "isbn": "9780062658807",
-      "bookshop_url": "https://bookshop.org/p/books/the-little-book-of-hygge-danish-secrets-to-happy-living-meik-wiking/6633529?ean=9780062658807",
-      "barnes_noble_url": "https://www.barnesandnoble.com/w/little-book-of-hygge-meik-wiking/1124208847",
-      "amazon_url": "https://www.amazon.com/Little-Book-Hygge-Danish-Secrets/dp/0062658808",
+      "retailers": {
+        "bookshop_org": {
+          "url": "https://bookshop.org/p/books/the-little-book-of-hygge-danish-secrets-to-happy-living-meik-wiking/6633529",
+          "ean": "9780062658807"
+        },
+        "barnes_noble": {
+          "slug": "little-book-of-hygge-meik-wiking/1124208847"
+        },
+        "amazon": {
+          "asin": "0062658808"
+        }
+      },
       "tags": ["cultural emotions", "hygge", "well-being", "danish culture"]
     }
   ]

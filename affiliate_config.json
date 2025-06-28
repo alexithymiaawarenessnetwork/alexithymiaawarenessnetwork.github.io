@@ -1,0 +1,41 @@
+{
+  "affiliate_ids": {
+    "bookshop_org": "114939",
+    "barnes_noble": "",
+    "amazon": ""
+  },
+  "url_templates": {
+    "bookshop_org": {
+      "base": "https://bookshop.org",
+      "affiliate_base": "https://bookshop.org/a/{affiliate_id}",
+      "isbn_format": "https://bookshop.org/a/{affiliate_id}/{isbn}",
+      "search_format": "https://bookshop.org/search?keywords={search}&affiliate={affiliate_id}"
+    },
+    "barnes_noble": {
+      "base": "https://www.barnesandnoble.com",
+      "slug_format": "https://www.barnesandnoble.com/w/{slug}",
+      "isbn_format": "https://www.barnesandnoble.com/s/{isbn}"
+    },
+    "amazon": {
+      "base": "https://www.amazon.com",
+      "asin_format": "https://www.amazon.com/dp/{asin}",
+      "isbn_format": "https://www.amazon.com/s?k={isbn}",
+      "affiliate_format": "https://www.amazon.com/dp/{asin}?tag={affiliate_id}"
+    }
+  },
+  "link_generation": {
+    "priority_order": ["bookshop_org", "barnes_noble", "amazon"],
+    "fallback_behavior": "show_all_available",
+    "campaign_parameters": {
+      "utm_source": "alexithymia_awareness_network",
+      "utm_medium": "website",
+      "utm_campaign": "book_recommendations"
+    }
+  },
+  "notes": {
+    "bookshop_org": "Primary affiliate - supports independent bookstores",
+    "barnes_noble": "Secondary option - major retailer",
+    "amazon": "Fallback option - maximum availability",
+    "usage": "Use citation ID + retailer data to generate links dynamically"
+  }
+}

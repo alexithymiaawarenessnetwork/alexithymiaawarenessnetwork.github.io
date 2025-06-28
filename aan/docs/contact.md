@@ -52,4 +52,4 @@ Please reach out to discuss how you can get involved in advancing alexithymia aw
 
 ---
 
-*The Alexithymia Awareness Network is committed to creating an inclusive and supportive community for all individuals affected by alexithymia.*
+*The Alexithymia Awareness Network is committed to creating an inclusive and supportive community for all individuals affected by alexithymia and the professionals supporting them.*
