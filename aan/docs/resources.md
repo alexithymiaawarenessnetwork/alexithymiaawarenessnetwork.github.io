@@ -2,32 +2,13 @@
 
 This page contains a curated collection of articles, papers, books, and media related to alexithymia. These resources are valuable for individuals seeking to understand alexithymia, researchers studying the condition, and clinicians working with affected individuals.
 
-## Research Papers
-
-### Foundational Research
-
-**Sifneos, P. E. (1973).** The prevalence of 'alexithymic' characteristics in psychosomatic patients. *Psychotherapy and Psychosomatics*, 22(2), 255-262.  
-*Original paper coining the term 'alexithymia'*  
-[Read Paper](https://www.karger.com/Article/Abstract/286529) | DOI: 10.1159/000286529
-
-**Bagby, R. M., Parker, J. D., & Taylor, G. J. (1994).** The twenty-item Toronto Alexithymia Scale—I. Item selection and cross-validation of the factor structure. *Journal of Psychosomatic Research*, 38(1), 23-32.  
-*Development and validation of the TAS-20 assessment tool*  
-[Read Paper](https://www.sciencedirect.com/science/article/abs/pii/0022399994900051) | DOI: 10.1016/0022-3999(94)90005-1
-
-**Bermond, B., & Vorst, H. C. (2013).** Validity and reliability of the Bermond–Vorst Alexithymia Questionnaire. *Personality and Individual Differences*, 54(1), 30-35.  
-*Validation study of the BVAQ assessment tool*  
-[Read Paper](https://www.sciencedirect.com/science/article/abs/pii/S0191886912003807) | DOI: 10.1016/j.paid.2012.08.011
-
-### Recent Studies
-- **Cambridge Handbook of Alexithymia (2024)** - Contemporary research compilation  
-[PDF Excerpt](https://assets.cambridge.org/97811084/16641/excerpt/9781108416641_excerpt.pdf) | [Buy Book](https://bookshop.org/p/books/cambridge-handbook-alexithymia/18804138)
-- Research on alexithymia and autism spectrum disorders
-- Neuroimaging studies of alexithymia
-- Alexithymia in various clinical populations
-
 ## Books
 
 ### Academic Texts
+
+**Various Authors (2024).** *Cambridge Handbook of Alexithymia.* Cambridge University Press.  
+*Contemporary research compilation covering the latest developments in alexithymia research and clinical applications.*  
+[PDF Excerpt](https://assets.cambridge.org/97811084/16641/excerpt/9781108416641_excerpt.pdf) | [Buy at Bookshop.org](https://bookshop.org/p/books/cambridge-handbook-alexithymia/18804138?affiliate=114939)
 
 **Taylor, G. J., Bagby, R. M., & Parker, J. D. (1997).** *Disorders of affect regulation: Alexithymia in medical and psychiatric illness.* Cambridge University Press.  
 *Comprehensive academic treatment of alexithymia, covering assessment, clinical applications, and theoretical frameworks.*  
@@ -75,7 +56,7 @@ This page contains a curated collection of articles, papers, books, and media re
 
 ### Assessment Tools
 - **Toronto Alexithymia Scale (TAS-20)** - [Official TAS-20 Information](https://www.psychology.utoronto.ca/faculty-and-research/research-areas/clinical-psychology/alexithymia-research)
-- **Bermond-Vorst Alexithymia Questionnaire (BVAQ)** - [BVAQ Research](https://www.researchgate.net/publication/257404285_Validity_and_reliability_of_the_Bermond-Vorst_Alexithymia_Questionnaire)
+- **Bermond-Vorst Alexithymia Questionnaire (BVAQ)** - [BVAQ Research](https://www.researchgate.net/publication/254784425_Validity_and_reliability_of_Bermond-Vorst_Alexithymia_Questionnaire)
 - **Online Alexithymia Questionnaire** - [Take the TAS-20 Assessment](https://www.alexithymia.us/test-alexithymia)
 - **Emotional Intelligence Assessment** - [EQ Test](https://www.psychologytoday.com/us/tests/personality/emotional-intelligence-test)
 

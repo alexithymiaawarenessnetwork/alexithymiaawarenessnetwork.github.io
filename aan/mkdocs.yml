@@ -20,10 +20,11 @@ exclude_docs: |
   generate_links.py
 
 nav:
-  - Introduction: index.md
+  - Home: index.md
   - Mission: mission.md
-  - Advisors: advisors.md
-  - Network: network.md
-  - Resources: resources.md
   - Lexicon: lexicon.md
+  - Resources: resources.md
+  - Studies: studies.md
+  - Network: network.md
+  - Advisors: advisors.md
   - Contact: contact.md
