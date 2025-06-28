@@ -28,9 +28,9 @@ This page contains recommended books related to alexithymia, emotion theory, and
 
 ## Self-Help and Popular Science
 
-**Brown, B. (2012).** *Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead.* Gotham Books.  
-*Research-based exploration of vulnerability, shame resilience, and emotional courage.*  
-[Buy at Bookshop.org](https://bookshop.org/p/books/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead-brene-brown/6633526?ean=9781592408412&affiliate=114939) | [Barnes & Noble](https://www.barnesandnoble.com/w/daring-greatly-brene-brown/1111446982) | [Amazon](https://www.amazon.com/dp/1592408419)
+**Brown, B. (2021).** *Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience.* Random House.  
+*Comprehensive guide to 87 emotions and experiences, providing language and understanding for the full spectrum of human feelings.*  
+[Buy at Bookshop.org](https://bookshop.org/p/books/atlas-of-the-heart-mapping-meaningful-connection-and-the-language-of-human-experience-brene-brown/17465711?affiliate=114939) | [Barnes & Noble](https://www.barnesandnoble.com/w/atlas-of-the-heart-brene-brown/1139788323) | [Amazon](https://www.amazon.com/dp/0399592555)
 
 **Kabat-Zinn, J. (1994).** *Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life.* Hyperion.  
 *Foundational work on mindfulness practice and its applications to emotional awareness and regulation.*  
@@ -59,7 +59,7 @@ This page contains recommended books related to alexithymia, emotion theory, and
 
 ### For Emotional Awareness Development
 - **Mindfulness**: Kabat-Zinn (1994) for meditation and awareness practices
-- **Vulnerability**: Brown (2012) for courage and emotional expression
+- **Emotional vocabulary**: Brown (2021) for comprehensive emotion mapping
 - **Well-being**: Wiking (2016) for contentment and emotional balance
 
 ### For Theoretical Understanding

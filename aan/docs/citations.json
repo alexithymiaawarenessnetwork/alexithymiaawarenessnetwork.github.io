@@ -136,27 +136,26 @@
       "tags": ["evolution", "emotional expression", "darwin", "historical"]
     },
     {
-      "id": "brown_2012_daring_greatly",
-      "title": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+      "id": "brown_2021_atlas_heart",
+      "title": "Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience",
       "authors": ["Brené Brown"],
-      "year": 2012,
+      "year": 2021,
       "type": "book",
-      "description": "Research-based exploration of vulnerability, shame resilience, and emotional courage in personal and professional contexts.",
-      "publisher": "Gotham Books",
-      "isbn": "9781592408412",
+      "description": "Comprehensive guide to 87 emotions and experiences, providing language and understanding for the full spectrum of human feelings.",
+      "publisher": "Random House",
+      "isbn": "9780399592553",
       "retailers": {
         "bookshop_org": {
-          "url": "https://bookshop.org/p/books/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead-brene-brown/6633526",
-          "ean": "9781592408412"
+          "url": "https://bookshop.org/p/books/atlas-of-the-heart-mapping-meaningful-connection-and-the-language-of-human-experience-brene-brown/17465711"
         },
         "barnes_noble": {
-          "slug": "daring-greatly-brene-brown/1111446982"
+          "slug": "atlas-of-the-heart-brene-brown/1139788323"
         },
         "amazon": {
-          "asin": "1592408419"
+          "asin": "0399592555"
         }
       },
-      "tags": ["vulnerability", "shame resilience", "emotional courage", "brene brown"]
+      "tags": ["emotional vocabulary", "feelings", "emotional awareness", "brene brown"]
     },
     {
       "id": "wilcox_1982_feeling_wheel",
