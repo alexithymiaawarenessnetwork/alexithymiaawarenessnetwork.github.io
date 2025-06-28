@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://alexithymiaawarenessnetwork.org/books/</loc>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://alexithymiaawarenessnetwork.org/contact/</loc>
          <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
@@ -42,6 +47,16 @@
     </url>
     <url>
          <loc>https://alexithymiaawarenessnetwork.org/studies/</loc>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://alexithymiaawarenessnetwork.org/support/</loc>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://alexithymiaawarenessnetwork.org/tools/</loc>
          <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
