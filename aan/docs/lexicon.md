@@ -8,13 +8,13 @@ This lexicon provides a comprehensive collection of emotional and feeling-relate
 
 ## Alphabetical Index
 
-**A-F:** [Affect](#affect) • [Alexithymia](#alexithymia) • [Ambivalence](#ambivalence) • [Anger](#anger) • [Anticipation](#anticipation) • [Catharsis](#catharsis) • [Disgust](#disgust) • [Emotion](#emotion) • [Emotional Granularity](#emotional-granularity) • [Empathy](#empathy) • [Fear](#fear) • [Feeling](#feeling)
+**A-F:** [Affect](#affect) • [Alexithymia](#alexithymia) • [Ambivalence](#ambivalence) • [Anger](#anger) • [Anticipation](#anticipation) • [Arousal](#arousal) • [Catharsis](#catharsis) • [Disgust](#disgust) • [Emotion](#emotion) • [Emotional Granularity](#emotional-granularity) • [Emotional Intensity](#emotional-intensity) • [Empathy](#empathy) • [Fear](#fear) • [Feeling](#feeling)
 
-**G-M:** [Happiness](#happiness) • [Hygge](#hygge) • [Interoception](#interoception) • [Joy](#joy) • [Metacognition](#metacognition) • [Mindfulness](#mindfulness)
+**G-M:** [Happiness](#happiness) • [Hope](#hope) • [Hygge](#hygge) • [Interoception](#interoception) • [Intensity](#intensity) • [Joy](#joy) • [Metacognition](#metacognition) • [Mindfulness](#mindfulness)
 
-**N-S:** [Nostalgia](#nostalgia) • [Sadness](#sadness) • [Saudade](#saudade) • [Shame](#shame) • [Somatic Markers](#somatic-markers) • [Surprise](#surprise)
+**N-S:** [Nostalgia](#nostalgia) • [Passion](#passion) • [Sadness](#sadness) • [Saudade](#saudade) • [Shame](#shame) • [Somatic Markers](#somatic-markers) • [Surprise](#surprise)
 
-**T-Z:** [Trust](#trust) • [Vulnerability](#vulnerability)
+**T-Z:** [Trust](#trust) • [Valence](#valence) • [Vulnerability](#vulnerability)
 
 ---
 
@@ -304,6 +304,54 @@ This lexicon provides a comprehensive collection of emotional and feeling-relate
 
 ---
 
+#### Valence
+**Definition:** The intrinsic attractiveness (positive valence) or aversiveness (negative valence) of an emotion or experience.
+
+**Etymology:** From Latin *valentia*, meaning "strength" or "capacity"
+
+**Research:** Core dimension in dimensional models of emotion (Russell, 1980)
+
+**Wikipedia:** [Valence (psychology)](https://en.wikipedia.org/wiki/Valence_(psychology))
+
+**Quote:** *"Valence tells us whether we should approach or avoid something."* — James Russell
+
+---
+
+#### Arousal
+**Definition:** The physiological and psychological state of being awake, alert, and activated; the intensity dimension of emotion.
+
+**Etymology:** From Old French *arouser*, meaning "to stir up" or "to awaken"
+
+**Research:** Second core dimension in circumplex models of emotion
+
+**Wikipedia:** [Arousal](https://en.wikipedia.org/wiki/Arousal)
+
+**Quote:** *"Arousal determines how energized we feel about our emotional experience."* — Lisa Feldman Barrett
+
+---
+
+#### Emotional Intensity
+**Definition:** The strength or magnitude of an emotional experience; how powerfully an emotion is felt.
+
+**Etymology:** From Latin *intensus*, meaning "stretched" or "strained"
+
+**Research:** Key factor in emotion regulation and psychological well-being
+
+**Quote:** *"The intensity of emotion often matters more than the emotion itself."* — Daniel Goleman
+
+---
+
+#### Intensity
+**Definition:** The degree of strength, force, or concentration of an experience or feeling.
+
+**Etymology:** From Latin *intensus*, meaning "stretched tight"
+
+**Applications:** Used to describe the magnitude of emotions, sensations, and experiences
+
+**Quote:** *"It is not the mountain we conquer, but ourselves."* — Sir Edmund Hillary
+
+---
+
 #### Vulnerability
 **Definition:** Uncertainty, risk, and emotional exposure; the willingness to show up authentically.
 
@@ -427,6 +475,32 @@ This lexicon provides a comprehensive collection of emotional and feeling-relate
 
 ---
 
+#### Hope
+**Definition:** A feeling of expectation and desire for a certain thing to happen; optimism about future possibilities.
+
+**Etymology:** From Old English *hopian*, meaning "to wish" or "to expect"
+
+**Research:** Central to positive psychology and resilience research
+
+**Wikipedia:** [Hope](https://en.wikipedia.org/wiki/Hope)
+
+**Quote:** *"Hope is being able to see that there is light despite all of the darkness."* — Desmond Tutu
+
+---
+
+#### Passion
+**Definition:** Strong and barely controllable emotion; intense enthusiasm or desire for something.
+
+**Etymology:** From Latin *passio*, meaning "suffering" or "enduring"
+
+**Applications:** Used to describe intense love, enthusiasm, or commitment
+
+**Wikipedia:** [Passion](https://en.wikipedia.org/wiki/Passion_(emotion))
+
+**Quote:** *"Passion is energy. Feel the power that comes from focusing on what excites you."* — Oprah Winfrey
+
+---
+
 ### Cultural and Historical Terms
 
 #### Hygge
@@ -463,6 +537,180 @@ This lexicon provides a comprehensive collection of emotional and feeling-relate
 **Wikipedia:** [Saudade](https://en.wikipedia.org/wiki/Saudade)
 
 **Quote:** *"Saudade is the love that remains after someone is gone."* — Portuguese proverb
+
+---
+
+## Comprehensive Emotion Vocabularies
+
+### Plutchik's Intensity Levels
+
+#### Joy Family
+**High Intensity:** Ecstasy, Euphoria, Elation, Rapture, Bliss
+**Moderate Intensity:** Joy, Happiness, Delight, Cheerfulness, Pleasure
+**Low Intensity:** Serenity, Contentment, Satisfaction, Peacefulness, Calm
+
+#### Trust Family
+**High Intensity:** Admiration, Devotion, Worship, Reverence, Adoration
+**Moderate Intensity:** Trust, Confidence, Faith, Reliance, Acceptance
+**Low Intensity:** Acceptance, Tolerance, Approval, Regard, Respect
+
+#### Fear Family
+**High Intensity:** Terror, Panic, Horror, Dread, Phobia
+**Moderate Intensity:** Fear, Anxiety, Worry, Nervousness, Apprehension
+**Low Intensity:** Apprehension, Unease, Concern, Caution, Wariness
+
+#### Surprise Family
+**High Intensity:** Amazement, Astonishment, Wonder, Awe, Bewilderment
+**Moderate Intensity:** Surprise, Shock, Startlement, Confusion, Perplexity
+**Low Intensity:** Distraction, Puzzlement, Curiosity, Interest, Intrigue
+
+#### Sadness Family
+**High Intensity:** Grief, Anguish, Despair, Devastation, Heartbreak
+**Moderate Intensity:** Sadness, Sorrow, Melancholy, Gloom, Dejection
+**Low Intensity:** Pensiveness, Wistfulness, Disappointment, Regret, Longing
+
+#### Disgust Family
+**High Intensity:** Loathing, Revulsion, Abhorrence, Repugnance, Hatred
+**Moderate Intensity:** Disgust, Distaste, Aversion, Repulsion, Contempt
+**Low Intensity:** Boredom, Dislike, Indifference, Disinterest, Apathy
+
+#### Anger Family
+**High Intensity:** Rage, Fury, Wrath, Outrage, Livid
+**Moderate Intensity:** Anger, Mad, Irritation, Frustration, Annoyance
+**Low Intensity:** Annoyance, Irritability, Displeasure, Agitation, Impatience
+
+#### Anticipation Family
+**High Intensity:** Vigilance, Alertness, Eagerness, Excitement, Enthusiasm
+**Moderate Intensity:** Anticipation, Expectation, Hope, Optimism, Readiness
+**Low Intensity:** Interest, Attention, Curiosity, Awareness, Mindfulness
+
+### Gloria Wilcox's Feeling Wheel Emotions
+
+#### Mad (Anger) Branch
+**Secondary Level:** Hurt, Hostile, Angry, Hateful, Critical
+**Tertiary Level:**
+- *Hurt*: Embarrassed, Disappointed, Devastated, Isolated, Shocked
+- *Hostile*: Withdrawn, Numb, Distant, Suspicious, Sarcastic
+- *Angry*: Frustrated, Infuriated, Enraged, Outraged, Irate
+- *Hateful*: Resentful, Disgusted, Contemptuous, Revolted, Detestable
+- *Critical*: Skeptical, Dismissive, Disapproving, Ridiculing, Judgmental
+
+#### Sad Branch
+**Secondary Level:** Guilty, Despair, Depressed, Lonely, Bored
+**Tertiary Level:**
+- *Guilty*: Ashamed, Remorseful, Regretful, Embarrassed, Humiliated
+- *Despair*: Grief, Powerless, Vulnerable, Victimized, Fragile
+- *Depressed*: Empty, Inferior, Inadequate, Worthless, Insignificant
+- *Lonely*: Isolated, Abandoned, Rejected, Alone, Ignored
+- *Bored*: Indifferent, Apathetic, Listless, Tired, Sleepy
+
+#### Glad (Happy) Branch
+**Secondary Level:** Optimistic, Intimate, Peaceful, Powerful, Accepted
+**Tertiary Level:**
+- *Optimistic*: Hopeful, Inspired, Proud, Surprised, Confident
+- *Intimate*: Loving, Tender, Devoted, Attracted, Passionate
+- *Peaceful*: Grateful, Fulfilled, Content, Pleased, Blissful
+- *Powerful*: Faithful, Important, Appreciated, Respected, Worthwhile
+- *Accepted*: Respected, Valued, Loved, Cherished, Fulfilled
+
+#### Afraid (Fear) Branch
+**Secondary Level:** Confused, Rejected, Helpless, Submissive, Insecure
+**Tertiary Level:**
+- *Confused*: Puzzled, Disillusioned, Perplexed, Bewildered, Torn
+- *Rejected*: Excluded, Persecuted, Judged, Criticized, Abandoned
+- *Helpless*: Incapable, Alone, Paralyzed, Fatigued, Useless
+- *Submissive*: Worthless, Insignificant, Weak, Ashamed, Inadequate
+- *Insecure*: Foolish, Stupid, Naive, Embarrassed, Confused
+
+#### Surprised Branch
+**Secondary Level:** Startled, Confused, Amazed, Excited, Energetic
+**Tertiary Level:**
+- *Startled*: Shocked, Dismayed, Disillusioned, Perplexed, Astonished
+- *Confused*: Puzzled, Bewildered, Skeptical, Disillusioned, Perplexed
+- *Amazed*: Awe, Surprised, Energetic, Eager, Enthusiastic
+- *Excited*: Eager, Enthusiastic, Energetic, Liberated, Optimistic
+- *Energetic*: Playful, Courageous, Creative, Aware, Animated
+
+#### Disgusted Branch
+**Secondary Level:** Disapproving, Disappointed, Awful, Repelled, Judgmental
+**Tertiary Level:**
+- *Disapproving*: Judgmental, Embarrassed, Appalled, Revolted, Awful
+- *Disappointed*: Dismayed, Disillusioned, Distressed, Hurtful, Betrayed
+- *Awful*: Nauseated, Detestable, Repugnant, Horrified, Hesitant
+- *Repelled*: Horrified, Hesitant, Aversion, Disgusted, Judgmental
+- *Judgmental*: Loathing, Sarcastic, Disdainful, Condescending, Critical
+
+### Complete Emotional Vocabulary
+
+<div style="columns: 3; column-gap: 2em; column-rule: 1px solid #ddd;">
+
+**Abandoned** • **Abhorrence** • **Absorbed** • **Acceptance** • **Accomplished** • **Achievement** • **Admiration** • **Adoration** • **Affection** • **Affectionate** • **Afraid** • **Agitation** • **Alarm** • **Alertness** • **Alone** • **Amazement** • **Ambivalence** • **Amusement** • **Anger** • **Anguish** • **Animated** • **Annoyance** • **Annoyed** • **Anticipation** • **Anxiety** • **Apathy** • **Appalled** • **Apprehension** • **Appreciated** • **Approval** • **Arousal** • **Astonished** • **Astonishment** • **Attracted** • **Aversion** • **Awe** • **Awful**
+
+**Balanced** • **Barely** • **Beautiful** • **Bewildered** • **Bewilderment** • **Bitterness** • **Bliss** • **Blissful** • **Bored** • **Boredom** • **Buoyancy**
+
+**Calm** • **Calmness** • **Caring** • **Caution** • **Chagrin** • **Cheerfulness** • **Cherished** • **Comfort** • **Compassion** • **Concentration** • **Concern** • **Condescending** • **Confidence** • **Confident** • **Conflict** • **Confused** • **Confusion** • **Contempt** • **Contemptuous** • **Content** • **Contentment** • **Contrition** • **Courageous** • **Creative** • **Critical** • **Criticized** • **Crushing** • **Curiosity** • **Curious**
+
+**Dejection** • **Delight** • **Delightful** • **Despair** • **Despondency** • **Detestable** • **Devastated** • **Devastation** • **Devoted** • **Devotion** • **Dignity** • **Disappointed** • **Disappointment** • **Disapproving** • **Disdain** • **Disdainful** • **Disgust** • **Disgusted** • **Disgusting** • **Disillusioned** • **Dismissive** • **Displeasure** • **Distant** • **Distaste** • **Distracted** • **Distraction** • **Distressed** • **Disturbing** • **Doubt**
+
+**Eager** • **Eagerness** • **Ease** • **Ecstasy** • **Elation** • **Embarrassed** • **Embarrassment** • **Empathy** • **Empty** • **Energetic** • **Energy** • **Engagement** • **Enraged** • **Enthusiasm** • **Enthusiastic** • **Envy** • **Euphoria** • **Even** • **Exasperation** • **Excellent** • **Excited** • **Excitement** • **Excluded** • **Exhilaration** • **Expectation** • **Extreme**
+
+**Faint** • **Faith** • **Faithful** • **Fantastic** • **Fascination** • **Fatigued** • **Fear** • **Feeling** • **Fierce** • **Fine** • **Focus** • **Fondness** • **Foolish** • **Foreboding** • **Fragile** • **Fright** • **Frustrated** • **Frustration** • **Fulfilled** • **Fury**
+
+**Gentle** • **Glad** • **Glee** • **Gloom** • **Good** • **Grateful** • **Great** • **Grief** • **Guilt** • **Guilty**
+
+**Happiness** • **Happy** • **Hateful** • **Hatred** • **Heartache** • **Heartbreak** • **Helpless** • **Hesitant** • **Hesitation** • **Honor** • **Hope** • **Hopeful** • **Horrible** • **Horrified** • **Horror** • **Hostile** • **Hostility** • **Humiliated** • **Humiliation** • **Hurt** • **Hurtful**
+
+**Ignored** • **Impatience** • **Important** • **Inadequate** • **Incapable** • **Indecision** • **Indifferent** • **Indignation** • **Inferior** • **Infatuation** • **Infuriated** • **Insignificant** • **Inspired** • **Intense** • **Interest** • **Intimate** • **Intrigue** • **Irate** • **Ire** • **Irritability** • **Irritation** • **Isolated**
+
+**Joy** • **Jubilation** • **Judgmental** • **Judged**
+
+**Light** • **Lightheartedness** • **Listless** • **Livid** • **Loathing** • **Lonely** • **Longing** • **Loved** • **Lovely** • **Loving**
+
+**Mad** • **Marvelous** • **Melancholy** • **Mild** • **Mindfulness** • **Minimal** • **Mirth** • **Misery** • **Mixed** • **Moderate** • **Mortification** • **Mourning**
+
+**Naive** • **Nasty** • **Nauseated** • **Nervousness** • **Neutral** • **Nice** • **Normal** • **Nostalgia** • **Numb**
+
+**Optimism** • **Optimistic** • **Ordinary** • **Outrage** • **Outraged** • **Overwhelming**
+
+**Panic** • **Paralyzed** • **Passion** • **Passionate** • **Peaceful** • **Peacefulness** • **Penitence** • **Pensiveness** • **Perplexed** • **Perplexity** • **Persecuted** • **Phobia** • **Plain** • **Playful** • **Pleasant** • **Pleased** • **Pleasure** • **Poor** • **Powerful** • **Powerless** • **Pride** • **Profound** • **Proud** • **Puzzled** • **Puzzlement**
+
+**Rage** • **Rapture** • **Readiness** • **Reasonable** • **Regard** • **Regret** • **Regretful** • **Rejected** • **Rejection** • **Relaxation** • **Relaxed** • **Relief** • **Reliance** • **Remorse** • **Remorseful** • **Repelled** • **Repugnance** • **Repugnant** • **Repulsion** • **Resentful** • **Resentment** • **Respect** • **Respected** • **Reverence** • **Revolted** • **Revolting** • **Revulsion** • **Ridiculing**
+
+**Sad** • **Sadness** • **Sarcastic** • **Satisfaction** • **Satisfied** • **Scorn** • **Secure** • **Self-assurance** • **Serenity** • **Severe** • **Shame** • **Sharp** • **Shock** • **Shocked** • **Skeptical** • **Sleepy** • **Slight** • **Soft** • **Sorrow** • **Spiritedness** • **Startled** • **Startlement** • **Steady** • **Strong** • **Stupid** • **Submissive** • **Subtle** • **Success** • **Surprise** • **Surprised** • **Suspicious**
+
+**Tender** • **Tenderness** • **Terror** • **Terrific** • **Tired** • **Tolerance** • **Torn** • **Touch** • **Tranquility** • **Trepidation** • **Triumph** • **Trust**
+
+**Ugly** • **Unease** • **Unpleasant** • **Unremarkable** • **Useless** • **Usual**
+
+**Valued** • **Vexation** • **Victimized** • **Victory** • **Vigilance** • **Violent** • **Vitality** • **Vivacity** • **Vulnerable**
+
+**Wariness** • **Warm** • **Warmth** • **Weak** • **Whisper** • **Wistfulness** • **Woe** • **Wonder** • **Wonderful** • **Worry** • **Worship** • **Worthless** • **Worthwhile** • **Wrath** • **Withdrawn**
+
+**Zeal**
+
+</div>
+
+### Intensity Descriptors
+
+#### Low Intensity Terms
+Slight, Mild, Faint, Subtle, Gentle, Soft, Light, Weak, Minimal, Trace, Hint, Touch, Whisper, Barely, Somewhat
+
+#### Moderate Intensity Terms
+Moderate, Medium, Average, Typical, Standard, Normal, Regular, Usual, Fair, Reasonable, Balanced, Steady
+
+#### High Intensity Terms
+Intense, Strong, Powerful, Overwhelming, Extreme, Severe, Profound, Deep, Acute, Sharp, Fierce, Violent, Crushing, Devastating
+
+### Valence Descriptors
+
+#### Positive Valence Terms
+Pleasant, Agreeable, Enjoyable, Delightful, Wonderful, Marvelous, Excellent, Fantastic, Terrific, Great, Good, Nice, Fine, Lovely, Beautiful
+
+#### Negative Valence Terms
+Unpleasant, Disagreeable, Awful, Terrible, Horrible, Dreadful, Appalling, Disgusting, Revolting, Bad, Poor, Nasty, Ugly, Disturbing
+
+#### Neutral Valence Terms
+Neutral, Indifferent, Bland, Plain, Ordinary, Average, Unremarkable, Neither good nor bad, Balanced, Even, Steady
 
 ---
 

@@ -6,7 +6,7 @@ This page addresses common questions about alexithymia based on community discus
 
 ### What is alexithymia?
 
-Alexithymia is a personality trait characterized by difficulty identifying, describing, and expressing emotions. The term comes from Greek words meaning "no words for emotions." It affects approximately 10% of the general population and has two main dimensions:
+Alexithymia is a personality trait characterized by difficulty identifying, describing, and expressing emotions. The term comes from Greek words meaning "no words for emotions." [Research shows it affects approximately 10% of the general population](citations.json#mattila_salminen_nummi_joukamaa_2006) and has two main dimensions:
 
 - **Affective**: Difficulty experiencing feelings
 - **Cognitive**: Difficulty identifying and describing feelings
@@ -17,11 +17,11 @@ No, alexithymia is considered a personality trait, not a mental illness or disor
 
 ### Can alexithymia be diagnosed?
 
-Alexithymia is not a clinical diagnosis in the DSM-5 or ICD-11. It's assessed using validated questionnaires like the Toronto Alexithymia Scale (TAS-20) or the Bermond-Vorst Alexithymia Questionnaire (BVAQ). These assessments provide indications but are not diagnostic tools.
+Alexithymia is not a clinical diagnosis in the DSM-5 or ICD-11. It's assessed using validated questionnaires like the [Toronto Alexithymia Scale (TAS-20)](citations.json#bagby_parker_taylor_1994_tas20) or the [Bermond-Vorst Alexithymia Questionnaire (BVAQ)](citations.json#bermond_vorst_2013_bvaq). These assessments provide indications but are not diagnostic tools.
 
 ### Is alexithymia the same as autism?
 
-No, alexithymia and autism are different conditions, though they often co-occur. Research suggests that many emotional and social difficulties attributed to autism may actually be due to alexithymia. Studies show that 40-65% of autistic individuals also have alexithymia.
+No, alexithymia and autism are different conditions, though they often co-occur. Research suggests that many emotional and social difficulties attributed to autism may actually be due to alexithymia. [A comprehensive meta-analysis found that approximately 50% of autistic individuals also have alexithymia](citations.json#kinnaird_stewart_tchanturia_2019), compared to less than 5% in the general population.
 
 ## Common Experiences
 
@@ -207,8 +207,8 @@ Useful tools include:
 
 ### How common is alexithymia?
 
-- Affects approximately 10% of the general population
-- More common in males than females
+- [Affects approximately 10% of the general population](citations.json#mattila_salminen_nummi_joukamaa_2006)
+- [More common in males (11.9%) than females (8.1%)](citations.json#mattila_salminen_nummi_joukamaa_2006)
 - Higher prevalence in certain conditions (autism, depression, PTSD)
 - Rates vary across cultures and populations
 

@@ -288,6 +288,35 @@
         }
       },
       "tags": ["cultural emotions", "hygge", "well-being", "danish culture"]
+    },
+    {
+      "id": "kinnaird_stewart_tchanturia_2019",
+      "title": "Investigating alexithymia in autism: A systematic review and meta-analysis",
+      "authors": ["Emma Kinnaird", "Catherine Stewart", "Kate Tchanturia"],
+      "year": 2019,
+      "type": "paper",
+      "description": "Systematic review and meta-analysis of 15 studies examining alexithymia in autism. Found 49.93% prevalence of alexithymia in autistic individuals compared to 4.89% in neurotypical controls, with a 6.5x increased risk.",
+      "journal": "European Psychiatry",
+      "volume": "55",
+      "pages": "80-89",
+      "doi": "10.1016/j.eurpsy.2018.09.004",
+      "url": "https://www.cambridge.org/core/journals/european-psychiatry/article/investigating-alexithymia-in-autism-a-systematic-review-and-metaanalysis/06F8AA96D03679353022A52E6ACE2F50",
+      "tags": ["alexithymia", "autism", "meta-analysis", "prevalence", "systematic review"]
+    },
+    {
+      "id": "mattila_salminen_nummi_joukamaa_2006",
+      "title": "Age is strongly associated with alexithymia in the general population",
+      "authors": ["Anu K. Mattila", "Jukka K. Salminen", "Tapio Nummi", "Matti Joukamaa"],
+      "year": 2006,
+      "type": "paper",
+      "description": "Large population study (n=5,454) from Finland's Health 2000 Study finding 9.9% prevalence of alexithymia in the general population. Men showed higher rates (11.9%) than women (8.1%). Alexithymia was associated with increasing age, male gender, low education, and poor health.",
+      "journal": "Journal of Psychosomatic Research",
+      "volume": "61",
+      "issue": "5",
+      "pages": "629-635",
+      "doi": "10.1016/j.jpsychores.2006.04.013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17084140/",
+      "tags": ["alexithymia", "prevalence", "general population", "epidemiology", "gender differences"]
     }
   ]
 }
