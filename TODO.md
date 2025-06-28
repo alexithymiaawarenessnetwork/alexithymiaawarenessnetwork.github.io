@@ -1,6 +1,8 @@
 ## Content
 [] FIX Check and fix links, especially book links!
 [] FIX Remove any junk filler content from the site
+[] ADD a Team section to our About section, 
+[] ADD Robert Herrick - Founder & Executive Director
 [] ADD author Teachworth
 [] ADD author Panksepp
 [] ADD Grossman's Process Model page (as discussed earlier)
@@ -19,12 +21,14 @@
 [] DO  Check DNS for the site, ensure all protective records added
 
 ## Tooling
-[] DO  Consider adding other analytics tools (e.g., privacy-focused alternatives)
 [] DO  Set up Google Analytics dashboard and goals for site metrics
+[] DO  Come up with a google tag, event, trigger, variable strategy and implement
+[] DO  Consider adding other analytics tools (e.g., privacy-focused alternatives)
 
 ## Theming
 [] Test theme switching functionality with different MkDocs themes
 [] Add additional tracking components to theme/partials/ if needed
 [] Update theme documentation in theme/README.md as components are added
 [] Document the composable theme architecture for future contributors
+
 
