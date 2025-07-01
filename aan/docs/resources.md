@@ -68,6 +68,7 @@ Community connections, professional services, and support resources for individu
 
 ### Popular Resources
 - **FAQ**: [Frequently Asked Questions](faq.md) - Common questions and experiences
+- **Diagnosis**: [Diagnosis & Comorbidity](diagnosis.md) - Assessment tools and related conditions
 - **Studies**: [Research Papers](studies.md) - Academic research and publications
 - **Lexicon**: [Terminology](lexicon.md) - Key terms and definitions
 
