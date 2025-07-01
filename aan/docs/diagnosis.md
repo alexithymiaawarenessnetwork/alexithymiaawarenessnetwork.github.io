@@ -218,6 +218,13 @@ Alexithymia is not classified as a standalone psychiatric disorder but rather as
 - Social withdrawal: Compounded by emotional communication difficulties
 - Therapeutic challenges: Building emotional awareness and social skills
 
+**Body Dysmorphic Disorder**
+
+- High comorbidity: Significant association with alexithymic traits, particularly difficulty identifying feelings
+- Body image disturbances: Alexithymia linked to dysmorphic body image concerns and negative body perception
+- Interoceptive deficits: Difficulty distinguishing between emotional feelings and bodily sensations affects body awareness
+- Treatment implications: Need for enhanced emotional awareness and body image interventions
+
 ## Medical Comorbidities
 
 ### Psychosomatic Disorders
