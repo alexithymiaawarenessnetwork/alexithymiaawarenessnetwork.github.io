@@ -1,6 +1,24 @@
 # James D.A. Parker
 
-**James David Alexander Parker** is a Canadian psychologist and researcher who has made substantial contributions to the understanding of emotional intelligence, alexithymia, and psychological assessment. As co-developer of the Toronto Alexithymia Scale (TAS-20), Parker has been instrumental in advancing both the theoretical understanding and practical measurement of emotional processing difficulties.
+James David Alexander Parker is a Canadian psychologist who co-developed the Toronto Alexithymia Scale (TAS-20) and has made substantial contributions to emotional intelligence research. His work has advanced both the theoretical understanding and practical measurement of emotional processing difficulties.
+
+**Official Wikipedia:** Not available  
+**Current Institution:** [Trent University](https://www.trentu.ca/) (Department of Psychology)
+
+## Contents
+
+| Section | Summary |
+|---------|---------|
+| [Biography and Career](#biography-and-career) | Academic background and professional positions |
+| [TAS-20 Co-Development](#contributions-to-alexithymia-research) | Collaborative development of alexithymia assessment |
+| [Emotional Intelligence Research](#emotional-intelligence-research) | Theoretical contributions and assessment development |
+| [Educational Applications](#educational-applications) | Academic performance and emotional learning research |
+| [Research Methodology](#research-methodology-and-innovation) | Longitudinal studies and cross-cultural research |
+| [Clinical Applications](#clinical-and-applied-contributions) | Assessment protocols and professional training |
+| [Major Publications](#major-publications-and-research) | Foundational works and collaborative research |
+| [Future Directions](#future-directions) | Emerging research areas and applications |
+
+## Biography and Career
 
 ## Biography and Career
 

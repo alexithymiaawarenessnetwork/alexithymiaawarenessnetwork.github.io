@@ -1,6 +1,27 @@
 # R. Michael Bagby
 
-**R. Michael Bagby** is a Canadian psychologist and researcher who has made significant contributions to the field of personality assessment and alexithymia research. As co-developer of the Toronto Alexithymia Scale (TAS-20), Bagby has played a crucial role in advancing the scientific measurement of emotional processing difficulties and their clinical applications.
+R. Michael Bagby is a Canadian psychologist who co-developed the Toronto Alexithymia Scale (TAS-20), the gold standard for measuring alexithymic traits. His psychometric expertise has been crucial in advancing the scientific measurement of emotional processing difficulties and their clinical applications.
+
+**Official Wikipedia:** Not available  
+**Current Institution:** [University of Toronto](https://www.utoronto.ca/) (Department of Psychology)
+
+## Contents
+
+| Section | Summary |
+|---------|---------|
+| [Biography and Career](#biography-and-career) | Academic background and professional positions |
+| [TAS-20 Co-Development](#contributions-to-alexithymia-research) | Psychometric expertise in scale development |
+| [Development Process](#the-tas-20-development-process) | Initial construction, validation, and refinement |
+| [Methodological Contributions](#research-methodology-contributions) | Psychometric advances and assessment innovation |
+| [Clinical Applications](#clinical-applications) | Assessment protocols and training programs |
+| [Personality Assessment Research](#personality-assessment-research) | Broader work in psychological assessment |
+| [International Collaboration](#international-collaboration) | Global research networks and validation studies |
+| [Major Publications](#major-publications) | Foundational assessment papers and collaborative works |
+| [Methodological Expertise](#methodological-expertise) | Statistical approaches and psychometric theory |
+| [Contemporary Relevance](#contemporary-relevance) | Digital assessment and precision medicine applications |
+| [Future Directions](#future-directions) | Emerging technologies and methodological advances |
+
+## Biography and Career
 
 ## Biography and Career
 
@@ -215,45 +236,6 @@ The TAS-20 is used in public health contexts:
 - **Prevention programs** targeting at-risk individuals
 - **Health services research** examining treatment needs
 
-## Awards and Recognition
-
-### Professional Honors
-Bagby has received recognition for his contributions:
-- **Research awards** from psychological associations
-- **Assessment excellence** recognition from professional organizations
-- **International collaboration** awards for cross-cultural research
-- **Mentorship recognition** for training researchers
-
-### Academic Impact
-His influence is evident in:
-- **Citation rates** of his assessment publications
-- **Adoption** of his assessment methods worldwide
-- **Training programs** using his approaches
-- **Clinical guidelines** incorporating his tools
-
-## Philosophy and Approach
-
-### Scientific Rigor
-Bagby's approach emphasizes:
-- **Empirical validation** of all assessment tools
-- **Methodological precision** in research design
-- **Replication** of findings across studies
-- **Practical utility** of assessment instruments
-
-### Collaborative Research
-He promotes collaboration through:
-- **Team-based research** approaches
-- **International partnerships** in assessment development
-- **Interdisciplinary cooperation** with medical and clinical researchers
-- **Open science** practices and data sharing
-
-### Clinical Relevance
-His work maintains focus on:
-- **Practical applications** for clinicians
-- **Patient benefit** from improved assessment
-- **Treatment implications** of assessment results
-- **Accessibility** of assessment tools
-
 ## Future Directions
 
 ### Emerging Technologies
@@ -293,6 +275,7 @@ Future developments building on his work include:
 
 ## Related Resources
 
+- [Resources](resources.md) - Complete resource center with books, tools, and support
 - [Assessment Tools](tools.md) - The TAS-20 and other alexithymia measures
 - [Taylor](taylor.md) - Lead developer of the TAS-20
 - [Parker](parker.md) - Co-developer of the TAS-20

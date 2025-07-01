@@ -1,6 +1,24 @@
 # Hein C.M. Vorst
 
-**Hein C.M. Vorst** is a Dutch psychologist and researcher who has made important contributions to the field of psychological assessment and alexithymia research. As co-developer of the Bermond-Vorst Alexithymia Questionnaire (BVAQ), Vorst has brought expertise in psychometrics and statistical methodology to advance the measurement and understanding of emotional processing difficulties.
+Hein C.M. Vorst is a Dutch psychologist who co-developed the Bermond-Vorst Alexithymia Questionnaire (BVAQ), bringing expertise in psychometrics and statistical methodology to advance the measurement and understanding of emotional processing difficulties.
+
+**Official Wikipedia:** Not available  
+**Current Institution:** [University of Amsterdam](https://www.uva.nl/) (Department of Psychology)
+
+## Contents
+
+| Section | Summary |
+|---------|---------|
+| [Biography and Career](#biography-and-career) | Academic background and professional positions |
+| [BVAQ Co-Development](#contributions-to-alexithymia-assessment) | Psychometric expertise in assessment development |
+| [Research Methodology](#research-methodology-contributions) | Psychometric advances and statistical innovation |
+| [International Collaboration](#international-collaboration) | Cross-cultural research and validation efforts |
+| [Theoretical Contributions](#theoretical-and-methodological-contributions) | Measurement theory and assessment innovation |
+| [Clinical Applications](#clinical-and-research-applications) | Assessment protocols and professional training |
+| [Major Publications](#major-publications-and-research) | Foundational BVAQ work and methodological contributions |
+| [Contemporary Relevance](#contemporary-relevance) | Modern assessment practices and international standards |
+
+## Biography and Career
 
 ## Biography and Career
 

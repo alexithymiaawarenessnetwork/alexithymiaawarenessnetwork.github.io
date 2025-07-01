@@ -1,6 +1,24 @@
 # Bob Bermond
 
-**Bob Bermond** is a Dutch psychologist and researcher who has made significant contributions to the understanding and assessment of alexithymia. As co-developer of the Bermond-Vorst Alexithymia Questionnaire (BVAQ), Bermond has provided an important alternative approach to measuring alexithymic traits, offering insights into both cognitive and affective dimensions of emotional processing difficulties.
+Bob Bermond is a Dutch psychologist who co-developed the Bermond-Vorst Alexithymia Questionnaire (BVAQ), providing an important alternative approach to measuring alexithymic traits. His work offers insights into both cognitive and affective dimensions of emotional processing difficulties.
+
+**Official Wikipedia:** Not available  
+**Current Institution:** [University of Amsterdam](https://www.uva.nl/) (Department of Psychology)
+
+## Contents
+
+| Section | Summary |
+|---------|---------|
+| [Biography and Career](#biography-and-career) | Academic background and professional positions |
+| [Theoretical Contributions](#theoretical-contributions-to-alexithymia) | Cognitive-affective model and neurobiological perspectives |
+| [BVAQ Development](#the-bermond-vorst-alexithymia-questionnaire-bvaq) | Alternative alexithymia assessment approach |
+| [Research Contributions](#research-contributions) | Validation studies and neurobiological research |
+| [Methodological Innovations](#methodological-innovations) | Assessment methodology and research design |
+| [Theoretical Debates](#theoretical-debates-and-contributions) | Cognitive vs. affective alexithymia distinctions |
+| [Clinical Applications](#clinical-and-applied-research) | Medical and psychiatric applications |
+| [Major Publications](#major-publications) | Foundational BVAQ papers and theoretical contributions |
+
+## Biography and Career
 
 ## Biography and Career
 

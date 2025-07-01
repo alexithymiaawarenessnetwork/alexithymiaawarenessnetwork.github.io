@@ -1,6 +1,24 @@
 # Peter E. Sifneos
 
-**Peter Emanuel Sifneos** (1920-2008) was a Greek-American psychiatrist and psychoanalyst who made groundbreaking contributions to the understanding of emotional processing and psychosomatic medicine. He is best known for coining the term "alexithymia" in 1973, a concept that has become fundamental to modern emotion research and clinical practice.
+Peter Emanuel Sifneos (1920-2008) was a Greek-American psychiatrist who coined the term "alexithymia" in 1973. His identification of the core characteristics of difficulty identifying and describing emotions laid the foundation for all subsequent alexithymia research and clinical practice.
+
+**Official Wikipedia:** Not available  
+**Former Institution:** [Harvard Medical School](https://hms.harvard.edu/) (Professor of Psychiatry)
+
+## Contents
+
+| Section | Summary |
+|---------|---------|
+| [Biography and Career](#biography-and-career) | Early life, education, and professional positions |
+| [Coining Alexithymia](#the-coining-of-alexithymia) | Historic 1973 breakthrough and term development |
+| [Clinical Observations](#clinical-observations-and-research) | Work with psychosomatic patients and therapeutic insights |
+| [Theoretical Contributions](#theoretical-contributions) | Psychosomatic theory and developmental perspectives |
+| [Impact on the Field](#impact-on-the-field) | Research foundation and clinical applications |
+| [Assessment Approaches](#assessment-and-measurement) | Early clinical methods and influence on later tools |
+| [Therapeutic Innovations](#therapeutic-innovations) | STAPP development and treatment considerations |
+| [Legacy](#legacy-and-continuing-influence) | Ongoing research and modern applications |
+
+## Biography and Career
 
 ## Biography and Career
 
