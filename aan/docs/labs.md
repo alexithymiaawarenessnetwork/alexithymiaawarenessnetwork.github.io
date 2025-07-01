@@ -203,40 +203,6 @@ This page tracks emotion research laboratories and institutions around the globe
 **Focus**: Health research across Canada  
 **Relevant Institutes**: Institute of Neurosciences, Mental Health and Addiction
 
-## Getting Involved
-
-### For Researchers
-- **Collaboration opportunities**: Contact labs directly for potential partnerships
-- **Conference participation**: Attend ISRE, CERE, and other emotion research conferences
-- **Grant applications**: Apply for international collaboration funding
-- **Publication opportunities**: Submit to emotion research journals
-
-### For Students
-- **Graduate programs**: Apply to universities with strong emotion research programs
-- **Research assistantships**: Contact labs for undergraduate and graduate opportunities
-- **Summer programs**: Look for research experience programs at major institutions
-- **International exchanges**: Explore study abroad opportunities at research-active universities
-
-### For Participants
-- **Research participation**: Many labs recruit participants for studies
-- **Online studies**: Some research can be completed remotely
-- **Community involvement**: Join research advisory groups and community partnerships
-
-## Research Ethics & Standards
-
-### Ethical Guidelines
-- All listed labs follow institutional review board (IRB) approval processes
-- Research adheres to international ethical standards for human subjects research
-- Participant confidentiality and data protection are prioritized
-- Informed consent procedures are followed for all studies
-
-### Open Science Practices
-Many labs are adopting open science practices including:
-- Pre-registration of studies
-- Open access publication
-- Data sharing initiatives
-- Reproducible research methods
-
 ---
 
 *This directory is continuously updated as new labs emerge and research programs evolve. If you know of additional emotion research labs or would like to suggest updates, please [contact us](contact.md).*

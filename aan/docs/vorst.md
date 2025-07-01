@@ -88,20 +88,6 @@ Vorst has been involved in international validation efforts:
 - **Translation protocols** for psychological measures
 - **Cross-cultural equivalence** testing procedures
 
-### European Research Networks
-His work has contributed to European psychology research:
-- **Collaborative projects** with international colleagues
-- **Standardization efforts** for psychological assessment
-- **Research methodology** training and consultation
-- **Professional development** in assessment practices
-
-### Global Impact
-The BVAQ's international adoption reflects Vorst's methodological rigor:
-- **Multiple language versions** validated using his protocols
-- **International research** using the BVAQ
-- **Global standards** for alexithymia assessment
-- **Cross-cultural findings** enabled by rigorous methodology
-
 ## Theoretical and Methodological Contributions
 
 ### Measurement Theory
@@ -232,68 +218,12 @@ His influence is evident in:
 - **Training programs** incorporating his methodological approaches
 - **Research standards** influenced by his work
 
-## Philosophy and Approach
-
-### Methodological Rigor
-Vorst's approach emphasizes:
-- **Empirical validation** of all assessment instruments
-- **Statistical precision** in research methodology
-- **Replication** requirements for scientific findings
-- **Quality standards** for psychological measurement
-
-### International Perspective
-He promotes global collaboration through:
-- **Cross-cultural research** partnerships
-- **Methodological standardization** across countries
-- **Professional development** for international colleagues
-- **Knowledge sharing** in assessment methodology
-
-### Practical Application
-His work maintains focus on:
-- **Clinical utility** of assessment instruments
-- **Research applicability** of methodological innovations
-- **Professional training** in assessment practices
-- **Quality assurance** in psychological testing
-
-## Future Directions
-
-### Emerging Technologies
-Vorst's methodological work influences emerging assessment technologies:
-- **Artificial intelligence** applications to psychological assessment
-- **Machine learning** approaches to scale development
-- **Digital platforms** for assessment delivery
-- **Automated scoring** and interpretation systems
-
-### Methodological Advances
-Future developments building on his work include:
-- **Advanced statistical modeling** for complex psychological data
-- **Network analysis** applications to assessment research
-- **Ecological momentary assessment** methodology
-- **Multi-modal measurement** approaches
-
-### Global Applications
-His work continues to influence international assessment:
-- **Cross-cultural methodology** for diverse populations
-- **Global standards** for psychological measurement
-- **International collaboration** in assessment research
-- **Cultural adaptation** procedures for assessment tools
-
 ## Resources for Further Learning
 
 ### Academic Publications
 - **BVAQ validation studies** - Psychometric methodology
 - **Assessment methodology** papers - Statistical approaches
 - **Cross-cultural research** - International validation procedures
-
-### Professional Training
-- **Psychometric workshops** on assessment development
-- **Statistical training** in psychological measurement
-- **Cross-cultural methodology** courses
-
-### Research Opportunities
-- **Graduate training** in psychological assessment
-- **Postdoctoral research** in psychometrics
-- **International collaborations** in assessment research
 
 ---
 

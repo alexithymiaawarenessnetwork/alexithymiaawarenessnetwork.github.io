@@ -189,12 +189,6 @@ He combined clinical insight with scientific methodology:
 - **Operational definitions** that could be tested and refined
 - **Empirical validation** of clinical concepts
 
-## Quotes and Philosophy
-
-*"The alexithymic patient presents us with a paradox: they suffer from emotions they cannot name, feel distress they cannot describe, and seek help for problems they cannot articulate."*
-
-*"Understanding alexithymia requires us to reconsider our assumptions about emotional life and therapeutic process."*
-
 ## Resources for Further Learning
 
 ### Original Works

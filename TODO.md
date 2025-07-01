@@ -1,6 +1,7 @@
 ## Content
 [] FIX Check and fix links, especially book links!
 [] FIX Remove any junk filler content from the site
+[] Add Plutchik's psychosocial developmental model
 [] ADD a Team section to our About section, 
 [] ADD Robert Herrick - Founder & Executive Director
 [] ADD author Teachworth
@@ -13,6 +14,14 @@
 [] MAKE Build out any missing needed visuals
 [] ADD to the papers section, there's plenty missing
 [] ADD Labs/Groups/Organizations section to cover collaborative research work (Toronto Alexithymia group: Taylor/Bagby/Parker, Amsterdam collaboration: Bermond/Vorst, etc.)
+[] Add comorbidities and subsections for each
+[] Add etiology
+[] Add diagnosis
+[] Add treatment
+[] Add coping mechanisms
+[] Add personal problems
+[] Add specialists
+[] Add debate
 
 ## Structure
 [] ADD Apps page - link to app official forums / website, downloads page (with referring partner id?)
