@@ -9,6 +9,7 @@ Robert Plutchik (1927-2006) was an American psychologist who developed the influ
 
 | Section | Summary |
 |---------|---------|
+| [Psychoevolutionary Theory](#psychoevolutionary-theory-of-emotion) | Emotions as adaptive responses to survival challenges |
 | [Primary Emotions Theory](#the-eight-primary-emotions) | Eight basic emotions arranged in opposing pairs |
 | [Wheel Structure](#the-wheel-structure) | Intensity levels and color coding system |
 | [Complex Emotions](#complex-emotions-dyads) | How primary emotions combine to form complex feelings |
@@ -16,6 +17,92 @@ Robert Plutchik (1927-2006) was an American psychologist who developed the influ
 | [Research and Validation](#research-and-validation) | Scientific support and clinical applications |
 | [Practical Exercises](#practical-exercises) | Daily tracking and therapeutic applications |
 | [Integration with Other Models](#integration-with-other-models) | Comparison with Ekman's model and dimensional approaches |
+
+## Psychoevolutionary Theory of Emotion
+
+### Theoretical Foundation
+Plutchik's psychoevolutionary theory proposes that emotions evolved as adaptive responses to recurring survival challenges faced by all living organisms. Each primary emotion serves a specific survival function and is triggered by particular environmental situations.
+
+### The Emotion-Situation-Function Model
+Plutchik identified a systematic relationship between environmental challenges, emotional responses, and adaptive behaviors:
+
+| **Stimulus Situation** | **Emotion** | **Behavioral Response** | **Survival Function** |
+|------------------------|-------------|-------------------------|----------------------|
+| **Threat or danger** | Fear | Escape, flee, hide | **Protection** from harm |
+| **Obstacle or enemy** | Anger | Attack, fight, destroy | **Destruction** of barriers |
+| **Potential mate** | Joy | Court, mate, reproduce | **Reproduction** and species continuation |
+| **Loss of valued person/object** | Sadness | Cry for help, seek comfort | **Reintegration** with group |
+| **Group member or ally** | Trust | Groom, share, cooperate | **Affiliation** and social bonding |
+| **Gruesome or toxic object** | Disgust | Vomit, expel, avoid | **Rejection** of harmful substances |
+| **New territory or situation** | Anticipation | Examine, explore, map | **Exploration** of environment |
+| **Sudden novel object** | Surprise | Stop, alert, orient | **Orientation** to unexpected events |
+
+### Evolutionary Adaptive Value
+Each emotion provides specific survival advantages:
+
+**Fear (Protection):**
+- Enables rapid escape from predators and dangers
+- Activates fight-or-flight physiological responses
+- Promotes cautious behavior in uncertain situations
+
+**Anger (Destruction):**
+- Motivates removal of obstacles to goals
+- Establishes dominance and territory
+- Protects resources and offspring
+
+**Joy (Reproduction):**
+- Reinforces behaviors that promote survival and reproduction
+- Strengthens social bonds and cooperation
+- Motivates approach to beneficial stimuli
+
+**Sadness (Reintegration):**
+- Signals distress to elicit help from others
+- Promotes group cohesion and mutual support
+- Facilitates mourning and adaptation to loss
+
+**Trust (Affiliation):**
+- Enables cooperation and group living
+- Facilitates sharing of resources and information
+- Builds alliances for mutual protection
+
+**Disgust (Rejection):**
+- Protects from contamination and disease
+- Maintains hygiene and health standards
+- Establishes social and moral boundaries
+
+**Anticipation (Exploration):**
+- Motivates seeking new resources and opportunities
+- Enables planning and preparation for future events
+- Promotes learning and adaptation
+
+**Surprise (Orientation):**
+- Focuses attention on unexpected changes
+- Interrupts ongoing behavior to assess new situations
+- Facilitates rapid learning and adaptation
+
+### Ten Postulates of Psychoevolutionary Theory
+
+Plutchik formalized his theory with ten key postulates:
+
+1. **Universal Application:** Emotions exist at all evolutionary levels and apply to all animals, including humans
+2. **Evolutionary History:** Emotions have evolved over time with various forms of expression across species
+3. **Adaptive Function:** Emotions serve adaptive roles in helping organisms deal with survival challenges
+4. **Common Elements:** Despite different expressions across species, there are common prototype patterns
+5. **Limited Basic Emotions:** There is a small number of basic, primary emotions
+6. **Derivative States:** All other emotions are combinations or mixtures of primary emotions
+7. **Hypothetical Constructs:** Primary emotions are idealized states inferred from various evidence
+8. **Polar Opposites:** Primary emotions can be conceptualized as pairs of opposites
+9. **Similarity Relationships:** All emotions vary in their degree of similarity to one another
+10. **Intensity Variations:** Each emotion exists in varying degrees of intensity or arousal levels
+
+### Implications for Human Behavior
+This psychoevolutionary framework explains:
+
+**Why emotions feel automatic:** They evolved as rapid response systems for survival
+**Why emotions are universal:** All humans face similar survival challenges
+**Why emotions are hard to control:** They bypass conscious thought for speed
+**Why emotions affect the body:** They prepare us for physical action
+**Why emotions are social:** Many survival challenges require group cooperation
 
 ## The Eight Primary Emotions
 
