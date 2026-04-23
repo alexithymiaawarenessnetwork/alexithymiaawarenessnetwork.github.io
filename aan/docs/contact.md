@@ -35,10 +35,6 @@ We'd love to hear from you! Our team is committed to fostering understanding and
 - Educational workshops
 - Community outreach
 
-## Response Time
-
-We aim to respond to all inquiries within 48-72 hours. For urgent matters, please indicate this in your subject line.
-
 ## Contributing
 
 Interested in contributing to AAN? We welcome:
