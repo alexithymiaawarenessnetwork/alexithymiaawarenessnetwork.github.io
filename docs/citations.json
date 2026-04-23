@@ -26,8 +26,7 @@
       "isbn": "9780521454643",
       "retailers": {
         "bookshop_org": {
-          "url": "https://bookshop.org/p/books/disorders-of-affect-regulation-alexithymia-in-medical-and-psychiatric-illness-graeme-j-taylor/18804134",
-          "ean": "9780521454643"
+          "search": "disorders-affect-regulation-alexithymia-taylor-bagby-parker"
         },
         "barnes_noble": {
           "slug": "disorders-of-affect-regulation-graeme-j-taylor/1100267891"
@@ -72,8 +71,7 @@
       "isbn": "9780080166438",
       "retailers": {
         "bookshop_org": {
-          "url": "https://bookshop.org/p/books/emotions-in-the-human-face-paul-ekman/18804135",
-          "ean": "9780080166438"
+          "search": "emotions-human-face-paul-ekman"
         },
         "barnes_noble": {
           "slug": "emotions-in-the-human-face-paul-ekman/1100267893"
@@ -98,8 +96,7 @@
       },
       "retailers": {
         "bookshop_org": {
-          "url": "https://bookshop.org/p/books/ethics-baruch-spinoza/18804136",
-          "ean": "9780486200668"
+          "search": "ethics-baruch-spinoza"
         },
         "barnes_noble": {
           "slug": "ethics-baruch-spinoza/1100267894"
@@ -178,8 +175,7 @@
       "isbn": "9780399138942",
       "retailers": {
         "bookshop_org": {
-          "url": "https://bookshop.org/p/books/descartes-error-emotion-reason-and-the-human-brain-antonio-damasio/6633527",
-          "ean": "9780399138942"
+          "search": "descartes-error-emotion-reason-human-brain-damasio"
         },
         "barnes_noble": {
           "slug": "descartes-error-antonio-damasio/1100267896"
@@ -254,8 +250,7 @@
       "isbn": "9780786880706",
       "retailers": {
         "bookshop_org": {
-          "url": "https://bookshop.org/p/books/wherever-you-go-there-you-are-mindfulness-meditation-in-everyday-life-jon-kabat-zinn/6633528",
-          "ean": "9780786880706"
+          "search": "wherever-you-go-there-you-are-mindfulness-kabat-zinn"
         },
         "barnes_noble": {
           "slug": "wherever-you-go-there-you-are-jon-kabat-zinn/1100267898"

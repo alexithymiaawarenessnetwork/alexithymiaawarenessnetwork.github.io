@@ -4,31 +4,9 @@ This page highlights upcoming and notable conferences related to emotion researc
 
 ---
 
-## Upcoming Conferences
+## Finding Current Conferences
 
-### CERE 2025 - 10th Conference of the Consortium of European Research on Emotion
-
-**📅 July 16-18, 2025**  
-**📍 Grenoble, France**  
-**🏛️ Université Grenoble Alpes**
-
-The 2025 Conference of the Consortium of European Research on Emotion (CERE) will be held in-person in the beautiful city of Grenoble, France. This is an unparalleled opportunity to connect with international colleagues, showcase research, and engage with cutting-edge developments in emotion research.
-
-**Conference Scope:**
-The conference explores a diverse array of disciplines, including:
-- Affective computing
-- Anthropology
-- Art and design
-- Education
-- History
-- Linguistics
-- Neuroscience
-- Philosophy
-- Psychology
-- Sociology
-
-**Website:** [www.cere2025.com](https://www.cere2025.com/)  
-**Contact:** [CERE2025@univ-grenoble-alpes.fr](mailto:cere2025@univ-grenoble-alpes.fr)
+For the most up-to-date information on upcoming conferences, we recommend checking the websites of professional organizations and academic societies listed below. Conference dates, locations, and submission deadlines change annually.
 
 ---
 

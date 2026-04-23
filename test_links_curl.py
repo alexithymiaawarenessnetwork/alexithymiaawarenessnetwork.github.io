@@ -25,14 +25,19 @@ def test_bookshop_link_curl(url):
         ], capture_output=True, text=True)
         
         if result.returncode == 0:
-            # Check the first line for status code
-            first_line = result.stdout.split('\n')[0]
-            if '200 OK' in first_line:
-                return True, "200 OK"
-            elif '404' in first_line:
-                return False, "404 Not Found"
-            else:
-                return False, f"Status: {first_line.strip()}"
+            lines = result.stdout.split('\n')
+            # Look for final status code (after redirects)
+            for line in reversed(lines):
+                if 'HTTP/' in line:
+                    if '200' in line:
+                        return True, "200 OK"
+                    elif '301' in line or '302' in line or '308' in line:
+                        return True, "Redirect (Working)"
+                    elif '404' in line:
+                        return False, "404 Not Found"
+                    else:
+                        return False, f"Status: {line.strip()}"
+            return False, "No HTTP status found"
         else:
             return False, f"Curl error: {result.returncode}"
     except Exception as e:
@@ -53,14 +58,21 @@ def main():
         bookshop_data = book['retailers']['bookshop_org']
         affiliate_id = config['affiliate_ids']['bookshop_org']
         
-        if 'isbn' in bookshop_data:
-            url = f"https://bookshop.org/a/{affiliate_id}/{bookshop_data['isbn']}"
-            print(f"   ISBN: {bookshop_data['isbn']}")
+        if 'url' in bookshop_data:
+            url = bookshop_data['url']
+            if 'ean' in bookshop_data:
+                url += f"?ean={bookshop_data['ean']}&affiliate={affiliate_id}"
+            else:
+                url += f"?affiliate={affiliate_id}"
+            print(f"   Direct URL: {bookshop_data['url']}")
         elif 'search' in bookshop_data:
             url = f"https://bookshop.org/search?keywords={bookshop_data['search']}&affiliate={affiliate_id}"
             print(f"   Search: {bookshop_data['search']}")
+        elif 'isbn' in bookshop_data:
+            url = f"https://bookshop.org/a/{affiliate_id}/{bookshop_data['isbn']}"
+            print(f"   ISBN: {bookshop_data['isbn']}")
         else:
-            print("   ❌ No ISBN or search term found")
+            print("   ❌ No URL, ISBN, or search term found")
             continue
             
         print(f"   URL: {url}")

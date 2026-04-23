@@ -33,12 +33,13 @@ def generate_bookshop_link(citation, config):
             return f"{base_url}?ean={bookshop_data['ean']}&affiliate={affiliate_id}"
         else:
             return f"{base_url}?affiliate={affiliate_id}"
+    elif 'search' in bookshop_data:
+        # Use search-based URL format
+        template = config['url_templates']['bookshop_org']['search_format']
+        return template.format(affiliate_id=affiliate_id, search=bookshop_data['search'])
     elif 'isbn' in bookshop_data:
         template = config['url_templates']['bookshop_org']['isbn_format']
         return template.format(affiliate_id=affiliate_id, isbn=bookshop_data['isbn'])
-    elif 'search' in bookshop_data:
-        template = config['url_templates']['bookshop_org']['search_format']
-        return template.format(affiliate_id=affiliate_id, search=bookshop_data['search'])
     
     return None
 

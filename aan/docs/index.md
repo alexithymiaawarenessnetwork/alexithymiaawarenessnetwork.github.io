@@ -4,16 +4,6 @@
 
 ---
 
-## 🎯 Featured Conference
-
-### CERE 2025 - 10th Conference of the Consortium of European Research on Emotion
-
-**📅 July 16-18, 2025 | 📍 Grenoble, France | 🏛️ Université Grenoble Alpes**
-
-Join international colleagues for cutting-edge developments in emotion research across disciplines including neuroscience, psychology, affective computing, and more. This is an unparalleled opportunity to showcase research and engage with the global emotion research community.
-
-**[Learn More About CERE 2025](conferences.md)** | **[Visit Conference Website](https://www.cere2025.com/)**
-
 ---
 
 The Alexithymia Awareness Network (AAN) is dedicated to increasing awareness, supporting research, and providing resources for individuals affected by alexithymia—a condition that affects how people identify, understand, and express emotions.
