@@ -16,6 +16,8 @@ plugins:
   - search
 
 # Exclude affiliate config from site build
+# (studies.md is kept built — it's now a redirect stub pointing at papers.md
+# so any external links to /studies/ keep working — but it's removed from nav.)
 exclude_docs: |
   affiliate_config.json
   generate_links.py
@@ -39,19 +41,22 @@ nav:
     - Vorst: vorst.md
   - Understanding Alexithymia:
     - FAQ: faq.md
-    - Diagnosis & Comorbidity: diagnosis.md
+    - Diagnosis & Assessment: diagnosis.md
+    - Comorbidities: comorbidities.md
+    - Treatment: treatment.md
     - Lexicon: lexicon.md
+    - Emotion Frameworks: emotion-frameworks.md
   - Resources:
     - Overview: resources.md
     - Apps: apps.md
-    - Tools: tools.md
+    - Assessment Instruments: tools.md
     - Books: books.md
     - Papers: papers.md
     - Podcasts: podcasts.md
   - Research:
-    - Studies: studies.md
     - Labs: labs.md
   - Community & Events:
+    - Crisis & Urgent Support: crisis-help.md
     - Conferences: conferences.md
     - Support: support.md
   - News: news.md
