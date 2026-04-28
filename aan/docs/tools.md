@@ -1,209 +1,178 @@
-# Assessment Tools & Online Resources
+# Assessment Instruments
 
-This page contains assessment tools, online questionnaires, and digital resources for understanding and evaluating alexithymia. These tools are valuable for self-assessment, research, and clinical evaluation.
+Validated assessment tools for measuring alexithymic traits. This page is for clinicians, researchers, and individuals seeking serious self-assessment.
 
-## Assessment Tools
+For mobile and digital apps that support emotion tracking, mindfulness, and skill-building, see [Mobile Apps & Digital Tools](apps.md). For research labs and institutions doing alexithymia work, see [Research Labs & Institutions](labs.md).
+
+## Assessment Instruments
 
 ### Toronto Alexithymia Scale (TAS-20)
+
 The most widely used and validated assessment tool for alexithymia.
 
-**Official Information**: [University of Toronto Research](https://www.psychology.utoronto.ca/faculty-and-research/research-areas/clinical-psychology/alexithymia-research)
+**Official information:** [University of Toronto Research](https://www.psychology.utoronto.ca/faculty-and-research/research-areas/clinical-psychology/alexithymia-research)
 
-**Key Features:**
+**Key features:**
+
 - 20-item self-report questionnaire
-- Three subscales: difficulty identifying feelings, difficulty describing feelings, externally oriented thinking
+- Three subscales: Difficulty Identifying Feelings (DIF), Difficulty Describing Feelings (DDF), Externally Oriented Thinking (EOT)
 - Validated across multiple cultures and populations
 - Gold standard for alexithymia assessment
+- Administration: 5–10 minutes
+- Scoring: 20–51 (low), 52–60 (moderate), 61+ (high alexithymia)
+
+→ See also: [Taylor](taylor.md), [Bagby](bagby.md), [Parker](parker.md) — the developers of the TAS-20.
 
 ### Bermond-Vorst Alexithymia Questionnaire (BVAQ)
-Alternative assessment tool with cognitive and affective subscales.
 
-**Research Information**: [BVAQ Validation Study](https://www.researchgate.net/publication/254784425_Validity_and_reliability_of_Bermond-Vorst_Alexithymia_Questionnaire)
+Alternative assessment with separate cognitive and affective alexithymia subscales.
 
-**Key Features:**
+**Validation reference:** [BVAQ Validation Study](https://www.researchgate.net/publication/254784425_Validity_and_reliability_of_Bermond-Vorst_Alexithymia_Questionnaire)
+
+**Key features:**
+
 - 40-item questionnaire
-- Separate cognitive and affective alexithymia subscales
-- Useful for research and clinical applications
-- Provides more detailed assessment than TAS-20
+- Five factors: identifying emotions, verbalizing emotions, analyzing emotions, emotionalizing, fantasizing
+- Distinguishes cognitive from affective alexithymia (a distinction TAS-20 does not draw)
+- Useful for research and detailed clinical assessment
+- Provides finer-grained profile than TAS-20
 
-### Online Alexithymia Questionnaire
-Free, accessible online assessment developed for community use.
+→ See also: [Bermond](bermond.md), [Vorst](vorst.md) — the developers of the BVAQ.
 
-**Take the Assessment**: [Alexithymia.us Test](https://www.alexithymia.us/test-alexithymia)
+### Observer Alexithymia Scale (OAS)
 
-**Key Features:**
+Third-party assessment by family members or clinicians.
+
+**Key features:**
+
+- 33 items rated by an observer who knows the individual
+- Reduces self-report bias
+- Useful when self-awareness is limited (which is intrinsically common in alexithymia)
+- Complements but does not replace self-report measures
+
+### Levels of Emotional Awareness Scale (LEAS)
+
+Performance-based measure of emotional awareness.
+
+**Key features:**
+
+- Scenario-based — respondents describe emotional reactions to vignettes
+- Scored on the complexity and differentiation of emotional responses
+- Less affected by self-report biases than questionnaires
+- Used primarily in research and comprehensive clinical evaluation
+
+### Online Alexithymia Questionnaire (community version)
+
+Free, accessible online screening developed for community use.
+
+**Take the assessment:** [alexithymia.us/test-alexithymia](https://www.alexithymia.us/test-alexithymia)
+
+**Key features:**
+
 - Free and anonymous
-- Developed in 2005, updated regularly
-- Overcomes some limitations of traditional questionnaires
-- Includes helpful FAQ and interpretation guidance
+- Originally developed in 2005, updated periodically
+- Designed to address some practical limitations of traditional questionnaires for self-administered use
+- Includes interpretation guidance
+- Should be treated as a screen, not a diagnostic instrument
 
-### Emotional Intelligence Assessment
-Broader assessment of emotional skills and awareness.
+### Emotional Intelligence Assessments
 
-**Take the Test**: [Psychology Today EQ Test](https://www.psychologytoday.com/us/tests/personality/emotional-intelligence-test)
+Broader assessment of emotional skills and awareness — useful as a complement to alexithymia-specific instruments.
 
-**Key Features:**
-- Comprehensive emotional intelligence evaluation
-- Covers emotional awareness, regulation, and social skills
-- Useful complement to alexithymia-specific assessments
-- Professional interpretation available
+**Common instruments:**
 
-## Digital Tools and Apps
+- **Mayer-Salovey-Caruso EIT (MSCEIT)** — performance-based emotional intelligence
+- **Bar-On EQ-i 2.0** — self-report emotional quotient inventory
+- **Psychology Today EQ Test** — informal online screen, [link](https://www.psychologytoday.com/us/tests/personality/emotional-intelligence-test)
 
-### Emotion Tracking Apps
-**Mood Meter** - Research-based emotion tracking from Yale University
-- Helps identify and track emotional states
-- Provides emotion vocabulary building
-- Available for iOS and Android
-
-**Daylio** - Simple mood tracking with customizable emotions
-- Quick daily mood logging
-- Pattern recognition and insights
-- Correlation tracking with activities and habits
-
-**eMoods** - Mood tracking designed for mental health
-- Detailed emotion and symptom tracking
-- Medication and therapy tracking
-- Export data for healthcare providers
-
-### Mindfulness and Meditation Apps
-**Headspace** - Guided meditation with emotion-focused sessions
-- Specific programs for emotional awareness
-- Beginner-friendly approach
-- Progress tracking and reminders
-
-**Calm** - Meditation and relaxation with body awareness
-- Daily mindfulness sessions
-- Sleep stories and relaxation techniques
-- Anxiety and stress management tools
-
-**Insight Timer** - Free meditation with community features
-- Thousands of guided meditations
-- Body scan and awareness practices
-- Timer for silent meditation
-
-### Emotion Recognition Tools
-**Feeling Wheel Apps** - Digital emotion vocabulary tools
-- Visual emotion identification
-- Expanded emotional vocabulary
-- Helpful for describing feelings
-
-**Emotion Regulation Apps** - DBT and CBT-based tools
-- Distress tolerance skills
-- Emotion regulation strategies
-- Crisis management techniques
-
-## Educational Websites
-
-### Research Institutions
-**University of Toronto Alexithymia Research**
-[Clinical Psychology Research](https://www.psychology.utoronto.ca/faculty-and-research/research-areas/clinical-psychology/alexithymia-research)
-- Leading research on alexithymia assessment
-- TAS-20 development and validation
-- Current research projects and findings
-
-**Yale University Emotion & Cognition Lab**
-[Research and Resources](https://www.emotionandcognition.com/)
-- Cutting-edge emotion research
-- Practical applications of emotion science
-- Educational materials and tools
-
-**International Society for Research on Emotion (ISRE)**
-[Professional Organization](https://www.isre.org/)
-- Global emotion research community
-- Conference proceedings and publications
-- Professional development resources
-
-### Professional Organizations
-**American Psychological Association**
-[APA Alexithymia Resources](https://www.apa.org/science/about/psa/2011/05/alexithymia)
-- Professional guidelines and research
-- Clinical practice recommendations
-- Continuing education resources
-
-**Center for Mindfulness (UMass Medical School)**
-[Mindfulness Programs](https://www.umassmed.edu/cfm/)
-- Mindfulness-Based Stress Reduction (MBSR)
-- Research on mindfulness and emotional awareness
-- Training programs for professionals
+These provide context for an alexithymia score: emotional intelligence is a broader construct that includes — but is not limited to — emotional awareness.
 
 ## Assessment Guidelines
 
-### Using Online Assessments
-**Important Considerations:**
+### Using online assessments
+
+**Important considerations:**
+
 - Online tests are screening tools, not diagnostic instruments
 - Results should be interpreted with caution
-- Professional assessment recommended for comprehensive evaluation
-- Multiple factors can influence results (mood, fatigue, stress)
+- Professional assessment is recommended for comprehensive evaluation
+- Many factors can influence results: current mood, fatigue, stress, situational context
 
-**Best Practices:**
-- Take assessments when calm and focused
+**Best practices:**
+
+- Take assessments when reasonably calm and focused
 - Answer honestly and thoughtfully
 - Consider taking multiple assessments for comparison
-- Discuss results with healthcare providers if needed
+- Discuss results with a healthcare provider if results suggest significant impact
 
-### Professional Assessment
-**When to Seek Professional Evaluation:**
+### Professional assessment
+
+**When to seek professional evaluation:**
+
 - Significant impact on relationships or daily functioning
 - Co-occurring mental health concerns
 - Need for comprehensive psychological evaluation
 - Seeking therapy or treatment planning
 
-**Types of Professional Assessment:**
+**Types of professional assessment:**
+
 - Clinical interviews with trained professionals
 - Comprehensive psychological testing
 - Neuropsychological evaluation if indicated
 - Integration with medical and psychiatric evaluation
 
+For finding a therapist or clinician, see [Support & Community](support.md#professional-support).
+
 ## Research and Validation
 
-### Assessment Reliability
-**TAS-20 Validation:**
+### TAS-20 validation
+
 - Validated in over 30 languages
 - Consistent reliability across cultures
-- Strong psychometric properties
+- Strong psychometric properties (good internal consistency, test-retest reliability, factor structure replicability)
 - Widely used in research and clinical practice
+- Some debate over the third subscale (EOT) and its cross-cultural stability
 
-**BVAQ Validation:**
+### BVAQ validation
+
 - Good internal consistency and test-retest reliability
 - Useful for distinguishing cognitive and affective alexithymia
 - Validated in multiple populations
 - Complementary to TAS-20 assessment
 
-### Current Research
-**Ongoing Studies:**
+### Current research directions
+
 - Cross-cultural validation of assessment tools
-- Development of new measurement approaches
-- Integration with neuroimaging and physiological measures
-- Assessment in specific populations (autism, depression, etc.)
+- Development of new measurement approaches (performance-based, neuroimaging-augmented)
+- Integration with physiological measures
+- Assessment in specific populations (autism spectrum, depression, somatic disorders, eating disorders)
+
+For the broader research literature, see [Research Papers](papers.md).
 
 ## Interpretation and Next Steps
 
-### Understanding Results
-**High Alexithymia Scores:**
-- Indicate difficulty with emotional awareness and expression
-- Not a diagnosis or pathology
-- Suggest areas for potential development
-- May benefit from targeted interventions
+### Understanding TAS-20-style results
 
-**Moderate Scores:**
-- Some challenges with emotional processing
-- Selective difficulties in certain areas
-- May benefit from awareness and skill building
-- Consider specific subscale patterns
+**High scores (61+):** Indicate substantial difficulty with emotional awareness and expression. Not a diagnosis or pathology — alexithymia is a dimensional trait — but a signal worth taking seriously, particularly if it correlates with felt life difficulty. May benefit from targeted interventions.
 
-**Low Scores:**
-- Good emotional awareness and expression
-- May still benefit from emotional skill development
-- Consider other factors affecting emotional well-being
-- Useful baseline for future comparison
+**Moderate scores (52–60):** Some challenges with emotional processing, possibly selective difficulties in specific areas. May benefit from awareness and skill-building. Examine the subscale pattern: high DIF but low EOT means something different from high EOT but low DIF.
 
-### Resources for Further Development
-- Professional therapy and counseling
-- Mindfulness and meditation training
-- Emotion regulation skill building
-- Support groups and community resources
+**Low scores (under 52):** Generally good emotional awareness and expression. May still benefit from emotional skill development, especially in specific contexts (e.g., handling intense emotions, communicating in close relationships).
+
+### Resources for further development
+
+- [Treatment](treatment.md) — therapeutic modalities and what they're useful for
+- [Support & Community](support.md) — finding peer support and professional help
+- [Mobile Apps & Digital Tools](apps.md) — daily-practice tools
+- [FAQ](faq.md) — common questions about what alexithymia means in everyday life
 
 ---
 
-*Assessment tools and resources are continuously updated based on new research and community feedback. Always consult with qualified professionals for comprehensive evaluation and treatment planning.*
+## Related Resources
+
+- [Diagnosis & Assessment](diagnosis.md) — how alexithymia is identified clinically
+- [Research Papers](papers.md) — the underlying research
+- [Mobile Apps & Digital Tools](apps.md) — apps for emotion tracking, mindfulness, skill-building
+- [Research Labs & Institutions](labs.md) — labs developing and validating new instruments
+
+*Assessment tools and resources are reviewed periodically as new research emerges. For comprehensive evaluation and treatment planning, consult with qualified professionals.*
