@@ -1,25 +1,50 @@
 # Welcome to the Alexithymia Awareness Network
 
-**Bridging the gap between emotions and understanding**
+**Bridging the gap between emotions and understanding.**
 
----
-
----
-
-The Alexithymia Awareness Network (AAN) is dedicated to increasing awareness, supporting research, and providing resources for individuals affected by alexithymia—a condition that affects how people identify, understand, and express emotions.
+The Alexithymia Awareness Network (AAN) is dedicated to increasing awareness, supporting research, and providing resources for individuals affected by alexithymia — a personality trait that affects how people identify, understand, and express emotions.
 
 ## What is Alexithymia?
 
-Alexithymia, from the Greek meaning "no words for emotions," is a psychological construct characterized by:
+Alexithymia, from the Greek meaning "no words for emotions," is characterized by:
 
-- **Difficulty identifying emotions** - Trouble recognizing what you're feeling
-- **Difficulty describing emotions** - Struggling to put feelings into words  
-- **Limited emotional awareness** - Reduced ability to distinguish between emotions and physical sensations
-- **Externally-oriented thinking** - Focus on external events rather than inner emotional experiences
+- **Difficulty identifying emotions** — trouble recognizing what you're feeling
+- **Difficulty describing emotions** — struggling to put feelings into words
+- **Limited emotional awareness** — reduced ability to distinguish between emotions and physical sensations
+- **Externally-oriented thinking** — focus on external events rather than inner emotional experiences
 
-Affecting approximately **10% of the general population**, alexithymia can impact relationships, mental health, and overall quality of life.
+It affects roughly **10% of the general population** and can shape relationships, mental health, and quality of life.
 
-## Our Mission
+## Where to start
+
+### 🧠 Understanding Alexithymia
+- [**FAQ**](faq.md) — common questions and answers
+- [**Diagnosis & Assessment**](diagnosis.md) — how alexithymia is identified
+- [**Comorbidities**](comorbidities.md) — what it co-occurs with
+- [**Treatment**](treatment.md) — therapeutic approaches
+- [**Lexicon**](lexicon.md) — alphabetical glossary of feeling words
+- [**Emotion Frameworks**](emotion-frameworks.md) — Plutchik, Ekman, Wilcox, Damasio, and more
+
+### 📱 Resources
+- [**Apps**](apps.md) — mobile and digital tools
+- [**Assessment Instruments**](tools.md) — TAS-20, BVAQ, and others
+- [**Books**](books.md) — recommended reading
+- [**Research Papers**](papers.md) — searchable, sortable
+- [**Podcasts**](podcasts.md) — episodes and shows
+
+### 🔬 Research
+- [**Research Labs**](labs.md) — institutions worldwide
+- [**Emotion Researchers**](plutchik.md) — profiles of the people behind the field
+
+### 🤝 Community
+- [**Support**](support.md) — therapists, peer communities, family resources
+- [**Conferences**](conferences.md) — events and proceedings
+- [**News**](news.md) — updates from AAN
+
+### If you're in crisis
+→ **[Crisis & Urgent Support](crisis-help.md)** — 988 (US) call or text · Crisis Text Line: text HOME to 741741 · Emergency: 911
+
+## Our mission
 
 We exist to:
 
@@ -28,49 +53,10 @@ We exist to:
 - **Provide resources** for individuals, families, and professionals
 - **Foster community** among those affected by alexithymia
 
-## Explore Our Resources
+## About AAN
 
-### 🧠 **Understanding Alexithymia**
-- [**FAQ**](faq.md) - Common questions and answers about alexithymia
-- [**Lexicon**](lexicon.md) - A comprehensive guide to emotion words and feelings
-
-### 📱 **Digital Resources**
-- [**Apps**](apps.md) - Mobile applications and digital tools for emotional awareness
-- [**Assessment Tools**](tools.md) - Validated instruments for measuring alexithymia
-- [**Books**](books.md) - Recommended reading on alexithymia and emotional intelligence
-- [**Research Papers**](papers.md) - Academic publications and scientific literature
-- [**Podcasts**](podcasts.md) - Audio content exploring emotional awareness
-
-### 🔬 **Research & Science**
-- [**Research Studies**](studies.md) - Latest scientific findings and ongoing research
-- [**Research Labs**](labs.md) - Global emotion research laboratories and institutions
-- [**Emotion Researchers**](plutchik.md) - Profiles of leading researchers in the field
-
-### 🤝 **Community & Support**
-- [**Conferences**](conferences.md) - Academic conferences and professional events
-- [**Support Resources**](support.md) - Finding help, community, and professional guidance
-
-## About Us
-
-### Our Network
-Learn about our [mission](mission.md), explore our [network](network.md) of supporters, meet our [advisors](advisors.md), and [contact us](contact.md) to get involved.
-
-## Getting Started
-
-Whether you're:
-
-- **New to Alexithymia?**
-    - Begin with our [FAQ](faq.md) to answer common questions.
-    - Explore our [Lexicon](lexicon.md) to familiarize yourself with key terms.
-- **Supporting someone with alexithymia** 
-    - Check out our [Support Resources](support.md)
-- **A researcher or clinician** 
-    - Explore our [Research Studies](studies.md) and [Papers](papers.md)
-- **Looking for community** 
-    - Connect through our [Network](network.md)
-
-We're here to help you understand this important aspect of human emotional experience and provide the resources you need to navigate the world of emotions more effectively.
+Read about our [mission](mission.md), the [network](network.md), our [advisors](advisors.md), and [contact us](contact.md) to get involved.
 
 ---
 
-*The Alexithymia Awareness Network: Empowering understanding, one emotion at a time.*
+*The Alexithymia Awareness Network — empowering understanding, one emotion at a time.*
