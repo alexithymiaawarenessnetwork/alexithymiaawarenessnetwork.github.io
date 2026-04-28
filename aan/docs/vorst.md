@@ -5,21 +5,6 @@ Hein C.M. Vorst is a Dutch psychologist who co-developed the Bermond-Vorst Alexi
 **Official Wikipedia:** Not available  
 **Current Institution:** [University of Amsterdam](https://www.uva.nl/) (Department of Psychology)
 
-## Contents
-
-| Section | Summary |
-|---------|---------|
-| [Biography and Career](#biography-and-career) | Academic background and professional positions |
-| [BVAQ Co-Development](#contributions-to-alexithymia-assessment) | Psychometric expertise in assessment development |
-| [Research Methodology](#research-methodology-contributions) | Psychometric advances and statistical innovation |
-| [International Collaboration](#international-collaboration) | Cross-cultural research and validation efforts |
-| [Theoretical Contributions](#theoretical-and-methodological-contributions) | Measurement theory and assessment innovation |
-| [Clinical Applications](#clinical-and-research-applications) | Assessment protocols and professional training |
-| [Major Publications](#major-publications-and-research) | Foundational BVAQ work and methodological contributions |
-| [Contemporary Relevance](#contemporary-relevance) | Modern assessment practices and international standards |
-
-## Biography and Career
-
 ## Biography and Career
 
 ### Academic Background

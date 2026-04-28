@@ -5,19 +5,6 @@ Robert Plutchik (1927-2006) was an American psychologist who developed the influ
 **Official Wikipedia:** [https://en.wikipedia.org/wiki/Robert_Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik)  
 **Former Institution:** [Albert Einstein College of Medicine](https://einsteinmed.edu/) (Professor Emeritus)
 
-## Contents
-
-| Section | Summary |
-|---------|---------|
-| [Psychoevolutionary Theory](#psychoevolutionary-theory-of-emotion) | Emotions as adaptive responses to survival challenges |
-| [Primary Emotions Theory](#the-eight-primary-emotions) | Eight basic emotions arranged in opposing pairs |
-| [Wheel Structure](#the-wheel-structure) | Intensity levels and color coding system |
-| [Complex Emotions](#complex-emotions-dyads) | How primary emotions combine to form complex feelings |
-| [Applications for Alexithymia](#applications-for-alexithymia) | Emotional vocabulary building and therapeutic uses |
-| [Research and Validation](#research-and-validation) | Scientific support and clinical applications |
-| [Practical Exercises](#practical-exercises) | Daily tracking and therapeutic applications |
-| [Integration with Other Models](#integration-with-other-models) | Comparison with Ekman's model and dimensional approaches |
-
 ## Psychoevolutionary Theory of Emotion
 
 ### Theoretical Foundation

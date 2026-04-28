@@ -5,18 +5,6 @@ Paul Ekman (born 1934) is an American psychologist who developed the theory of s
 **Official Wikipedia:** [https://en.wikipedia.org/wiki/Paul_Ekman](https://en.wikipedia.org/wiki/Paul_Ekman)  
 **Current Homepage:** [https://www.paulekman.com](https://www.paulekman.com)
 
-## Contents
-
-| Section | Summary |
-|---------|---------|
-| [Basic Emotions Theory](#the-six-basic-emotions) | Six universal emotions recognized across all cultures |
-| [Research Foundation](#research-foundation) | Cross-cultural studies and neurobiological evidence |
-| [FACS Development](#facial-action-coding-system-facs) | Systematic measurement of facial expressions |
-| [Applications for Alexithymia](#applications-for-alexithymia) | Emotion recognition training and therapeutic uses |
-| [Comparison with Other Models](#comparison-with-other-models) | Relationship to Plutchik's wheel and dimensional models |
-| [Digital Tools](#digital-tools-and-resources) | Modern applications and training software |
-| [Integration with Treatment](#integration-with-alexithymia-treatment) | Clinical applications for emotional awareness |
-
 ## The Six Basic Emotions
 
 Ekman's research identified six emotions that are universally recognized through facial expressions:

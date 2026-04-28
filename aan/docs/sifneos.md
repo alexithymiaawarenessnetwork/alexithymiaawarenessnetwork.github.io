@@ -5,21 +5,6 @@ Peter Emanuel Sifneos (1920-2008) was a Greek-American psychiatrist who coined t
 **Official Wikipedia:** Not available  
 **Former Institution:** [Harvard Medical School](https://hms.harvard.edu/) (Professor of Psychiatry)
 
-## Contents
-
-| Section | Summary |
-|---------|---------|
-| [Biography and Career](#biography-and-career) | Early life, education, and professional positions |
-| [Coining Alexithymia](#the-coining-of-alexithymia) | Historic 1973 breakthrough and term development |
-| [Clinical Observations](#clinical-observations-and-research) | Work with psychosomatic patients and therapeutic insights |
-| [Theoretical Contributions](#theoretical-contributions) | Psychosomatic theory and developmental perspectives |
-| [Impact on the Field](#impact-on-the-field) | Research foundation and clinical applications |
-| [Assessment Approaches](#assessment-and-measurement) | Early clinical methods and influence on later tools |
-| [Therapeutic Innovations](#therapeutic-innovations) | STAPP development and treatment considerations |
-| [Legacy](#legacy-and-continuing-influence) | Ongoing research and modern applications |
-
-## Biography and Career
-
 ## Biography and Career
 
 ### Early Life and Education

@@ -5,21 +5,6 @@ Graeme James Taylor is a Canadian psychiatrist who developed the Toronto Alexith
 **Official Wikipedia:** Not available  
 **Current Institution:** [University of Toronto](https://www.utoronto.ca/) (Department of Psychiatry)
 
-## Contents
-
-| Section | Summary |
-|---------|---------|
-| [Biography and Career](#biography-and-career) | Academic background and professional positions |
-| [TAS-20 Development](#the-toronto-alexithymia-scale-tas-20) | Creation of the gold standard alexithymia assessment |
-| [Theoretical Contributions](#theoretical-contributions) | Multidimensional model and affect regulation theory |
-| [Research Contributions](#research-contributions) | Prevalence studies and medical applications |
-| [Clinical Applications](#clinical-applications) | Assessment protocols and treatment implications |
-| [Major Publications](#major-publications) | Foundational works and collaborative research |
-| [Methodological Innovations](#methodological-innovations) | Psychometric advances and research design |
-| [Ongoing Research](#ongoing-research) | Current developments building on Taylor's work |
-
-## Biography and Career
-
 ## Biography and Career
 
 ### Academic Background

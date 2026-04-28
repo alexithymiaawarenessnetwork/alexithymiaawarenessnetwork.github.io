@@ -5,24 +5,6 @@ R. Michael Bagby is a Canadian psychologist who co-developed the Toronto Alexith
 **Official Wikipedia:** Not available  
 **Current Institution:** [University of Toronto](https://www.utoronto.ca/) (Department of Psychology)
 
-## Contents
-
-| Section | Summary |
-|---------|---------|
-| [Biography and Career](#biography-and-career) | Academic background and professional positions |
-| [TAS-20 Co-Development](#contributions-to-alexithymia-research) | Psychometric expertise in scale development |
-| [Development Process](#the-tas-20-development-process) | Initial construction, validation, and refinement |
-| [Methodological Contributions](#research-methodology-contributions) | Psychometric advances and assessment innovation |
-| [Clinical Applications](#clinical-applications) | Assessment protocols and training programs |
-| [Personality Assessment Research](#personality-assessment-research) | Broader work in psychological assessment |
-| [International Collaboration](#international-collaboration) | Global research networks and validation studies |
-| [Major Publications](#major-publications) | Foundational assessment papers and collaborative works |
-| [Methodological Expertise](#methodological-expertise) | Statistical approaches and psychometric theory |
-| [Contemporary Relevance](#contemporary-relevance) | Digital assessment and precision medicine applications |
-| [Future Directions](#future-directions) | Emerging technologies and methodological advances |
-
-## Biography and Career
-
 ## Biography and Career
 
 ### Academic Background
