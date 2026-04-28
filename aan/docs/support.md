@@ -1,29 +1,36 @@
 # Support & Community
 
-This page contains support resources, community connections, and professional services for individuals with alexithymia and their families. These resources provide emotional support, practical guidance, and opportunities for connection.
+This page covers everyday support resources and community connections for people with alexithymia, their families, and clinicians who work with them. It's a starting point for finding peers, professionals, and ongoing support.
+
+!!! danger "If you're in crisis"
+    For thoughts of suicide or self-harm, acute distress, or immediate danger, please go to **[Crisis & Urgent Support →](crisis-help.md)**.
+
+    **United States:** call or text **988**. **Crisis Text Line:** text **HOME** to **741741**. **Emergency:** **911**.
+
+---
 
 ## Online Communities
 
 ### Reddit Communities
-**r/Alexithymia** - [Active Community Discussion](https://www.reddit.com/r/Alexithymia/)
+**r/Alexithymia** — [Active Community Discussion](https://www.reddit.com/r/Alexithymia/)
 - Largest online alexithymia community
 - Personal experiences and support
 - Questions and advice sharing
 - Regular discussion threads
 
-**r/emotionalneglect** - [Related Support Community](https://www.reddit.com/r/emotionalneglect/)
+**r/emotionalneglect** — [Related Support Community](https://www.reddit.com/r/emotionalneglect/)
 - Support for emotional development challenges
 - Healing and recovery discussions
 - Relevant for many with alexithymia
 
 ### Specialized Forums
-**Alexithymia Support Forum** - [Dedicated Community](https://www.alexithymia.us/forum)
+**Alexithymia Support Forum** — [Dedicated Community](https://www.alexithymia.us/forum)
 - Focused alexithymia discussions
 - Moderated environment
 - Resources and information sharing
 - Anonymous participation option
 
-**Wrong Planet** - [Autism and Alexithymia](https://wrongplanet.net/)
+**Wrong Planet** — [Autism and Alexithymia](https://wrongplanet.net/)
 - Large autism community with alexithymia discussions
 - Relevant for those with both conditions
 - Social skills and communication support
@@ -31,13 +38,13 @@ This page contains support resources, community connections, and professional se
 ## Professional Support
 
 ### Finding Therapists
-**Psychology Today Therapist Directory** - [Find a Therapist](https://www.psychologytoday.com/us/therapists)
+**Psychology Today Therapist Directory** — [Find a Therapist](https://www.psychologytoday.com/us/therapists)
 - Search by location and specialization
 - Filter for emotion-focused therapy
 - Read therapist profiles and approaches
 - Insurance and payment information
 
-**Therapy Den** - [Alternative Therapist Directory](https://www.therapyden.com/)
+**Therapy Den** — [Alternative Therapist Directory](https://www.therapyden.com/)
 - Diverse and inclusive therapist listings
 - Detailed therapist information
 - Specialization in various approaches
@@ -80,34 +87,6 @@ This page contains support resources, community connections, and professional se
 - Stress and anxiety management groups
 - Chronic illness support groups
 - Often covered by insurance
-
-## Crisis and Immediate Support
-
-### Crisis Hotlines
-**National Suicide Prevention Lifeline**
-- Phone: 988
-- 24/7 crisis support
-- Text and chat options available
-- Trained crisis counselors
-
-**Crisis Text Line**
-- Text HOME to 741741
-- 24/7 text-based crisis support
-- Anonymous and confidential
-- Trained crisis counselors
-
-### Emotional Support
-**7 Cups** - [Free Emotional Support](https://www.7cups.com/)
-- Free emotional support chat
-- Trained volunteer listeners
-- Anonymous and accessible
-- Available 24/7
-
-**SAMHSA National Helpline**
-- Phone: 1-800-662-4357
-- Mental health and substance abuse information
-- Treatment referrals and support
-- 24/7 availability
 
 ## Family and Relationship Support
 
@@ -216,28 +195,6 @@ This page contains support resources, community connections, and professional se
 - Community-specific support
 - Translation and interpretation services
 
-## Emergency Resources
-
-### When to Seek Immediate Help
-**Emergency Situations:**
-- Thoughts of self-harm or suicide
-- Severe emotional distress
-- Inability to function in daily life
-- Substance abuse or dangerous behaviors
-
-**Emergency Contacts:**
-- 911 for immediate medical emergencies
-- 988 for mental health crises
-- Local emergency departments
-- Crisis intervention teams
-
-### Safety Planning
-**Creating a Safety Plan:**
-- Identifying warning signs
-- Coping strategies and resources
-- Support person contacts
-- Professional emergency contacts
-
 ## Resource Directories
 
 ### National Organizations
@@ -268,4 +225,4 @@ This page contains support resources, community connections, and professional se
 
 ---
 
-*Support resources are continuously updated based on community needs and available services. If you know of additional resources or have suggestions for improvement, please [contact us](contact.md).*
+*Support resources are reviewed periodically based on community needs. If you know of additional resources or have suggestions for improvement, please [contact us](contact.md). For crisis resources, see [Crisis & Urgent Support](crisis-help.md).*
