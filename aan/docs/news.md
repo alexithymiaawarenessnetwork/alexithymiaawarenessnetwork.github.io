@@ -1,6 +1,8 @@
 # News
 
-Stay updated with the latest developments from the Alexithymia Awareness Network. Here you'll find announcements, updates, and insights from our community.
+Announcements and updates from the Alexithymia Awareness Network. We post when there's something worth saying — site milestones, new content sections, partnerships, calls for contribution. We don't post for the sake of posting.
+
+For conference announcements, see [Conferences](conferences.md). For new research papers, see [Research Papers](papers.md).
 
 ---
 
@@ -12,4 +14,4 @@ Getting things in shape for launch.
 
 ---
 
-*More news updates will be posted here as they become available.*
+*More updates will be posted here as they happen. To suggest a news item or partnership, [contact us](contact.md).*

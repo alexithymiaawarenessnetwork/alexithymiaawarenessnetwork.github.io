@@ -1,118 +1,61 @@
 # Resources
 
-Welcome to the AAN resource center. We've organized our comprehensive collection of alexithymia resources into focused sections to make them more accessible and easier to navigate.
+The AAN resource hub. Each section below has its own dedicated page; this page is the starting point.
 
 ## Resource Categories
 
 ### 📚 [Books](books.md)
-Comprehensive collection of recommended reading on alexithymia, emotion theory, and emotional awareness.
+Recommended reading on alexithymia, emotion theory, and emotional awareness — academic texts, self-help and popular science, historical works. Reading recommendations grouped by topic. Buy links support independent bookstores.
 
-**What you'll find:**
-- Academic texts and research publications
-- Self-help and popular science books
-- Historical works on emotion theory
-- Reading recommendations by topic
-- All books include affiliate links supporting independent bookstores
+### 📱 [Mobile Apps & Digital Tools](apps.md)
+Mobile applications for emotion tracking, mindfulness, and skill-building. Featured alexithymia-specific apps, general emotional wellness apps, web-based tools, and community reviews.
 
-**Featured highlights:**
-- Cambridge Handbook of Alexithymia (2024)
-- Taylor, Bagby, Parker's foundational academic text
-- Mindfulness and emotional awareness guides
-- Historical perspectives from Spinoza and Darwin
+### 🔧 [Assessment Instruments](tools.md)
+Validated assessment tools — TAS-20, BVAQ, OAS, LEAS, EI assessments — with details on administration, scoring, validation, and interpretation. For clinicians, researchers, and serious self-assessment.
 
----
+### 🎙️ [Podcasts](podcasts.md)
+Curated podcast episodes and ongoing shows that explore alexithymia, emotional awareness, and adjacent topics.
 
-### 🔧 [Assessment Tools & Online Resources](tools.md)
-Digital tools, assessment questionnaires, and online resources for understanding and evaluating alexithymia.
-
-**What you'll find:**
-- Validated assessment tools (TAS-20, BVAQ)
-- Online questionnaires and screening tools
-- Mobile apps for emotion tracking and mindfulness
-- Educational websites and research institutions
-- Professional assessment guidelines
-
-**Featured highlights:**
-- Free online alexithymia assessment
-- Research-based emotion tracking apps
-- University research centers and resources
-- Professional evaluation guidelines
-
----
+### 📰 [Research Papers](papers.md)
+Sortable, searchable table of academic papers on alexithymia and emotional awareness.
 
 ### 🤝 [Support & Community](support.md)
-Community connections, professional services, and support resources for individuals and families.
-
-**What you'll find:**
-- Online communities and forums
-- Professional therapy and counseling resources
-- Crisis support and emergency resources
-- Family and relationship support
-- Workplace and educational accommodations
-
-**Featured highlights:**
-- Active Reddit and forum communities
-- Therapist directories and specialized approaches
-- Crisis hotlines and immediate support
-- Resources for partners and families
+Online communities, therapist directories, support groups, family resources, workplace and educational accommodations. For crisis resources see [Crisis & Urgent Support](crisis-help.md).
 
 ---
-
-## Quick Access Links
-
-### Immediate Needs
-- **Take an Assessment**: [Online Alexithymia Test](https://www.alexithymia.us/test-alexithymia)
-- **Find Support**: [r/Alexithymia Community](https://www.reddit.com/r/Alexithymia/)
-- **Crisis Help**: Call 988 (Suicide & Crisis Lifeline)
-- **Find a Therapist**: [Psychology Today Directory](https://www.psychologytoday.com/us/therapists)
-
-### Popular Resources
-- **FAQ**: [Frequently Asked Questions](faq.md) - Common questions and experiences
-- **Diagnosis**: [Diagnosis & Comorbidity](diagnosis.md) - Assessment tools and related conditions
-- **Studies**: [Research Papers](studies.md) - Academic research and publications
-- **Lexicon**: [Terminology](lexicon.md) - Key terms and definitions
 
 ## Getting Started
 
-### New to Alexithymia?
-1. **Learn the basics**: Start with our [FAQ](faq.md) for common questions
-2. **Understand the terms**: Review our [Lexicon](lexicon.md) for key concepts
-3. **Take an assessment**: Try the [online questionnaire](https://www.alexithymia.us/test-alexithymia)
-4. **Connect with others**: Join the [community discussions](https://www.reddit.com/r/Alexithymia/)
+### New to alexithymia?
 
-### Looking for Professional Help?
-1. **Review therapeutic approaches**: Check our [Support](support.md) section
-2. **Find qualified professionals**: Use our [therapist directory links](support.md#finding-therapists)
-3. **Understand assessment options**: Read about [professional evaluation](tools.md#professional-assessment)
-4. **Prepare for appointments**: Review our [assessment guidelines](tools.md#assessment-guidelines)
+1. Read the [FAQ](faq.md) for the most common questions
+2. Browse the [Lexicon](lexicon.md) for terminology
+3. Take a [free online screening](https://www.alexithymia.us/test-alexithymia) (it's a screen, not a diagnosis)
+4. Join community discussion at [r/Alexithymia](https://www.reddit.com/r/Alexithymia/)
 
-### Interested in Research?
-1. **Explore current studies**: Visit our [Studies](studies.md) section
-2. **Read foundational texts**: Check our [Books](books.md) recommendations
-3. **Access research tools**: Review [assessment instruments](tools.md#assessment-tools)
-4. **Connect with researchers**: Find [research institutions](tools.md#educational-websites)
+### Looking for professional help?
 
-## Contributing to Resources
+1. Read [Diagnosis & Assessment](diagnosis.md) and [Treatment](treatment.md)
+2. Find a therapist via [Support & Community](support.md#professional-support)
+3. Review [Assessment Instruments](tools.md) before clinical evaluation
 
-We welcome community contributions to improve and expand our resource collection:
+### In crisis?
 
-- **Book recommendations**: Share titles that have been helpful
-- **Resource suggestions**: Recommend websites, tools, or services
-- **Community feedback**: Help us improve existing resources
-- **Professional input**: Healthcare providers can suggest clinical resources
+→ **[Crisis & Urgent Support](crisis-help.md)** — 988 (US): call or text. Emergency: 911.
 
-To contribute, please [contact us](contact.md) with your suggestions.
+### Interested in research?
 
-## Resource Updates
-
-Our resource collection is continuously updated based on:
-- New research publications and findings
-- Community feedback and recommendations
-- Professional input from healthcare providers
-- Changes in available services and tools
-
-Last updated: December 2024
+1. Search [Research Papers](papers.md) (sortable / filterable)
+2. Browse [Research Labs & Institutions](labs.md) by region
+3. Explore [Emotion Frameworks](emotion-frameworks.md) for theoretical grounding
+4. See the researcher profiles linked from the navigation (Plutchik, Ekman, Sifneos, Taylor, Bagby, Parker, Wilcox, Bermond, Vorst)
 
 ---
 
-*All resources are provided for informational purposes. For personalized advice and treatment, please consult with qualified healthcare professionals.*
+## Contributing to Resources
+
+Suggestions are welcome. We accept book and podcast recommendations, app reviews, links to organizations and services, and corrections. [Contact us](contact.md) with the details and we'll review them for inclusion.
+
+---
+
+*All resources are provided for informational purposes. For personalized advice and treatment, consult with qualified healthcare professionals.*

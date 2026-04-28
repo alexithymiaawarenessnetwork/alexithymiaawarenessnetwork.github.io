@@ -1,12 +1,29 @@
 # Conferences
 
-This page highlights upcoming and notable conferences related to emotion research, alexithymia, and related fields. These events provide opportunities for researchers, clinicians, and advocates to share knowledge, present findings, and build connections within the scientific community.
+Upcoming and notable conferences related to emotion research, alexithymia, and adjacent fields. These events are opportunities for researchers, clinicians, and advocates to share knowledge, present findings, and build connections.
+
+**Page policy:** events stay listed under "Upcoming" until they happen, then move to "Recent past" for ~6 months (useful for finding proceedings and recordings), then are removed unless they're a recurring conference whose entry is permanent reference. If you spot a stale event, [let us know](contact.md).
 
 ---
 
-## Finding Current Conferences
+## Upcoming Conferences
 
-For the most up-to-date information on upcoming conferences, we recommend checking the websites of professional organizations and academic societies listed below. Conference dates, locations, and submission deadlines change annually.
+*No upcoming events currently listed. To submit one, [contact us](contact.md).*
+
+---
+
+## Recent past
+
+### CERE 2025 — 10th Conference of the Consortium of European Research on Emotion
+
+**📅 July 16–18, 2025**  
+**📍 Grenoble, France**  
+**🏛️ Université Grenoble Alpes**
+
+The 2025 CERE conference brought together researchers across affective computing, anthropology, art and design, education, history, linguistics, neuroscience, philosophy, psychology, and sociology.
+
+**Website:** [www.cere2025.com](https://www.cere2025.com/) (proceedings and recordings, where available)  
+**Contact:** [CERE2025@univ-grenoble-alpes.fr](mailto:cere2025@univ-grenoble-alpes.fr)
 
 ---
 
