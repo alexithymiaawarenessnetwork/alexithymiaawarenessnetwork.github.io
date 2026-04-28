@@ -1,0 +1,4 @@
+# Build dependencies for the AAN MkDocs site.
+# Install:  pip install -r requirements.txt
+mkdocs>=1.5
+mkdocs-material>=9.0
