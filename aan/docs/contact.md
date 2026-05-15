@@ -7,6 +7,7 @@ We welcome questions, feedback, and collaboration opportunities from individuals
 **Email:** [team@alexithymiaawarenessnetwork.org](mailto:team@alexithymiaawarenessnetwork.org)
 
 Whether you're:
+
 - Newly discovering alexithymia and have questions
 - A researcher interested in collaboration
 - A clinician seeking resources for patients

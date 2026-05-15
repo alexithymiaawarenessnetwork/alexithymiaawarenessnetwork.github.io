@@ -1,4 +1,9 @@
 # Mission
 
-The mission of the Alexithymia Awareness Network is to increase awareness of the condition, to develop interest and further support for research, and to provide references to the latest treatment options.
+The mission of the Alexithymia Awareness Network is to:
+
+- Increase awareness of alexithymia.
+- Build a strong, caring community of fellow alexithymics.
+- Develop interest in, and support for, further research.
+- Provide references to the latest and most useful information.
 

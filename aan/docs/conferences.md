@@ -6,12 +6,6 @@ No dated upcoming events are listed yet. This page will prioritize events with c
 
 When adding an event, include the event name, dates, location or virtual format, official link, submission deadline when relevant, and a short note about why it matters for AAN readers.
 
-## Past-Event Policy
-
-Past events should stay on this page only when they remain useful as durable references: for example, when recordings, proceedings, abstracts, or alexithymia-relevant sessions are available. Stale event announcements without reusable material should be removed after the event has passed.
-
-For recurring conferences, keep the series in the category lists below and add specific dated events to Upcoming Events only when the next meeting has been verified.
-
 ## Conference Types Relevant to Alexithymia Research
 
 ### Emotion Research Conferences

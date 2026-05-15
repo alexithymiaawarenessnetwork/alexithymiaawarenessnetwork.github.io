@@ -1,178 +1,142 @@
 # Assessment Instruments
 
-Validated assessment tools for measuring alexithymic traits. This page is for clinicians, researchers, and individuals seeking serious self-assessment.
+Validated instruments used in the research literature to measure alexithymia. This page is informational. Self-report and online versions of these instruments are screening tools, not diagnostic instruments; results should be interpreted by a qualified clinician in context.
 
-For mobile and digital apps that support emotion tracking, mindfulness, and skill-building, see [Mobile Apps & Digital Tools](apps.md). For research labs and institutions doing alexithymia work, see [Research Labs & Institutions](labs.md).
+For mobile apps and digital tools, see [Mobile Apps & Digital Tools](apps.md). For labs developing and validating new instruments, see [Research Labs & Institutions](labs.md).
 
-## Assessment Instruments
+## Self-Report Instruments
 
 ### Toronto Alexithymia Scale (TAS-20)
 
-The most widely used and validated assessment tool for alexithymia.
+The most widely used self-report measure of alexithymia.
 
-**Official information:** [University of Toronto Research](https://www.psychology.utoronto.ca/faculty-and-research/research-areas/clinical-psychology/alexithymia-research)
+**Developed by:** R. Michael Bagby, James D. A. Parker, and Graeme J. Taylor.
+
+**Primary citation:** [Bagby, Parker, & Taylor (1994). *Journal of Psychosomatic Research*, 38(1), 23–32.](citations.json#bagby_parker_taylor_1994_tas20)
 
 **Key features:**
 
 - 20-item self-report questionnaire
 - Three subscales: Difficulty Identifying Feelings (DIF), Difficulty Describing Feelings (DDF), Externally Oriented Thinking (EOT)
-- Validated across multiple cultures and populations
-- Gold standard for alexithymia assessment
-- Administration: 5–10 minutes
-- Scoring: 20–51 (low), 52–60 (moderate), 61+ (high alexithymia)
+- Validated in numerous languages and populations
+- Administration: approximately 5–10 minutes
+- Established research-use cutoff scores are commonly reported as ≤51 (low/non-alexithymic), 52–60 (possible/borderline), and ≥61 (high/alexithymic); these are research conventions, not clinical diagnoses
 
-→ See also: [Taylor](taylor.md), [Bagby](bagby.md), [Parker](parker.md) — the developers of the TAS-20.
+**Reference site:** [University of Toronto Alexithymia Research](https://www.psychology.utoronto.ca/faculty-and-research/research-areas/clinical-psychology/alexithymia-research)
 
-### Bermond-Vorst Alexithymia Questionnaire (BVAQ)
+→ See researcher pages: [Taylor](taylor.md) · [Bagby](bagby.md) · [Parker](parker.md)
 
-Alternative assessment with separate cognitive and affective alexithymia subscales.
+### Bermond–Vorst Alexithymia Questionnaire (BVAQ)
 
-**Validation reference:** [BVAQ Validation Study](https://www.researchgate.net/publication/254784425_Validity_and_reliability_of_Bermond-Vorst_Alexithymia_Questionnaire)
+An alternative self-report measure that separates cognitive and affective dimensions of alexithymia.
+
+**Developed by:** Bob Bermond and Hein C. M. Vorst.
+
+**Primary citation:** [Bermond & Vorst (2013). *Personality and Individual Differences*, 54(1), 30–35.](citations.json#bermond_vorst_2013_bvaq)
 
 **Key features:**
 
-- 40-item questionnaire
-- Five factors: identifying emotions, verbalizing emotions, analyzing emotions, emotionalizing, fantasizing
-- Distinguishes cognitive from affective alexithymia (a distinction TAS-20 does not draw)
-- Useful for research and detailed clinical assessment
-- Provides finer-grained profile than TAS-20
+- 40-item self-report questionnaire
+- Five subscales: identifying, verbalizing, analyzing, emotionalizing, and fantasizing
+- Distinguishes a cognitive dimension (identifying, verbalizing, analyzing) from an affective dimension (emotionalizing, fantasizing) — a distinction the TAS-20 does not draw
+- Used in both research and clinical contexts
 
-→ See also: [Bermond](bermond.md), [Vorst](vorst.md) — the developers of the BVAQ.
+→ See researcher pages: [Bermond](bermond.md) · [Vorst](vorst.md)
+
+### Perth Alexithymia Questionnaire (PAQ)
+
+A more recent self-report instrument that separately assesses alexithymia for positive and negative emotions.
+
+**Developed by:** David A. Preece, Rodrigo Becerra, Kate Robinson, Justine Dandy, and Alfred Allan.
+
+**Primary citation:** [Preece, Becerra, Robinson, Dandy, & Allan (2018). *Personality and Individual Differences*, 132, 32–44.](citations.json#preece_becerra_robinson_2018_paq)
+
+**Key features:**
+
+- 24-item self-report questionnaire
+- Assesses three facets — Difficulty Identifying Feelings, Difficulty Describing Feelings, and Externally Oriented Thinking — separately for positive (N-DIF/P-DIF/P-DDF/P-EOT, etc.) and negative emotional states
+- Designed to address measurement concerns with the EOT subscale of the TAS-20
+- A 6-item Perth Alexithymia Questionnaire–Short Form (PAQ-S) has also been published (Preece et al., 2023)
+
+## Interview-Based Instruments
+
+### Toronto Structured Interview for Alexithymia (TSIA)
+
+A clinician-administered structured interview measure of alexithymia.
+
+**Developed by:** R. Michael Bagby, Graeme J. Taylor, James D. A. Parker, and Susan E. Dickens.
+
+**Primary citation:** [Bagby, Taylor, Parker, & Dickens (2006). *Psychotherapy and Psychosomatics*, 75(1), 25–39.](citations.json#bagby_taylor_parker_dickens_2006_tsia)
+
+**Key features:**
+
+- 24-item structured clinical interview administered by a trained interviewer
+- Same four-facet conceptualization used by the TAS family (difficulty identifying feelings, difficulty describing feelings, externally oriented thinking, and reduced imaginal processes)
+- Useful when self-report capacity is limited or when more in-depth assessment is required
+
+→ See researcher pages: [Taylor](taylor.md) · [Bagby](bagby.md) · [Parker](parker.md)
+
+## Observer-Rated Instruments
 
 ### Observer Alexithymia Scale (OAS)
 
-Third-party assessment by family members or clinicians.
+An informant-rated measure completed by someone who knows the person being assessed (e.g., a family member or clinician).
+
+**Developed by:** Mark G. Haviland, William L. Warren, and Lynn A. Riggs.
+
+**Primary citation:** [Haviland, Warren, & Riggs (2000). *Psychosomatics*, 41(5), 385–392.](citations.json#haviland_warren_riggs_2000_oas)
 
 **Key features:**
 
-- 33 items rated by an observer who knows the individual
-- Reduces self-report bias
-- Useful when self-awareness is limited (which is intrinsically common in alexithymia)
-- Complements but does not replace self-report measures
+- 33 items rated by an observer
+- Five-factor structure (distant, uninsightful, somatizing, humorless, rigid)
+- Reduces self-report bias and is useful where self-awareness of emotional functioning is limited
+- Complements, rather than replaces, self-report measures
+
+## Performance-Based Instruments
 
 ### Levels of Emotional Awareness Scale (LEAS)
 
-Performance-based measure of emotional awareness.
+A performance-based measure of the cognitive complexity of emotional experience.
+
+**Developed by:** Richard D. Lane, Donald M. Quinlan, Gary E. Schwartz, Pamela A. Walker, and Sharon B. Zeitlin.
+
+**Primary citation:** [Lane, Quinlan, Schwartz, Walker, & Zeitlin (1990). *Journal of Personality Assessment*, 55(1–2), 124–134.](citations.json#lane_quinlan_schwartz_walker_1990_leas)
 
 **Key features:**
 
-- Scenario-based — respondents describe emotional reactions to vignettes
-- Scored on the complexity and differentiation of emotional responses
-- Less affected by self-report biases than questionnaires
-- Used primarily in research and comprehensive clinical evaluation
+- Respondents describe their anticipated feelings — and the feelings of another person — in written emotional scenarios
+- Scored on the complexity and differentiation of the emotional language used, rather than on self-report agreement
+- Less affected by introspective biases than self-report questionnaires
+- Used primarily in research and comprehensive clinical assessment
 
-### Online Alexithymia Questionnaire (community version)
+## Community Self-Screens
 
-Free, accessible online screening developed for community use.
+### Online Alexithymia Questionnaire
 
-**Take the assessment:** [alexithymia.us/test-alexithymia](https://www.alexithymia.us/test-alexithymia)
+A free, publicly available online self-screen.
 
-**Key features:**
+**Available at:** [alexithymia.us/test-alexithymia](https://www.alexithymia.us/test-alexithymia)
 
-- Free and anonymous
-- Originally developed in 2005, updated periodically
-- Designed to address some practical limitations of traditional questionnaires for self-administered use
-- Includes interpretation guidance
-- Should be treated as a screen, not a diagnostic instrument
+**Notes:**
 
-### Emotional Intelligence Assessments
+- Designed for self-administration in a community setting
+- Provides interpretive guidance, but is a screening instrument only
+- Not a substitute for the validated instruments described above and not a diagnostic tool
 
-Broader assessment of emotional skills and awareness — useful as a complement to alexithymia-specific instruments.
+## Notes on Interpretation
 
-**Common instruments:**
+Alexithymia is treated in the research literature as a dimensional trait. Instrument scores are continuous; commonly cited cutoff scores (such as the ≥61 threshold on the TAS-20) are research conventions used to define groups for analysis, not clinical diagnoses. Scores from any single administration can be affected by current mood, fatigue, and context. Comprehensive evaluation — including history-taking, clinical interview, and consideration of co-occurring conditions — should be carried out by a qualified clinician.
 
-- **Mayer-Salovey-Caruso EIT (MSCEIT)** — performance-based emotional intelligence
-- **Bar-On EQ-i 2.0** — self-report emotional quotient inventory
-- **Psychology Today EQ Test** — informal online screen, [link](https://www.psychologytoday.com/us/tests/personality/emotional-intelligence-test)
-
-These provide context for an alexithymia score: emotional intelligence is a broader construct that includes — but is not limited to — emotional awareness.
-
-## Assessment Guidelines
-
-### Using online assessments
-
-**Important considerations:**
-
-- Online tests are screening tools, not diagnostic instruments
-- Results should be interpreted with caution
-- Professional assessment is recommended for comprehensive evaluation
-- Many factors can influence results: current mood, fatigue, stress, situational context
-
-**Best practices:**
-
-- Take assessments when reasonably calm and focused
-- Answer honestly and thoughtfully
-- Consider taking multiple assessments for comparison
-- Discuss results with a healthcare provider if results suggest significant impact
-
-### Professional assessment
-
-**When to seek professional evaluation:**
-
-- Significant impact on relationships or daily functioning
-- Co-occurring mental health concerns
-- Need for comprehensive psychological evaluation
-- Seeking therapy or treatment planning
-
-**Types of professional assessment:**
-
-- Clinical interviews with trained professionals
-- Comprehensive psychological testing
-- Neuropsychological evaluation if indicated
-- Integration with medical and psychiatric evaluation
-
-For finding a therapist or clinician, see [Support & Community](support.md#professional-support).
-
-## Research and Validation
-
-### TAS-20 validation
-
-- Validated in over 30 languages
-- Consistent reliability across cultures
-- Strong psychometric properties (good internal consistency, test-retest reliability, factor structure replicability)
-- Widely used in research and clinical practice
-- Some debate over the third subscale (EOT) and its cross-cultural stability
-
-### BVAQ validation
-
-- Good internal consistency and test-retest reliability
-- Useful for distinguishing cognitive and affective alexithymia
-- Validated in multiple populations
-- Complementary to TAS-20 assessment
-
-### Current research directions
-
-- Cross-cultural validation of assessment tools
-- Development of new measurement approaches (performance-based, neuroimaging-augmented)
-- Integration with physiological measures
-- Assessment in specific populations (autism spectrum, depression, somatic disorders, eating disorders)
-
-For the broader research literature, see [Research Papers](papers.md).
-
-## Interpretation and Next Steps
-
-### Understanding TAS-20-style results
-
-**High scores (61+):** Indicate substantial difficulty with emotional awareness and expression. Not a diagnosis or pathology — alexithymia is a dimensional trait — but a signal worth taking seriously, particularly if it correlates with felt life difficulty. May benefit from targeted interventions.
-
-**Moderate scores (52–60):** Some challenges with emotional processing, possibly selective difficulties in specific areas. May benefit from awareness and skill-building. Examine the subscale pattern: high DIF but low EOT means something different from high EOT but low DIF.
-
-**Low scores (under 52):** Generally good emotional awareness and expression. May still benefit from emotional skill development, especially in specific contexts (e.g., handling intense emotions, communicating in close relationships).
-
-### Resources for further development
-
-- [Treatment](treatment.md) — therapeutic modalities and what they're useful for
-- [Support & Community](support.md) — finding peer support and professional help
-- [Mobile Apps & Digital Tools](apps.md) — daily-practice tools
-- [FAQ](faq.md) — common questions about what alexithymia means in everyday life
+For background on the construct itself, see [FAQ](faq.md). For broader context on assessment in practice, see [Diagnosis & Assessment](diagnosis.md).
 
 ---
 
 ## Related Resources
 
 - [Diagnosis & Assessment](diagnosis.md) — how alexithymia is identified clinically
-- [Research Papers](papers.md) — the underlying research
-- [Mobile Apps & Digital Tools](apps.md) — apps for emotion tracking, mindfulness, skill-building
-- [Research Labs & Institutions](labs.md) — labs developing and validating new instruments
+- [Research Papers](papers.md) — primary literature
+- [Mobile Apps & Digital Tools](apps.md) — adjacent digital tools
+- [Research Labs & Institutions](labs.md) — labs developing and validating instruments
 
-*Assessment tools and resources are reviewed periodically as new research emerges. For comprehensive evaluation and treatment planning, consult with qualified professionals.*
+*Instruments listed here are those most commonly cited in the peer-reviewed alexithymia literature. This list is reviewed periodically.*

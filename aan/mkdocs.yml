@@ -41,6 +41,13 @@ nav:
     - Mission: mission.md
     - Network: network.md
     - Contact: contact.md
+  - Understanding Alexithymia:
+    - FAQ: faq.md
+    - Diagnosis & Assessment: diagnosis.md
+    - Comorbidities: comorbidities.md
+    - Treatment: treatment.md
+    - Lexicon: lexicon.md
+    - Emotion Frameworks: emotion-frameworks.md
   - Emotion Researchers:
     - Plutchik: plutchik.md
     - Ekman: ekman.md
@@ -51,13 +58,6 @@ nav:
     - Wilcox: wilcox.md
     - Bermond: bermond.md
     - Vorst: vorst.md
-  - Understanding Alexithymia:
-    - FAQ: faq.md
-    - Diagnosis & Assessment: diagnosis.md
-    - Comorbidities: comorbidities.md
-    - Treatment: treatment.md
-    - Lexicon: lexicon.md
-    - Emotion Frameworks: emotion-frameworks.md
   - Resources:
     - Overview: resources.md
     - Apps: apps.md

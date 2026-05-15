@@ -1,6 +1,6 @@
 # News
 
-Announcements and updates from the Alexithymia Awareness Network. We post when there's something worth saying — site milestones, new content sections, partnerships, calls for contribution. We don't post for the sake of posting.
+Announcements and updates from the Alexithymia Awareness Network.
 
 For conference announcements, see [Conferences](conferences.md). For new research papers, see [Research Papers](papers.md).
 
@@ -11,6 +11,12 @@ For conference announcements, see [Conferences](conferences.md). For new researc
 **June 19, 2025**
 
 Getting things in shape for launch.
+
+## Building out {#building-out}
+
+**May 2026**
+
+Continuing to build our network and improve our resources.
 
 ---
 
