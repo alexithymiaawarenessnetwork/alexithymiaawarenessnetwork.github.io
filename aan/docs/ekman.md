@@ -9,10 +9,6 @@ Paul Ekman (born 1934) is an American psychologist who developed the theory of s
 
 Ekman's research identified six emotions that are universally recognized through facial expressions:
 
-## The Six Basic Emotions
-
-Ekman's research identified six emotions that are universally recognized through facial expressions:
-
 ### Happiness
 **Description**: Feelings of joy, contentment, satisfaction, and pleasure
 - **Facial Expression**: Genuine smile (Duchenne smile) involving both mouth and eyes

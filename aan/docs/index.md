@@ -55,7 +55,7 @@ We exist to:
 
 ## About AAN
 
-Read about our [mission](mission.md), the [network](network.md), our [advisors](advisors.md), and [contact us](contact.md) to get involved.
+Read about our [mission](mission.md), the [network](network.md), and [contact us](contact.md) to get involved.
 
 ---
 

@@ -1,6 +1,10 @@
 # AAN: The Alexithymia Awareness Network
 
+Public knowledgebase and organizational web presence for the Alexithymia Awareness Network — an MkDocs-built site deployed via GitHub Pages.
+
 This repository contains the source code and content for the Alexithymia Awareness Network website, hosted at [alexithymiaawarenessnetwork.org](https://alexithymiaawarenessnetwork.org).
+
+> **Status:** active · p0 · in content build-out. See [`CONTENT_PLAN.md`](CONTENT_PLAN.md) for the editorial roadmap and [`TODO.md`](TODO.md) for the working punch list.
 
 ## Site Structure
 
@@ -89,3 +93,14 @@ The site uses:
 3. Deploy using `./deploy.sh "Description of changes"`
 
 The site will be automatically updated on GitHub Pages within a few minutes.
+
+## Related Projects
+
+Part of a larger AAN / Herrick-model body of work tracked in [`/Users/div/Repositories/project-mgmt/`](../project-mgmt/):
+
+- **`voice-recording-analysis`** — pipeline turning interview recordings into transcripts → LSA → Neo4j graph
+- **`a-good-life`** — interview source corpus (Bella, DR0000_xxxx series) likely fed into the pipeline above
+- **`polarity-sim`** — the Herrick model expressed as a runnable simulation (TS + React + D3)
+- **`emotion-graph`** — emotion-data visualizer
+- **`herrick-coping-analysis-tool`** — Python CLI for coping analysis on emotional-content inputs
+- **`metagamist`** — adjacent research/knowledge collection (AGL interviews, emotion/cognition guides)

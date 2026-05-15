@@ -1,16 +1,16 @@
 # Conferences
 
-Upcoming and notable conferences related to emotion research, alexithymia, and adjacent fields. These events are opportunities for researchers, clinicians, and advocates to share knowledge, present findings, and build connections.
+## Upcoming Events
 
-**Page policy:** events stay listed under "Upcoming" until they happen, then move to "Recent past" for ~6 months (useful for finding proceedings and recordings), then are removed unless they're a recurring conference whose entry is permanent reference. If you spot a stale event, [let us know](contact.md).
+No dated upcoming events are listed yet. This page will prioritize events with clear relevance to alexithymia, emotion research, affective science, autism, psychosomatic medicine, psychiatry, or clinical practice.
 
----
+When adding an event, include the event name, dates, location or virtual format, official link, submission deadline when relevant, and a short note about why it matters for AAN readers.
 
-## Upcoming Conferences
+## Past-Event Policy
 
-*No upcoming events currently listed. To submit one, [contact us](contact.md).*
+Past events should stay on this page only when they remain useful as durable references: for example, when recordings, proceedings, abstracts, or alexithymia-relevant sessions are available. Stale event announcements without reusable material should be removed after the event has passed.
 
----
+For recurring conferences, keep the series in the category lists below and add specific dated events to Upcoming Events only when the next meeting has been verified.
 
 ## Conference Types Relevant to Alexithymia Research
 
@@ -34,80 +34,3 @@ Upcoming and notable conferences related to emotion research, alexithymia, and a
 - **International Society for Autism Research (INSAR)** - Annual autism research conference
 - **Autism Europe International Congress** - European autism research and advocacy
 - **International Conference on Developmental Psychology**
-
----
-
-## How to Find Relevant Conferences
-
-### Academic Databases
-- **Conference Alerts** - [conferencealerts.com](https://conferencealerts.com)
-- **AllConferences.com** - [allconferences.com](https://allconferences.com)
-- **Academic Conferences International** - [academic-conferences.org](https://academic-conferences.org)
-
-### Professional Organizations
-- **International Society for Research on Emotion (ISRE)** - [isre.org](https://isre.org)
-- **Association for Psychological Science (APS)** - [psychologicalscience.org](https://psychologicalscience.org)
-- **American Psychological Association (APA)** - [apa.org](https://apa.org)
-
-### Research Networks
-- **Consortium of European Research on Emotion (CERE)** - European emotion research network
-- **Emotion Research Group Networks** - University-based research collaborations
-- **International Affective Science Societies** - Regional emotion research organizations
-
----
-
-## Presenting Alexithymia Research
-
-### Abstract Submission Tips
-1. **Clear Research Question** - Define your specific alexithymia research focus
-2. **Methodology** - Describe assessment tools (TAS-20, BVAQ) and study design
-3. **Significance** - Explain implications for understanding or treatment
-4. **Results** - Present clear, quantifiable findings
-5. **Clinical Relevance** - Connect to practical applications
-
-### Presentation Formats
-- **Oral Presentations** - 15-20 minute talks with Q&A
-- **Poster Sessions** - Visual displays with researcher interaction
-- **Symposiums** - Organized sessions on specific themes
-- **Workshops** - Interactive skill-building sessions
-
-### Networking Opportunities
-- **Meet researchers** working on similar topics
-- **Collaborate** on future studies
-- **Share resources** and methodologies
-- **Build professional relationships** in the field
-
----
-
-## Conference Resources
-
-### Funding Opportunities
-- **Student Travel Awards** - Many conferences offer travel grants for students
-- **Early Career Researcher Support** - Funding for new researchers
-- **International Exchange Programs** - Support for cross-border collaboration
-- **University Research Funds** - Institutional support for conference attendance
-
-### Virtual Participation
-- **Hybrid Conferences** - In-person and online attendance options
-- **Live Streaming** - Real-time access to presentations
-- **Recorded Sessions** - Post-conference access to content
-- **Virtual Poster Sessions** - Online poster presentations
-
----
-
-## Stay Updated
-
-### Conference Announcements
-- **Professional Society Newsletters** - Regular updates from relevant organizations
-- **Academic Twitter** - Follow researchers and organizations for announcements
-- **University Websites** - Check psychology and neuroscience department pages
-- **Research Gate** - Academic networking platform with conference listings
-
-### Call for Papers
-- **Conference Websites** - Direct submission information
-- **Academic Mailing Lists** - Discipline-specific announcement lists
-- **Research Journals** - Conference announcements in relevant publications
-
----
-
-*This page is regularly updated with new conference information. If you know of relevant conferences that should be included, please [contact us](contact.md).*

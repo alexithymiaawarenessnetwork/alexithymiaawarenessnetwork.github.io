@@ -25,15 +25,21 @@ markdown_extensions:
 # (studies.md is kept built — it's now a redirect stub pointing at papers.md
 # so any external links to /studies/ keep working — but it's removed from nav.)
 exclude_docs: |
+  README.md
   affiliate_config.json
   generate_links.py
+
+# These pages are intentionally built for legacy/deferred URLs, but are not
+# part of the current primary navigation.
+not_in_nav: |
+  advisors.md
+  studies.md
 
 nav:
   - Home: index.md
   - About Us:
     - Mission: mission.md
     - Network: network.md
-    - Advisors: advisors.md
     - Contact: contact.md
   - Emotion Researchers:
     - Plutchik: plutchik.md

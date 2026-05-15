@@ -95,10 +95,6 @@ This psychoevolutionary framework explains:
 
 Plutchik identified eight primary emotions, arranged in four opposing pairs:
 
-## The Eight Primary Emotions
-
-Plutchik identified eight primary emotions, arranged in four opposing pairs:
-
 ### Joy ↔ Sadness
 **Joy** - Feelings of happiness, contentment, and pleasure
 - Associated with positive experiences and achievements
