@@ -28,6 +28,12 @@ class DashboardRouteTests(unittest.TestCase):
         self.assertIn("reddit_alexithymia", page)
         self.assertIn("reddit_cptsd", page)
 
+    def test_root_redirects_to_collections(self) -> None:
+        response = self.client.get("/")
+
+        self.assertEqual(response.status_code, 302)
+        self.assertIn("/dashboard/collections", response.headers["Location"])
+
     def test_feed_requires_explicit_selection(self) -> None:
         response = self.client.get("/dashboard/feed")
 

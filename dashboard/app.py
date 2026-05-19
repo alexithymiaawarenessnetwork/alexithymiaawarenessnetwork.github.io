@@ -28,6 +28,10 @@ def create_app(*, db_path: str | None = None) -> Flask:
             "selection_query": selection_query,
         }
 
+    @app.get("/")
+    def root():
+        return redirect(url_for("collections"))
+
     @app.get("/dashboard")
     def dashboard_root():
         return redirect(url_for("collections"))
