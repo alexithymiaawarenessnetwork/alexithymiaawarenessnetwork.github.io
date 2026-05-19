@@ -78,6 +78,48 @@ mkdocs serve
 
 This will start a local development server at `http://localhost:8000` with live reloading.
 
+## Internal Research Tooling
+
+This repo also contains internal-only collection utilities that support editorial and research work but are not part of the public site build.
+
+### Reddit reference-data collector
+
+Use `scripts/collect_reddit_reference.py` to collect reference-only snapshots from configured subreddits such as `r/alexithymia`. Subreddit datasets are kept independent by default unless explicitly grouped later.
+
+- Config: `config/reddit_reference_sources.json`
+- Governance + usage notes: `REDDIT_REFERENCE_DATA.md`
+- Output directory: `data/reddit/`
+- SQLite backend: `data/reddit/reddit_reference.sqlite`
+- FTS search helper: `scripts/search_reddit_reference.py`
+- Local dashboard launcher: `scripts/run_reddit_dashboard.py`
+
+Example validation run:
+
+```bash
+python3 scripts/collect_reddit_reference.py --max-posts-override 5 --max-comments-override 5
+```
+
+Polite 2026 post backfill for the current `r/alexithymia` scope:
+
+```bash
+./scripts/backfill_reddit_2026.sh
+```
+
+Example search:
+
+```bash
+python3 scripts/search_reddit_reference.py 'recovery OR recovered'
+```
+
+Local dashboard:
+
+```bash
+.venv/bin/python scripts/run_reddit_dashboard.py
+# open http://127.0.0.1:8010/dashboard/collections
+```
+
+Important: collected Reddit material is for internal review only. Nothing from that pipeline should be auto-published or treated as authoritative without independent review.
+
 ## Site Configuration
 
 The site uses:

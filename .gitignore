@@ -6,3 +6,13 @@ __pycache__
 venv/
 *.egg-info/
 *.pyc
+
+# Local Reddit reference corpus artifacts
+*.sqlite-shm
+*.sqlite-wal
+data/reddit/reddit_reference.sqlite
+data/reddit/runs/
+data/reddit/snapshots/
+
+# Local agent planning scratch
+.hermes/

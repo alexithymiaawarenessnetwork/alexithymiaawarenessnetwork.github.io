@@ -31,6 +31,13 @@
 [] DO  Check DNS for the site, ensure all protective records added
 
 ## Tooling
+[] DO  Build internal Reddit reference dashboard: local Flask app scaffold + launcher
+[] DO  Build collections landing page for the Reddit reference corpus
+[] DO  Add explicit collection-selection flow before showing a unioned feed
+[] DO  Build Reddit-style chronological feed across selected collections
+[] DO  Build post-detail view with post body + comments
+[] DO  Add collection-boundary safeguards so posts only open within the selected collection context
+[] DO  Document local dashboard usage and governance boundaries
 [] DO  Set up Google Analytics dashboard and goals for site metrics
 [] DO  Come up with a google tag, event, trigger, variable strategy and implement
 [] DO  Consider adding other analytics tools (e.g., privacy-focused alternatives)

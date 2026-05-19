@@ -1,4 +1,5 @@
-# Build dependencies for the AAN MkDocs site.
+# Build dependencies for the AAN MkDocs site and local internal tools.
 # Install:  pip install -r requirements.txt
 mkdocs>=1.5
 mkdocs-material>=9.0
+Flask>=3.0
