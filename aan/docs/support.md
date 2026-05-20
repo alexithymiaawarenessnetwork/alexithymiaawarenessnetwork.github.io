@@ -1,43 +1,67 @@
-# Support & Community
+# Support
 
-This page covers everyday support resources and community connections for people with alexithymia, their families, and clinicians who work with them. It's a starting point for finding peers, professionals, and ongoing support.
+This page collects urgent support information plus practical support resources for people with alexithymia, their families, and clinicians. AAN is primarily an information and advocacy project, so this page is meant to point people toward credible places for immediate help, professional care, and community connection.
 
-!!! danger "If you're in crisis"
-    For thoughts of suicide or self-harm, acute distress, or immediate danger, please go to **[Crisis & Urgent Support →](crisis-help.md)**.
+## Urgent Support
 
-    **United States:** call or text **988**. **Crisis Text Line:** text **HOME** to **741741**. **Emergency:** **911**.
+**If you are in immediate danger, call 911 (US) or your local emergency number now.**
 
----
+If you are having thoughts of suicide, self-harm, or are in acute distress, please reach out. You do not have to be sure it is "bad enough." These services are free, confidential, and available 24/7.
 
-## Online Communities
+### United States
 
-### Reddit Communities
-**r/Alexithymia** — [Active Community Discussion](https://www.reddit.com/r/Alexithymia/)
-- Largest online alexithymia community
-- Personal experiences and support
-- Questions and advice sharing
-- Regular discussion threads
+- **988 — Suicide & Crisis Lifeline.**
+  Call or text **988**. Available 24/7.
+  [988lifeline.org](https://988lifeline.org/) — chat available on the site.
 
-**r/emotionalneglect** — [Related Support Community](https://www.reddit.com/r/emotionalneglect/)
-- Support for emotional development challenges
-- Healing and recovery discussions
-- Relevant for many with alexithymia
+- **Crisis Text Line.**
+  Text **HOME** to **741741**. Available 24/7.
+  [crisistextline.org](https://www.crisistextline.org/)
 
-### Specialized Forums
-**Alexithymia Support Forum** — [Dedicated Community](https://www.alexithymia.us/forum)
-- Focused alexithymia discussions
-- Moderated environment
-- Resources and information sharing
-- Anonymous participation option
+- **911 — Emergency Services.**
+  Use for medical emergencies or immediate danger to yourself or others.
 
-**Wrong Planet** — [Autism and Alexithymia](https://wrongplanet.net/)
-- Large autism community with alexithymia discussions
-- Relevant for those with both conditions
-- Social skills and communication support
+- **SAMHSA National Helpline (mental health & substance use).**
+  **1-800-662-HELP (4357)**. 24/7, confidential, free, in English and Spanish.
+  [samhsa.gov/find-help/national-helpline](https://www.samhsa.gov/find-help/national-helpline)
+
+### International
+
+- **Find A Helpline (Throughline).**
+  Search by country to locate a free, confidential crisis line.
+  [findahelpline.com](https://findahelpline.com/)
+
+- **International Association for Suicide Prevention (IASP) crisis centres directory.**
+  [iasp.info/suicidalthoughts](https://www.iasp.info/suicidalthoughts/)
+
+- **Befrienders Worldwide.**
+  Volunteer emotional support across 32 countries.
+  [befrienders.org](https://www.befrienders.org/)
+
+### LGBTQ+ specific (US)
+
+- **The Trevor Project** — for LGBTQ+ young people.
+  Call **1-866-488-7386**, text **START** to **678-678**, or chat.
+  [thetrevorproject.org](https://www.thetrevorproject.org/)
+
+- **Trans Lifeline.**
+  **877-565-8860** (US), **877-330-6366** (Canada). Peer support by and for trans people.
+  [translifeline.org](https://translifeline.org/)
+
+### Veterans (US)
+
+- **Veterans Crisis Line.**
+  Dial **988**, then press **1**, or text **838255**, or chat.
+  [veteranscrisisline.net](https://www.veteranscrisisline.net/)
+
+### A note for people with alexithymia
+
+People with alexithymia may notice the physical signs of severe distress — chest tightness, nausea, sleep loss, agitation, dissociation — before the emotional signs become clear. If your body is sounding alarms and you cannot name what you are feeling, that is still a good enough reason to reach out.
 
 ## Professional Support
 
 ### Finding Therapists
+
 **Psychology Today Therapist Directory** — [Find a Therapist](https://www.psychologytoday.com/us/therapists)
 - Search by location and specialization
 - Filter for emotion-focused therapy
@@ -51,6 +75,9 @@ This page covers everyday support resources and community connections for people
 - Community-focused platform
 
 ### Therapeutic Approaches
+
+For a fuller explanation of how these modalities are adapted when alexithymia is present, see [Therapy Approaches](therapy-approaches.md).
+
 **Emotion-Focused Therapy (EFT)**
 - Specifically designed for emotional awareness
 - Helps identify and express emotions
@@ -76,6 +103,7 @@ This page covers everyday support resources and community connections for people
 - Particularly helpful for alexithymia
 
 ### Support Groups
+
 **Local Mental Health Centers**
 - Many offer emotion regulation groups
 - DBT skills groups widely available
@@ -91,6 +119,7 @@ This page covers everyday support resources and community connections for people
 ## Family and Relationship Support
 
 ### For Partners and Families
+
 **Understanding Alexithymia**
 - Educational resources for loved ones
 - Communication strategies
@@ -102,8 +131,11 @@ This page covers everyday support resources and community connections for people
 - Communication skills training
 - Relationship counseling
 - Specialized alexithymia-informed therapy
+- Psychoeducation about how alexithymia affects conflict, intimacy, and repair
+- Coaching around slowing conversations down and using more concrete language
 
 ### For Parents
+
 **Parenting with Alexithymia**
 - Strategies for emotional connection
 - Helping children develop emotional skills
@@ -116,113 +148,75 @@ This page covers everyday support resources and community connections for people
 - Educational advocacy
 - Professional assessment and support
 
-## Workplace and Educational Support
+## Community and Practical Support
 
-### Workplace Accommodations
+### Online Communities
+
+**r/Alexithymia** — [Active Community Discussion](https://www.reddit.com/r/Alexithymia/)
+- Largest online alexithymia community
+- Personal experiences and support
+- Questions and advice sharing
+- Regular discussion threads
+
+**r/emotionalneglect** — [Related Support Community](https://www.reddit.com/r/emotionalneglect/)
+- Support for emotional development challenges
+- Healing and recovery discussions
+- Relevant for many with alexithymia
+
+### Specialized Forums
+
+**Alexithymia Support Forum** — [Dedicated Community](https://www.alexithymia.us/forum)
+- Focused alexithymia discussions
+- Moderated environment
+- Resources and information sharing
+- Anonymous participation option
+
+**Wrong Planet** — [Autism and Alexithymia](https://wrongplanet.net/)
+- Large autism community with alexithymia discussions
+- Relevant for those with both conditions
+- Social skills and communication support
+
+### Workplace and Educational Support
+
 **Understanding Workplace Rights**
 - ADA accommodations for mental health
 - Communication with supervisors
 - Stress management strategies
 - Professional development resources
 
-**Career Guidance**
-- Choosing alexithymia-friendly careers
-- Workplace communication strategies
-- Professional development
-- Networking and support
-
-### Educational Support
 **Student Services**
 - Disability services at colleges and universities
 - Academic accommodations
 - Counseling and mental health services
 - Peer support programs
 
-**Professional Training**
-- Continuing education for healthcare providers
-- Alexithymia awareness training
-- Clinical skills development
-- Research and professional development
+### Specialized Populations
 
-## Self-Help and Peer Support
-
-### Online Support Groups
-**Virtual Support Meetings**
-- Video-based support groups
-- Scheduled regular meetings
-- Facilitated discussions
-- Anonymous participation options
-
-**Peer Support Networks**
-- One-on-one peer support
-- Shared experience connections
-- Mutual aid and assistance
-- Community building
-
-### Self-Advocacy Resources
-**Understanding Your Rights**
-- Mental health advocacy
-- Healthcare navigation
-- Insurance and benefits
-- Legal resources and support
-
-**Building Support Networks**
-- Creating personal support systems
-- Identifying helpful relationships
-- Community involvement
-- Volunteer opportunities
-
-## Specialized Populations
-
-### Autism and Alexithymia
-**Dual Diagnosis Support**
+**Autism and Alexithymia**
 - Resources for both conditions
 - Specialized therapy approaches
 - Community connections
 - Research and information
 
-### LGBTQ+ Support
-**Inclusive Mental Health Resources**
+**LGBTQ+ Support**
 - LGBTQ+-affirming therapists
 - Community support organizations
 - Specialized support groups
 - Cultural competency resources
 
-### Cultural and Linguistic Support
-**Multilingual Resources**
+**Cultural and Linguistic Support**
 - Assessment tools in multiple languages
 - Culturally competent therapy
 - Community-specific support
 - Translation and interpretation services
 
-## Resource Directories
+## Related Resources
 
-### National Organizations
-**National Alliance on Mental Illness (NAMI)**
-- Local support groups and resources
-- Educational programs
-- Advocacy and awareness
-- Family support services
-
-**Mental Health America**
-- Screening tools and resources
-- Local affiliate organizations
-- Advocacy and policy work
-- Community education programs
-
-### Professional Organizations
-**American Psychological Association (APA)**
-- Professional resources and guidelines
-- Continuing education
-- Research and publications
-- Public education materials
-
-**International Association for the Study of Pain (IASP)**
-- Resources for chronic pain and alexithymia
-- Professional education
-- Research and clinical guidelines
-- Patient advocacy
+- [Treatment](treatment.md) — overview of treatment-related material
+- [Therapy Approaches](therapy-approaches.md) — modality-by-modality overview
+- [Resources](resources.md) — broader resource hub
+- [Crisis & Urgent Support redirect](crisis-help.md) — legacy page kept for incoming links
 
 ---
 
-*Support resources are reviewed periodically based on community needs. If you know of additional resources or have suggestions for improvement, please [contact us](contact.md). For crisis resources, see [Crisis & Urgent Support](crisis-help.md).*
+*Support resources are reviewed periodically. If you spot something out of date or incorrect, please [contact us](contact.md).*

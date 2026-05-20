@@ -33,6 +33,7 @@ exclude_docs: |
 # part of the current primary navigation.
 not_in_nav: |
   advisors.md
+  crisis-help.md
   studies.md
 
 nav:
@@ -45,30 +46,32 @@ nav:
     - FAQ: faq.md
     - Diagnosis & Assessment: diagnosis.md
     - Comorbidities: comorbidities.md
-    - Treatment: treatment.md
+    - Treatment:
+      - Overview: treatment.md
+      - Therapy Approaches: therapy-approaches.md
     - Lexicon: lexicon.md
+  - Understanding Emotions:
     - Emotion Frameworks: emotion-frameworks.md
-  - Emotion Researchers:
-    - Plutchik: plutchik.md
-    - Ekman: ekman.md
-    - Sifneos: sifneos.md
-    - Taylor: taylor.md
-    - Bagby: bagby.md
-    - Parker: parker.md
-    - Wilcox: wilcox.md
-    - Bermond: bermond.md
-    - Vorst: vorst.md
-  - Resources:
-    - Overview: resources.md
-    - Apps: apps.md
-    - Assessment Instruments: tools.md
-    - Books: books.md
-    - Papers: papers.md
-    - Podcasts: podcasts.md
-  - Research:
-    - Labs: labs.md
+    - Emotion Researchers:
+      - Plutchik: plutchik.md
+      - Ekman: ekman.md
+      - Sifneos: sifneos.md
+      - Taylor: taylor.md
+      - Bagby: bagby.md
+      - Parker: parker.md
+      - Wilcox: wilcox.md
+      - Bermond: bermond.md
+      - Vorst: vorst.md
+    - Resources:
+      - Overview: resources.md
+      - Apps: apps.md
+      - Assessment Instruments: tools.md
+      - Books: books.md
+      - Papers: papers.md
+      - Podcasts: podcasts.md
+    - Research:
+      - Labs: labs.md
   - Community & Events:
-    - Crisis & Urgent Support: crisis-help.md
-    - Conferences: conferences.md
     - Support: support.md
+    - Conferences: conferences.md
   - News: news.md

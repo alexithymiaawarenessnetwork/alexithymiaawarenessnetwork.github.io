@@ -19,8 +19,8 @@ Curated podcast episodes and ongoing shows that explore alexithymia, emotional a
 ### 📰 [Research Papers](papers.md)
 Sortable, searchable table of academic papers on alexithymia and emotional awareness.
 
-### 🤝 [Support & Community](support.md)
-Online communities, therapist directories, support groups, family resources, workplace and educational accommodations. For crisis resources see [Crisis & Urgent Support](crisis-help.md).
+### 🤝 [Support](support.md)
+Urgent support information, online communities, therapist directories, support groups, family resources, and workplace or educational accommodations.
 
 ---
 
@@ -36,12 +36,13 @@ Online communities, therapist directories, support groups, family resources, wor
 ### Looking for professional help?
 
 1. Read [Diagnosis & Assessment](diagnosis.md) and [Treatment](treatment.md)
-2. Find a therapist via [Support & Community](support.md#professional-support)
-3. Review [Assessment Instruments](tools.md) before clinical evaluation
+2. Review [Therapy Approaches](therapy-approaches.md) for a modality-by-modality overview
+3. Find a therapist via [Support](support.md#professional-support)
+4. Review [Assessment Instruments](tools.md) before clinical evaluation
 
 ### In crisis?
 
-→ **[Crisis & Urgent Support](crisis-help.md)** — 988 (US): call or text. Emergency: 911.
+→ **[Support](support.md#urgent-support)** — 988 (US): call or text. Emergency: 911.
 
 ### Interested in research?
 

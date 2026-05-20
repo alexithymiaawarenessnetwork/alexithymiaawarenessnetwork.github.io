@@ -23,26 +23,18 @@ It affects roughly **10% of the general population** and can shape relationships
 - [**Comorbidities**](comorbidities.md) — what it co-occurs with
 - [**Treatment**](treatment.md) — therapeutic approaches
 - [**Lexicon**](lexicon.md) — alphabetical glossary of feeling words
+
+### ❤️ Understanding Emotions
 - [**Emotion Frameworks**](emotion-frameworks.md) — Plutchik, Ekman, Wilcox, Damasio, and more
-
-### 📱 Resources
-- [**Apps**](apps.md) — mobile and digital tools
-- [**Assessment Instruments**](tools.md) — TAS-20, BVAQ, and others
-- [**Books**](books.md) — recommended reading
-- [**Research Papers**](papers.md) — searchable, sortable
-- [**Podcasts**](podcasts.md) — episodes and shows
-
-### 🔬 Research
-- [**Research Labs**](labs.md) — institutions worldwide
 - [**Emotion Researchers**](plutchik.md) — profiles of the people behind the field
+- [**Research Papers**](papers.md) — searchable, sortable
+- [**Research Labs**](labs.md) — institutions worldwide
+- [**Resources**](resources.md) — apps, books, tools, podcasts, and support
 
 ### 🤝 Community
-- [**Support**](support.md) — therapists, peer communities, family resources
+- [**Support**](support.md) — urgent support, therapist directories, peer communities, and family resources
 - [**Conferences**](conferences.md) — events and proceedings
 - [**News**](news.md) — updates from AAN
-
-### If you're in crisis
-→ **[Crisis & Urgent Support](crisis-help.md)** — 988 (US) call or text · Crisis Text Line: text HOME to 741741 · Emergency: 911
 
 ## Our mission
 
