@@ -876,6 +876,7 @@ useful:
   where the actual page diverges from its declared schema." Use the
   output to drive the next quarterly review.
 
-The TODO.md continues to track granular tasks. This file owns the
-*structure*; TODO owns the *work*. When work in TODO touches site IA,
-note it here so the schema stays current.
+The TODO.md continues to track granular tasks. `GOALS.md` owns the
+project's durable aims, `MILESTONES.md` owns stage boundaries, this file owns
+site structure, and TODO owns the active work. When work in TODO touches site
+IA, note it here so the schema stays current.
