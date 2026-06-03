@@ -539,6 +539,38 @@
         "performance-based",
         "validation"
       ]
+    },
+    {
+      "id": "gaggero_bizzego_dellantonio_2021_interoception",
+      "title": "Clarifying the relationship between alexithymia and subjective interoception",
+      "authors": [
+        "Giulia Gaggero",
+        "Andrea Bizzego",
+        "Sara Dellantonio",
+        "Luigi Pastore",
+        "Mengyu Lim",
+        "Gianluca Esposito"
+      ],
+      "year": 2021,
+      "type": "paper",
+      "description": "Open-access study across Italian, U.S., and Singaporean samples (N=814) using self-report measures and machine-learning analyses. It found alexithymia was associated with subjective interoceptive accuracy and attention deficits, especially difficulty identifying and describing feelings, while externally oriented thinking showed weaker links and the BVAQ affective dimension was not associated.",
+      "journal": "PLOS ONE",
+      "volume": "16",
+      "issue": "12",
+      "pages": "e0261126",
+      "doi": "10.1371/journal.pone.0261126",
+      "pmid": "34898643",
+      "pmcid": "PMC8668127",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8668127/",
+      "tags": [
+        "alexithymia",
+        "interoception",
+        "subjective interoception",
+        "TAS-20",
+        "BVAQ",
+        "self-report",
+        "machine learning"
+      ]
     }
   ]
 }
