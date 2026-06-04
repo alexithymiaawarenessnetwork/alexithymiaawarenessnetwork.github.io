@@ -28,9 +28,10 @@ Completed boundary milestone:
 - `M3` Tooling boundary hardening
 
 Primary active task surfaces:
-- `TODO.md` → Organization presence and trust signals
+- `TODO.md` → Organizational development and institutional networking
+- `TODO.md` → Website platform and presentation
 - `TODO.md` → Library depth and resource curation
-- `TODO.md` → Theming and presentation system
+- `TODO.md` → Community workshops and groups
 
 Secondary bounded task surface:
 - `TODO.md` → Internal tooling boundary and analytics
