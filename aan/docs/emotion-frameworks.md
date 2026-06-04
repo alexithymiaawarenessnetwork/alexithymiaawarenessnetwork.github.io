@@ -75,6 +75,8 @@ For individual word definitions, see the [Lexicon](lexicon.md).
 
 **Source:** [Brené Brown Research](https://brenebrown.com/research/)
 
+→ Full profile and public-facing resources: **[Brené Brown](brene-brown.md)**
+
 > *"Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome."* — Brené Brown
 
 ### Damasio's Somatic Marker Hypothesis
