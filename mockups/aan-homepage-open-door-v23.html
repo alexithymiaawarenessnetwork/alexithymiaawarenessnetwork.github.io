@@ -208,7 +208,7 @@
 
     main {
       display: grid;
-      gap: 80px;
+      gap: 0;
       padding-bottom: var(--space-7);
     }
 
@@ -677,6 +677,7 @@
 
     .section-pathways {
       --section-accent: var(--clay);
+      padding-block-start: 18px;
     }
 
     .section-pathways::before {
@@ -762,6 +763,21 @@
       letter-spacing: 0.08em;
       text-transform: uppercase;
       font-weight: 700;
+    }
+
+    .section-pathways .section-heading {
+      margin-bottom: 8px;
+    }
+
+    .section-pathways .section-heading .label {
+      font-size: 1.76rem;
+      line-height: 0.98;
+      letter-spacing: 0.025em;
+    }
+
+    .section-pathways .pathways-divider {
+      width: min(34%, 300px);
+      margin: -8px 0 8px clamp(10%, 15vw, 150px);
     }
 
     .section-heading h2 {
