@@ -1,0 +1,7 @@
+The brain basis of emotion: A meta-analytic review
+DOI: 10.1017/s0140525x11000446
+Year: 2012
+Authors: Kristen A. Lindquist, Tor D. Wager, Hedy Kober, Eliza Bliss‐Moreau, Lisa Feldman Barrett
+
+Abstract:
+Researchers have wondered how the brain creates emotions since the early days of psychological science. With a surge of studies in affective neuroscience in recent decades, scientists are poised to answer this question. In this target article, we present a meta-analytic summary of the neuroimaging literature on human emotion. We compare the locationist approach (i.e., the hypothesis that discrete emotion categories consistently and specifically correspond to distinct brain regions) with the psychological constructionist approach (i.e., the hypothesis that discrete emotion categories are constructed of more general brain networks not specific to those categories) to better understand the brain basis of emotion. We review both locationist and psychological constructionist hypotheses of brain-emotion correspondence and report meta-analytic findings bearing on these hypotheses. Overall, we found little evidence that discrete emotion categories can be consistently and specifically localized to distinct brain regions. Instead, we found evidence that is consistent with a psychological constructionist approach to the mind: A set of interacting brain regions commonly involved in basic psychological operations of both an emotional and non-emotional nature are active during emotion experience and perception across a range of discrete emotion categories.

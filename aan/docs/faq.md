@@ -6,7 +6,7 @@ If you have additional questions, please [contact us](contact.md).
 
 ## What is alexithymia?
 
-Alexithymia is a personality construct describing difficulty identifying feelings, difficulty describing feelings to others, and an externally oriented style of thinking. The term was introduced by [Peter Sifneos in 1973](citations.json#sifneos_1973) from Greek roots meaning, roughly, "no words for emotions." It is treated in the literature as a dimensional trait that varies across the general population rather than a category one either has or does not have. For a recent overview, see the [Cambridge Handbook of Alexithymia](citations.json#cambridge_excerpt_2024) and [Taylor, Bagby, and Parker (1997)](citations.json#taylor_bagby_parker_1997).
+Alexithymia is a personality construct describing difficulty identifying feelings, difficulty describing feelings to others, and an externally oriented style of thinking ([Luminet, Nielson, and Ridout, 2021](citations.json#luminet_nielson_ridout_2021_integrative_review)). The term was introduced by [Peter Sifneos in 1973](citations.json#sifneos_1973) from Greek roots meaning, roughly, "no words for emotions." It is treated in the literature as a dimensional trait that varies across the general population rather than a category one either has or does not have. For a recent overview, see the [Cambridge Handbook of Alexithymia](citations.json#cambridge_excerpt_2024) and [Taylor, Bagby, and Parker (1997)](citations.json#taylor_bagby_parker_1997).
 
 ## Is alexithymia a mental disorder?
 

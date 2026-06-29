@@ -1,0 +1,1173 @@
+{
+  "id": "https://openalex.org/W2909598371",
+  "doi": "https://doi.org/10.3389/fnins.2018.01025",
+  "title": "Selected Principles of Pankseppian Affective Neuroscience",
+  "display_name": "Selected Principles of Pankseppian Affective Neuroscience",
+  "publication_year": 2019,
+  "publication_date": "2019-01-17",
+  "ids": {
+    "openalex": "https://openalex.org/W2909598371",
+    "doi": "https://doi.org/10.3389/fnins.2018.01025",
+    "mag": "2909598371",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/30705615"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3389/fnins.2018.01025",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/fnins.2018.01025",
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnins.2018.01025/pdf",
+    "source": {
+      "id": "https://openalex.org/S115201632",
+      "display_name": "Frontiers in Neuroscience",
+      "issn_l": "1662-453X",
+      "issn": [
+        "1662-453X",
+        "1662-4548"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Neuroscience",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.frontiersin.org/articles/10.3389/fnins.2018.01025/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5109294822",
+        "display_name": "Kenneth L. Davis",
+        "orcid": "https://orcid.org/0000-0002-6480-2542"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Kenneth L. Davis",
+      "raw_affiliation_strings": [
+        "Pegasus International, Inc., Greensboro, NC, United States"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Pegasus International, Inc., Greensboro, NC, United States",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5022713595",
+        "display_name": "Christian Montag",
+        "orcid": "https://orcid.org/0000-0001-8112-0837"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I150229711",
+          "display_name": "University of Electronic Science and Technology of China",
+          "ror": "https://ror.org/04qr3zq92",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I150229711"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I196349391",
+          "display_name": "Universität Ulm",
+          "ror": "https://ror.org/032000t02",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I196349391"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Christian Montag",
+      "raw_affiliation_strings": [
+        "Department of Molecular Psychology, Institute of Psychology and Education, Ulm University, Ulm, Germany",
+        "MOE Key Lab for Neuroinformation, The Clinical Hospital of Chengdu Brain Science Institute, University of Electronic Science and Technology of China, Chengdu, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Molecular Psychology, Institute of Psychology and Education, Ulm University, Ulm, Germany",
+          "institution_ids": [
+            "https://openalex.org/I196349391"
+          ]
+        },
+        {
+          "raw_affiliation_string": "MOE Key Lab for Neuroinformation, The Clinical Hospital of Chengdu Brain Science Institute, University of Electronic Science and Technology of China, Chengdu, China",
+          "institution_ids": [
+            "https://openalex.org/I150229711"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5022713595",
+    "https://openalex.org/A5109294822"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I150229711",
+    "https://openalex.org/I196349391"
+  ],
+  "apc_list": {
+    "value": 2950,
+    "currency": "USD",
+    "value_usd": 2950
+  },
+  "apc_paid": {
+    "value": 2022,
+    "currency": "EUR",
+    "value_usd": 2180
+  },
+  "fwci": 13.1699,
+  "has_fulltext": true,
+  "cited_by_count": 140,
+  "citation_normalized_percentile": {
+    "value": 0.99116848,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "12",
+    "issue": null,
+    "first_page": "1025",
+    "last_page": "1025"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13283",
+    "display_name": "Mental Health Research Topics",
+    "score": 0.9980000257492065,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3205",
+      "display_name": "Experimental and Cognitive Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13283",
+      "display_name": "Mental Health Research Topics",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10241",
+      "display_name": "Functional Brain Connectivity Studies",
+      "score": 0.989799976348877,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10853",
+      "display_name": "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+      "score": 0.9879999756813049,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/sadness",
+      "display_name": "Sadness",
+      "score": 0.7478963732719421
+    },
+    {
+      "id": "https://openalex.org/keywords/lust",
+      "display_name": "Lust",
+      "score": 0.740614652633667
+    },
+    {
+      "id": "https://openalex.org/keywords/affective-neuroscience",
+      "display_name": "Affective neuroscience",
+      "score": 0.6937086582183838
+    },
+    {
+      "id": "https://openalex.org/keywords/anger",
+      "display_name": "Anger",
+      "score": 0.5888381004333496
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5805257558822632
+    },
+    {
+      "id": "https://openalex.org/keywords/neuroscience",
+      "display_name": "Neuroscience",
+      "score": 0.47189387679100037
+    },
+    {
+      "id": "https://openalex.org/keywords/depression",
+      "display_name": "Depression (economics)",
+      "score": 0.42024847865104675
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-science",
+      "display_name": "Cognitive science",
+      "score": 0.3345654606819153
+    },
+    {
+      "id": "https://openalex.org/keywords/psychoanalysis",
+      "display_name": "Psychoanalysis",
+      "score": 0.2040635645389557
+    },
+    {
+      "id": "https://openalex.org/keywords/social-psychology",
+      "display_name": "Social psychology",
+      "score": 0.17090019583702087
+    },
+    {
+      "id": "https://openalex.org/keywords/cognition",
+      "display_name": "Cognition",
+      "score": 0.0832751989364624
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779812673",
+      "wikidata": "https://www.wikidata.org/wiki/Q169251",
+      "display_name": "Sadness",
+      "level": 3,
+      "score": 0.7478963732719421
+    },
+    {
+      "id": "https://openalex.org/C2780114936",
+      "wikidata": "https://www.wikidata.org/wiki/Q6498477",
+      "display_name": "Lust",
+      "level": 2,
+      "score": 0.740614652633667
+    },
+    {
+      "id": "https://openalex.org/C14855644",
+      "wikidata": "https://www.wikidata.org/wiki/Q3625500",
+      "display_name": "Affective neuroscience",
+      "level": 3,
+      "score": 0.6937086582183838
+    },
+    {
+      "id": "https://openalex.org/C2779302386",
+      "wikidata": "https://www.wikidata.org/wiki/Q79871",
+      "display_name": "Anger",
+      "level": 2,
+      "score": 0.5888381004333496
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5805257558822632
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.47189387679100037
+    },
+    {
+      "id": "https://openalex.org/C2776867660",
+      "wikidata": "https://www.wikidata.org/wiki/Q1814941",
+      "display_name": "Depression (economics)",
+      "level": 2,
+      "score": 0.42024847865104675
+    },
+    {
+      "id": "https://openalex.org/C188147891",
+      "wikidata": "https://www.wikidata.org/wiki/Q147638",
+      "display_name": "Cognitive science",
+      "level": 1,
+      "score": 0.3345654606819153
+    },
+    {
+      "id": "https://openalex.org/C11171543",
+      "wikidata": "https://www.wikidata.org/wiki/Q41630",
+      "display_name": "Psychoanalysis",
+      "level": 1,
+      "score": 0.2040635645389557
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.17090019583702087
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": 0.0832751989364624
+    },
+    {
+      "id": "https://openalex.org/C139719470",
+      "wikidata": "https://www.wikidata.org/wiki/Q39680",
+      "display_name": "Macroeconomics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.3389/fnins.2018.01025",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3389/fnins.2018.01025",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnins.2018.01025/pdf",
+      "source": {
+        "id": "https://openalex.org/S115201632",
+        "display_name": "Frontiers in Neuroscience",
+        "issn_l": "1662-453X",
+        "issn": [
+          "1662-453X",
+          "1662-4548"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320527",
+        "host_organization_name": "Frontiers Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320527"
+        ],
+        "host_organization_lineage_names": [
+          "Frontiers Media"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in Neuroscience",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:30705615",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/30705615",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in neuroscience",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:1cd7e619537f4d8c880f7958510c4fbf",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/1cd7e619537f4d8c880f7958510c4fbf",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Frontiers in Neuroscience, Vol 12 (2019)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:5339153",
+      "is_oa": true,
+      "landing_page_url": "http://europepmc.org/pmc/articles/PMC6344464",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:6344464",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6344464",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Front Neurosci",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3389/fnins.2018.01025",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/fnins.2018.01025",
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnins.2018.01025/pdf",
+    "source": {
+      "id": "https://openalex.org/S115201632",
+      "display_name": "Frontiers in Neuroscience",
+      "issn_l": "1662-453X",
+      "issn": [
+        "1662-453X",
+        "1662-4548"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Neuroscience",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2437576459",
+      "display_name": null,
+      "funder_award_id": "2363/3-2",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G4017251282",
+      "display_name": null,
+      "funder_award_id": "MO 2363/3-2",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320879",
+      "display_name": "Deutsche Forschungsgemeinschaft",
+      "ror": "https://ror.org/018mejw64"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2909598371.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2909598371.grobid-xml"
+  },
+  "referenced_works_count": 106,
+  "referenced_works": [
+    "https://openalex.org/W36389933",
+    "https://openalex.org/W126975015",
+    "https://openalex.org/W201893616",
+    "https://openalex.org/W607965618",
+    "https://openalex.org/W1096742261",
+    "https://openalex.org/W1489278735",
+    "https://openalex.org/W1529737443",
+    "https://openalex.org/W1556541525",
+    "https://openalex.org/W1562973888",
+    "https://openalex.org/W1624939785",
+    "https://openalex.org/W1660439970",
+    "https://openalex.org/W1802819372",
+    "https://openalex.org/W1809188141",
+    "https://openalex.org/W1963985457",
+    "https://openalex.org/W1965286773",
+    "https://openalex.org/W1966648768",
+    "https://openalex.org/W1967536955",
+    "https://openalex.org/W1968063291",
+    "https://openalex.org/W1968681351",
+    "https://openalex.org/W1972996138",
+    "https://openalex.org/W1979538778",
+    "https://openalex.org/W1979821855",
+    "https://openalex.org/W1985911270",
+    "https://openalex.org/W1986924355",
+    "https://openalex.org/W1995929370",
+    "https://openalex.org/W1999826790",
+    "https://openalex.org/W2003809532",
+    "https://openalex.org/W2009962061",
+    "https://openalex.org/W2021061169",
+    "https://openalex.org/W2021915992",
+    "https://openalex.org/W2022137375",
+    "https://openalex.org/W2024988985",
+    "https://openalex.org/W2028133852",
+    "https://openalex.org/W2034369724",
+    "https://openalex.org/W2042962409",
+    "https://openalex.org/W2051384019",
+    "https://openalex.org/W2052667603",
+    "https://openalex.org/W2053418371",
+    "https://openalex.org/W2054861476",
+    "https://openalex.org/W2060150052",
+    "https://openalex.org/W2063621859",
+    "https://openalex.org/W2064303302",
+    "https://openalex.org/W2068803198",
+    "https://openalex.org/W2071046540",
+    "https://openalex.org/W2072810539",
+    "https://openalex.org/W2073396605",
+    "https://openalex.org/W2074084301",
+    "https://openalex.org/W2078047435",
+    "https://openalex.org/W2079255974",
+    "https://openalex.org/W2079442576",
+    "https://openalex.org/W2081153295",
+    "https://openalex.org/W2086260711",
+    "https://openalex.org/W2090778527",
+    "https://openalex.org/W2093158838",
+    "https://openalex.org/W2093730749",
+    "https://openalex.org/W2094016216",
+    "https://openalex.org/W2095596789",
+    "https://openalex.org/W2105911464",
+    "https://openalex.org/W2108845151",
+    "https://openalex.org/W2109956734",
+    "https://openalex.org/W2113193002",
+    "https://openalex.org/W2113457236",
+    "https://openalex.org/W2114814559",
+    "https://openalex.org/W2119322603",
+    "https://openalex.org/W2121080836",
+    "https://openalex.org/W2121208644",
+    "https://openalex.org/W2124638964",
+    "https://openalex.org/W2130691904",
+    "https://openalex.org/W2131635822",
+    "https://openalex.org/W2141467587",
+    "https://openalex.org/W2149395978",
+    "https://openalex.org/W2150787397",
+    "https://openalex.org/W2153771690",
+    "https://openalex.org/W2166279933",
+    "https://openalex.org/W2184709599",
+    "https://openalex.org/W2202695658",
+    "https://openalex.org/W2256767315",
+    "https://openalex.org/W2306150738",
+    "https://openalex.org/W2314114602",
+    "https://openalex.org/W2410825513",
+    "https://openalex.org/W2412311940",
+    "https://openalex.org/W2462546831",
+    "https://openalex.org/W2494721294",
+    "https://openalex.org/W2519649706",
+    "https://openalex.org/W2552475000",
+    "https://openalex.org/W2571405322",
+    "https://openalex.org/W2603090185",
+    "https://openalex.org/W2737966001",
+    "https://openalex.org/W2767135981",
+    "https://openalex.org/W2767988193",
+    "https://openalex.org/W2790477562",
+    "https://openalex.org/W2885034274",
+    "https://openalex.org/W2887784692",
+    "https://openalex.org/W3036818463",
+    "https://openalex.org/W4230277180",
+    "https://openalex.org/W4231760770",
+    "https://openalex.org/W4232356388",
+    "https://openalex.org/W4255719885",
+    "https://openalex.org/W4256732168",
+    "https://openalex.org/W4322389773",
+    "https://openalex.org/W4386696538",
+    "https://openalex.org/W4388250061",
+    "https://openalex.org/W6629185010",
+    "https://openalex.org/W6634161413",
+    "https://openalex.org/W6636956518",
+    "https://openalex.org/W6645509559"
+  ],
+  "related_works": [
+    "https://openalex.org/W4365519294",
+    "https://openalex.org/W3031187173",
+    "https://openalex.org/W3135436127",
+    "https://openalex.org/W2805647211",
+    "https://openalex.org/W2100930849",
+    "https://openalex.org/W2557139663",
+    "https://openalex.org/W3179181153",
+    "https://openalex.org/W2073249509",
+    "https://openalex.org/W2481378124",
+    "https://openalex.org/W1980267738"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0
+    ],
+    "the": [
+      1,
+      5,
+      11,
+      60,
+      70,
+      81,
+      117,
+      147,
+      155
+    ],
+    "early": [
+      2
+    ],
+    "nineties": [
+      3
+    ],
+    "of": [
+      4,
+      30,
+      41,
+      107,
+      116,
+      119,
+      128,
+      154,
+      158
+    ],
+    "twentieth": [
+      6
+    ],
+    "century": [
+      7
+    ],
+    "Jaak": [
+      8
+    ],
+    "Panksepp": [
+      9,
+      46
+    ],
+    "coined": [
+      10
+    ],
+    "term": [
+      12
+    ],
+    "\"Affective": [
+      13
+    ],
+    "Neuroscience\"": [
+      14
+    ],
+    "(AN)": [
+      15
+    ],
+    "today": [
+      16
+    ],
+    "being": [
+      17
+    ],
+    "accepted": [
+      18
+    ],
+    "as": [
+      19,
+      98,
+      143
+    ],
+    "a": [
+      20,
+      104,
+      151
+    ],
+    "unique": [
+      21
+    ],
+    "research": [
+      22,
+      74,
+      140
+    ],
+    "area": [
+      23
+    ],
+    "in": [
+      24,
+      85
+    ],
+    "cross-species": [
+      25
+    ],
+    "brain": [
+      26,
+      39
+    ],
+    "science.": [
+      27
+    ],
+    "By": [
+      28
+    ],
+    "means": [
+      29
+    ],
+    "(i)": [
+      31
+    ],
+    "electrical": [
+      32
+    ],
+    "stimulation,": [
+      33
+    ],
+    "(ii)": [
+      34
+    ],
+    "pharmacological": [
+      35
+    ],
+    "challenges,": [
+      36
+    ],
+    "and": [
+      37,
+      57,
+      66
+    ],
+    "(iii)": [
+      38
+    ],
+    "lesions": [
+      40
+    ],
+    "vertebrate": [
+      42
+    ],
+    "brains": [
+      43
+    ],
+    "(mostly": [
+      44
+    ],
+    "mammalian),": [
+      45
+    ],
+    "carved": [
+      47
+    ],
+    "out": [
+      48
+    ],
+    "seven": [
+      49
+    ],
+    "primary": [
+      50,
+      88
+    ],
+    "emotional": [
+      51,
+      89
+    ],
+    "systems": [
+      52,
+      90
+    ],
+    "called": [
+      53
+    ],
+    "SEEKING,": [
+      54
+    ],
+    "CARE,": [
+      55
+    ],
+    "PLAY,": [
+      56
+    ],
+    "LUST": [
+      58
+    ],
+    "on": [
+      59
+    ],
+    "positive": [
+      61
+    ],
+    "side,": [
+      62
+    ],
+    "whereas": [
+      63
+    ],
+    "FEAR,": [
+      64
+    ],
+    "SADNESS,": [
+      65
+    ],
+    "ANGER": [
+      67
+    ],
+    "belong": [
+      68
+    ],
+    "to": [
+      69,
+      94,
+      138
+    ],
+    "negative": [
+      71
+    ],
+    "affects.": [
+      72
+    ],
+    "Abundant": [
+      73
+    ],
+    "into": [
+      75
+    ],
+    "human": [
+      76
+    ],
+    "clinical": [
+      77
+    ],
+    "applications": [
+      78
+    ],
+    "has": [
+      79,
+      135
+    ],
+    "supported": [
+      80
+    ],
+    "hypothesis": [
+      82
+    ],
+    "that": [
+      83
+    ],
+    "imbalances": [
+      84
+    ],
+    "these": [
+      86
+    ],
+    "ancient": [
+      87
+    ],
+    "are": [
+      91
+    ],
+    "strongly": [
+      92
+    ],
+    "linked": [
+      93
+    ],
+    "psychiatric": [
+      95
+    ],
+    "disorders": [
+      96
+    ],
+    "such": [
+      97,
+      142
+    ],
+    "depression.": [
+      99
+    ],
+    "The": [
+      100
+    ],
+    "present": [
+      101,
+      148
+    ],
+    "paper": [
+      102
+    ],
+    "gives": [
+      103,
+      112,
+      150
+    ],
+    "concise": [
+      105
+    ],
+    "overview": [
+      106,
+      115,
+      153
+    ],
+    "Panksepp's": [
+      108,
+      120
+    ],
+    "main": [
+      109,
+      156
+    ],
+    "ideas.": [
+      110
+    ],
+    "It": [
+      111,
+      123
+    ],
+    "an": [
+      113
+    ],
+    "historical": [
+      114
+    ],
+    "development": [
+      118
+    ],
+    "AN": [
+      121,
+      134
+    ],
+    "thinking.": [
+      122
+    ],
+    "touches": [
+      124
+    ],
+    "not": [
+      125
+    ],
+    "only": [
+      126
+    ],
+    "areas": [
+      127
+    ],
+    "neuroscience,": [
+      129
+    ],
+    "but": [
+      130
+    ],
+    "also": [
+      131
+    ],
+    "shows": [
+      132
+    ],
+    "how": [
+      133
+    ],
+    "been": [
+      136
+    ],
+    "applied": [
+      137
+    ],
+    "other": [
+      139
+    ],
+    "fields": [
+      141
+    ],
+    "personality": [
+      144
+    ],
+    "psychology.": [
+      145
+    ],
+    "Finally,": [
+      146
+    ],
+    "work": [
+      149
+    ],
+    "brief": [
+      152
+    ],
+    "ideas": [
+      157
+    ],
+    "AN.": [
+      159
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 27
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 20
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 27
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 11
+    }
+  ],
+  "updated_date": "2026-06-03T09:05:47.796612",
+  "created_date": "2025-10-10T00:00:00"
+}

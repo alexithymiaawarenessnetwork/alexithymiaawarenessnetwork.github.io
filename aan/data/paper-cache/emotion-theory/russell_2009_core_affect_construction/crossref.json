@@ -1,0 +1,616 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          4
+        ]
+      ],
+      "date-time": "2026-06-04T11:54:42Z",
+      "timestamp": 1780574082500,
+      "version": "3.54.1"
+    },
+    "reference-count": 68,
+    "publisher": "Informa UK Limited",
+    "issue": "7",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Cognition and Emotion"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1080/02699930902809375",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          3,
+          26
+        ]
+      ],
+      "date-time": "2009-03-26T06:23:14Z",
+      "timestamp": 1238048594000
+    },
+    "page": "1259-1283",
+    "source": "Crossref",
+    "is-referenced-by-count": 373,
+    "title": [
+      "Emotion, core affect, and psychological construction"
+    ],
+    "prefix": "10.1080",
+    "volume": "23",
+    "author": [
+      {
+        "given": "James A.",
+        "family": "Russell",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Boston College, Chestnut Hill, MA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2009,
+          9,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_2_1",
+        "volume-title": "Emotion and personality",
+        "author": "Arnold M. B.",
+        "year": "1960",
+        "unstructured": "Arnold, M. B., 1960. Emotion and personality. Vol. 1. NewYork: ColumbiaUniversityPress; 1960."
+      },
+      {
+        "key": "e_1_3_2_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930902985894"
+      },
+      {
+        "key": "e_1_3_2_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1088868307301033"
+      },
+      {
+        "key": "e_1_3_2_5_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "722",
+        "DOI": "10.1016/B978-012373947-6.00114-8",
+        "volume-title": "Encyclopedia of stress",
+        "author": "Blanchard D. C.",
+        "year": "2007",
+        "unstructured": "Blanchard, D. C., Hebert, M., and Blanchard, R. J., 2007. \"Defensive behaviors\". In: Fink, G., ed. Encyclopedia of stress . Vol. 1. Oxford, UK: Academic Press; 2007. pp. 722–726."
+      },
+      {
+        "key": "e_1_3_2_6_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "100",
+        "DOI": "10.1017/CBO9780511527883.006",
+        "volume-title": "Emotion, development and self-organisation: Dynamic systems approaches to emotional development",
+        "author": "Camras L. A.",
+        "year": "2000",
+        "unstructured": "Camras, L. A., 2000. \"Surprise! Facial expressions can be coordinative motor structures\". In: Lewis, M. D., and Granic, I., eds. Emotion, development and self-organisation: Dynamic systems approaches to emotional development. Cambridge, UK: Cambridge University Press; 2000. pp. 100–124."
+      },
+      {
+        "key": "e_1_3_2_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.72.1.164"
+      },
+      {
+        "key": "e_1_3_2_8_1",
+        "first-page": "231",
+        "volume-title": "Emotion and human consciousness",
+        "author": "Charland L.C.",
+        "year": "2005",
+        "unstructured": "Charland, L.C., 2005. \"Emotion experience and the indeterminacy of valence\". In: Barrett, L. F., Niedenthal, P. M., and Winkielman, P., eds. Emotion and human consciousness. NewYork: Guilford; 2005. pp. 231–254."
+      },
+      {
+        "key": "e_1_3_2_9_1",
+        "first-page": "628",
+        "volume-title": "Handbook of emotions",
+        "author": "Clore G. L.",
+        "year": "2008",
+        "unstructured": "Clore, G. L., and Ortony, A., 2008. \"Appraisal theories: How cognition shapes affect into emotion\". In: Lewis, M., Haviland-Jones, J. M., and Barrett, L. F., eds. Handbook of emotions . New York: Guilford Press; 2008. pp. 628–642."
+      },
+      {
+        "key": "e_1_3_2_10_1",
+        "article-title": "From affect programs to dynamical discrete emotions",
+        "author": "Colombetti G.",
+        "unstructured": "Colombetti, G., From affect programs to dynamical discrete emotions, Philosophical Psychology, in press.",
+        "journal-title": "Philosophical Psychology"
+      },
+      {
+        "key": "e_1_3_2_11_1",
+        "first-page": "319",
+        "volume-title": "Approaches to emotion",
+        "author": "Ekman P.",
+        "year": "1984",
+        "unstructured": "Ekman, P., 1984. \"Expression and the nature of emotion\". In: Scherer, K., and Ekman, P., eds. Approaches to emotion. NewYork: Erlbaum; 1984. pp. 319–343."
+      },
+      {
+        "key": "e_1_3_2_12_1",
+        "first-page": "572",
+        "volume-title": "Handbook of affective sciences",
+        "author": "Ellsworth P. C.",
+        "year": "2003",
+        "unstructured": "Ellsworth, P. C., and Scherer, K. R., 2003. \"Appraisal processes in emotion\". In: Davidson, R. J., Scherer, K. R., and Goldsmith, H. H., eds. Handbook of affective sciences. New York: Oxford University Press; 2003. pp. 572–595."
+      },
+      {
+        "key": "e_1_3_2_13_1",
+        "article-title": "The modularity of emotions",
+        "volume": "32",
+        "author": "Faucher L.",
+        "year": "2006",
+        "unstructured": "Faucher, L., and Tappolet, C., 2006. The modularity of emotions, Canadian Journal of Philosophy Supplement Volume, 32 (2006).",
+        "journal-title": "Canadian Journal of Philosophy"
+      },
+      {
+        "key": "e_1_3_2_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-3445.113.3.464"
+      },
+      {
+        "key": "e_1_3_2_15_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "255",
+        "DOI": "10.1017/CBO9780511659911.013",
+        "volume-title": "The psychology of facial expressions",
+        "author": "Fernandez-Dols J. M.",
+        "year": "1997",
+        "unstructured": "Fernandez-Dols, J. M., and Ruiz-Belda, M. A., 1997. \"Spontaneous facial behavior during intense emotional episodes: Artistic truth and optical truth\". In: Russell, J. A., and Fernandez-Dols, J. M., eds. The psychology of facial expressions. New York: Cambridge University Press; 1997. pp. 255–274."
+      },
+      {
+        "key": "e_1_3_2_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1024917530100"
+      },
+      {
+        "key": "e_1_3_2_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9507.1992.tb00116.x"
+      },
+      {
+        "key": "e_1_3_2_18_1",
+        "volume-title": "Human facial expression",
+        "author": "Fridlund A. J.",
+        "year": "1994",
+        "unstructured": "Fridlund, A. J., 1994. Human facial expression. San Diego, CA: Academic Press; 1994."
+      },
+      {
+        "key": "e_1_3_2_19_1",
+        "first-page": "68",
+        "volume-title": "Handbook of emotions",
+        "author": "Frijda N.",
+        "year": "2008",
+        "unstructured": "Frijda, N., 2008. \"The psychologists’ point of view\". In: Lewis, M., Haviland-Jones, J. M., and Barrett, L. F., eds. Handbook of emotions . New York: Guilford Press; 2008. pp. 68–87."
+      },
+      {
+        "key": "e_1_3_2_20_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7551/mitpress/7289.001.0001",
+        "volume-title": "Words, thoughts, and theories",
+        "author": "Gopnik A.",
+        "year": "1997",
+        "unstructured": "Gopnik, A., and Meltzoff, A. N., 1997. Words, thoughts, and theories. Cambridge, MA: MIT Press; 1997."
+      },
+      {
+        "key": "e_1_3_2_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7208/chicago/9780226308760.001.0001"
+      },
+      {
+        "key": "e_1_3_2_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4899-2209-0"
+      },
+      {
+        "key": "e_1_3_2_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/mind/os-IX.34.188"
+      },
+      {
+        "key": "e_1_3_2_24_1",
+        "volume-title": "Whatis emotion? History, measures, and meanings",
+        "author": "Kagan J.",
+        "year": "2007",
+        "unstructured": "Kagan, J., 2007. Whatis emotion? History, measures, and meanings. NewHaven, CT: Yale; 2007."
+      },
+      {
+        "key": "e_1_3_2_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.7.2.262"
+      },
+      {
+        "key": "e_1_3_2_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0057436"
+      },
+      {
+        "key": "e_1_3_2_27_1",
+        "first-page": "14",
+        "volume-title": "Psychological stress: Issues in research",
+        "author": "Lacey J. I.",
+        "year": "1967",
+        "unstructured": "Lacey, J. I., 1967. \"Somatic response patterning and stress: Some revisions of activation theory\". In: Appley, M. H., and Trumbull, R., eds. Psychological stress: Issues in research. New York: Appleton-Century-Crofts; 1967. pp. 14–37."
+      },
+      {
+        "key": "e_1_3_2_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.109.2.219"
+      },
+      {
+        "key": "e_1_3_2_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/10546-004"
+      },
+      {
+        "key": "e_1_3_2_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-8986.1979.tb01511.x"
+      },
+      {
+        "key": "e_1_3_2_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-94-009-2792-6_7"
+      },
+      {
+        "key": "e_1_3_2_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-8986.1993.tb03352.x"
+      },
+      {
+        "key": "e_1_3_2_33_1",
+        "first-page": "180",
+        "volume-title": "Handbook of emotions",
+        "author": "Larsen J. T.",
+        "year": "2008",
+        "unstructured": "Larsen, J. T., Bernstson, G. G., Poehlmann, K. M., Ito, T. A., and Cacioppo, J. T., 2008. \"The psychophysiology of emotion\". In: Lewis, M., Haviland-Jones, J. M., and Barrett, L. F., eds. Handbook of emotions . New York: Guilford Press; 2008. pp. 180–195."
+      },
+      {
+        "key": "e_1_3_2_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780195069945.001.0001"
+      },
+      {
+        "key": "e_1_3_2_35_1",
+        "volume-title": "The emotional brain",
+        "author": "LeDoux J. E.",
+        "year": "1996",
+        "unstructured": "LeDoux, J. E., 1996. The emotional brain. New York: Simon & Schuster; 1996."
+      },
+      {
+        "key": "e_1_3_2_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.62.6.972"
+      },
+      {
+        "key": "e_1_3_2_37_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "37",
+        "DOI": "10.1017/CBO9780511527883.004",
+        "volume-title": "Emotion, development and self-organization: Dynamic systems approaches to emotional development",
+        "author": "Lewis M. D.",
+        "year": "2000",
+        "unstructured": "Lewis, M. D., 2000. \"Emotional organization at three time scales\". In: Lewis, M. D., and Granic, I., eds. Emotion, development and self-organization: Dynamic systems approaches to emotional development. Cambridge, UK: Cambridge University Press; 2000. pp. 37–69."
+      },
+      {
+        "key": "e_1_3_2_38_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/h0093803",
+        "article-title": "The response to threat: Relations among verbal and physiological indices",
+        "volume": "75",
+        "author": "Mandler G.",
+        "year": "1961",
+        "unstructured": "Mandler, G., Mandler, J. M., Kremen, I., and Sholiton, R., 1961. The response to threat: Relations among verbal and physiological indices, Psychological Monographs 75 (513) (1961).",
+        "journal-title": "Psychological Monographs"
+      },
+      {
+        "key": "e_1_3_2_39_1",
+        "volume-title": "More on emotional expression and experience: The case of disgust",
+        "author": "Miener S.",
+        "year": "2009",
+        "unstructured": "Miener, S., and Reisenzein, R., 2009. More on emotional expression and experience: The case of disgust. Unpublished manuscript, University of Greifswald, Germany; 2009."
+      },
+      {
+        "key": "e_1_3_2_40_1",
+        "first-page": "618",
+        "volume-title": "Handbook of emotions",
+        "author": "Minsky M.",
+        "year": "2008",
+        "unstructured": "Minsky, M., 2008. \"A framework for representing emotional states\". In: Lewis, M., Haviland-Jones, J. M., and Barrett, L. F., eds. Handbook of emotions . New York: Guilford Press; 2008. pp. 618–627."
+      },
+      {
+        "key": "e_1_3_2_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9280.00238"
+      },
+      {
+        "key": "e_1_3_2_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.97.3.315"
+      },
+      {
+        "key": "e_1_3_2_43_1",
+        "volume-title": "Gut reactions: A perceptual theory of emotion",
+        "author": "Prinz J.",
+        "year": "2004",
+        "unstructured": "Prinz, J., 2004. Gut reactions: A perceptual theory of emotion. New York: Oxford University Press; 2004."
+      },
+      {
+        "key": "e_1_3_2_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0005-7894(84)80045-3"
+      },
+      {
+        "key": "e_1_3_2_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0005-7967(74)90005-9"
+      },
+      {
+        "key": "e_1_3_2_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/026999300378978"
+      },
+      {
+        "key": "e_1_3_2_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0077714"
+      },
+      {
+        "key": "e_1_3_2_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.110.3.426"
+      },
+      {
+        "key": "e_1_3_2_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.110.1.145"
+      },
+      {
+        "key": "e_1_3_2_50_1",
+        "first-page": "26",
+        "article-title": "Emotion in human consciousness is built on core affect",
+        "volume": "12",
+        "author": "Russell J. A.",
+        "year": "2005",
+        "unstructured": "Russell, J. A., 2005. Emotion in human consciousness is built on core affect, Journal of Consciousness Studies 12 (2005), pp. 26–42.",
+        "journal-title": "Journal of Consciousness Studies"
+      },
+      {
+        "key": "e_1_3_2_51_1",
+        "first-page": "53",
+        "article-title": "Emotions are not modules. Canadian Journal of Philosophy",
+        "volume": "32",
+        "author": "Russell J. A.",
+        "year": "2006",
+        "unstructured": "Russell, J. A., 2006. Emotions are not modules. Canadian Journal of Philosophy , Supplement Volume 32 (2006), pp. 53–71.",
+        "journal-title": "Supplement Volume"
+      },
+      {
+        "key": "e_1_3_2_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.67.2.186"
+      },
+      {
+        "key": "e_1_3_2_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.54.101601.145102"
+      },
+      {
+        "key": "e_1_3_2_54_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "70",
+        "DOI": "10.1017/CBO9780511527883.005",
+        "volume-title": "Emotion, development and self-organization: Dynamic systems approaches to emotional development",
+        "author": "Scherer K. R.",
+        "year": "2000",
+        "unstructured": "Scherer, K. R., 2000. \"Emotions as episodes of subsystem synchronization driven by nonlinear appraisal processes\". In: Lewis, M. D., and Granic, I., eds. Emotion, development and self-organization: Dynamic systems approaches to emotional development. Cambridge, UK: Cambridge University Press; 2000. pp. 70–99."
+      },
+      {
+        "key": "e_1_3_2_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780195130072.003.0005"
+      },
+      {
+        "key": "e_1_3_2_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930902928969"
+      },
+      {
+        "key": "e_1_3_2_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.7.1.113"
+      },
+      {
+        "key": "e_1_3_2_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7551/mitpress/5834.001.0001"
+      },
+      {
+        "key": "e_1_3_2_59_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1017/CBO9780511659911.012",
+        "volume-title": "The psychology of facial expressions",
+        "author": "Smith C. A.",
+        "year": "1997",
+        "unstructured": "Smith, C. A., and Scott, H. S., 1997. \"A componential approach to the meaning of facial expressions\". In: Russell, J. A., and Fernandez-Dols, J. M., eds. The psychology of facial expressions. New York: Cambridge University Press; 1997. pp. 229–254."
+      },
+      {
+        "key": "e_1_3_2_60_1",
+        "first-page": "287",
+        "volume-title": "Emotion and consciousness",
+        "author": "Smith E. R.",
+        "year": "2005",
+        "unstructured": "Smith, E. R., and Neumann, R., 2005. \"Emotion processes considered from the perspective of dual-process models\". In: Barrett, L. F., Niedenthal, P. M., and Winkielman, P., eds. Emotion and consciousness. New York: Guilford Press; 2005. pp. 287–311."
+      },
+      {
+        "key": "e_1_3_2_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15327957pspr0803_1"
+      },
+      {
+        "key": "e_1_3_2_62_1",
+        "article-title": "What do people want to feel and why? Pleasure and utility in emotion regulation",
+        "author": "Tamir M.",
+        "unstructured": "Tamir, M., in press. What do people want to feel and why? Pleasure and utility in emotion regulation, Current Directions in Psychological Science (in press).",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "key": "e_1_3_2_63_1",
+        "volume-title": "Affect, imagery, consciousness: Vol. 1. The positive affects”",
+        "author": "Tomkins S. S.",
+        "year": "1962",
+        "unstructured": "Tomkins, S. S., 1962. Affect, imagery, consciousness: Vol. 1. The positive affects”. New York: Springer; 1962."
+      },
+      {
+        "key": "e_1_3_2_64_1",
+        "volume-title": "Affect, imagery, consciousness: Vol. 1. The negative affects”",
+        "author": "Tomkins S. S.",
+        "year": "1963",
+        "unstructured": "Tomkins, S. S., 1963. Affect, imagery, consciousness: Vol. 1. The negative affects”. New York: Springer; 1963."
+      },
+      {
+        "key": "e_1_3_2_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.92.4.548"
+      },
+      {
+        "key": "e_1_3_2_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511521256"
+      },
+      {
+        "key": "e_1_3_2_67_1",
+        "first-page": "335",
+        "volume-title": "Emotion and consciousness",
+        "author": "Winkielman P.",
+        "year": "2005",
+        "unstructured": "Winkielman, P., Berridge, K. C., and Wilbarger, J. L., 2005. \"Emotion, behavior, and conscious experience: Once more without feeling\". In: Barrett, L. F., Niedenthal, P. M., and Winkielman, P., eds. Emotion and consciousness. New York: Guilford Press; 2005. pp. 335–362."
+      },
+      {
+        "key": "e_1_3_2_68_1",
+        "volume-title": "A 12-point circumplex model of core affect",
+        "author": "Yik M.",
+        "year": "2008",
+        "unstructured": "Yik, M., Russell, J. A., and Steiger, J. H., 2008. A 12-point circumplex model of core affect. Manuscript submitted for publication; 2008."
+      },
+      {
+        "key": "e_1_3_2_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0091270"
+      }
+    ],
+    "container-title": [
+      "Cognition and Emotion"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/02699930902809375",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          14
+        ]
+      ],
+      "date-time": "2024-10-14T07:30:08Z",
+      "timestamp": 1728891008000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/02699930902809375"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          9,
+          29
+        ]
+      ]
+    },
+    "references-count": 68,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/02699930902809375"
+    ],
+    "URL": "https://doi.org/10.1080/02699930902809375",
+    "relation": {},
+    "ISSN": [
+      "0269-9931",
+      "1464-0600"
+    ],
+    "issn-type": [
+      {
+        "value": "0269-9931",
+        "type": "print"
+      },
+      {
+        "value": "1464-0600",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          9,
+          29
+        ]
+      ]
+    }
+  }
+}

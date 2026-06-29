@@ -1,0 +1,932 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2026-06-03T20:38:00Z",
+      "timestamp": 1780519080473,
+      "version": "3.54.1"
+    },
+    "reference-count": 138,
+    "publisher": "Annual Reviews",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Annu. Rev. Psychol."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Much emotion research has focused on the end result of the emotion process, categorical emotions, as reported by the protagonist or diagnosed by the researcher, with the aim of differentiating these discrete states. In contrast, this review concentrates on the emotion process itself by examining how ( a) elicitation, or the appraisal of events, leads to ( b) differentiation, in particular, action tendencies accompanied by physiological responses and manifested in facial, vocal, and gestural expressions, before ( c) conscious representation or experience of these changes (feeling) and ( d) categorizing and labeling these changes according to the semantic profiles of emotion words. The review focuses on empirical, particularly experimental, studies from emotion research and neighboring domains that contribute to a better understanding of the unfolding emotion process and the underlying mechanisms, including the interactions among emotion components.</jats:p>",
+    "DOI": "10.1146/annurev-psych-122216-011854",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          15
+        ]
+      ],
+      "date-time": "2018-08-15T21:29:10Z",
+      "timestamp": 1534368550000
+    },
+    "page": "719-745",
+    "source": "Crossref",
+    "is-referenced-by-count": 438,
+    "title": [
+      "The Emotion Process: Event Appraisal and Component Differentiation"
+    ],
+    "prefix": "10.1146",
+    "volume": "70",
+    "author": [
+      {
+        "given": "Klaus R.",
+        "family": "Scherer",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Center for Affective Sciences, University of Geneva, 1211 Geneva, Switzerland;"
+          },
+          {
+            "name": "Department of Psychology, University of Munich, 80539 Munich, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Agnes",
+        "family": "Moors",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Research Group of Quantitative Psychology and Individual Differences, Centre for Social and Cultural Psychology, KU Leuven, 3000 Leuven, Belgium;"
+          },
+          {
+            "name": "Department of Experimental Clinical and Health Psychology, Ghent University, 9000 Ghent, Belgium"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "22",
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biopsycho.2006.09.001"
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biopsycho.2008.04.004"
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biopsycho.2010.10.008"
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.1995.tb00596.x"
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1121/1.1391244"
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.70.3.614"
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0025827"
+      },
+      {
+        "key": "B8",
+        "first-page": "271",
+        "volume-title": "Blueprint for Affective Computing: A Sourcebook",
+        "author": "Bänziger T",
+        "year": "2010"
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ab.21650"
+      },
+      {
+        "issue": "6",
+        "key": "B10",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1002/ab.21491",
+        "volume": "39",
+        "author": "Barlett CP",
+        "year": "2013",
+        "journal-title": "Aggress. Behav."
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0088432"
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jvoice.2013.12.007"
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.4.2.107"
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jpubeco.2017.03.003"
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40732-014-0065-4"
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/CABN.7.4.356"
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-7998.2012.00920.x"
+      },
+      {
+        "key": "B18",
+        "first-page": "w13786",
+        "volume": "143",
+        "author": "Brosch T",
+        "year": "2013",
+        "journal-title": "Swiss Med. Wkly."
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0027039"
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jesp.2009.04.009"
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.80.2.173"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1901/jeab.1990.53-293"
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnhum.2013.00126"
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1068/p7364"
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10919-012-0130-0"
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0025737"
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn1872"
+      },
+      {
+        "key": "B28",
+        "first-page": "176",
+        "volume-title": "Handbook of Implicit Social Cognition: Measurement, Theory, and Applications",
+        "author": "De Houwer J",
+        "year": "2010"
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015369"
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0016909"
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/xlm0000089"
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.34.5.774"
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-3445.137.2.262"
+      },
+      {
+        "key": "B34",
+        "first-page": "469",
+        "volume-title": "What the Face Reveals",
+        "author": "Ekman P",
+        "year": "1997"
+      },
+      {
+        "key": "B35",
+        "volume-title": "Facial Action Coding System: A Technique for the Measurement of Facial Movement",
+        "author": "Ekman P",
+        "year": "1978"
+      },
+      {
+        "key": "B36",
+        "first-page": "572",
+        "volume-title": "Handbook of Affective Sciences",
+        "author": "Ellsworth PC",
+        "year": "2003"
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2009.02452.x"
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fleischmann A, Lammers J, Conway P, Galinsky AD. 2018. Paradoxical effects of power on moral thinking: why power both increases and decreases deontological and utilitarian moral decisions.Soc. Psychol. Personal. Sci.In press",
+        "DOI": "10.1177/1948550617744022"
+      },
+      {
+        "key": "B39",
+        "first-page": "142",
+        "volume-title": "Oxford Companion to Emotion and the Affective Sciences",
+        "author": "Frijda N",
+        "year": "2009"
+      },
+      {
+        "key": "B40",
+        "volume-title": "The Emotions",
+        "author": "Frijda NH",
+        "year": "1986"
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.57.2.212"
+      },
+      {
+        "key": "B42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.psyneuen.2005.02.001"
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.85.3.453"
+      },
+      {
+        "key": "B44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/job.2275"
+      },
+      {
+        "key": "B45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biopsycho.2013.11.007"
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0135837"
+      },
+      {
+        "key": "B47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biopsycho.2015.10.001"
+      },
+      {
+        "key": "B48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1121/1.3466853"
+      },
+      {
+        "key": "B49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biopsycho.2014.06.002"
+      },
+      {
+        "key": "B50",
+        "first-page": "61",
+        "volume": "43",
+        "author": "Gray JA",
+        "year": "1996",
+        "journal-title": "Nebr. Symp. Motiv."
+      },
+      {
+        "key": "B51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-psych-010416-044153"
+      },
+      {
+        "key": "B52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jebo.2014.06.006"
+      },
+      {
+        "key": "B53",
+        "first-page": "187",
+        "volume-title": "Handbook of Affective Sciences",
+        "author": "Hamm AO",
+        "year": "2003"
+      },
+      {
+        "key": "B54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2923.2010.03634.x"
+      },
+      {
+        "key": "B55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/jocn_a_00622"
+      },
+      {
+        "key": "B56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0035910"
+      },
+      {
+        "key": "B57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.5.4.513"
+      },
+      {
+        "key": "B58",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Johnstone T, van Reekum CM, Scherer KR. 2001. Vocal correlates of appraisal processes. In Scherer et al. 2001, pp. 271–84",
+        "DOI": "10.1093/oso/9780195130072.003.0015"
+      },
+      {
+        "key": "B59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.129.5.770"
+      },
+      {
+        "key": "B60",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1093/oso/9780198529613.003.0003",
+        "volume-title": "The New Handbook of Methods in Nonverbal Behavior Research",
+        "author": "Juslin PN",
+        "year": "2005"
+      },
+      {
+        "key": "B61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bbi.2008.08.008"
+      },
+      {
+        "key": "B62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797614553009"
+      },
+      {
+        "key": "B63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0032875"
+      },
+      {
+        "key": "B64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2015.00563"
+      },
+      {
+        "key": "B65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biopsycho.2010.03.010"
+      },
+      {
+        "key": "B66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1754073913477501"
+      },
+      {
+        "key": "B67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1948550612471060"
+      },
+      {
+        "key": "B68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0022-1031(79)90029-5"
+      },
+      {
+        "key": "B69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.3.3.254"
+      },
+      {
+        "key": "B70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2008.02123.x"
+      },
+      {
+        "key": "B71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.7.1.207"
+      },
+      {
+        "key": "B72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1754073913512004"
+      },
+      {
+        "key": "B73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1469-8986.00078"
+      },
+      {
+        "key": "B74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1948550611428011"
+      },
+      {
+        "key": "B75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930441000445"
+      },
+      {
+        "key": "B76",
+        "volume-title": "Stress, Appraisal, and Coping",
+        "author": "Lazarus RS",
+        "year": "1984"
+      },
+      {
+        "key": "B77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797612464500"
+      },
+      {
+        "key": "B78",
+        "first-page": "273",
+        "volume-title": "The Oxford Handbook of Affective Computing",
+        "author": "Lhommet M",
+        "year": "2015"
+      },
+      {
+        "key": "B79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-8986.2011.01290.x"
+      },
+      {
+        "key": "B80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2008.02170.x"
+      },
+      {
+        "key": "B81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699931.2010.485889"
+      },
+      {
+        "key": "B82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CogInfoCom.2016.7804564"
+      },
+      {
+        "key": "B83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ab.20084"
+      },
+      {
+        "key": "B84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0039416"
+      },
+      {
+        "key": "B85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930802645739"
+      },
+      {
+        "key": "B86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1047840X.2017.1275207"
+      },
+      {
+        "key": "B87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1754073916669595"
+      },
+      {
+        "key": "B88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.132.2.297"
+      },
+      {
+        "key": "B88a",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Moors A, Fischer M. 2018. Demystifying the role of emotion in behavior: toward a goal-directed account.Cogn. Emot. In press",
+        "DOI": "10.1080/02699931.2018.1510381"
+      },
+      {
+        "key": "B89",
+        "first-page": "135",
+        "volume-title": "Handbook of Cognition and Emotion",
+        "author": "Moors A",
+        "year": "2013"
+      },
+      {
+        "key": "B90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1948550610389080"
+      },
+      {
+        "key": "B91",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1754073912445818"
+      },
+      {
+        "key": "B92",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0167.38.1.30"
+      },
+      {
+        "key": "B93",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797611415540"
+      },
+      {
+        "key": "B94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930600861330"
+      },
+      {
+        "key": "B95",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0016819"
+      },
+      {
+        "key": "B96",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-8986.2010.01057.x"
+      },
+      {
+        "key": "B97",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rsos.170912"
+      },
+      {
+        "key": "B98",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15327957pspr0101_5"
+      },
+      {
+        "key": "B99",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930802591594"
+      },
+      {
+        "key": "B100",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0165022"
+      },
+      {
+        "key": "B101",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pecchinenda A. 2001. The psychophysiology of appraisals. In Scherer et al. 2001, pp. 301–15",
+        "DOI": "10.1093/oso/9780195130072.003.0017"
+      },
+      {
+        "key": "B102",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/026999396380123"
+      },
+      {
+        "key": "B103",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Reisenzein R, Horstmann G, Schützwohl A. 2018. The cognitive-evolutionary model of surprise: a review of the evidence.Top. Cogn. Sci.In press",
+        "DOI": "10.1111/tops.12292"
+      },
+      {
+        "key": "B104",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-8986.2009.00795.x"
+      },
+      {
+        "key": "B105",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/rssc.12241"
+      },
+      {
+        "key": "B106",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schank JC, Miller ML, Smaldino PE. 2017. The evolution of fair offers with low rejection thresholds in the ultimatum game. bioRxiv 162313",
+        "DOI": "10.1101/162313"
+      },
+      {
+        "key": "B107",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.99.2.143"
+      },
+      {
+        "key": "B108",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Scherer KR. 2001. Appraisal considered as a process of multilevel sequential checking. In Scherer et al. 2001, pp. 92–120",
+        "DOI": "10.1093/oso/9780195130072.003.0005"
+      },
+      {
+        "key": "B109",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930902928969"
+      },
+      {
+        "key": "B110",
+        "first-page": "145",
+        "volume-title": "Oxford Companion to Emotion and the Affective Sciences",
+        "author": "Scherer KR",
+        "year": "2009"
+      },
+      {
+        "key": "B111",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7551/mitpress/9780262018104.003.0005"
+      },
+      {
+        "key": "B112",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00207594.2011.626049"
+      },
+      {
+        "key": "B113",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.7.1.113"
+      },
+      {
+        "key": "B113a",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Scherer KR, Fontaine JRF. 2018. The semantic structure of emotion words across languages is consistent with componential appraisal models of emotion.Cogn. Emot.In press",
+        "DOI": "10.1080/02699931.2018.1481369"
+      },
+      {
+        "key": "B114",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0058166"
+      },
+      {
+        "key": "B115",
+        "first-page": "353",
+        "volume-title": "The Science of Facial Expression",
+        "author": "Scherer KR",
+        "year": "2017"
+      },
+      {
+        "key": "B116",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspa0000107"
+      },
+      {
+        "key": "B117",
+        "first-page": "17",
+        "volume-title": "Handbook of Neuropsychology, Vol. 5: Emotional Behavior and Its Disorders",
+        "author": "Scherer KR",
+        "year": "2001"
+      },
+      {
+        "key": "B118",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780195130072.001.0001",
+        "volume-title": "Appraisal Processes in Emotion: Theory, Methods, Research",
+        "author": "Scherer KR",
+        "year": "2001"
+      },
+      {
+        "key": "B119",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0539018404047701"
+      },
+      {
+        "key": "B120",
+        "volume-title": "Helplessness: On Depression, Development, and Death",
+        "author": "Seligman MEP",
+        "year": "1975"
+      },
+      {
+        "key": "B121",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11031-014-9443-0"
+      },
+      {
+        "key": "B122",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930802009464"
+      },
+      {
+        "key": "B123",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1521/soco.2008.26.1.1"
+      },
+      {
+        "key": "B124",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.124.2.240"
+      },
+      {
+        "key": "B125",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1469-8986.3960707"
+      },
+      {
+        "key": "B126",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0130117"
+      },
+      {
+        "key": "B127",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.lindif.2017.11.015"
+      },
+      {
+        "key": "B128",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.65.2.248"
+      },
+      {
+        "key": "B129",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.73.1.63"
+      },
+      {
+        "key": "B130",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.physbeh.2017.05.006"
+      },
+      {
+        "key": "B131",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jebo.2014.10.014"
+      },
+      {
+        "key": "B132",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930341000167"
+      },
+      {
+        "key": "B133",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2006.00396.x"
+      },
+      {
+        "key": "B134",
+        "first-page": "277",
+        "volume-title": "Advances in Experimental Social Psychology",
+        "volume": "8",
+        "author": "Wortman CB",
+        "year": "1975"
+      },
+      {
+        "key": "B135",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijpsycho.2012.04.010"
+      },
+      {
+        "key": "B136",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/obhd.1997.2730"
+      }
+    ],
+    "container-title": [
+      "Annual Review of Psychology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-122216-011854",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          9
+        ]
+      ],
+      "date-time": "2024-07-09T07:46:42Z",
+      "timestamp": 1720511202000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.annualreviews.org/doi/10.1146/annurev-psych-122216-011854"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          4
+        ]
+      ]
+    },
+    "references-count": 138,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1146/annurev-psych-122216-011854"
+    ],
+    "URL": "https://doi.org/10.1146/annurev-psych-122216-011854",
+    "relation": {},
+    "ISSN": [
+      "0066-4308",
+      "1545-2085"
+    ],
+    "issn-type": [
+      {
+        "value": "0066-4308",
+        "type": "print"
+      },
+      {
+        "value": "1545-2085",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          4
+        ]
+      ]
+    }
+  }
+}

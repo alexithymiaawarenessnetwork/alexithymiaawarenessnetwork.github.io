@@ -1,0 +1,7 @@
+The Emotion Process: Event Appraisal and Component Differentiation
+DOI: 10.1146/annurev-psych-122216-011854
+Year: 2018
+Authors: Klaus R. Scherer, Agnes Moors
+
+Abstract:
+Much emotion research has focused on the end result of the emotion process, categorical emotions, as reported by the protagonist or diagnosed by the researcher, with the aim of differentiating these discrete states. In contrast, this review concentrates on the emotion process itself by examining how ( a) elicitation, or the appraisal of events, leads to ( b) differentiation, in particular, action tendencies accompanied by physiological responses and manifested in facial, vocal, and gestural expressions, before ( c) conscious representation or experience of these changes (feeling) and ( d) categorizing and labeling these changes according to the semantic profiles of emotion words. The review focuses on empirical, particularly experimental, studies from emotion research and neighboring domains that contribute to a better understanding of the unfolding emotion process and the underlying mechanisms, including the interactions among emotion components.

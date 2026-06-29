@@ -11,6 +11,7 @@ Canonical planning artifacts:
 - `MILESTONES.md` — current stage boundaries
 - `TODO.md` — active tasks and punch-list work
 - `CONTENT_PLAN.md` — information architecture and per-page editorial rules
+- `THEME_MIGRATION_PLAN.md` — platform/theme migration strategy, page-type templates, and current page classification
 
 ## Canonical current state for cache derivation
 
@@ -30,6 +31,7 @@ Completed boundary milestone:
 Primary active task surfaces:
 - `TODO.md` → Organizational development and institutional networking
 - `TODO.md` → Website platform and presentation
+- `THEME_MIGRATION_PLAN.md` → Material/MkDocs migration and open-door template system
 - `TODO.md` → Library depth and resource curation
 - `TODO.md` → Community workshops and groups
 
@@ -54,4 +56,5 @@ Near-term planning questions:
 - When stage emphasis changes, update `MILESTONES.md` next.
 - When concrete next actions change, update `TODO.md`.
 - When site-structure decisions change, update `CONTENT_PLAN.md`.
+- When platform/theme/template decisions change, update `THEME_MIGRATION_PLAN.md`.
 - After changing project planning artifacts in a way that affects portfolio visibility, refresh `project-mgmt`.

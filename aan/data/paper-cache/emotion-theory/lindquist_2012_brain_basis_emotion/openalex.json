@@ -1,0 +1,2251 @@
+{
+  "id": "https://openalex.org/W2105931454",
+  "doi": "https://doi.org/10.1017/s0140525x11000446",
+  "title": "The brain basis of emotion: A meta-analytic review",
+  "display_name": "The brain basis of emotion: A meta-analytic review",
+  "publication_year": 2012,
+  "publication_date": "2012-05-23",
+  "ids": {
+    "openalex": "https://openalex.org/W2105931454",
+    "doi": "https://doi.org/10.1017/s0140525x11000446",
+    "mag": "2105931454",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/22617651"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1017/s0140525x11000446",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1017/s0140525x11000446",
+    "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/80F95F093305C76BA2C66BBA48D4BC8A/S0140525X11000446a.pdf/div-class-title-the-brain-basis-of-emotion-a-meta-analytic-review-div.pdf",
+    "source": {
+      "id": "https://openalex.org/S59628311",
+      "display_name": "Behavioral and Brain Sciences",
+      "issn_l": "0140-525X",
+      "issn": [
+        "0140-525X",
+        "1469-1825"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311721",
+      "host_organization_name": "Cambridge University Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311721",
+        "https://openalex.org/P4310311702"
+      ],
+      "host_organization_lineage_names": [
+        "Cambridge University Press",
+        "University of Cambridge"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Behavioral and Brain Sciences",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/80F95F093305C76BA2C66BBA48D4BC8A/S0140525X11000446a.pdf/div-class-title-the-brain-basis-of-emotion-a-meta-analytic-review-div.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5066329166",
+        "display_name": "Kristen A. Lindquist",
+        "orcid": "https://orcid.org/0000-0002-5368-9302"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210127055",
+          "display_name": "Athinoula A. Martinos Center for Biomedical Imaging",
+          "ror": "https://ror.org/032q5ym94",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I48633490",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Kristen A. Lindquist",
+      "raw_affiliation_strings": [
+        "Department of Neurology, Harvard Medical School/Massachusetts General Hospital/Martinos Center for Biomedical Imaging, Charlestown, MA 02129, USA. lindqukr@nmr.mgh.harvard.edu",
+        "Department of Neurology, Harvard Medical School/Massachusetts General Hospital/Martinos Center for Biomedical Imaging, Charlestown, MA 02129, and Department of Psychology, Harvard University, Cambridge, MA 02138"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Neurology, Harvard Medical School/Massachusetts General Hospital/Martinos Center for Biomedical Imaging, Charlestown, MA 02129, USA. lindqukr@nmr.mgh.harvard.edu",
+          "institution_ids": [
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Neurology, Harvard Medical School/Massachusetts General Hospital/Martinos Center for Biomedical Imaging, Charlestown, MA 02129, and Department of Psychology, Harvard University, Cambridge, MA 02138",
+          "institution_ids": [
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I4210087915"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006154621",
+        "display_name": "Tor D. Wager",
+        "orcid": "https://orcid.org/0000-0002-1936-5574"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I188538660",
+          "display_name": "University of Colorado Boulder",
+          "ror": "https://ror.org/02ttsq026",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I188538660"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tor D. Wager",
+      "raw_affiliation_strings": [
+        "Department of Psychology and Neuroscience, University of Colorado, Boulder, CO 80309"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology and Neuroscience, University of Colorado, Boulder, CO 80309",
+          "institution_ids": [
+            "https://openalex.org/I188538660"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005131042",
+        "display_name": "Hedy Kober",
+        "orcid": "https://orcid.org/0000-0001-9893-1046"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hedy Kober",
+      "raw_affiliation_strings": [
+        "Department of Psychiatry, Yale University School of Medicine, New Haven, CT 06519;",
+        "Department of Psychiatry, Yale University School of Medicine, New Haven, CT 06519"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychiatry, Yale University School of Medicine, New Haven, CT 06519;",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychiatry, Yale University School of Medicine, New Haven, CT 06519",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051281006",
+        "display_name": "Eliza Bliss‐Moreau",
+        "orcid": "https://orcid.org/0000-0002-0740-5612"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I84218800",
+          "display_name": "University of California, Davis",
+          "ror": "https://ror.org/05rrcem69",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I84218800"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eliza Bliss-Moreau",
+      "raw_affiliation_strings": [
+        "California National Primate Research Center, University of California, Davis, CA 95616, and",
+        "Department of Psychiatry and Behavioral Science, University of California, Davis, CA 95616;",
+        "California National Primate Research Center, University of California, Davis, CA 95616, and Department of Psychiatry and Behavioral Sciences, University of California, Davis, CA 95616"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "California National Primate Research Center, University of California, Davis, CA 95616, and",
+          "institution_ids": [
+            "https://openalex.org/I84218800"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychiatry and Behavioral Science, University of California, Davis, CA 95616;",
+          "institution_ids": [
+            "https://openalex.org/I84218800"
+          ]
+        },
+        {
+          "raw_affiliation_string": "California National Primate Research Center, University of California, Davis, CA 95616, and Department of Psychiatry and Behavioral Sciences, University of California, Davis, CA 95616",
+          "institution_ids": [
+            "https://openalex.org/I84218800"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5061385021",
+        "display_name": "Lisa Feldman Barrett",
+        "orcid": "https://orcid.org/0000-0003-4478-2051"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I12912129",
+          "display_name": "Northeastern University",
+          "ror": "https://ror.org/04t5xt781",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I12912129"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210127055",
+          "display_name": "Athinoula A. Martinos Center for Biomedical Imaging",
+          "ror": "https://ror.org/032q5ym94",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I48633490",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lisa Feldman Barrett",
+      "raw_affiliation_strings": [
+        "Department of Psychology, Northeastern University, Boston, MA 02115, and",
+        "Departments of Radiology and Psychiatry, Harvard Medical School/Massachusetts General Hospital/Martinos Center for Biomedical Imaging, Charlestown, MA 02129",
+        "Department of Psychology, Northeastern University, Boston, MA 02115, and Departments of Radiology and Psychiatry, Harvard Medical School/Massachusetts General Hospital/Martinos Center for Biomedical Imaging, Charlestown, MA 02129"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, Northeastern University, Boston, MA 02115, and",
+          "institution_ids": [
+            "https://openalex.org/I12912129"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Departments of Radiology and Psychiatry, Harvard Medical School/Massachusetts General Hospital/Martinos Center for Biomedical Imaging, Charlestown, MA 02129",
+          "institution_ids": [
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychology, Northeastern University, Boston, MA 02115, and Departments of Radiology and Psychiatry, Harvard Medical School/Massachusetts General Hospital/Martinos Center for Biomedical Imaging, Charlestown, MA 02129",
+          "institution_ids": [
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I12912129",
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I4210087915"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5066329166"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I136199984",
+    "https://openalex.org/I4210087915",
+    "https://openalex.org/I4210127055"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 63.6813,
+  "has_fulltext": true,
+  "cited_by_count": 2321,
+  "citation_normalized_percentile": {
+    "value": 0.99979737,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "35",
+    "issue": "3",
+    "first_page": "121",
+    "last_page": "143"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10042",
+    "display_name": "Neural and Behavioral Psychology Studies",
+    "score": 0.9908000230789185,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2805",
+      "display_name": "Cognitive Neuroscience"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/28",
+      "display_name": "Neuroscience"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10042",
+      "display_name": "Neural and Behavioral Psychology Studies",
+      "score": 0.9908000230789185,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11094",
+      "display_name": "Face Recognition and Perception",
+      "score": 0.9854000210762024,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11431",
+      "display_name": "Action Observation and Synchronization",
+      "score": 0.9751999974250793,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.6454231142997742
+    },
+    {
+      "id": "https://openalex.org/keywords/basis",
+      "display_name": "Basis (linear algebra)",
+      "score": 0.5922286510467529
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-psychology",
+      "display_name": "Cognitive psychology",
+      "score": 0.4171704053878784
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.08810862898826599
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.6454231142997742
+    },
+    {
+      "id": "https://openalex.org/C12426560",
+      "wikidata": "https://www.wikidata.org/wiki/Q189569",
+      "display_name": "Basis (linear algebra)",
+      "level": 2,
+      "score": 0.5922286510467529
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": 0.4171704053878784
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.08810862898826599
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D001921",
+      "descriptor_name": "Brain",
+      "qualifier_ui": "Q000000981",
+      "qualifier_name": "diagnostic imaging",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001921",
+      "descriptor_name": "Brain",
+      "qualifier_ui": "Q000000981",
+      "qualifier_name": "diagnostic imaging",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001921",
+      "descriptor_name": "Brain",
+      "qualifier_ui": "Q000000981",
+      "qualifier_name": "diagnostic imaging",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001921",
+      "descriptor_name": "Brain",
+      "qualifier_ui": "Q000000981",
+      "qualifier_name": "diagnostic imaging",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001921",
+      "descriptor_name": "Brain",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001921",
+      "descriptor_name": "Brain",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001921",
+      "descriptor_name": "Brain",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001921",
+      "descriptor_name": "Brain",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011859",
+      "descriptor_name": "Radiography",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011859",
+      "descriptor_name": "Radiography",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011859",
+      "descriptor_name": "Radiography",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011859",
+      "descriptor_name": "Radiography",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059906",
+      "descriptor_name": "Neuroimaging",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059906",
+      "descriptor_name": "Neuroimaging",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059906",
+      "descriptor_name": "Neuroimaging",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059906",
+      "descriptor_name": "Neuroimaging",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1017/s0140525x11000446",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1017/s0140525x11000446",
+      "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/80F95F093305C76BA2C66BBA48D4BC8A/S0140525X11000446a.pdf/div-class-title-the-brain-basis-of-emotion-a-meta-analytic-review-div.pdf",
+      "source": {
+        "id": "https://openalex.org/S59628311",
+        "display_name": "Behavioral and Brain Sciences",
+        "issn_l": "0140-525X",
+        "issn": [
+          "0140-525X",
+          "1469-1825"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311721",
+        "host_organization_name": "Cambridge University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311721",
+          "https://openalex.org/P4310311702"
+        ],
+        "host_organization_lineage_names": [
+          "Cambridge University Press",
+          "University of Cambridge"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Behavioral and Brain Sciences",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:22617651",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/22617651",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Behavioral and brain sciences",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:dlib.bc.edu:bc-ir_101745",
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/2345/2647",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401368",
+        "display_name": "Handle (Corporation for National Research Initiatives)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1311968801",
+        "host_organization_name": "Corporation for National Research Initiatives",
+        "host_organization_lineage": [
+          "https://openalex.org/I1311968801"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:3295145",
+      "is_oa": false,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4329228",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1017/s0140525x11000446",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1017/s0140525x11000446",
+    "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/80F95F093305C76BA2C66BBA48D4BC8A/S0140525X11000446a.pdf/div-class-title-the-brain-basis-of-emotion-a-meta-analytic-review-div.pdf",
+    "source": {
+      "id": "https://openalex.org/S59628311",
+      "display_name": "Behavioral and Brain Sciences",
+      "issn_l": "0140-525X",
+      "issn": [
+        "0140-525X",
+        "1469-1825"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311721",
+      "host_organization_name": "Cambridge University Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311721",
+        "https://openalex.org/P4310311702"
+      ],
+      "host_organization_lineage_names": [
+        "Cambridge University Press",
+        "University of Cambridge"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Behavioral and Brain Sciences",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1235725346",
+      "display_name": null,
+      "funder_award_id": "0631637",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G2852116164",
+      "display_name": null,
+      "funder_award_id": "AG030311",
+      "funder_id": "https://openalex.org/F4320337337",
+      "funder_display_name": "National Institute on Aging"
+    },
+    {
+      "id": "https://openalex.org/G3119229461",
+      "display_name": null,
+      "funder_award_id": "UL1RR024986",
+      "funder_id": "https://openalex.org/F4320337346",
+      "funder_display_name": "National Institute of Mental Health"
+    },
+    {
+      "id": "https://openalex.org/G4754337080",
+      "display_name": null,
+      "funder_award_id": "UL1RR024986",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G5356942318",
+      "display_name": null,
+      "funder_award_id": "DP1OD003312",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G6098318695",
+      "display_name": null,
+      "funder_award_id": "R01 AG030311",
+      "funder_id": "https://openalex.org/F4320337337",
+      "funder_display_name": "National Institute on Aging"
+    },
+    {
+      "id": "https://openalex.org/G8313690964",
+      "display_name": null,
+      "funder_award_id": "R01MH076136",
+      "funder_id": "https://openalex.org/F4320337346",
+      "funder_display_name": "National Institute of Mental Health"
+    },
+    {
+      "id": "https://openalex.org/G8519687771",
+      "display_name": null,
+      "funder_award_id": "R01MH076136",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306076",
+      "display_name": "National Science Foundation",
+      "ror": "https://ror.org/021nxhr62"
+    },
+    {
+      "id": "https://openalex.org/F4320309622",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52"
+    },
+    {
+      "id": "https://openalex.org/F4320311440",
+      "display_name": "National Alliance for Research on Schizophrenia and Depression",
+      "ror": "https://ror.org/03a63f080"
+    },
+    {
+      "id": "https://openalex.org/F4320332161",
+      "display_name": "National Institutes of Health",
+      "ror": "https://ror.org/01cwqze88"
+    },
+    {
+      "id": "https://openalex.org/F4320337337",
+      "display_name": "National Institute on Aging",
+      "ror": "https://ror.org/049v75w11"
+    },
+    {
+      "id": "https://openalex.org/F4320337346",
+      "display_name": "National Institute of Mental Health",
+      "ror": "https://ror.org/04xeg9z08"
+    },
+    {
+      "id": "https://openalex.org/F4320337534",
+      "display_name": "National Institute on Minority Health and Health Disparities",
+      "ror": "https://ror.org/0493hgw16"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2105931454.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2105931454.grobid-xml"
+  },
+  "referenced_works_count": 800,
+  "referenced_works": [
+    "https://openalex.org/W5968389",
+    "https://openalex.org/W13293125",
+    "https://openalex.org/W39174686",
+    "https://openalex.org/W55489547",
+    "https://openalex.org/W61901559",
+    "https://openalex.org/W64507850",
+    "https://openalex.org/W142039175",
+    "https://openalex.org/W165885598",
+    "https://openalex.org/W180870983",
+    "https://openalex.org/W201126850",
+    "https://openalex.org/W214407265",
+    "https://openalex.org/W372467782",
+    "https://openalex.org/W564228302",
+    "https://openalex.org/W568478672",
+    "https://openalex.org/W569347566",
+    "https://openalex.org/W578982847",
+    "https://openalex.org/W579787008",
+    "https://openalex.org/W605236103",
+    "https://openalex.org/W617324558",
+    "https://openalex.org/W624134615",
+    "https://openalex.org/W629408477",
+    "https://openalex.org/W645188457",
+    "https://openalex.org/W652575197",
+    "https://openalex.org/W815028396",
+    "https://openalex.org/W1489620604",
+    "https://openalex.org/W1493669801",
+    "https://openalex.org/W1494186755",
+    "https://openalex.org/W1499778067",
+    "https://openalex.org/W1501125750",
+    "https://openalex.org/W1507509966",
+    "https://openalex.org/W1510737382",
+    "https://openalex.org/W1524367410",
+    "https://openalex.org/W1524855937",
+    "https://openalex.org/W1530003357",
+    "https://openalex.org/W1540364524",
+    "https://openalex.org/W1572460559",
+    "https://openalex.org/W1574985323",
+    "https://openalex.org/W1579903065",
+    "https://openalex.org/W1582821347",
+    "https://openalex.org/W1586007354",
+    "https://openalex.org/W1594303435",
+    "https://openalex.org/W1596648454",
+    "https://openalex.org/W1597217152",
+    "https://openalex.org/W1601443637",
+    "https://openalex.org/W1607089218",
+    "https://openalex.org/W1619716059",
+    "https://openalex.org/W1642204535",
+    "https://openalex.org/W1642699591",
+    "https://openalex.org/W1660030754",
+    "https://openalex.org/W1694363227",
+    "https://openalex.org/W1714932027",
+    "https://openalex.org/W1719054056",
+    "https://openalex.org/W1728319269",
+    "https://openalex.org/W1748703215",
+    "https://openalex.org/W1752769168",
+    "https://openalex.org/W1758010190",
+    "https://openalex.org/W1763592589",
+    "https://openalex.org/W1768593022",
+    "https://openalex.org/W1786516604",
+    "https://openalex.org/W1815487740",
+    "https://openalex.org/W1830205008",
+    "https://openalex.org/W1841887418",
+    "https://openalex.org/W1849553904",
+    "https://openalex.org/W1850070871",
+    "https://openalex.org/W1872693690",
+    "https://openalex.org/W1875112053",
+    "https://openalex.org/W1880373995",
+    "https://openalex.org/W1883268346",
+    "https://openalex.org/W1953281406",
+    "https://openalex.org/W1959149129",
+    "https://openalex.org/W1963525383",
+    "https://openalex.org/W1963759133",
+    "https://openalex.org/W1963949534",
+    "https://openalex.org/W1965712297",
+    "https://openalex.org/W1966114254",
+    "https://openalex.org/W1966210085",
+    "https://openalex.org/W1966293926",
+    "https://openalex.org/W1966797434",
+    "https://openalex.org/W1966891940",
+    "https://openalex.org/W1967732432",
+    "https://openalex.org/W1968067697",
+    "https://openalex.org/W1968187292",
+    "https://openalex.org/W1968372229",
+    "https://openalex.org/W1968632888",
+    "https://openalex.org/W1969153406",
+    "https://openalex.org/W1969227269",
+    "https://openalex.org/W1969267343",
+    "https://openalex.org/W1970073498",
+    "https://openalex.org/W1970695058",
+    "https://openalex.org/W1970817476",
+    "https://openalex.org/W1971078086",
+    "https://openalex.org/W1971198017",
+    "https://openalex.org/W1971203465",
+    "https://openalex.org/W1971355925",
+    "https://openalex.org/W1971362524",
+    "https://openalex.org/W1971847861",
+    "https://openalex.org/W1972023085",
+    "https://openalex.org/W1972224334",
+    "https://openalex.org/W1973254033",
+    "https://openalex.org/W1973624245",
+    "https://openalex.org/W1974480006",
+    "https://openalex.org/W1974572323",
+    "https://openalex.org/W1974635983",
+    "https://openalex.org/W1974909087",
+    "https://openalex.org/W1975238145",
+    "https://openalex.org/W1975261418",
+    "https://openalex.org/W1975427503",
+    "https://openalex.org/W1975866301",
+    "https://openalex.org/W1976753688",
+    "https://openalex.org/W1976920801",
+    "https://openalex.org/W1976941847",
+    "https://openalex.org/W1977151773",
+    "https://openalex.org/W1977500242",
+    "https://openalex.org/W1977881365",
+    "https://openalex.org/W1977979993",
+    "https://openalex.org/W1978135580",
+    "https://openalex.org/W1978168325",
+    "https://openalex.org/W1978925727",
+    "https://openalex.org/W1979241172",
+    "https://openalex.org/W1979368645",
+    "https://openalex.org/W1979402519",
+    "https://openalex.org/W1980683585",
+    "https://openalex.org/W1981494566",
+    "https://openalex.org/W1982047119",
+    "https://openalex.org/W1982584792",
+    "https://openalex.org/W1982926279",
+    "https://openalex.org/W1983149359",
+    "https://openalex.org/W1983218925",
+    "https://openalex.org/W1983257052",
+    "https://openalex.org/W1983534183",
+    "https://openalex.org/W1984034898",
+    "https://openalex.org/W1984804736",
+    "https://openalex.org/W1985395701",
+    "https://openalex.org/W1985408596",
+    "https://openalex.org/W1985728804",
+    "https://openalex.org/W1986123007",
+    "https://openalex.org/W1986146870",
+    "https://openalex.org/W1986299687",
+    "https://openalex.org/W1986459850",
+    "https://openalex.org/W1986740180",
+    "https://openalex.org/W1987494247",
+    "https://openalex.org/W1988154622",
+    "https://openalex.org/W1988213061",
+    "https://openalex.org/W1988504605",
+    "https://openalex.org/W1988545511",
+    "https://openalex.org/W1988662234",
+    "https://openalex.org/W1989368169",
+    "https://openalex.org/W1989389824",
+    "https://openalex.org/W1989486988",
+    "https://openalex.org/W1989756802",
+    "https://openalex.org/W1989793720",
+    "https://openalex.org/W1989849554",
+    "https://openalex.org/W1990254102",
+    "https://openalex.org/W1990300812",
+    "https://openalex.org/W1990674336",
+    "https://openalex.org/W1991162251",
+    "https://openalex.org/W1991580276",
+    "https://openalex.org/W1991640690",
+    "https://openalex.org/W1991731575",
+    "https://openalex.org/W1991911963",
+    "https://openalex.org/W1992468982",
+    "https://openalex.org/W1992563806",
+    "https://openalex.org/W1993043561",
+    "https://openalex.org/W1993924263",
+    "https://openalex.org/W1994137059",
+    "https://openalex.org/W1994180654",
+    "https://openalex.org/W1994226253",
+    "https://openalex.org/W1994288300",
+    "https://openalex.org/W1994483275",
+    "https://openalex.org/W1995244594",
+    "https://openalex.org/W1997143698",
+    "https://openalex.org/W1997221465",
+    "https://openalex.org/W1997390498",
+    "https://openalex.org/W1997782822",
+    "https://openalex.org/W1997797132",
+    "https://openalex.org/W1997916979",
+    "https://openalex.org/W1997957403",
+    "https://openalex.org/W1998127479",
+    "https://openalex.org/W1998592627",
+    "https://openalex.org/W1998789716",
+    "https://openalex.org/W1998826260",
+    "https://openalex.org/W1998856121",
+    "https://openalex.org/W1998962587",
+    "https://openalex.org/W1999048656",
+    "https://openalex.org/W1999316654",
+    "https://openalex.org/W1999543972",
+    "https://openalex.org/W1999575787",
+    "https://openalex.org/W1999783085",
+    "https://openalex.org/W1999795364",
+    "https://openalex.org/W2000002701",
+    "https://openalex.org/W2000060666",
+    "https://openalex.org/W2000668843",
+    "https://openalex.org/W2000697043",
+    "https://openalex.org/W2000806965",
+    "https://openalex.org/W2000843844",
+    "https://openalex.org/W2001097956",
+    "https://openalex.org/W2001362807",
+    "https://openalex.org/W2001477070",
+    "https://openalex.org/W2001616780",
+    "https://openalex.org/W2002450015",
+    "https://openalex.org/W2002488259",
+    "https://openalex.org/W2002810238",
+    "https://openalex.org/W2003238582",
+    "https://openalex.org/W2003547693",
+    "https://openalex.org/W2004147328",
+    "https://openalex.org/W2004446327",
+    "https://openalex.org/W2004675992",
+    "https://openalex.org/W2004843412",
+    "https://openalex.org/W2006103025",
+    "https://openalex.org/W2006312249",
+    "https://openalex.org/W2007062612",
+    "https://openalex.org/W2007159602",
+    "https://openalex.org/W2007735192",
+    "https://openalex.org/W2008065461",
+    "https://openalex.org/W2008942963",
+    "https://openalex.org/W2009140566",
+    "https://openalex.org/W2009350032",
+    "https://openalex.org/W2009375902",
+    "https://openalex.org/W2010772800",
+    "https://openalex.org/W2010931158",
+    "https://openalex.org/W2011191885",
+    "https://openalex.org/W2011278005",
+    "https://openalex.org/W2013500884",
+    "https://openalex.org/W2014388836",
+    "https://openalex.org/W2015108059",
+    "https://openalex.org/W2015416604",
+    "https://openalex.org/W2016521818",
+    "https://openalex.org/W2016702702",
+    "https://openalex.org/W2016883631",
+    "https://openalex.org/W2016909901",
+    "https://openalex.org/W2017481703",
+    "https://openalex.org/W2018202910",
+    "https://openalex.org/W2018432347",
+    "https://openalex.org/W2018484401",
+    "https://openalex.org/W2019312772",
+    "https://openalex.org/W2019370496",
+    "https://openalex.org/W2019608648",
+    "https://openalex.org/W2019719293",
+    "https://openalex.org/W2019924339",
+    "https://openalex.org/W2020092078",
+    "https://openalex.org/W2020324081",
+    "https://openalex.org/W2021502766",
+    "https://openalex.org/W2021687531",
+    "https://openalex.org/W2022111475",
+    "https://openalex.org/W2022476141",
+    "https://openalex.org/W2022494716",
+    "https://openalex.org/W2023257214",
+    "https://openalex.org/W2023292494",
+    "https://openalex.org/W2023545067",
+    "https://openalex.org/W2023838972",
+    "https://openalex.org/W2023990755",
+    "https://openalex.org/W2023994933",
+    "https://openalex.org/W2024330937",
+    "https://openalex.org/W2024903765",
+    "https://openalex.org/W2024988985",
+    "https://openalex.org/W2025283285",
+    "https://openalex.org/W2025296793",
+    "https://openalex.org/W2025440394",
+    "https://openalex.org/W2025553758",
+    "https://openalex.org/W2025914707",
+    "https://openalex.org/W2026202566",
+    "https://openalex.org/W2026360097",
+    "https://openalex.org/W2027330320",
+    "https://openalex.org/W2027781650",
+    "https://openalex.org/W2028123459",
+    "https://openalex.org/W2028329161",
+    "https://openalex.org/W2028646018",
+    "https://openalex.org/W2028782606",
+    "https://openalex.org/W2028850601",
+    "https://openalex.org/W2029017594",
+    "https://openalex.org/W2029334490",
+    "https://openalex.org/W2029495816",
+    "https://openalex.org/W2029600757",
+    "https://openalex.org/W2029788655",
+    "https://openalex.org/W2029949252",
+    "https://openalex.org/W2030292675",
+    "https://openalex.org/W2030468096",
+    "https://openalex.org/W2030753049",
+    "https://openalex.org/W2030844863",
+    "https://openalex.org/W2031713841",
+    "https://openalex.org/W2031749225",
+    "https://openalex.org/W2032304198",
+    "https://openalex.org/W2033138858",
+    "https://openalex.org/W2033243775",
+    "https://openalex.org/W2033643157",
+    "https://openalex.org/W2033702744",
+    "https://openalex.org/W2033748222",
+    "https://openalex.org/W2034014039",
+    "https://openalex.org/W2034047812",
+    "https://openalex.org/W2035518691",
+    "https://openalex.org/W2035616057",
+    "https://openalex.org/W2035630779",
+    "https://openalex.org/W2035666345",
+    "https://openalex.org/W2036231449",
+    "https://openalex.org/W2036872212",
+    "https://openalex.org/W2037043198",
+    "https://openalex.org/W2037722970",
+    "https://openalex.org/W2038304019",
+    "https://openalex.org/W2038545735",
+    "https://openalex.org/W2038767644",
+    "https://openalex.org/W2039670967",
+    "https://openalex.org/W2040499574",
+    "https://openalex.org/W2040593830",
+    "https://openalex.org/W2040801633",
+    "https://openalex.org/W2041918156",
+    "https://openalex.org/W2041960873",
+    "https://openalex.org/W2042586026",
+    "https://openalex.org/W2042649681",
+    "https://openalex.org/W2042752383",
+    "https://openalex.org/W2042847262",
+    "https://openalex.org/W2043549994",
+    "https://openalex.org/W2043982048",
+    "https://openalex.org/W2044071327",
+    "https://openalex.org/W2044150847",
+    "https://openalex.org/W2044188186",
+    "https://openalex.org/W2044253438",
+    "https://openalex.org/W2044394944",
+    "https://openalex.org/W2044417695",
+    "https://openalex.org/W2044952535",
+    "https://openalex.org/W2045049249",
+    "https://openalex.org/W2045565604",
+    "https://openalex.org/W2045705118",
+    "https://openalex.org/W2046198995",
+    "https://openalex.org/W2046199489",
+    "https://openalex.org/W2046214338",
+    "https://openalex.org/W2046677541",
+    "https://openalex.org/W2047159572",
+    "https://openalex.org/W2047398419",
+    "https://openalex.org/W2049081675",
+    "https://openalex.org/W2049517993",
+    "https://openalex.org/W2049712368",
+    "https://openalex.org/W2049980174",
+    "https://openalex.org/W2052765867",
+    "https://openalex.org/W2054446967",
+    "https://openalex.org/W2054962017",
+    "https://openalex.org/W2055266204",
+    "https://openalex.org/W2055894321",
+    "https://openalex.org/W2056585274",
+    "https://openalex.org/W2057647435",
+    "https://openalex.org/W2057865624",
+    "https://openalex.org/W2057921841",
+    "https://openalex.org/W2057988711",
+    "https://openalex.org/W2058234041",
+    "https://openalex.org/W2058296271",
+    "https://openalex.org/W2058331473",
+    "https://openalex.org/W2058467798",
+    "https://openalex.org/W2059039044",
+    "https://openalex.org/W2059110708",
+    "https://openalex.org/W2059958122",
+    "https://openalex.org/W2059975322",
+    "https://openalex.org/W2060259639",
+    "https://openalex.org/W2060691228",
+    "https://openalex.org/W2060918321",
+    "https://openalex.org/W2060971741",
+    "https://openalex.org/W2061131717",
+    "https://openalex.org/W2061625961",
+    "https://openalex.org/W2061793127",
+    "https://openalex.org/W2062091522",
+    "https://openalex.org/W2062403796",
+    "https://openalex.org/W2062485818",
+    "https://openalex.org/W2062758252",
+    "https://openalex.org/W2063093002",
+    "https://openalex.org/W2063208022",
+    "https://openalex.org/W2063262826",
+    "https://openalex.org/W2064191582",
+    "https://openalex.org/W2064378963",
+    "https://openalex.org/W2064794182",
+    "https://openalex.org/W2064885604",
+    "https://openalex.org/W2065679752",
+    "https://openalex.org/W2066667961",
+    "https://openalex.org/W2066923652",
+    "https://openalex.org/W2066950638",
+    "https://openalex.org/W2067510622",
+    "https://openalex.org/W2067659395",
+    "https://openalex.org/W2068623304",
+    "https://openalex.org/W2070485641",
+    "https://openalex.org/W2072975230",
+    "https://openalex.org/W2073266669",
+    "https://openalex.org/W2073589212",
+    "https://openalex.org/W2073808041",
+    "https://openalex.org/W2073825915",
+    "https://openalex.org/W2073855789",
+    "https://openalex.org/W2074716497",
+    "https://openalex.org/W2075270873",
+    "https://openalex.org/W2075385722",
+    "https://openalex.org/W2076131953",
+    "https://openalex.org/W2076614289",
+    "https://openalex.org/W2076862449",
+    "https://openalex.org/W2078310952",
+    "https://openalex.org/W2078521408",
+    "https://openalex.org/W2079242396",
+    "https://openalex.org/W2079450984",
+    "https://openalex.org/W2079958233",
+    "https://openalex.org/W2079963397",
+    "https://openalex.org/W2080058161",
+    "https://openalex.org/W2080262561",
+    "https://openalex.org/W2080838132",
+    "https://openalex.org/W2080904127",
+    "https://openalex.org/W2080909738",
+    "https://openalex.org/W2081030913",
+    "https://openalex.org/W2081297347",
+    "https://openalex.org/W2081978414",
+    "https://openalex.org/W2082026714",
+    "https://openalex.org/W2082261139",
+    "https://openalex.org/W2082471440",
+    "https://openalex.org/W2082646619",
+    "https://openalex.org/W2083433785",
+    "https://openalex.org/W2083956595",
+    "https://openalex.org/W2084173546",
+    "https://openalex.org/W2084260707",
+    "https://openalex.org/W2085023577",
+    "https://openalex.org/W2085647841",
+    "https://openalex.org/W2085663684",
+    "https://openalex.org/W2086023016",
+    "https://openalex.org/W2086146798",
+    "https://openalex.org/W2086572427",
+    "https://openalex.org/W2087319022",
+    "https://openalex.org/W2088443095",
+    "https://openalex.org/W2088475596",
+    "https://openalex.org/W2088563966",
+    "https://openalex.org/W2089030269",
+    "https://openalex.org/W2089100901",
+    "https://openalex.org/W2089131745",
+    "https://openalex.org/W2089484174",
+    "https://openalex.org/W2089630224",
+    "https://openalex.org/W2089632738",
+    "https://openalex.org/W2089966829",
+    "https://openalex.org/W2090588457",
+    "https://openalex.org/W2091785129",
+    "https://openalex.org/W2091797092",
+    "https://openalex.org/W2092180926",
+    "https://openalex.org/W2092275057",
+    "https://openalex.org/W2092804630",
+    "https://openalex.org/W2093366270",
+    "https://openalex.org/W2093795850",
+    "https://openalex.org/W2094097475",
+    "https://openalex.org/W2094500507",
+    "https://openalex.org/W2095047274",
+    "https://openalex.org/W2095350455",
+    "https://openalex.org/W2096034317",
+    "https://openalex.org/W2096086610",
+    "https://openalex.org/W2096173964",
+    "https://openalex.org/W2096307915",
+    "https://openalex.org/W2096407407",
+    "https://openalex.org/W2096462474",
+    "https://openalex.org/W2096866604",
+    "https://openalex.org/W2096962395",
+    "https://openalex.org/W2097132987",
+    "https://openalex.org/W2097145605",
+    "https://openalex.org/W2097982135",
+    "https://openalex.org/W2098038869",
+    "https://openalex.org/W2098369009",
+    "https://openalex.org/W2099212341",
+    "https://openalex.org/W2099375974",
+    "https://openalex.org/W2099915326",
+    "https://openalex.org/W2100246886",
+    "https://openalex.org/W2100317815",
+    "https://openalex.org/W2100872799",
+    "https://openalex.org/W2101630796",
+    "https://openalex.org/W2101818734",
+    "https://openalex.org/W2102022426",
+    "https://openalex.org/W2102548748",
+    "https://openalex.org/W2102771097",
+    "https://openalex.org/W2102980545",
+    "https://openalex.org/W2103345644",
+    "https://openalex.org/W2103545875",
+    "https://openalex.org/W2103598305",
+    "https://openalex.org/W2103661556",
+    "https://openalex.org/W2103729454",
+    "https://openalex.org/W2104500862",
+    "https://openalex.org/W2104699321",
+    "https://openalex.org/W2105394148",
+    "https://openalex.org/W2105580240",
+    "https://openalex.org/W2105639637",
+    "https://openalex.org/W2105981921",
+    "https://openalex.org/W2106430530",
+    "https://openalex.org/W2106592748",
+    "https://openalex.org/W2106705508",
+    "https://openalex.org/W2106774855",
+    "https://openalex.org/W2107056293",
+    "https://openalex.org/W2108436924",
+    "https://openalex.org/W2108437241",
+    "https://openalex.org/W2108443882",
+    "https://openalex.org/W2109069551",
+    "https://openalex.org/W2109107192",
+    "https://openalex.org/W2109166831",
+    "https://openalex.org/W2109405824",
+    "https://openalex.org/W2109417522",
+    "https://openalex.org/W2109586390",
+    "https://openalex.org/W2109586655",
+    "https://openalex.org/W2109933556",
+    "https://openalex.org/W2110431345",
+    "https://openalex.org/W2110441769",
+    "https://openalex.org/W2110747672",
+    "https://openalex.org/W2110854100",
+    "https://openalex.org/W2110931780",
+    "https://openalex.org/W2110957653",
+    "https://openalex.org/W2111845575",
+    "https://openalex.org/W2112135274",
+    "https://openalex.org/W2112283624",
+    "https://openalex.org/W2112517056",
+    "https://openalex.org/W2113022628",
+    "https://openalex.org/W2113118665",
+    "https://openalex.org/W2113704579",
+    "https://openalex.org/W2113773025",
+    "https://openalex.org/W2113786818",
+    "https://openalex.org/W2114104729",
+    "https://openalex.org/W2114207481",
+    "https://openalex.org/W2114262893",
+    "https://openalex.org/W2114642430",
+    "https://openalex.org/W2115276436",
+    "https://openalex.org/W2115749907",
+    "https://openalex.org/W2116366629",
+    "https://openalex.org/W2116372303",
+    "https://openalex.org/W2116658855",
+    "https://openalex.org/W2116813115",
+    "https://openalex.org/W2117207767",
+    "https://openalex.org/W2117450581",
+    "https://openalex.org/W2117863710",
+    "https://openalex.org/W2117967450",
+    "https://openalex.org/W2118059904",
+    "https://openalex.org/W2118204981",
+    "https://openalex.org/W2118629895",
+    "https://openalex.org/W2118659222",
+    "https://openalex.org/W2118664095",
+    "https://openalex.org/W2118705344",
+    "https://openalex.org/W2118895315",
+    "https://openalex.org/W2119458405",
+    "https://openalex.org/W2120459781",
+    "https://openalex.org/W2120475259",
+    "https://openalex.org/W2120907531",
+    "https://openalex.org/W2120962222",
+    "https://openalex.org/W2121354731",
+    "https://openalex.org/W2122409987",
+    "https://openalex.org/W2122747898",
+    "https://openalex.org/W2122902949",
+    "https://openalex.org/W2123179086",
+    "https://openalex.org/W2123266065",
+    "https://openalex.org/W2123351253",
+    "https://openalex.org/W2123449207",
+    "https://openalex.org/W2123717940",
+    "https://openalex.org/W2123993001",
+    "https://openalex.org/W2124284324",
+    "https://openalex.org/W2124757386",
+    "https://openalex.org/W2124902961",
+    "https://openalex.org/W2125170228",
+    "https://openalex.org/W2125335715",
+    "https://openalex.org/W2125375538",
+    "https://openalex.org/W2125620095",
+    "https://openalex.org/W2126278534",
+    "https://openalex.org/W2126334133",
+    "https://openalex.org/W2126701055",
+    "https://openalex.org/W2127009885",
+    "https://openalex.org/W2127514208",
+    "https://openalex.org/W2128204836",
+    "https://openalex.org/W2128258712",
+    "https://openalex.org/W2128662472",
+    "https://openalex.org/W2128964866",
+    "https://openalex.org/W2129028793",
+    "https://openalex.org/W2129134806",
+    "https://openalex.org/W2129859760",
+    "https://openalex.org/W2129924432",
+    "https://openalex.org/W2130409243",
+    "https://openalex.org/W2130524445",
+    "https://openalex.org/W2131439590",
+    "https://openalex.org/W2132465696",
+    "https://openalex.org/W2132578438",
+    "https://openalex.org/W2133259143",
+    "https://openalex.org/W2133562625",
+    "https://openalex.org/W2133704721",
+    "https://openalex.org/W2133991911",
+    "https://openalex.org/W2134031328",
+    "https://openalex.org/W2134122056",
+    "https://openalex.org/W2134170969",
+    "https://openalex.org/W2134310053",
+    "https://openalex.org/W2134491286",
+    "https://openalex.org/W2134775514",
+    "https://openalex.org/W2134981596",
+    "https://openalex.org/W2135052572",
+    "https://openalex.org/W2135869619",
+    "https://openalex.org/W2136347166",
+    "https://openalex.org/W2136385382",
+    "https://openalex.org/W2136435696",
+    "https://openalex.org/W2136485397",
+    "https://openalex.org/W2137031743",
+    "https://openalex.org/W2137449272",
+    "https://openalex.org/W2137642865",
+    "https://openalex.org/W2137967377",
+    "https://openalex.org/W2138221880",
+    "https://openalex.org/W2138326456",
+    "https://openalex.org/W2138397772",
+    "https://openalex.org/W2138573425",
+    "https://openalex.org/W2138867073",
+    "https://openalex.org/W2139359952",
+    "https://openalex.org/W2139705940",
+    "https://openalex.org/W2140241886",
+    "https://openalex.org/W2140490960",
+    "https://openalex.org/W2140535904",
+    "https://openalex.org/W2140710825",
+    "https://openalex.org/W2140738048",
+    "https://openalex.org/W2141086920",
+    "https://openalex.org/W2141760481",
+    "https://openalex.org/W2142106331",
+    "https://openalex.org/W2142130767",
+    "https://openalex.org/W2142823391",
+    "https://openalex.org/W2142827688",
+    "https://openalex.org/W2143371903",
+    "https://openalex.org/W2143793766",
+    "https://openalex.org/W2144079442",
+    "https://openalex.org/W2144198023",
+    "https://openalex.org/W2144288181",
+    "https://openalex.org/W2144364601",
+    "https://openalex.org/W2144421443",
+    "https://openalex.org/W2144487046",
+    "https://openalex.org/W2145069607",
+    "https://openalex.org/W2145665826",
+    "https://openalex.org/W2147009898",
+    "https://openalex.org/W2147324517",
+    "https://openalex.org/W2147351252",
+    "https://openalex.org/W2147396017",
+    "https://openalex.org/W2147863532",
+    "https://openalex.org/W2148235318",
+    "https://openalex.org/W2148301354",
+    "https://openalex.org/W2148495040",
+    "https://openalex.org/W2148764920",
+    "https://openalex.org/W2149446747",
+    "https://openalex.org/W2149639230",
+    "https://openalex.org/W2150104440",
+    "https://openalex.org/W2150125502",
+    "https://openalex.org/W2150231411",
+    "https://openalex.org/W2150258126",
+    "https://openalex.org/W2150562766",
+    "https://openalex.org/W2150678469",
+    "https://openalex.org/W2150697218",
+    "https://openalex.org/W2150718932",
+    "https://openalex.org/W2150906796",
+    "https://openalex.org/W2150922105",
+    "https://openalex.org/W2151137320",
+    "https://openalex.org/W2151222692",
+    "https://openalex.org/W2151433332",
+    "https://openalex.org/W2151684873",
+    "https://openalex.org/W2151786648",
+    "https://openalex.org/W2152627593",
+    "https://openalex.org/W2153040277",
+    "https://openalex.org/W2153101815",
+    "https://openalex.org/W2153417893",
+    "https://openalex.org/W2154132835",
+    "https://openalex.org/W2154431043",
+    "https://openalex.org/W2154574407",
+    "https://openalex.org/W2154611638",
+    "https://openalex.org/W2154734566",
+    "https://openalex.org/W2154800141",
+    "https://openalex.org/W2155073651",
+    "https://openalex.org/W2155394596",
+    "https://openalex.org/W2155647121",
+    "https://openalex.org/W2156418307",
+    "https://openalex.org/W2156655641",
+    "https://openalex.org/W2156848952",
+    "https://openalex.org/W2156984202",
+    "https://openalex.org/W2157080665",
+    "https://openalex.org/W2157187630",
+    "https://openalex.org/W2157261449",
+    "https://openalex.org/W2157402253",
+    "https://openalex.org/W2157758625",
+    "https://openalex.org/W2157941554",
+    "https://openalex.org/W2158227188",
+    "https://openalex.org/W2158790437",
+    "https://openalex.org/W2158803280",
+    "https://openalex.org/W2158885936",
+    "https://openalex.org/W2159056467",
+    "https://openalex.org/W2159210250",
+    "https://openalex.org/W2159420548",
+    "https://openalex.org/W2159550387",
+    "https://openalex.org/W2160234840",
+    "https://openalex.org/W2160360511",
+    "https://openalex.org/W2160997109",
+    "https://openalex.org/W2161145594",
+    "https://openalex.org/W2161216869",
+    "https://openalex.org/W2161316678",
+    "https://openalex.org/W2161781433",
+    "https://openalex.org/W2161866296",
+    "https://openalex.org/W2161899020",
+    "https://openalex.org/W2162010696",
+    "https://openalex.org/W2162241822",
+    "https://openalex.org/W2162244666",
+    "https://openalex.org/W2162446389",
+    "https://openalex.org/W2162640929",
+    "https://openalex.org/W2162854286",
+    "https://openalex.org/W2162975013",
+    "https://openalex.org/W2163005465",
+    "https://openalex.org/W2163065210",
+    "https://openalex.org/W2163081513",
+    "https://openalex.org/W2163269829",
+    "https://openalex.org/W2163750407",
+    "https://openalex.org/W2163954344",
+    "https://openalex.org/W2164058388",
+    "https://openalex.org/W2164509516",
+    "https://openalex.org/W2165126084",
+    "https://openalex.org/W2165349661",
+    "https://openalex.org/W2165508369",
+    "https://openalex.org/W2166527378",
+    "https://openalex.org/W2166822816",
+    "https://openalex.org/W2166830380",
+    "https://openalex.org/W2166896000",
+    "https://openalex.org/W2167246321",
+    "https://openalex.org/W2168146063",
+    "https://openalex.org/W2168217710",
+    "https://openalex.org/W2168996483",
+    "https://openalex.org/W2169433870",
+    "https://openalex.org/W2169579059",
+    "https://openalex.org/W2169670326",
+    "https://openalex.org/W2169959749",
+    "https://openalex.org/W2170192957",
+    "https://openalex.org/W2170580779",
+    "https://openalex.org/W2171208117",
+    "https://openalex.org/W2171445430",
+    "https://openalex.org/W2171647200",
+    "https://openalex.org/W2171775221",
+    "https://openalex.org/W2171829179",
+    "https://openalex.org/W2171952745",
+    "https://openalex.org/W2172697302",
+    "https://openalex.org/W2174944216",
+    "https://openalex.org/W2185528971",
+    "https://openalex.org/W2198409399",
+    "https://openalex.org/W2256527004",
+    "https://openalex.org/W2278289754",
+    "https://openalex.org/W2290816323",
+    "https://openalex.org/W2296574598",
+    "https://openalex.org/W2309067248",
+    "https://openalex.org/W2312303239",
+    "https://openalex.org/W2312440424",
+    "https://openalex.org/W2322273934",
+    "https://openalex.org/W2328492882",
+    "https://openalex.org/W2335841795",
+    "https://openalex.org/W2337511644",
+    "https://openalex.org/W2338643926",
+    "https://openalex.org/W2343219789",
+    "https://openalex.org/W2408529123",
+    "https://openalex.org/W2408911701",
+    "https://openalex.org/W2410658605",
+    "https://openalex.org/W2415491227",
+    "https://openalex.org/W2464866713",
+    "https://openalex.org/W2477416481",
+    "https://openalex.org/W2477702766",
+    "https://openalex.org/W2481001801",
+    "https://openalex.org/W2486094328",
+    "https://openalex.org/W2488463714",
+    "https://openalex.org/W2488533857",
+    "https://openalex.org/W2489035882",
+    "https://openalex.org/W2500733972",
+    "https://openalex.org/W2542001231",
+    "https://openalex.org/W2548474255",
+    "https://openalex.org/W2566129194",
+    "https://openalex.org/W2744186950",
+    "https://openalex.org/W2751379301",
+    "https://openalex.org/W2764433274",
+    "https://openalex.org/W2777987555",
+    "https://openalex.org/W2784211226",
+    "https://openalex.org/W2798650415",
+    "https://openalex.org/W2800606011",
+    "https://openalex.org/W2890870089",
+    "https://openalex.org/W2891127430",
+    "https://openalex.org/W2896498531",
+    "https://openalex.org/W2900790966",
+    "https://openalex.org/W2910027293",
+    "https://openalex.org/W2921885394",
+    "https://openalex.org/W2936428940",
+    "https://openalex.org/W2942606958",
+    "https://openalex.org/W2970460809",
+    "https://openalex.org/W2979941427",
+    "https://openalex.org/W2983628592",
+    "https://openalex.org/W2986108748",
+    "https://openalex.org/W2987101063",
+    "https://openalex.org/W2999368986",
+    "https://openalex.org/W3035587668",
+    "https://openalex.org/W3041006910",
+    "https://openalex.org/W3137861108",
+    "https://openalex.org/W3150915227",
+    "https://openalex.org/W3184176840",
+    "https://openalex.org/W3215907522",
+    "https://openalex.org/W4211105648",
+    "https://openalex.org/W4213393122",
+    "https://openalex.org/W4232950103",
+    "https://openalex.org/W4237095565",
+    "https://openalex.org/W4237530378",
+    "https://openalex.org/W4239024596",
+    "https://openalex.org/W4243489018",
+    "https://openalex.org/W4247731543",
+    "https://openalex.org/W4248432763",
+    "https://openalex.org/W4249564296",
+    "https://openalex.org/W4249609777",
+    "https://openalex.org/W4251591997",
+    "https://openalex.org/W4253452508",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4388250061",
+    "https://openalex.org/W6637802876",
+    "https://openalex.org/W6657021415",
+    "https://openalex.org/W6676667350",
+    "https://openalex.org/W6714514868",
+    "https://openalex.org/W6762140956"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2931662336",
+    "https://openalex.org/W2077865380",
+    "https://openalex.org/W4401768695",
+    "https://openalex.org/W2765597752",
+    "https://openalex.org/W2134894512",
+    "https://openalex.org/W2083375246",
+    "https://openalex.org/W2067108088",
+    "https://openalex.org/W2085372204"
+  ],
+  "abstract_inverted_index": {
+    "Researchers": [
+      0
+    ],
+    "have": [
+      1
+    ],
+    "wondered": [
+      2
+    ],
+    "how": [
+      3
+    ],
+    "the": [
+      4,
+      9,
+      43,
+      51,
+      55,
+      70,
+      75,
+      96,
+      152
+    ],
+    "brain": [
+      5,
+      67,
+      86,
+      97,
+      137,
+      158
+    ],
+    "creates": [
+      6
+    ],
+    "emotions": [
+      7
+    ],
+    "since": [
+      8
+    ],
+    "early": [
+      10
+    ],
+    "days": [
+      11
+    ],
+    "of": [
+      12,
+      18,
+      42,
+      83,
+      99,
+      109,
+      156,
+      166,
+      183
+    ],
+    "psychological": [
+      13,
+      71,
+      106,
+      148,
+      164
+    ],
+    "science.": [
+      14
+    ],
+    "With": [
+      15
+    ],
+    "a": [
+      16,
+      39,
+      147,
+      181
+    ],
+    "surge": [
+      17
+    ],
+    "studies": [
+      19
+    ],
+    "in": [
+      20,
+      23,
+      162
+    ],
+    "affective": [
+      21
+    ],
+    "neuroscience": [
+      22
+    ],
+    "recent": [
+      24
+    ],
+    "decades,": [
+      25
+    ],
+    "scientists": [
+      26
+    ],
+    "are": [
+      27,
+      81,
+      173
+    ],
+    "poised": [
+      28
+    ],
+    "to": [
+      29,
+      65,
+      90,
+      93,
+      135,
+      151
+    ],
+    "answer": [
+      30
+    ],
+    "this": [
+      31,
+      34
+    ],
+    "question.": [
+      32
+    ],
+    "In": [
+      33
+    ],
+    "target": [
+      35
+    ],
+    "article,": [
+      36
+    ],
+    "we": [
+      37,
+      121,
+      140
+    ],
+    "present": [
+      38
+    ],
+    "meta-analytic": [
+      40,
+      114
+    ],
+    "summary": [
+      41
+    ],
+    "neuroimaging": [
+      44
+    ],
+    "literature": [
+      45
+    ],
+    "on": [
+      46,
+      117
+    ],
+    "human": [
+      47
+    ],
+    "emotion.": [
+      48,
+      100
+    ],
+    "We": [
+      49,
+      101
+    ],
+    "compare": [
+      50
+    ],
+    "locationist": [
+      52,
+      104
+    ],
+    "approach": [
+      53,
+      73,
+      150
+    ],
+    "(i.e.,": [
+      54,
+      74
+    ],
+    "hypothesis": [
+      56,
+      76
+    ],
+    "that": [
+      57,
+      77,
+      125,
+      143
+    ],
+    "discrete": [
+      58,
+      78,
+      126,
+      184
+    ],
+    "emotion": [
+      59,
+      79,
+      127,
+      176,
+      185
+    ],
+    "categories": [
+      60,
+      80,
+      128
+    ],
+    "consistently": [
+      61,
+      131
+    ],
+    "and": [
+      62,
+      105,
+      112,
+      132,
+      170,
+      178
+    ],
+    "specifically": [
+      63,
+      133
+    ],
+    "correspond": [
+      64
+    ],
+    "distinct": [
+      66,
+      136
+    ],
+    "regions)": [
+      68
+    ],
+    "with": [
+      69,
+      146
+    ],
+    "constructionist": [
+      72,
+      107,
+      149
+    ],
+    "constructed": [
+      82
+    ],
+    "more": [
+      84
+    ],
+    "general": [
+      85
+    ],
+    "networks": [
+      87
+    ],
+    "not": [
+      88
+    ],
+    "specific": [
+      89
+    ],
+    "those": [
+      91
+    ],
+    "categories)": [
+      92
+    ],
+    "better": [
+      94
+    ],
+    "understand": [
+      95
+    ],
+    "basis": [
+      98
+    ],
+    "review": [
+      102
+    ],
+    "both": [
+      103,
+      167
+    ],
+    "hypotheses": [
+      108
+    ],
+    "brain-emotion": [
+      110
+    ],
+    "correspondence": [
+      111
+    ],
+    "report": [
+      113
+    ],
+    "findings": [
+      115
+    ],
+    "bearing": [
+      116
+    ],
+    "these": [
+      118
+    ],
+    "hypotheses.": [
+      119
+    ],
+    "Overall,": [
+      120
+    ],
+    "found": [
+      122,
+      141
+    ],
+    "little": [
+      123
+    ],
+    "evidence": [
+      124,
+      142
+    ],
+    "can": [
+      129
+    ],
+    "be": [
+      130
+    ],
+    "localized": [
+      134
+    ],
+    "regions.": [
+      138
+    ],
+    "Instead,": [
+      139
+    ],
+    "is": [
+      144
+    ],
+    "consistent": [
+      145
+    ],
+    "mind:": [
+      153
+    ],
+    "A": [
+      154
+    ],
+    "set": [
+      155
+    ],
+    "interacting": [
+      157
+    ],
+    "regions": [
+      159
+    ],
+    "commonly": [
+      160
+    ],
+    "involved": [
+      161
+    ],
+    "basic": [
+      163
+    ],
+    "operations": [
+      165
+    ],
+    "an": [
+      168
+    ],
+    "emotional": [
+      169
+    ],
+    "non-emotional": [
+      171
+    ],
+    "nature": [
+      172
+    ],
+    "active": [
+      174
+    ],
+    "during": [
+      175
+    ],
+    "experience": [
+      177
+    ],
+    "perception": [
+      179
+    ],
+    "across": [
+      180
+    ],
+    "range": [
+      182
+    ],
+    "categories.": [
+      186
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 56
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 183
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 158
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 133
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 176
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 204
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 234
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 229
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 159
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 176
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 156
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 144
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 161
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 96
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 38
+    }
+  ],
+  "updated_date": "2026-05-27T09:02:27.158192",
+  "created_date": "2025-10-10T00:00:00"
+}

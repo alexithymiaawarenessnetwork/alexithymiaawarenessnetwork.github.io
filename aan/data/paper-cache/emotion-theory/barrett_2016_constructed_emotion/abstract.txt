@@ -1,0 +1,7 @@
+The theory of constructed emotion: an active inference account of interoception and categorization
+DOI: 10.1093/scan/nsw154
+Year: 2016
+Authors: Lisa Feldman Barrett
+
+Abstract:
+The science of emotion has been using folk psychology categories derived from philosophy to search for the brain basis of emotion. The last two decades of neuroscience research have brought us to the brink of a paradigm shift in understanding the workings of the brain, however, setting the stage to revolutionize our understanding of what emotions are and how they work. In this article, we begin with the structure and function of the brain, and from there deduce what the biological basis of emotions might be. The answer is a brain-based, computational account called the theory of constructed emotion.

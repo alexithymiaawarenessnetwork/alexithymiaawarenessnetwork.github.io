@@ -1,0 +1,2071 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2026-05-15T07:36:55Z",
+      "timestamp": 1778830615087,
+      "version": "3.51.4"
+    },
+    "reference-count": 246,
+    "publisher": "SAGE Publications",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2025-05-01T00:00:00Z",
+          "timestamp": 1746057600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2025-05-01T00:00:00Z",
+          "timestamp": 1746057600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000001",
+        "name": "national science foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "BCS 1947972"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "BCS 1947972"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000002",
+        "name": "national institutes of health",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "R01 AG071173, R01 MH109464, R01 MH113234, R21 MH129902, R21 AG080198, RF1 AG078340, and R56 AG071486"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "R01 AG071173, R01 MH109464, R01 MH113234, R21 MH129902, R21 AG080198, RF1 AG078340, and R56 AG071486"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100009919",
+        "name": "army research institute for the behavioral and social sciences",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "W911NF-16-1-019"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "W911NF-16-1-019"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100009919",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "Unlikely Collaborators Foundation"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Perspect Psychol Sci"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                    A recently published article by van Heijst et al. attempted to reconcile two research approaches in the science of emotion—basic emotion theory and the theory of constructed emotion—by suggesting that the former explains\n                    <jats:italic toggle=\"yes\">emotions</jats:italic>\n                    as bioregulatory states of the body whereas the latter explains\n                    <jats:italic toggle=\"yes\">feelings</jats:italic>\n                    that arise from those state changes. This bifurcation of emotion into objective physical states and subjective feelings involves three misleading simplifications that fundamentally misrepresent the theory of constructed emotion and prevent progress in the science of emotion. In this article we identify these misleading simplifications and the resulting factual errors, empirical oversights, and evolutionary oversimplifications. We then discuss why such errors will continue to arise until scientists realize that the two theories are intrinsically irreconcilable. They rest on incommensurate assumptions and require different methods of evaluation. Only by directly considering these differences will these research silos in the science of emotion finally dissolve, speeding the accumulation of trustworthy scientific knowledge about emotion that is usable in the real world.\n                  </jats:p>",
+    "DOI": "10.1177/17456916251319045",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2025-05-13T06:00:27Z",
+      "timestamp": 1747116027000
+    },
+    "page": "392-420",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 23,
+    "title": [
+      "The Theory of Constructed Emotion: More Than a Feeling"
+    ],
+    "prefix": "10.1177",
+    "volume": "20",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4478-2051",
+        "authenticated-orcid": false,
+        "given": "Lisa Feldman",
+        "family": "Barrett",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, Northeastern University"
+          },
+          {
+            "name": "Department of Psychiatry, Massachusetts General Hospital"
+          },
+          {
+            "name": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shir",
+        "family": "Atzil",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, Vanderbilt University"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Eliza",
+        "family": "Bliss-Moreau",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, University of California, Davis"
+          },
+          {
+            "name": "California National Primate Research Center, University of California, Davis"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lorena",
+        "family": "Chanes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Clinical and Health Psychology, Universitat Autònoma de Barcelona"
+          },
+          {
+            "name": "Institut de Neurociències, Universitat Autònoma de Barcelona"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Maria",
+        "family": "Gendron",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, Yale University"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Katie",
+        "family": "Hoemann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, University of Kansas"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yuta",
+        "family": "Katsumi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, Massachusetts General Hospital"
+          },
+          {
+            "name": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital"
+          },
+          {
+            "name": "Department of Neurology, Massachusetts General Hospital"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ian R.",
+        "family": "Kleckner",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Nursing, University of Maryland"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kristen A.",
+        "family": "Lindquist",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology and Neuroscience, University of North Carolina"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Karen S.",
+        "family": "Quigley",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, Northeastern University"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ajay B.",
+        "family": "Satpute",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, Northeastern University"
+          },
+          {
+            "name": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Eli",
+        "family": "Sennesh",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, Vanderbilt University"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Clare",
+        "family": "Shaffer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, Northeastern University"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jordan E.",
+        "family": "Theriault",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, Northeastern University"
+          },
+          {
+            "name": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital"
+          },
+          {
+            "name": "Department of Biology, Northeastern University"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Michele",
+        "family": "Tugade",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychological Science, Vassar College"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Christiana",
+        "family": "Westlin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, Massachusetts General Hospital"
+          },
+          {
+            "name": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital"
+          },
+          {
+            "name": "Department of Psychology, University of Kansas"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          13
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_5_2_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Adolphs R. (2017). How should neuroscience study emotions? By distinguishing emotion states concepts and experiences. Social Cognitive and Affective Neuroscience 12(1) 24–31. https://doi.org/10.1093/scan/nsw153",
+        "DOI": "10.1093/scan/nsw153"
+      },
+      {
+        "key": "e_1_3_5_3_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Adolphs R. Mlodinow L. Barrett L. F. (2019). What is an emotion? Current Biology 29(20) R1060–R1064. https://doi.org/10.1016/j.cub.2019.09.008",
+        "DOI": "10.1016/j.cub.2019.09.008"
+      },
+      {
+        "key": "e_1_3_5_4_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Akiti K. Tsutsui-Kimura I. Xie Y. Mathis A. Markowitz J. E. Anyoha R. Datta S. R. Mathis M. W. Uchida N. Watabe-Uchida M. (2022). Striatal dopamine explains novelty-induced behavioral dynamics and individual variability in threat prediction. Neuron 110(22) 3789–3804.e9. https://doi.org/10.1016/j.neuron.2022.08.022",
+        "DOI": "10.1016/j.neuron.2022.08.022"
+      },
+      {
+        "key": "e_1_3_5_5_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Anastasiadi D. Venney C. J. Bernatchez L. Wellenreuther M. (2021). Epigenetic inheritance and reproductive mode in plants and animals. Trends in Ecology & Evolution 36(12) 1124–1140. https://doi.org/10.1016/j.tree.2021.08.006",
+        "DOI": "10.1016/j.tree.2021.08.006"
+      },
+      {
+        "key": "e_1_3_5_6_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Andrews M. Smart A. Birhane A. (2024). The reanimation of pseudoscience in machine learning and its ethical repercussions. Patterns 9 Article 101027. https://doi.org/10.1016/j.patter.2024.101027",
+        "DOI": "10.1016/j.patter.2024.101027"
+      },
+      {
+        "key": "e_1_3_5_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-27041-4_5"
+      },
+      {
+        "key": "e_1_3_5_8_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Atzil S. Abramson L. (2021). Musicality was not selected for rather humans have a good reason to learn music. Behavioral and Brain Sciences 44 Article e62. https://doi.org/10.1017/S0140525X2000134X",
+        "DOI": "10.1017/S0140525X2000134X"
+      },
+      {
+        "key": "e_1_3_5_9_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Atzil S. Gao W. Fradkin I. Barrett L. F. (2018). Growing a social brain. Nature Human Behaviour 2(9) 624–636. https://doi.org/10.1038/s41562-018-0384-6",
+        "DOI": "10.1038/s41562-018-0384-6"
+      },
+      {
+        "key": "e_1_3_5_10_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Atzil S. Gendron M. (2017). Bio-behavioral synchrony promotes the development of conceptualized emotions. Current Opinion in Psychology 17 162–169. https://doi.org/10.1016/j.copsyc.2017.07.009",
+        "DOI": "10.1016/j.copsyc.2017.07.009"
+      },
+      {
+        "key": "e_1_3_5_11_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Azari B. Westlin C. Satpute A. B. Hutchinson J. B. Kragel P. A. Hoemann K. Khan Z. Wormwood J. B. Quigley K. S. Erdogmus D. Dy J. Brooks D. H. Barrett L. F. (2020). Comparing supervised and unsupervised approaches to emotion categorization in the human brain body and subjective experience. Scientific Reports 10(1) Article 20284. https://doi.org/10.1038/s41598-020-77117-8",
+        "DOI": "10.1038/s41598-020-77117-8"
+      },
+      {
+        "key": "e_1_3_5_12_1",
+        "volume-title": "How life works",
+        "author": "Ball P.",
+        "year": "2024",
+        "unstructured": "Ball P. (2024). How life works. Picador."
+      },
+      {
+        "key": "e_1_3_5_13_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barbas H. (2015). General cortical and special prefrontal connections: Principles from structure to function. Annual Review of Neuroscience 38 269–289. https://doi.org/10.1146/annurev-neuro-071714-033936",
+        "DOI": "10.1146/annurev-neuro-071714-033936"
+      },
+      {
+        "key": "e_1_3_5_14_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barrett L. F. (2012). Emotions are real. Emotion 12(3) 413–429. https://doi.org/10.1037/a0027555",
+        "DOI": "10.1037/a0027555"
+      },
+      {
+        "key": "e_1_3_5_15_1",
+        "first-page": "448",
+        "volume-title": "The psychological construction of emotion",
+        "author": "Barrett L. F.",
+        "year": "2015",
+        "unstructured": "Barrett L. F. (2015). Construction as an integrative framework for the science of emotion. In Barrett L. F., Russell J. A. (Eds.), The psychological construction of emotion (pp. 448–458). Guilford Press."
+      },
+      {
+        "key": "e_1_3_5_16_1",
+        "volume-title": "How emotions are made: The secret life of the brain",
+        "author": "Barrett L. F.",
+        "year": "2017",
+        "unstructured": "Barrett L. F. (2017a). How emotions are made: The secret life of the brain. Pan Macmillan."
+      },
+      {
+        "key": "e_1_3_5_17_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barrett L. F. (2017b). The theory of constructed emotion: An active inference account of interoception and categorization. Social Cognitive and Affective Neuroscience 12(1) 1–23. https://doi.org/10.1093/scan/nsw154",
+        "DOI": "10.1093/scan/nsx060"
+      },
+      {
+        "key": "e_1_3_5_18_1",
+        "volume-title": "Seven and a half lessons about the brain",
+        "author": "Barrett L. F.",
+        "year": "2020",
+        "unstructured": "Barrett L. F. (2020a). Seven and a half lessons about the brain. Houghton Mifflin Harcourt."
+      },
+      {
+        "key": "e_1_3_5_19_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barrett L. F. (2020b). Debate about universal expressions goes big. Nature 589(7841) 202–203. https://doi.org/10.1038/d41586-020-03509-5",
+        "DOI": "10.1038/d41586-020-03509-5"
+      },
+      {
+        "key": "e_1_3_5_20_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barrett L. F. (2022). Context reconsidered: Complex signal ensembles relational meaning and population thinking in psychological science. American Psychologist 77(8) 894–920. https://doi.org/10.1037/amp0001054",
+        "DOI": "10.1037/amp0001054"
+      },
+      {
+        "key": "e_1_3_5_21_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barrett L. F. Adolphs R. Marsella S. Martinez A. M. Pollak S. D. (2019). Emotional expressions reconsidered: Challenges to inferring emotion from human facial movements. Psychological Science in the Public Interest 20(1) 1–68. https://doi.org/10.1177/1529100619832930",
+        "DOI": "10.1177/1529100619832930"
+      },
+      {
+        "key": "e_1_3_5_22_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barrett L. F. Finlay B. L. (2018). Concepts goals and the control of survival-related behaviors. Current Opinion in Behavioral Sciences 24 172–179. https://doi.org/10.1016/j.cobeha.2018.10.001",
+        "DOI": "10.1016/j.cobeha.2018.10.001"
+      },
+      {
+        "key": "e_1_3_5_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315559940-20"
+      },
+      {
+        "key": "e_1_3_5_24_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barrett L. F. Lindquist K. A. Gendron M. (2007). Language as context for the perception of emotion. Trends in Cognitive Sciences 11(8) 327–332. https://doi.org/10.1016/j.tics.2007.06.003",
+        "DOI": "10.1016/j.tics.2007.06.003"
+      },
+      {
+        "key": "e_1_3_5_25_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barrett L. F. Satpute A. B. (2019). Historical pitfalls and new directions in the neuroscience of emotion. Neuroscience Letters 693 9–18. https://doi.org/10.1016/j.neulet.2017.07.045",
+        "DOI": "10.1016/j.neulet.2017.07.045"
+      },
+      {
+        "key": "e_1_3_5_26_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barrett L. F. Theriault J. E. (2025). What’s real? A philosophy of science for social psychology. In Gilbert D. T. Fiske S. T. Finkel E. J. Mendes W. B. (Eds.) The handbook of social psychology (6th ed.). Situational Press. https://doi.org/10.70400/BPQW3358",
+        "DOI": "10.70400/BPQW3358"
+      },
+      {
+        "key": "e_1_3_5_27_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barrett L. F. Westlin C. (2021). Navigating the science of emotion. In Meiselman H. L. (Ed.) Emotion measurement (2nd ed. pp. 39–84). Woodhead Publishing. https://doi.org/10.1016/B978-0-12-821124-3.00002-8",
+        "DOI": "10.1016/B978-0-12-821124-3.00002-8"
+      },
+      {
+        "key": "e_1_3_5_28_1",
+        "first-page": "83",
+        "volume-title": "The psychological construction of emotion",
+        "author": "Barrett L. F.",
+        "year": "2015",
+        "unstructured": "Barrett L. F., Wilson-Mendenhall C. D., Barsalou L. W. (2015). The conceptual act theory: A roadmap. In Barrett L. F., Russell J. A. (Eds.), The psychological construction of emotion (pp. 83–110). Guilford Press."
+      },
+      {
+        "key": "e_1_3_5_29_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barsalou L. W. (1983). Ad hoc categories. Memory & Cognition 11(3) 211–227. https://doi.org/10.3758/BF03196968",
+        "DOI": "10.3758/BF03196968"
+      },
+      {
+        "key": "e_1_3_5_30_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barsalou L. W. (1991). Deriving categories to achieve goals. In Bower G. H. (Ed.) Psychology of learning and motivation (Vol. 27 pp. 1–64). Academic Press. https://doi.org/10.1016/S0079-7421(08)60120-6",
+        "DOI": "10.1016/S0079-7421(08)60120-6"
+      },
+      {
+        "key": "e_1_3_5_31_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barsalou L. W. (2008). Grounded cognition. Annual Review of Psychology 59(1) 617–645. https://doi.org/10.1146/annurev.psych.59.103006.093639",
+        "DOI": "10.1146/annurev.psych.59.103006.093639"
+      },
+      {
+        "key": "e_1_3_5_32_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bastos A. M. Lundqvist M. Waite A. S. Kopell N. Miller E. K. (2020). Layer and rhythm specificity for predictive routing. Proceedings of the National Academy of Sciences USA 117(49) 31459–31469. https://doi.org/10.1073/pnas.2014868117",
+        "DOI": "10.1073/pnas.2014868117"
+      },
+      {
+        "key": "e_1_3_5_33_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bateson P. Laland K. N. (2013). Tinbergen’s four questions: An appreciation and an update. Trends in Ecology & Evolution 28(12) 712–718. https://doi.org/10.1016/j.tree.2013.09.013",
+        "DOI": "10.1016/j.tree.2013.09.013"
+      },
+      {
+        "key": "e_1_3_5_34_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Binetti N. Roubtsova N. Carlisi C. Cosker D. Viding E. Mareschal I. (2022). Genetic algorithms reveal profound individual differences in emotion recognition. Proceedings of the National Academy of Sciences USA 119(45) Article e2201380119. https://doi.org/10.1073/pnas.2201380119",
+        "DOI": "10.1073/pnas.2201380119"
+      },
+      {
+        "key": "e_1_3_5_35_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bliss-Moreau E. (2017). Constructing nonhuman animal emotion. Current Opinion in Psychology 17 184–188. https://doi.org/10.1016/j.copsyc.2017.07.011",
+        "DOI": "10.1016/j.copsyc.2017.07.011"
+      },
+      {
+        "key": "e_1_3_5_36_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bloor D. (2011). Relativism and the sociology of scientific knowledge. In Hales S. D. (Ed.) A companion to relativism (pp. 431–455). Wiley-Blackwell. https://doi.org/10.1002/9781444392494.ch22",
+        "DOI": "10.1002/9781444392494.ch22"
+      },
+      {
+        "key": "e_1_3_5_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/9789004300323"
+      },
+      {
+        "key": "e_1_3_5_38_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Booth A. E. Waxman S. (2002). Object names and object functions serve as cues to categories for infants. Developmental Psychology 38(6) 948–957. https://doi.org/10.1037/0012-1649.38.6.948",
+        "DOI": "10.1037//0012-1649.38.6.948"
+      },
+      {
+        "key": "e_1_3_5_39_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Boyd R. Richerson P. J. Henrich J. (2011). The cultural niche: Why social learning is essential for human adaptation. Proceedings of the National Academy of Sciences USA 108(Suppl. 2) 10918–10925. https://doi.org/10.1073/pnas.1100290108",
+        "DOI": "10.1073/pnas.1100290108"
+      },
+      {
+        "key": "e_1_3_5_40_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Brincat S. L. Siegel M. von Nicolai C. Miller E. K. (2018). Gradual progression from sensory to task-related processing in cerebral cortex. Proceedings of the National Academy of Sciences USA 115(30) E7202–E7211. https://doi.org/10.1073/pnas.1717075115",
+        "DOI": "10.1073/pnas.1717075115"
+      },
+      {
+        "key": "e_1_3_5_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9781400838158"
+      },
+      {
+        "key": "e_1_3_5_42_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Casasanto D. Lupyan G. (2015). All concepts are ad hoc concepts. In Margolis E. Laurence S. (Eds.) The Conceptual Mind (pp. 543–566). MIT Press. https://doi.org/10.7551/mitpress/9383.003.0031",
+        "DOI": "10.7551/mitpress/9383.003.0031"
+      },
+      {
+        "key": "e_1_3_5_43_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ceulemans E. Kuppens P. Van Mechelen I. (2012). Capturing the structure of distinct types of individual differences in situation-specific experience of emotions: The case of anger. European Journal of Personality 26(5) 484–495. https://doi.org/10.1002/per.847",
+        "DOI": "10.1002/per.847"
+      },
+      {
+        "key": "e_1_3_5_44_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chadbourne E. Vornlocher C. Ward M. J. Raasch B. Dolan S. Tugade M. M. (2022). 50 positive emotions. In Schiewer G. L. Altarriba J. Ng B. C. (Eds.) Language and emotion: An international handbook (Vol. 2 pp. 1062–1077). De Gruyter Mouton. https://doi.org/10.1515/9783110670851-018",
+        "DOI": "10.1515/9783110670851-018"
+      },
+      {
+        "key": "e_1_3_5_45_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chanes L. Barrett L. F. (2016). Redefining the role of limbic areas in cortical processing. Trends in Cognitive Sciences 20(2) 96–106. https://doi.org/10.1016/j.tics.2015.11.005",
+        "DOI": "10.1016/j.tics.2015.11.005"
+      },
+      {
+        "key": "e_1_3_5_46_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chanes L. Wormwood J. B. Betz N. Barrett L. F. (2018). Facial expression predictions as drivers of social perception. Journal of Personality and Social Psychology 114(3) 380–396. https://doi.org/10.1037/pspa0000108",
+        "DOI": "10.1037/pspa0000108"
+      },
+      {
+        "key": "e_1_3_5_47_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chater N. Christiansen M. H. (2010). Language acquisition meets language evolution. Cognitive Science 34(7) 1131–1157. https://doi.org/10.1111/j.1551-6709.2009.01049.x",
+        "DOI": "10.1111/j.1551-6709.2009.01049.x"
+      },
+      {
+        "key": "e_1_3_5_48_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cisek P. (2019). Resynthesizing behavior through phylogenetic refinement. Attention Perception & Psychophysics 81 2265–2287. https://doi.org/10.3758/s13414-019-01760-1",
+        "DOI": "10.3758/s13414-019-01760-1"
+      },
+      {
+        "key": "e_1_3_5_49_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cisek P. (2021). An evolutionary perspective on embodiment. In Robinson M. D. Thomas L. E. (Eds.) Handbook of embodied psychology: Thinking feeling and acting (pp. 547–571). Springer. https://doi.org/10.1007/978-3-030-78471-3_24",
+        "DOI": "10.1007/978-3-030-78471-3_24"
+      },
+      {
+        "key": "e_1_3_5_50_1",
+        "unstructured": "Clarke D. D. Sokoloff L. (1999). Circulation and energy metabolism of the brain. In Siegel G. J. Agranoff B. W. Albers R. W (Eds.) Basic neurochemistry: Molecular cellular and medical aspects (6th ed. pp. 637–669). Lippincott-Raven. https://www.ncbi.nlm.nih.gov/books/NBK20413"
+      },
+      {
+        "key": "e_1_3_5_51_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Clark-Polner E. Johnson T. D. Barrett L. F. (2017). Multivoxel pattern analysis does not provide evidence to support the existence of basic emotions. Cerebral Cortex 27(3) 1944–1948. https://doi.org/10.1093/cercor/bhw028",
+        "DOI": "10.1093/cercor/bhw028"
+      },
+      {
+        "key": "e_1_3_5_52_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cordaro D. T. Sun R. Keltner D. Kamble S. Huddar N. McNeil G. (2018). Universals and cultural variations in 22 emotional expressions across five cultures. Emotion 18(1) 75–93. https://doi.org/10.1037/emo0000302",
+        "DOI": "10.1037/emo0000302"
+      },
+      {
+        "key": "e_1_3_5_53_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Damasio A. R. (2004). Emotions and feelings: A neurobiological perspective. In Manstead A. S. R. Frijda N. Fischer A. (Eds.) Feelings and emotions: The Amsterdam symposium (pp. 49–57). Cambridge University Press. https://doi.org/10.1017/CBO9780511806582.004",
+        "DOI": "10.1017/CBO9780511806582.004"
+      },
+      {
+        "key": "e_1_3_5_54_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Danziger K. (1990). Constructing the subject: Historical origins of psychological research. Cambridge University Press. https://doi.org/10.1017/CBO9780511524059",
+        "DOI": "10.1017/CBO9780511524059"
+      },
+      {
+        "key": "e_1_3_5_55_1",
+        "volume-title": "On the origin of species, or the preservation of favoured races in the struggle for life",
+        "author": "Darwin C.",
+        "year": "1859",
+        "unstructured": "Darwin C. (1859). On the origin of species, or the preservation of favoured races in the struggle for life. John Murray."
+      },
+      {
+        "key": "e_1_3_5_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/10001-000"
+      },
+      {
+        "key": "e_1_3_5_57_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Datta S. R. (2019). Q&A: Understanding the composition of behavior. BMC Biology 17 Article 44. https://doi.org/10.1186/s12915-019-0663-3",
+        "DOI": "10.1186/s12915-019-0663-3"
+      },
+      {
+        "key": "e_1_3_5_58_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "de la Harpe S. Palermo R. Brown E. Fay N. Dawel A. (2024). People attribute a range of highly varied and socially bound meanings to naturalistic sad facial expressions. Journal of Nonverbal Behavior 48(3) 465–493. https://doi.org/10.1007/s10919-024-00463-y",
+        "DOI": "10.1007/s10919-024-00463-y"
+      },
+      {
+        "key": "e_1_3_5_59_1",
+        "volume-title": "Mama’s last hug: Animal emotions and what they tell us about ourselves",
+        "author": "de Waal F",
+        "year": "2019",
+        "unstructured": "de Waal F. (2019). Mama’s last hug: Animal emotions and what they tell us about ourselves. W. W. Norton & Company."
+      },
+      {
+        "key": "e_1_3_5_60_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dewey J. (1894). The theory of emotion: I: Emotional attitudes. Psychological Review 1(6) 553–569. https://doi.org/10.1037/h0069054",
+        "DOI": "10.1037/h0069054"
+      },
+      {
+        "key": "e_1_3_5_61_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dorst K. E. Senne R. A. Diep A. H. de Boer A. R. Suthard R. L. Leblanc H. Ruesch E. A. Pyo A. Y. Skelton S. Carstensen L. C. Malmberg S. McKissick O. P. Bladon J. H. Ramirez S. (2024). Hippocampal engrams generate variable behavioral responses and brain-wide network states. Journal of Neuroscience 44(2) Article e0340232023. https://doi.org/10.1523/JNEUROSCI.0340-23.2023",
+        "DOI": "10.1523/JNEUROSCI.0340-23.2023"
+      },
+      {
+        "key": "e_1_3_5_62_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Doyle C. M. Lane S. T. Brooks J. A. Wilkins R. W. Gates K. M. Lindquist K. A. (2022). Unsupervised classification reveals consistency and degeneracy in neural network patterns of emotion. Social Cognitive and Affective Neuroscience 17(11) 995–1006. https://doi.org/10.1093/scan/nsac028",
+        "DOI": "10.1093/scan/nsac028"
+      },
+      {
+        "key": "e_1_3_5_63_1",
+        "first-page": "415",
+        "volume-title": "The science of facial expression",
+        "author": "Doyle C. M.",
+        "year": "2017",
+        "unstructured": "Doyle C. M., Lindquist K. A. (2017). Language and emotion: Hypotheses on the constructed nature of emotion perception. In Russell J. A., Fernandez Dols J. M. (Eds.), The science of facial expression (pp. 415–432). Oxford University Press."
+      },
+      {
+        "key": "e_1_3_5_64_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Doyle C. M. Lindquist K. A. (2018). When a word is worth a thousand pictures: Language shapes perceptual memory for emotion. Journal of Experimental Psychology: General 147(1) 62–73. https://doi.org/10.1037/xge0000361",
+        "DOI": "10.1037/xge0000361"
+      },
+      {
+        "key": "e_1_3_5_65_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dubova M. Goldstone R. L. (2023). Carving joints into nature: Reengineering scientific concepts in light of concept-laden evidence. Trends in Cognitive Sciences 27(7) 656–670. https://doi.org/10.1016/j.tics.2023.04.006",
+        "DOI": "10.1016/j.tics.2023.04.006"
+      },
+      {
+        "key": "e_1_3_5_66_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Durán J. I. Fernández-Dols J.-M. (2021). Do emotions result in their predicted facial expressions? A meta-analysis of studies on the co-occurrence of expression and emotion. Emotion 21(7) 1550–1569. https://doi.org/10.1037/emo0001015",
+        "DOI": "10.1037/emo0001015"
+      },
+      {
+        "key": "e_1_3_5_67_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Edelman G. M. Gally J. A. (2001). Degeneracy and complexity in biological systems. Proceedings of the National Academy of Sciences USA 98(24) 13763–13768. https://doi.org/10.1073/pnas.231499798",
+        "DOI": "10.1073/pnas.231499798"
+      },
+      {
+        "key": "e_1_3_5_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699939208411068"
+      },
+      {
+        "key": "e_1_3_5_69_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ekman P. (2016). What scientists who study emotion agree about. Perspectives on Psychological Science 11(1) 31–34. https://doi.org/10.1177/1745691615596992",
+        "DOI": "10.1177/1745691615596992"
+      },
+      {
+        "key": "e_1_3_5_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1754073911410740"
+      },
+      {
+        "key": "e_1_3_5_71_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elfenbein H. A. (2013). Nonverbal dialects and accents in facial expressions of emotion. Emotion Review 5(1) 90–96. https://doi.org/10.1177/1754073912451332",
+        "DOI": "10.1177/1754073912451332"
+      },
+      {
+        "key": "e_1_3_5_72_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Estes W. K. (1956). The problem of inference from curves based on group data. Psychological Bulletin 53(2) 134–140. https://doi.org/10.1037/h0045156",
+        "DOI": "10.1037/h0045156"
+      },
+      {
+        "key": "e_1_3_5_73_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fanselow M. S. (2018). Emotion motivation and function. Current Opinion in Behavioral Sciences 19 105–109. https://doi.org/10.1016/j.cobeha.2017.12.013",
+        "DOI": "10.1016/j.cobeha.2017.12.013"
+      },
+      {
+        "key": "e_1_3_5_74_1",
+        "volume-title": "Explanation, reduction, and empiricism",
+        "author": "Feyerabend P. K.",
+        "year": "1962",
+        "unstructured": "Feyerabend P. K. (1962). Explanation, reduction, and empiricism. University of Minnesota Press."
+      },
+      {
+        "key": "e_1_3_5_75_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Finlay B. Uchiyama R. (2017). The timing of brain maturation early experience and the human social niche. In Kaas J. H. (Ed.) Evolution of nervous systems (pp. 123–148). Elsevier. https://doi.org/10.1016/B978-0-12-804042-3.00134-2",
+        "DOI": "10.1016/B978-0-12-804042-3.00134-2"
+      },
+      {
+        "key": "e_1_3_5_76_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Frank A. Gleiser M. Thompson E. (2024). The blind spot: Why science cannot ignore human experience. MIT Press. https://direct.mit.edu/books/book/5740/The-Blind-SpotWhy-Science-Cannot-Ignore-Human",
+        "DOI": "10.7551/mitpress/13711.001.0001"
+      },
+      {
+        "key": "e_1_3_5_77_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Freddolino P. L. Tavazoie S. (2012). Beyond homeostasis: A predictive-dynamic framework for understanding cellular behavior. Annual Review of Cell and Developmental Biology 28 363–384. https://doi.org/10.1146/annurev-cellbio-092910-154129",
+        "DOI": "10.1146/annurev-cellbio-092910-154129"
+      },
+      {
+        "key": "e_1_3_5_78_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fugate J. M. B. Gouzoules H. Barrett L. F. (2010). Reading chimpanzee faces: Evidence for the role of verbal labels in categorical perception of emotion. Emotion 10(4) 544–554. https://doi.org/10.1037/a0019017",
+        "DOI": "10.1037/a0019017"
+      },
+      {
+        "key": "e_1_3_5_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.beproc.2012.02.013"
+      },
+      {
+        "key": "e_1_3_5_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7208/chicago/9780226403199.001.0001"
+      },
+      {
+        "key": "e_1_3_5_81_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gelman S. A. Roberts S. O. (2017). How language shapes the cultural inheritance of categories. Proceedings of the National Academy of Sciences USA 114(30) 7900–7907. https://doi.org/10.1073/pnas.1621073114",
+        "DOI": "10.1073/pnas.1621073114"
+      },
+      {
+        "key": "e_1_3_5_82_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gendron M. Barrett L. F. (2018). Emotion perception as conceptual synchrony. Emotion Review 10(2) 101–110. https://doi.org/10.1177/1754073917705717",
+        "DOI": "10.1177/1754073917705717"
+      },
+      {
+        "key": "e_1_3_5_83_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gendron M. Barrett L. F. (2009). Reconstructing the past: A century of ideas about emotion in psychology. Emotion Review 1(4) 316–339. https://doi.org/10.1177/1754073909338877",
+        "DOI": "10.1177/1754073909338877"
+      },
+      {
+        "key": "e_1_3_5_84_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gendron M. Crivelli C. Barrett L. F. (2018). Universality reconsidered: Diversity in making meaning of facial expressions. Current Directions in Psychological Science 27(4) 211–219. https://doi.org/10.1177/0963721417746794",
+        "DOI": "10.1177/0963721417746794"
+      },
+      {
+        "key": "e_1_3_5_85_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gendron M. Hoemann K. Crittenden A. N. Mangola S. M. Ruark G. A. Barrett L. F. (2020). Emotion perception in Hazda hunter-gatherers. Scientific Reports 10 Article 3867. https://doi.org/10.1038/s41598-020-60257-2",
+        "DOI": "10.1038/s41598-020-60257-2"
+      },
+      {
+        "key": "e_1_3_5_86_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gendron M. Lindquist K. A. Barsalou L. Barrett L. F. (2012). Emotion words shape emotion percepts. Emotion 12(2) 314–325. https://doi.org/10.1037/a0026007",
+        "DOI": "10.1037/a0026007"
+      },
+      {
+        "key": "e_1_3_5_87_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/9781108695374.010"
+      },
+      {
+        "key": "e_1_3_5_88_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gendron M. Roberson D. Barrett L. F. (2015). Cultural variation in emotion perception is real: A response to Sauter et al. Psychological Science 26(3) 357–359. https://doi.org/10.1177/0956797614566659",
+        "DOI": "10.1177/0956797614566659"
+      },
+      {
+        "key": "e_1_3_5_89_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gendron M. Roberson D. van der Vyver J. M. Barrett L. F. (2014a). Cultural relativity in percieving emotion from vocalizations. Psychological Science 25(4) 911–920. https://doi.org/10.1177/0956797613517239",
+        "DOI": "10.1177/0956797613517239"
+      },
+      {
+        "key": "e_1_3_5_90_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gendron M. Roberson D. van der Vyver J. M. Barrett L. F. (2014b). Perceptions of emotion from facial expressions are not culturally universal: Evidence from a remote culture. Emotion 14(2) 251–262. https://doi.org/10.1037/a0036052",
+        "DOI": "10.1037/a0036052"
+      },
+      {
+        "key": "e_1_3_5_91_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Giffin C. Wilkenfeld D. Lombrozo T. (2017). The explanatory effect of a label: Explanations with named categories are more satisfying. Cognition 168 357–369. https://doi.org/10.1016/j.cognition.2017.07.011",
+        "DOI": "10.1016/j.cognition.2017.07.011"
+      },
+      {
+        "key": "e_1_3_5_92_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Girard. J. M. Cohn J. F. Yin L. Morency L-P. (2021). Reconsidering the Duchenne smile: Formalizing and testing hypotheses about eye constriction and positive emotion. Affective Science 21(1) 32–47. https://doi.org/10.1007/s42761-020-00030-w",
+        "DOI": "10.1007/s42761-020-00030-w"
+      },
+      {
+        "key": "e_1_3_5_93_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Goel S. Jara-Ettinger J. Ong D. C. Gendron M. (2024). Face and context integration in emotion inference is limited and variable across categories and individuals. Nature Communications 15 Article 2443. https://doi.org/10.1038/s41467-024-46670-5",
+        "DOI": "10.1038/s41467-024-46670-5"
+      },
+      {
+        "key": "e_1_3_5_94_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gopnik A. Sobel D. M. (2000). Detecting blickets: How young children use information about novel causal powers in categorization and induction. Child Development 71(5) 1205–1222. https://doi.org/10.1111/1467-8624.00224",
+        "DOI": "10.1111/1467-8624.00224"
+      },
+      {
+        "key": "e_1_3_5_95_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Graham S. A. Kilbreath C. S. Welder A. N. (2004). Thirteen-month-olds rely on shared labels and shape similarity for inductive inferences. Child Development 75(2) 409–427. https://doi.org/10.1111/j.1467-8624.2004.00683.x",
+        "DOI": "10.1111/j.1467-8624.2004.00683.x"
+      },
+      {
+        "key": "e_1_3_5_96_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gross J. J. (1998). Antecedent- and response-focused emotion regulation: Divergent consequences for experience expression and physiology. Journal of Personality and Social Psychology 74(1) 224–237. https://doi.org/10.1037/0022-3514.74.1.224",
+        "DOI": "10.1037//0022-3514.74.1.224"
+      },
+      {
+        "key": "e_1_3_5_97_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Guillory S. A. Bujarski K. A. (2014). Exploring emotions using invasive methods: Review of 60 years of human intracranial electrophysiology. Social Cognitive and Affective Neuroscience 9(12) 1880–1889. https://doi.org/10.1093/scan/nsu002",
+        "DOI": "10.1093/scan/nsu002"
+      },
+      {
+        "key": "e_1_3_5_98_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Halgren E. Babb T. L. Crandall P. H. (1978). Activity of human hippocampal formation and amygdala neurons during memory testing. Electroencephalography and Clinical Neurophysiology 45(5) 585–601. https://doi.org/10.1016/0013-4694(78)90159-1",
+        "DOI": "10.1016/0013-4694(78)90159-1"
+      },
+      {
+        "key": "e_1_3_5_99_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/497114"
+      },
+      {
+        "key": "e_1_3_5_100_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Harmon-Jones E. Harmon-Jones C. Abramson L. Peterson C. K. (2009). PANAS positive activation is associated with anger. Emotion 9(2) 183–196. https://doi.org/10.1037/a0014959",
+        "DOI": "10.1037/a0014959"
+      },
+      {
+        "key": "e_1_3_5_101_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4159/9780674985155"
+      },
+      {
+        "key": "e_1_3_5_102_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Heyes C. (2020). Psychological mechanisms forged by cultural evolution. Current Directions in Psychological Science 29(4) 399–404. https://doi.org/10.1177/0963721420917736",
+        "DOI": "10.1177/0963721420917736"
+      },
+      {
+        "key": "e_1_3_5_103_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoemann K. (2023). Beyond linguistic relativity emotion concepts illustrate how meaning is contextually and individually variable. Topics in Cognitive Science 15(4) 668–675. https://doi.org/10.1111/tops.12659",
+        "DOI": "10.1111/tops.12659"
+      },
+      {
+        "key": "e_1_3_5_104_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoemann K. (2024). What’s in an emotion word? The multiple roles of labeling in emotional functioning and well-being. In Federmeier K. D (Ed.) Psychology of learning and motivation (Vol. 80 pp. 33–72). Academic Press. https://doi.org/10.1016/bs.plm.2024.03.001",
+        "DOI": "10.1016/bs.plm.2024.03.001"
+      },
+      {
+        "key": "e_1_3_5_105_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoemann K. Crittenden A. N. Msafiri S. Liu Q. Li C. Roberson D. Ruark G. A. Gendron M. Feldman Barrett L. (2019). Context facilitates performance on a classic cross-cultural emotion perception task. Emotion 19(7) 1292–1313. https://doi.org/10.1037/emo0000501",
+        "DOI": "10.1037/emo0000501"
+      },
+      {
+        "key": "e_1_3_5_106_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoemann K. Gendron M. Barrett L. F. (2017). Mixed emotions in the predictive brain. Current Opinion in Behavioral Sciences 15 51–57. https://doi.org/10.1016/j.cobeha.2017.05.013",
+        "DOI": "10.1016/j.cobeha.2017.05.013"
+      },
+      {
+        "key": "e_1_3_5_107_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoemann K. Gendron M. Barrett L. F. (2022). Assessing the power of words to facilitate emotion category learning. Affective Science 3(1) 69–80. https://doi.org/10.1007/s42761-021-00084-4",
+        "DOI": "10.1007/s42761-021-00084-4"
+      },
+      {
+        "key": "e_1_3_5_108_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoemann K. Khan Z. Feldman M. J. Nielson C. Devlin M. Dy J. Barrett L. F. Wormwood J. B. Quigley K. S. (2020). Context-aware experience sampling reveals the scale of variation in affective experience. Scientific Reports 10 Article 12459. https://doi.org/10.1038/s41598-020-69180-y",
+        "DOI": "10.1038/s41598-020-69180-y"
+      },
+      {
+        "key": "e_1_3_5_109_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoemann K. Nielson C. Yuen A. Gurera J. W. Quigley K. S. Barrett L. F. (2021). Expertise in emotion: A scoping review and unifying framework for individual differences in the mental representation of emotional experience. Psychological Bulletin 147(11) 1159–1183. https://doi.org/10.1037/bul0000327",
+        "DOI": "10.1037/bul0000327"
+      },
+      {
+        "key": "e_1_3_5_110_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoemann K. Wu R. LoBue V. Oakes L. M. Xu F. Barrett L. F. (2020). Developing an understanding of emotion categories: Lessons from objects. Trends in Cognitive Sciences 24(1) 39–51. https://doi.org/10.1016/j.tics.2019.10.010",
+        "DOI": "10.1016/j.tics.2019.10.010"
+      },
+      {
+        "key": "e_1_3_5_111_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoemann K. Xu F. Barrett L. F. (2019). Emotion words emotion concepts and emotional development in children: A constructionist hypothesis. Developmental Psychology 55(9) 1830–1849. https://doi.org/10.1037/dev0000686",
+        "DOI": "10.1037/dev0000686"
+      },
+      {
+        "key": "e_1_3_5_112_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoffman P. McClelland J. L. Lambon Ralph M. A. (2018). Concepts control and context: A connectionist account of normal and disordered semantic cognition. Psychological Review 125(3) 293–328. https://doi.org/10.1037/rev0000094",
+        "DOI": "10.1037/rev0000094"
+      },
+      {
+        "key": "e_1_3_5_113_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hogan J. A. (1994). The concept of cause in the study of behavior. In Hogan J. A. Bolhuis J. J. (Eds.) Causal mechanisms of behavioural development (pp. 3–15). Cambridge University Press. https://doi.org/10.1017/CBO9780511565120.003",
+        "DOI": "10.1017/CBO9780511565120.003"
+      },
+      {
+        "key": "e_1_3_5_114_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Horikawa T. Cowen A. S. Keltner D. Kamitani Y. (2020). The neural representation of visually evoked emotion is high-dimensional categorical and distributed across transmodal brain regions. Iscience 23(5) Article 101060. https://doi.org/10.1016/j.isci.2020.101060",
+        "DOI": "10.1016/j.isci.2020.101060"
+      },
+      {
+        "key": "e_1_3_5_115_1",
+        "volume-title": "The crisis of European sciences and transcendental phenomenology: An introduction to phenomenological philosophy",
+        "author": "Husserl E.",
+        "year": "1970",
+        "unstructured": "Husserl E. (1970). The crisis of European sciences and transcendental phenomenology: An introduction to phenomenological philosophy. Northwestern University Press."
+      },
+      {
+        "key": "e_1_3_5_116_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hutchinson J. B. Barrett L. F. (2019). The power of predictions: An emerging paradigm for psychological research. Current Directions in Psychological Science 28(3) 280–291. https://doi.org/10.1177/0963721419831992",
+        "DOI": "10.1177/0963721419831992"
+      },
+      {
+        "key": "e_1_3_5_117_1",
+        "volume-title": "Evolution the modern synthesis",
+        "author": "Huxley J.",
+        "year": "1942",
+        "unstructured": "Huxley J. (1942). Evolution the modern synthesis. George Alwin & Unwin Ltd."
+      },
+      {
+        "key": "e_1_3_5_118_1",
+        "volume-title": "Evolution in four dimensions: Genetic, epigenetic, behavioral, and symbolic variation in the history of life",
+        "author": "Jablonka E.",
+        "year": "2005",
+        "unstructured": "Jablonka E., Lamb M. J. (2005). Evolution in four dimensions: Genetic, epigenetic, behavioral, and symbolic variation in the history of life. MIT Press."
+      },
+      {
+        "key": "e_1_3_5_119_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jack R. E. Sun W. Delis I. Garrod O. G. B. Schyns P. G. (2016). Four not six: Revealing culturally common facial expressions of emotion. Journal of Experimental Psychology: General 145(6) 708–730. https://doi.org/10.1037/xge0000162",
+        "DOI": "10.1037/xge0000162"
+      },
+      {
+        "key": "e_1_3_5_120_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jackson J. C. Watts J. Henry T. R. List J.-M. Forkel R. Mucha P. J. Greenhill S. J. Gray R. D. Lindquist K. A. (2019). Emotion semantics show both cultural variation and universal structure. Science 366(6472) 1517–1522. https://doi.org/10.1126/science.aaw8160",
+        "DOI": "10.1126/science.aaw8160"
+      },
+      {
+        "key": "e_1_3_5_121_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/mind/os-IX.34.188"
+      },
+      {
+        "key": "e_1_3_5_122_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/11059-000"
+      },
+      {
+        "key": "e_1_3_5_123_1",
+        "volume-title": "The will to believe and other essays in popular philosophy, and human immortality",
+        "author": "James W.",
+        "year": "1897",
+        "unstructured": "James W. (1897). The will to believe and other essays in popular philosophy, and human immortality. Longmans, Green, and Co."
+      },
+      {
+        "key": "#cr-split#-e_1_3_5_124_1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "James W. (1994). The physical basis of emotion. Psychological Review 101",
+        "DOI": "10.1037//0033-295X.101.2.205"
+      },
+      {
+        "key": "#cr-split#-e_1_3_5_124_1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "(2) 205-210. https://doi.org/10.1037/0033-295X.101.2.205 (Original work published 1894)",
+        "DOI": "10.1037/0033-295X.101.2.205"
+      },
+      {
+        "key": "e_1_3_5_125_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kanwal J. K. Coddington E. Frazer R. Limbania D. Turner G. Davila K. J. Givens M. A. Williams V. Datta S. R. Wasserman S. (2021). Internal state: Dynamic interconnected communication loops distributed across body brain and time. Integrative and Comparative Biology 61(3) 867–886. https://doi.org/10.1093/icb/icab101",
+        "DOI": "10.1093/icb/icab101"
+      },
+      {
+        "key": "e_1_3_5_126_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kassam K. S. Markey A. R. Cherkassky V. L. Loewenstein G. Just M. A. (2013). Identifying emotions on the basis of neural activation. PLOS ONE 8(6) Article e66032. https://doi.org/10.1371/journal.pone.0066032",
+        "DOI": "10.1371/journal.pone.0066032"
+      },
+      {
+        "key": "e_1_3_5_127_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Katsumi Y. Theriault J. E. Quigley K. S. Barrett L. F. (2022). Allostasis as a core feature of hierarchical gradients in the human brain. Network Neuroscience 6(4) 1010–1031. https://doi.org/10.1162/netn_a_00240",
+        "DOI": "10.1162/netn_a_00240"
+      },
+      {
+        "key": "e_1_3_5_128_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Katsumi Y. Zhang J. Chen D. Kamona N. Bunce J. G. Hutchinson J. B. Yarossi M. Tunik E. Dickerson B. C. Quigley K. S. Barrett L. F. (2023). Correspondence of functional connectivity gradients across human isocortex cerebellum and hippocampus. Communications Biology 6 Article 401. https://doi.org/10.1038/s42003-023-04796-0",
+        "DOI": "10.1038/s42003-023-04796-0"
+      },
+      {
+        "key": "e_1_3_5_129_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Khalaf A. Nabian M. Fan M. Yin Y. Wormwood J. B. Siegel E. Quigley K. S. Barrett L. F. Akcakaya M. Chou C.-A. Ostadabbas S. (2020). Analysis of multimodal physiological signals within and between individuals to predict psychological challenge vs. threat. Expert Systems with Applications 140 Article 112890. https://doi.org/10.1016/j.eswa.2019.112890",
+        "DOI": "10.1016/j.eswa.2019.112890"
+      },
+      {
+        "key": "e_1_3_5_130_1",
+        "volume-title": "The plausibility of life: Resolving Darwin’s dilemma",
+        "author": "Kirschner M. W.",
+        "year": "2006",
+        "unstructured": "Kirschner M. W., Gerhart J. C., Norton J. (2006). The plausibility of life: Resolving Darwin’s dilemma. Yale University Press."
+      },
+      {
+        "key": "e_1_3_5_131_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0031820"
+      },
+      {
+        "key": "e_1_3_5_132_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/scan/nsv032"
+      },
+      {
+        "key": "e_1_3_5_133_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kret M. E. Prochazkova E. Sterck E. H. M. Clay Z. (2020). Emotional expressions in human and non-human great apes. Neuroscience & Biobehavioral Reviews 115 378–395. https://doi.org/10.1016/j.neubiorev.2020.01.027",
+        "DOI": "10.1016/j.neubiorev.2020.01.027"
+      },
+      {
+        "key": "e_1_3_5_134_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Krienen F. M. Yeo B. T. T. Ge T. Buckner R. L. Sherwood C. C. (2016). Transcriptional profiles of supragranular-enriched genes associate with corticocortical network architecture in the human brain. Proceedings of the National Academy of Sciences USA 113(4) E469–E478. https://doi.org/10.1073/pnas.1510903113",
+        "DOI": "10.1073/pnas.1510903113"
+      },
+      {
+        "key": "e_1_3_5_135_1",
+        "volume-title": "The structure of scientific revolutions",
+        "author": "Kuhn T. S.",
+        "year": "1970",
+        "unstructured": "Kuhn T. S. (1970). The structure of scientific revolutions (2nd ed.). University of Chicago Press.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_5_136_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kuzawa C. W. Chugani H. T. Grossman L. I. Lipovich L. Muzik O. Hof P. R. Wildman D. E. Sherwood C. C. Leonard W. R. Lange N. (2014). Metabolic costs and evolutionary implications of human brain development. Proceedings of the National Academy of Sciences USA 111(36) 13010–13015. https://doi.org/10.1073/pnas.1323099111",
+        "DOI": "10.1073/pnas.1323099111"
+      },
+      {
+        "key": "e_1_3_5_137_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Laland K. N. (2017). Darwin’s unfinished symphony: How culture made the human mind. Princeton University Press. https://doi.org/10.1515/9781400884872",
+        "DOI": "10.1515/9781400884872"
+      },
+      {
+        "key": "e_1_3_5_138_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lane N. (2014). Bioenergetic constraints on the evolution of complex life. Cold Spring Harbor Perspectives in Biology 6(5) Article a015982. https://doi.org/10.1101/cshperspect.a015982",
+        "DOI": "10.1101/cshperspect.a015982"
+      },
+      {
+        "key": "e_1_3_5_139_1",
+        "first-page": "672",
+        "volume-title": "The classical psychologists",
+        "author": "Lange C. G.",
+        "year": "1912",
+        "unstructured": "Lange C. G. (1912). The mechanisms of the emotions. In Rand B. (Ed.), The classical psychologists (pp. 672–684). Houghton Mifflin. (Original work published 1885)"
+      },
+      {
+        "key": "e_1_3_5_140_1",
+        "volume-title": "Anxious: Using the brain to understand and treat fear and anxiety",
+        "author": "LeDoux J.",
+        "year": "2015",
+        "unstructured": "LeDoux J. (2015). Anxious: Using the brain to understand and treat fear and anxiety. Penguin Books."
+      },
+      {
+        "key": "e_1_3_5_141_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Le Mau T. Hoemann K. Lyons S. H. Fugate J. M. B. Brown E. N. Gendron M. Barrett L. F. (2021). Professional actors demonstrate variability not stereotypical expressions when portraying emotional states in photographs. Nature Communications 12 Article 5037. https://doi.org/10.1038/s41467-021-25352-6",
+        "DOI": "10.1038/s41467-021-25352-6"
+      },
+      {
+        "key": "e_1_3_5_142_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lebois L. A. M. Wilson-Mendenhall C. D. Simmons W. K. Barrett L. F. Barsalou L. W. (2020). Learning situated emotions. Neuropsychologia 145 Article 106637. https://doi.org/10.1016/j.neuropsychologia.2018.01.008",
+        "DOI": "10.1016/j.neuropsychologia.2018.01.008"
+      },
+      {
+        "key": "e_1_3_5_143_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lee K. M. Satpute A. B. (2024). More than labels: Neural representations of emotion words are widely distributed across the brain. Social Cognitive and Affective Neuroscience 19(1) Article nsae043. https://doi.org/10.1093/scan/nsae043",
+        "DOI": "10.1093/scan/nsae043"
+      },
+      {
+        "key": "e_1_3_5_144_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Levenson R. W. (2011). Basic emotion questions. Emotion Review 3(4) 379–386. https://doi.org/10.1177/1754073911410743",
+        "DOI": "10.1177/1754073911410743"
+      },
+      {
+        "key": "e_1_3_5_145_1",
+        "volume-title": "The triple helix: Gene, organism, and environment",
+        "author": "Lewontin R. C.",
+        "year": "2000",
+        "unstructured": "Lewontin R. C. (2000). The triple helix: Gene, organism, and environment. Harvard University Press."
+      },
+      {
+        "key": "e_1_3_5_146_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lindquist K. A. (2013). Emotions emerge from more basic psychological ingredients: A modern psychological constructionist model. Emotion Review 5(4) 356–368. https://doi.org/10.1177/1754073913489750",
+        "DOI": "10.1177/1754073913489750"
+      },
+      {
+        "key": "e_1_3_5_147_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lindquist K. A. (2017). The role of language in emotion: Existing evidence and future directions. Current Opinion in Psychology 17 135–139. https://doi.org/10.1016/j.copsyc.2017.07.006",
+        "DOI": "10.1016/j.copsyc.2017.07.006"
+      },
+      {
+        "key": "e_1_3_5_148_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lindquist K. A. Gendron M. Oosterwijk S. Barrett L. F. (2013). Do people essentialize emotions? Individual differences in emotion essentialism and emotional experience. Emotion 13(4) 629–644. https://doi.org/10.1037/a0032283",
+        "DOI": "10.1037/a0032283"
+      },
+      {
+        "key": "e_1_3_5_149_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lindquist K. A. Jackson J. C. Leshin J. Satpute A. B. Gendron M. (2022). The cultural evolution of emotion. Nature Reviews Psychology 1(11) 669–681. https://doi.org/10.1038/s44159-022-00105-4",
+        "DOI": "10.1038/s44159-022-00105-4"
+      },
+      {
+        "key": "e_1_3_5_150_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lindquist K. A. Satpute A. B. Gendron M. (2015). Does language do more than communicate emotions? Current Directions in Psychological Science 24(2) 99–108. https://doi.org/10.1177/0963721414553440",
+        "DOI": "10.1177/0963721414553440"
+      },
+      {
+        "key": "e_1_3_5_151_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lindquist K. A. Siegel E. H. Quigley K. S. Barrett L. F. (2013). The hundred-year emotion war: Are emotions natural kinds or psychological constructions? Comment on Lench Flores and Bench (2011). Psychological Bulletin 139(1) 255–263. https://doi.org/10.1037/a0029038",
+        "DOI": "10.1037/a0029038"
+      },
+      {
+        "key": "e_1_3_5_152_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Longino H. E. (1990). Science as social knowledge: Values and objectivity in scientific inquiry. Princeton University Press. https://doi.org/10.2307/j.ctvx5wbfz",
+        "DOI": "10.1515/9780691209753"
+      },
+      {
+        "key": "e_1_3_5_153_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lupyan G. Lewis M. (2019). From words-as-mappings to words-as-cues: The role of language in semantic knowledge. Language Cognition and Neuroscience 34(10) 1319–1337. https://doi.org/10.1080/23273798.2017.1404114",
+        "DOI": "10.1080/23273798.2017.1404114"
+      },
+      {
+        "key": "e_1_3_5_154_1",
+        "first-page": "573",
+        "article-title": "Looking across the empathic divide: Racialized decision making on the capital jury",
+        "volume": "2011",
+        "author": "Lynch M",
+        "year": "2011",
+        "unstructured": "Lynch M, Haney C. (2011). Looking across the empathic divide: Racialized decision making on the capital jury. Michigan State Law Review, 2011, 573–607.",
+        "journal-title": "Michigan State Law Review"
+      },
+      {
+        "key": "e_1_3_5_155_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Marder E. Taylor A. L. (2011). Multiple models to capture the variability in biological neurons and networks. Nature Neuroscience 14(2) 133–138. https://doi.org/10.1038/nn.2735",
+        "DOI": "10.1038/nn.2735"
+      },
+      {
+        "key": "e_1_3_5_156_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mareschal D. Quinn P. C. Lea S. E. G. (2010). The making of human concepts. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199549221.001.0001",
+        "DOI": "10.1093/acprof:oso/9780199549221.001.0001"
+      },
+      {
+        "key": "e_1_3_5_157_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Matsumoto D. (1990). Cultural similarities and differences in display rules. Motivation and Emotion 14(3) 195–214. https://doi.org/10.1007/BF00995569",
+        "DOI": "10.1007/BF00995569"
+      },
+      {
+        "key": "e_1_3_5_158_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Matsuzawa T. (2010). Cognitive development in chimpanzees: A trade-off between memory and abstraction? In Mareschal D. Quinn P. C. Lea S. E. G. (Eds.) The making of human concepts (pp. 227–244). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199549221.003.11",
+        "DOI": "10.1093/acprof:oso/9780199549221.003.11"
+      },
+      {
+        "key": "e_1_3_5_159_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mauss I. B. Levenson R. McCarter L. Wilhelm F. H. Gross J. J. (2005). The tie that binds? Coherence among emotion experience behavior and physiology. Emotion 5(2) 175–190. https://doi.org/10.1037/1528-3542.5.2.175",
+        "DOI": "10.1037/1528-3542.5.2.175"
+      },
+      {
+        "key": "e_1_3_5_160_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511617188"
+      },
+      {
+        "key": "e_1_3_5_161_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "McVeigh K. Kleckner I. R. Quigley K. S. Satpute A. B. (2023). Fear-related psychophysiological patterns are situation and individual dependent: A Bayesian model comparison approach. Emotion 24(2) 506–521. https://doi.org/10.1037/emo0001265",
+        "DOI": "10.1037/emo0001265"
+      },
+      {
+        "key": "e_1_3_5_162_1",
+        "volume-title": "Between us: How cultures create emotions",
+        "author": "Mesquita B.",
+        "year": "2022",
+        "unstructured": "Mesquita B. (2022). Between us: How cultures create emotions. W. W. Norton & Company."
+      },
+      {
+        "key": "e_1_3_5_163_1",
+        "volume-title": "The mind in context",
+        "author": "Mesquita B.",
+        "year": "2010",
+        "unstructured": "Mesquita B., Barrett L. F., Smith E. R. (Eds.). (2010). The mind in context. Guilford Press."
+      },
+      {
+        "key": "e_1_3_5_164_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mesquita B. Frijda N. H. (1992). Cultural variations in emotions: A review. Psychological Bulletin 112(2) 179–204. https://doi.org/10.1037/0033-2909.112.2.179",
+        "DOI": "10.1037//0033-2909.112.2.179"
+      },
+      {
+        "key": "e_1_3_5_165_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mobbs D. Marchant J. L. Hassabis D. Seymour B. Tan G. Gray M. Petrovic P. Dolan R. J. Frith C. D. (2009). From threat to fear: The neural organization of defensive fear systems in humans. Journal of Neuroscience 29 12236–12243. https://doi.org/10.1523/JNEUROSCI.2378-09.2009",
+        "DOI": "10.1523/JNEUROSCI.2378-09.2009"
+      },
+      {
+        "key": "e_1_3_5_166_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nazzi T. Gopnik A. (2001). Linguistic and cognitive abilities in infancy: When does language become a tool for categorization? Cognition 80(3) B11–B20. https://doi.org/10.1016/s0010-0277(01)00112-3",
+        "DOI": "10.1016/S0010-0277(01)00112-3"
+      },
+      {
+        "key": "e_1_3_5_167_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nencheva M. L. Nook E. C. Thornton M. A. Lew-Williams C. Tamir D. I. (2024). The emergence of organized emotion dynamics in childhood. Affective Science 5(3) 246–258. https://doi.org/10.1007/s42761-024-00248-y",
+        "DOI": "10.1007/s42761-024-00248-y"
+      },
+      {
+        "key": "e_1_3_5_168_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nook E. C. Stavish C. M. Sasse S. F. Lambert H. K. Mair P. McLaughlin K. A. Somerville L. H. (2020). Charting the development of emotion comprehension and abstraction from childhood to adulthood using observer-rated and linguistic measures. Emotion 20(5) 773–792. https://doi.org/10.1037/emo0000609",
+        "DOI": "10.1037/emo0000609"
+      },
+      {
+        "key": "e_1_3_5_169_1",
+        "volume-title": "The Stanford encyclopedia of philosophy",
+        "author": "Oberheim E.",
+        "year": "2018",
+        "unstructured": "Oberheim E., Hoyningen-Huene P. (2018). The incommensurability of scientific theories. In Zalta E. N. (Ed.), The Stanford encyclopedia of philosophy (Fall 2018 ed.). Stanford University."
+      },
+      {
+        "key": "e_1_3_5_170_1",
+        "volume-title": "Niche construction: The neglected process in evolution (MPB-37)",
+        "author": "Odling-Smee F. J.",
+        "year": "2003",
+        "unstructured": "Odling-Smee F. J., Laland K. N., Feldman M. W. (2003). Niche construction: The neglected process in evolution (MPB-37). Princeton University Press."
+      },
+      {
+        "key": "e_1_3_5_171_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ogren M. Sandhofer C. M. (2021). Emotion words in early childhood: A language transcript analysis. Cognitive Development 60 Article 101122. https://doi.org/10.1016/j.cogdev.2021.101122",
+        "DOI": "10.1016/j.cogdev.2021.101122"
+      },
+      {
+        "key": "e_1_3_5_172_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ogren M. Sandhofer C. M. (2022). Emotion words link faces to emotional scenarios in early childhood. Emotion 22(1) 167–178. https://doi.org/10.1037/emo0001063",
+        "DOI": "10.1037/emo0001063"
+      },
+      {
+        "key": "e_1_3_5_173_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Parr L. A. Waller B. M. Vick S. J. Bard K. A. (2007). Classifying chimpanzee facial expressions using muscle action. Emotion 7(1) 172–181. https://doi.org/10.1037/1528-3542.7.1.172",
+        "DOI": "10.1037/1528-3542.7.1.172"
+      },
+      {
+        "key": "e_1_3_5_174_1",
+        "first-page": "655",
+        "article-title": "Emotional justice: Moralizing the passions of criminal punishment",
+        "volume": "74",
+        "author": "Pillsbury S. H.",
+        "year": "1989",
+        "unstructured": "Pillsbury S. H. (1989). Emotional justice: Moralizing the passions of criminal punishment. Cornell Law Review, 74, 655–710.",
+        "journal-title": "Cornell Law Review"
+      },
+      {
+        "key": "e_1_3_5_175_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Plate R. C. Woodard K. Pollak S. D. (2023). Category flexibility in emotion learning. Affective Science 4(4) 722–730. https://doi.org/10.1007/s42761-023-00192-3",
+        "DOI": "10.1007/s42761-023-00192-3"
+      },
+      {
+        "key": "e_1_3_5_176_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pontzer H. (2015). Energy expenditure in humans and other primates: A new synthesis. Annual Review of Anthropology 44(1) 169–187. https://doi.org/10.1146/annurev-anthro-102214-013925",
+        "DOI": "10.1146/annurev-anthro-102214-013925"
+      },
+      {
+        "key": "e_1_3_5_177_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Price G. F. Ogren M. Sandhofer C. M. (2022). Sorting out emotions: How labels influence emotion categorization. Developmental Psychology 58(9) 1665–1675. https://doi.org/10.1037/dev0001391",
+        "DOI": "10.1037/dev0001391"
+      },
+      {
+        "key": "e_1_3_5_178_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pugh Z. H. Choo S. Leshin J. C. Lindquist K. A. Nam C. S. (2022). Emotion depends on context culture and their interaction: Evidence from effective connectivity. Social Cognitive and Affective Neuroscience 17(2) 206–217. https://doi.org/10.1093/scan/nsab092",
+        "DOI": "10.1093/scan/nsab092"
+      },
+      {
+        "key": "e_1_3_5_179_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pulvermüller F. Shtyrov Y. Ilmoniemi R. (2005). Brain signatures of meaning access in action word recognition. Journal of Cognitive Neuroscience 17(6) 884–892. https://doi.org/10.1162/0898929054021111",
+        "DOI": "10.1162/0898929054021111"
+      },
+      {
+        "key": "e_1_3_5_180_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Raz G. Touroutoglou A. Wilson-Mendenhall C. Gilam G. Lin T. Gonen T. Jacob Y. Atzil S. Admon R. Bleich-Cohen M. Maron-Katz A. Hendler T. Barrett L. F. (2016). Functional connectivity dynamics during film viewing reveal common networks for different emotional experiences. Cognitive Affective & Behavioral Neuroscience 16(4) 709–723. https://doi.org/10.3758/s13415-016-0425-4",
+        "DOI": "10.3758/s13415-016-0425-4"
+      },
+      {
+        "key": "e_1_3_5_181_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7208/chicago/9780226712130.001.0001"
+      },
+      {
+        "key": "e_1_3_5_182_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Roseman I. J. (2011). Emotional behaviors emotivational goals emotion strategies: Multiple levels of organization integrate variable and consistent responses. Emotion Review 3(4) 434–443. https://doi.org/10.1177/1754073911410744",
+        "DOI": "10.1177/1754073911410744"
+      },
+      {
+        "key": "e_1_3_5_183_1",
+        "volume-title": "Helgoland: Making sense of the quantum revolution",
+        "author": "Rovelli C.",
+        "year": "2021",
+        "unstructured": "Rovelli C. (2021). Helgoland: Making sense of the quantum revolution (Segre E., Carnell S., Trans.). Riverhead Books."
+      },
+      {
+        "key": "e_1_3_5_184_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ruba A. L. Harris L. T. Wilbourn M. P. (2021). Examining preverbal infants’ ability to map labels to facial configurations. Affective Science 2(2) 142–149. https://doi.org/10.1007/s42761-020-00015-9",
+        "DOI": "10.1007/s42761-020-00015-9"
+      },
+      {
+        "key": "e_1_3_5_185_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ruba A. L. Pollak S. D. Saffran J. R. (2022). Acquiring complex communicative systems: Statistical learning of language and emotion. Topics in Cognitive Science 14(3) 432–450. https://doi.org/10.1111/tops.12612",
+        "DOI": "10.1111/tops.12612"
+      },
+      {
+        "key": "e_1_3_5_186_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Russell J. A. (1991). Culture and the categorization of emotions. Psychological Bulletin 110(3) 426–450. https://doi.org/10.1037/0033-2909.110.3.426",
+        "DOI": "10.1037//0033-2909.110.3.426"
+      },
+      {
+        "key": "e_1_3_5_187_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rychlowska M. Jack R. E. Garrod O. G. B. Schyns P. G. Martin J. D. Niedenthal P. M. (2017). Functional smiles: Tools for love sympathy and war. Psychological Science 28(9) 1259–1270. https://doi.org/10.1177/0956797617706082",
+        "DOI": "10.1177/0956797617706082"
+      },
+      {
+        "key": "e_1_3_5_188_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cercor/bhv086"
+      },
+      {
+        "key": "e_1_3_5_189_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Satpute A. B. Lindquist K. A. (2021). At the neural intersection between language and emotion. Affective Science 2(2) 207–220. https://doi.org/10.1007/s42761-021-00032-2",
+        "DOI": "10.1007/s42761-021-00032-2"
+      },
+      {
+        "key": "e_1_3_5_190_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Satpute A. B. Nook E. C. Cakar M. (2020). The role of language in the construction of emotion and memory. In Lane R. Nadel L. (Eds.) Neuroscience of enduring change: Implications for psychotherapy (pp. 56–88). Oxford University Press. https://doi.org/10.1093/oso/9780190881511.003.0004",
+        "DOI": "10.1093/oso/9780190881511.003.0004"
+      },
+      {
+        "key": "e_1_3_5_191_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schyns P. G. Goldstone R. L. Thibaut J.-P. (1998). The development of features in object concepts. Behavioral and Brain Sciences 21(1) 1–17. https://doi.org/10.1017/S0140525X98000107",
+        "DOI": "10.1017/S0140525X98000107"
+      },
+      {
+        "key": "e_1_3_5_192_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shablack H. Lindquist K. A. (2019). The role of language in emotional development. In LoBue V. Pérez-Edgar K. Buss K. A. (Eds.) Handbook of emotional development (pp. 451–478). Springer Nature Switzerland AG. https://doi.org/10.1007/978-3-030-17332-6_18",
+        "DOI": "10.1007/978-3-030-17332-6_18"
+      },
+      {
+        "key": "e_1_3_5_193_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shaffer C. Westlin C. Quigley K. S. Whitfield-Gabrieli S. Barrett L. F. (2022). Allostasis action and affect in depression: Insights from the theory of constructed emotion. Annual Review of Clinical Psychology 18(1) 553–580. https://doi.org/10.1146/annurev-clinpsy-081219-115627",
+        "DOI": "10.1146/annurev-clinpsy-081219-115627"
+      },
+      {
+        "key": "e_1_3_5_194_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shenhav A. Mendes W. B. (2014). Aiming for the stomach and hitting the heart: Dissociable triggers and sources for disgust reactions. Emotion 14(2) 301–309. https://doi.org/10.1037/a0034644",
+        "DOI": "10.1037/a0034644"
+      },
+      {
+        "key": "e_1_3_5_195_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sherwood C. C. Bauernfeind A. L. Bianchi S. Raghanti M. A. Hof P. R. (2012). Human brain evolution writ large and small. In Hofman M. A. Falk D. (Eds.) Progress in brain research (Vol. 195 pp. 237–254). Elsevier. https://doi.org/10.1016/B978-0-444-53860-4.00011-8",
+        "DOI": "10.1016/B978-0-444-53860-4.00011-8"
+      },
+      {
+        "key": "e_1_3_5_196_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sherwood C. C. Bauernfeind A. L. Verendeev A. Raghanti M. A. Hof P. R. (2017). Evolutionary specializations of human brain microstructure. In Kaas J. H. (Ed.) Evolution of nervous systems (pp. 121–139). Elsevier. https://doi.org/10.1016/B978-0-12-804042-3.00127-5",
+        "DOI": "10.1016/B978-0-12-804042-3.00127-5"
+      },
+      {
+        "key": "e_1_3_5_197_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sherwood C. C. Gómez-Robles A. (2017). Brain plasticity and human evolution. Annual Review of Anthropology 46 399–419. https://doi.org/10.1146/annurev-anthro-102215-100009",
+        "DOI": "10.1146/annurev-anthro-102215-100009"
+      },
+      {
+        "key": "e_1_3_5_198_1",
+        "volume-title": "Tactics of scientific research: Evaluating experimental data in psychology",
+        "author": "Sidman M.",
+        "year": "1960",
+        "unstructured": "Sidman M. (1960). Tactics of scientific research: Evaluating experimental data in psychology. Basic Books."
+      },
+      {
+        "key": "e_1_3_5_199_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Siegel E. H. Sands M. K. Van den Noortgate W. Condon P. Chang Y. Dy J. Quigley K. S. Barrett L. F. (2018). Emotion fingerprints or emotion populations? A meta-analytic investigation of autonomic features of emotion categories. Psychological Bulletin 144(4) 343–393. https://doi.org/10.1037/bul0000128",
+        "DOI": "10.1037/bul0000128"
+      },
+      {
+        "key": "e_1_3_5_200_1",
+        "volume-title": "The nature of nutrition: A unifying framework from animal adaptation to human obesity",
+        "author": "Simpson S. J.",
+        "year": "2012",
+        "unstructured": "Simpson S. J., Raubenheimer D. (2012). The nature of nutrition: A unifying framework from animal adaptation to human obesity. Princeton University Press."
+      },
+      {
+        "key": "e_1_3_5_201_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sinaceur M. Tiedens L. Z. (2006). Get mad and get more than even: When and why anger expression is effective in negotiations. Journal of Experimental Social Psychology 42(3) 314–322. https://doi.org/10.1016/j.jesp.2005.05.002",
+        "DOI": "10.1016/j.jesp.2005.05.002"
+      },
+      {
+        "key": "e_1_3_5_202_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Singh A. Westlin C. Eisenbarth H. Reynolds Losin E. A. Andrews-Hanna J. R. Wager T. D. Satpute A. B. Barrett L. F. Brooks D. H. Erdogmus D. (2021). Variation is the norm: Brain state dynamics evoked by emotional video clips. In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 6003–6007). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/EMBC46164.2021.9630852",
+        "DOI": "10.1109/EMBC46164.2021.9630852"
+      },
+      {
+        "key": "e_1_3_5_203_1",
+        "volume-title": "The continuity of mind",
+        "author": "Spivey M.",
+        "year": "2008",
+        "unstructured": "Spivey M. (2008). The continuity of mind. Oxford University Press."
+      },
+      {
+        "key": "e_1_3_5_204_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Springstein T. Thompson R. J. English T. (2024). Examining situational differences in momentary emotion differentiation and emotional clarity in everyday life. Emotion 24(4) 947–959. https://doi.org/10.1037/emo0001311",
+        "DOI": "10.1037/emo0001311"
+      },
+      {
+        "key": "e_1_3_5_205_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Srinivasan R. Martinez A. M. (2021). Cross-cultural and cultural-specific production and perception of facial expressions of emotion in the wild. IEEE Transactions on Affective Computing 12(3) 707–721. https://doi.org/10.1109/TAFFC.2018.2887267",
+        "DOI": "10.1109/TAFFC.2018.2887267"
+      },
+      {
+        "key": "e_1_3_5_206_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijpsycho.2007.03.019"
+      },
+      {
+        "key": "e_1_3_5_207_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Stephens C. L. Christie I. C. Friedman B. H. (2010). Autonomic specificity of basic emotions: Evidence from pattern classification and cluster analysis. Biological Psychology 84 463–473. https://doi.org/10.1016/j.biopsycho.2010.03.014",
+        "DOI": "10.1016/j.biopsycho.2010.03.014"
+      },
+      {
+        "key": "e_1_3_5_208_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sterling P. (2012). Allostasis: A model of predictive regulation. Physiology & Behavior 106(1) 5–15. https://doi.org/10.1016/j.physbeh.2011.06.004",
+        "DOI": "10.1016/j.physbeh.2011.06.004"
+      },
+      {
+        "key": "e_1_3_5_209_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7551/mitpress/9780262028707.001.0001"
+      },
+      {
+        "key": "e_1_3_5_210_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sznycer D. Cosmides L. Tooby J. (2017). Adaptationism carves emotions at their functional joints. Psychological Inquiry 28(1) 56–62. https://doi.org/10.1080/1047840X.2017.1256132",
+        "DOI": "10.1080/1047840X.2017.1256132"
+      },
+      {
+        "key": "e_1_3_5_211_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Taubert J. Japee S. (2024). Real face value: The processing of naturalistic facial expressions in the macaque inferior temporal cortex. Journal of Cognitive Neuroscience 36(12) 2725–2741. https://doi.org/10.1162/jocn_a_02108",
+        "DOI": "10.1162/jocn_a_02108"
+      },
+      {
+        "key": "e_1_3_5_212_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tcherkassof A. Dupré D. (2021). The emotion-facial expression link: Evidence from human and automatic expression recognition. Psychological Research 85(8) 2954–2969. https://doi.org/10.1007/s00426-020-01448-4",
+        "DOI": "10.1007/s00426-020-01448-4"
+      },
+      {
+        "key": "e_1_3_5_213_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tenenbaum J. B. Kemp C. Griffiths T. L. Goodman N. D. (2011). How to grow a mind: Statistics structure and abstraction. Science 331(6022) 1279–1285. https://doi.org/10.1126/science.1192788",
+        "DOI": "10.1126/science.1192788"
+      },
+      {
+        "key": "e_1_3_5_214_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Theriault J. E. Shaffer C. Dienel G. A. Sander C. Y. Hooker J. M. Dickerson B. C. Barrett L. F. Quigley K. S. (2023). A functional account of stimulation-based aerobic glycolysis and its role in interpreting BOLD signal intensity increases in neuroimaging experiments. Neuroscience & Biobehavioral Reviews 153 Article 105373. https://doi.org/10.1016/j.neubiorev.2023.105373",
+        "DOI": "10.1016/j.neubiorev.2023.105373"
+      },
+      {
+        "key": "e_1_3_5_215_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tinbergen N. (2005). On aims and methods of ethology. Animal Biology 55 297–321. https://doi.org/10.1163/157075605774840941 (Original work published 1963)",
+        "DOI": "10.1163/157075605774840941"
+      },
+      {
+        "key": "e_1_3_5_216_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4159/9780674988651"
+      },
+      {
+        "key": "e_1_3_5_217_1",
+        "first-page": "114",
+        "volume-title": "Handbook of emotions",
+        "author": "Tooby J.",
+        "year": "2008",
+        "unstructured": "Tooby J., Cosmides L. (2008). The evolutionary psychology of the emotions and their relationship to internal regulatory variables. In Lewis M., Haviland-Jones J. M., Barrett L. F. (Eds.), Handbook of emotions (3rd ed., pp. 114–137). Guilford Press.",
+        "edition": "3"
+      },
+      {
+        "key": "e_1_3_5_218_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Touroutoglou A. Lindquist K. A. Dickerson B. C. Barrett L. F. (2015). Intrinsic connectivity in the human brain does not reveal networks for ‘basic’ emotions. Social Cognitive and Affective Neuroscience 10(9) 1257–1265. https://doi.org/10.1093/scan/nsv013",
+        "DOI": "10.1093/scan/nsv013"
+      },
+      {
+        "key": "e_1_3_5_219_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tracy J. L. Randles D. (2011). Four models of basic emotions: A review of Ekman and Cordaro Izard Levenson and Panksepp and Watt. Emotion Review 3(4) 397–405. https://doi.org/10.1177/1754073911410747",
+        "DOI": "10.1177/1754073911410747"
+      },
+      {
+        "key": "e_1_3_5_220_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Uchida Y. Kitayama S. (2009). Happiness and unhappiness in east and west: Themes and variations. Emotion 9(4) 441–456. https://doi.org/10.1037/a0015634",
+        "DOI": "10.1037/a0015634"
+      },
+      {
+        "key": "e_1_3_5_221_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "van Heijst K. Kret M. E. Ploeger A. (2025). Basic emotions or constructed emotions: Insights from taking an evolutionary perspective. Perspectives on Psychological Science 20(3) 377–391. https://doi.org/10.1177/17456916231205186",
+        "DOI": "10.1177/17456916231205186"
+      },
+      {
+        "key": "e_1_3_5_222_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Van Kleef G. A. Côté S. (2007). Expressing anger in conflict: When it helps and when it hurts. Journal of Applied Psychology 92(6) 1557–1569. https://doi.org/10.1037/0021-9010.92.6.1557",
+        "DOI": "10.1037/0021-9010.92.6.1557"
+      },
+      {
+        "key": "e_1_3_5_223_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "van Zomeren M. Spears R. Fischer A. H. Leach C. W. (2004). Put your money where your mouth is! Explaining collective action tendencies through group-based anger and group efficacy. Journal of Personality and Social Psychology 87(5) 649–664. https://doi.org/10.1037/0022-3514.87.5.649",
+        "DOI": "10.1037/0022-3514.87.5.649"
+      },
+      {
+        "key": "e_1_3_5_224_1",
+        "volume-title": "The embodied mind: Cognitive science and human experience",
+        "author": "Varela F. J.",
+        "year": "1992",
+        "unstructured": "Varela F. J., Thompson E. T., Rosch E. (1992). The embodied mind: Cognitive science and human experience (Rev. ed.). MIT Press."
+      },
+      {
+        "key": "e_1_3_5_225_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ventura-Bort C. Wendt J. Weymar M. (2022). New insights on the correspondence between subjective affective experience and physiological responses from representational similarity analysis. Psychophysiology 59(11) Article e14088. https://doi.org/10.1111/psyp.14088",
+        "DOI": "10.1111/psyp.14088"
+      },
+      {
+        "key": "e_1_3_5_226_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Vouloumanos A. Waxman S. R. (2014). Listen up! Speech is for thinking during infancy. Trends in Cognitive Sciences 18(12) 642–646. https://doi.org/10.1016/j.tics.2014.10.001",
+        "DOI": "10.1016/j.tics.2014.10.001"
+      },
+      {
+        "key": "e_1_3_5_227_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wager T. D. Kang J. Johnson T. D. Nichols T. E. Satpute A. B. Barrett L. F. (2015). A Bayesian model of category-specific emotional brain responses. PLOS Computational Biology 11(4) Article e1004066. https://doi.org/10.1371/journal.pcbi.1004066",
+        "DOI": "10.1371/journal.pcbi.1004066"
+      },
+      {
+        "key": "e_1_3_5_228_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang R. Yu R. Tian Y. Wu H. (2022). Individual variation in the neurophysiological representation of negative emotions in virtual reality is shaped by sociability. NeuroImage 263 Article 119596. https://doi.org/10.1016/j.neuroimage.2022.119596",
+        "DOI": "10.1016/j.neuroimage.2022.119596"
+      },
+      {
+        "key": "e_1_3_5_229_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang Y. Kragel P. A. Satpute A. B. (2024). Neural predictors of fear depend on the situation. Journal of Neuroscience 44(46) Article e0142232024. https://doi.org/10.1523/JNEUROSCI.0142-23.2024",
+        "DOI": "10.1523/JNEUROSCI.0142-23.2024"
+      },
+      {
+        "key": "e_1_3_5_230_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Waxman S. R. Gelman S. A. (2010). Different kinds of concepts and different kinds of words: What words do for human cognition. In Mareschal D. Quinn P. C. Lea S. E. G. (Eds.) The making of human concepts (pp. 99–129). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199549221.003.06",
+        "DOI": "10.1093/acprof:oso/9780199549221.003.06"
+      },
+      {
+        "key": "e_1_3_5_231_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Waxman S. R. Markow D. B. (1995). Words as invitations to form categories: Evidence from 12- to 13-month-old infants. Cognitive Psychology 29(3) 257–302. https://doi.org/10.1006/cogp.1995.1016",
+        "DOI": "10.1006/cogp.1995.1016"
+      },
+      {
+        "key": "e_1_3_5_232_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wei Y. de Lange S. C. Scholtens L. H. Watanabe K. Ardesch D. J. Jansen P. R. Savage J. E. Li L. Preuss T. M. Rilling J. K. Posthuma D. van den Heuvel M. P. (2019). Genetic mapping and evolutionary analysis of human-expanded cognitive networks. Nature Communications 10 Article 4839. https://doi.org/10.1038/s41467-019-12764-8",
+        "DOI": "10.1038/s41467-019-12764-8"
+      },
+      {
+        "key": "e_1_3_5_233_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Welder A. N. Graham S. A. (2001). The influence of shape similarity and shared labels on infants’ inductive inferences about nonobvious object properties. Child Development 72(6) 1653–1673. https://doi.org/10.1111/1467-8624.00371",
+        "DOI": "10.1111/1467-8624.00371"
+      },
+      {
+        "key": "e_1_3_5_234_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Westlin C. Theriault J. E. Katsumi Y. Nieto-Castanon A. Kucyi A. Ruf S. F. Brown S. M. Pavel M. Erdogmus D. Brooks D. H. Quigley K. S. Whitfield-Gabrieli S. Barrett L. F. (2023). Improving the study of brain-behavior relationships by revisiting basic assumptions. Trends in Cognitive Sciences 27(3) 246–257. https://doi.org/10.1016/j.tics.2022.12.015",
+        "DOI": "10.1016/j.tics.2022.12.015"
+      },
+      {
+        "key": "e_1_3_5_235_1",
+        "first-page": "26",
+        "volume-title": "The concept of nature",
+        "author": "Whitehead A.",
+        "year": "1920",
+        "unstructured": "Whitehead A. (1920). Theories of the bifurcation of nature. In The concept of nature (pp. 26–48). Cambridge University Press."
+      },
+      {
+        "key": "e_1_3_5_236_1",
+        "volume-title": "Adaptation and natural selection: A critique of some current evolutionary thoughts",
+        "author": "Williams G. C.",
+        "year": "1966",
+        "unstructured": "Williams G. C. (1966). Adaptation and natural selection: A critique of some current evolutionary thoughts. Princeton University Press."
+      },
+      {
+        "key": "e_1_3_5_237_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wilson-Mendenhall C. D. Barrett L. F. Barsalou L. W. (2013a). Neural evidence that human emotions share core affective properties. Psychological Science 24(6) 947–956. https://doi.org/10.1177/0956797612464242",
+        "DOI": "10.1177/0956797612464242"
+      },
+      {
+        "key": "e_1_3_5_238_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wilson-Mendenhall C. D. Barrett L. F. Barsalou L. W. (2013b). Situating emotional experience. Frontiers in Human Neuroscience 7 Article 764. https://doi.org/10.3389/fnhum.2013.00764",
+        "DOI": "10.3389/fnhum.2013.00764"
+      },
+      {
+        "key": "e_1_3_5_239_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wilson-Mendenhall C. D. Barrett L. F. Barsalou L. W. (2015). Variety in emotional life: Within-category typicality of emotional experiences is associated with neural activity in large-scale brain networks. Social Cognitive and Affective Neuroscience 10(1) 62–71. https://doi.org/10.1093/scan/nsu037",
+        "DOI": "10.1093/scan/nsu037"
+      },
+      {
+        "key": "e_1_3_5_240_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wilson-Mendenhall C. D. Barrett L. F. Simmons W. K. Barsalou L. W. (2011). Grounding emotion in situated conceptualization. Neuropsychologia 49(5) 1105–1127. https://doi.org/10.1016/j.neuropsychologia.2010.12.032",
+        "DOI": "10.1016/j.neuropsychologia.2010.12.032"
+      },
+      {
+        "key": "e_1_3_5_241_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wilson-Mendenhall C. D. Henriques A. Barsalou L. W. Barrett L. F. (2019). Primary interoceptive cortex activity during simulated experiences of the body. Journal of Cognitive Neuroscience 31(2) 221–235. https://doi.org/10.1162/jocn_a_01346",
+        "DOI": "10.1162/jocn_a_01346"
+      },
+      {
+        "key": "e_1_3_5_242_1",
+        "first-page": "209",
+        "volume-title": "The self-conscious emotions: Theory and research",
+        "author": "Wong Y.",
+        "year": "2007",
+        "unstructured": "Wong Y., Tsai J. (2007). Cultural models of shame and guilt. In Tracy J. L., Robins R. W., Tangney J. P. (Eds.), The self-conscious emotions: Theory and research (pp. 209–223). Guilford Press."
+      },
+      {
+        "key": "e_1_3_5_243_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Workman A. D. Charvet C. J. Clancy B. Darlington R. B. Finlay B. L. (2013). Modeling transformations of neurodevelopmental sequences across mammalian species. Journal of Neuroscience 33(17) 7368–7383. https://doi.org/10.1523/JNEUROSCI.5746-12.2013",
+        "DOI": "10.1523/JNEUROSCI.5746-12.2013"
+      },
+      {
+        "key": "e_1_3_5_244_1",
+        "volume-title": "Translating time: Extending a model of the timing of early neurodevelopmental events in mammals to cross-vertebrate structural, physiological and behavioral postnatal maturation",
+        "author": "Workman A. D.",
+        "year": "2011",
+        "unstructured": "Workman A. D., Charvet C. J., Gaffney C. D., Clancy B., Darlington R. B., Finlay B. L. (2011, November 12–16). Translating time: Extending a model of the timing of early neurodevelopmental events in mammals to cross-vertebrate structural, physiological and behavioral postnatal maturation [Poster presentation]. Society for Neuroscience Annual Meeting 2011, Washington, DC, United States."
+      },
+      {
+        "key": "e_1_3_5_245_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yee E. Thompson-Schill S. L. (2016). Putting concepts into context. Psychonomic Bulletin & Review 23(4) 1015–1027. https://doi.org/10.3758/s13423-015-0948-7",
+        "DOI": "10.3758/s13423-015-0948-7"
+      },
+      {
+        "key": "e_1_3_5_246_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou F. Zhao W. Qi Z. Geng Y. Yao S. Kendrick K. M. Wager T. D. Becker B. (2021). A distributed fMRI-based signature for the subjective experience of fear. Nature Communications 12 Article 6643. https://doi.org/10.1038/s41467-021-26977-3",
+        "DOI": "10.1038/s41467-021-26977-3"
+      }
+    ],
+    "container-title": [
+      "Perspectives on Psychological Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/17456916251319045",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/17456916251319045",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/17456916251319045",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/17456916251319045",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          2
+        ]
+      ],
+      "date-time": "2026-05-02T08:45:07Z",
+      "timestamp": 1777711507000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/17456916251319045"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "references-count": 246,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/17456916251319045"
+    ],
+    "URL": "https://doi.org/10.1177/17456916251319045",
+    "relation": {},
+    "ISSN": [
+      "1745-6916",
+      "1745-6924"
+    ],
+    "issn-type": [
+      {
+        "value": "1745-6916",
+        "type": "print"
+      },
+      {
+        "value": "1745-6924",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    }
+  }
+}

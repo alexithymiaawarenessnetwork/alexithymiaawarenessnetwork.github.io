@@ -1,0 +1,845 @@
+{
+  "id": "https://openalex.org/W2068200449",
+  "doi": "https://doi.org/10.1016/j.cub.2012.11.055",
+  "title": "The Biology of Fear",
+  "display_name": "The Biology of Fear",
+  "publication_year": 2013,
+  "publication_date": "2013-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2068200449",
+    "doi": "https://doi.org/10.1016/j.cub.2012.11.055",
+    "mag": "2068200449",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/23347946"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.cub.2012.11.055",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.cub.2012.11.055",
+    "pdf_url": "http://www.cell.com/article/S0960982212014352/pdf",
+    "source": {
+      "id": "https://openalex.org/S128425624",
+      "display_name": "Current Biology",
+      "issn_l": "0960-9822",
+      "issn": [
+        "0960-9822",
+        "1879-0445"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Current Biology",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "http://www.cell.com/article/S0960982212014352/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5009705401",
+        "display_name": "Ralph Adolphs",
+        "orcid": "https://orcid.org/0000-0002-8053-9692"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I122411786",
+          "display_name": "California Institute of Technology",
+          "ror": "https://ror.org/05dxps055",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I122411786"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ralph Adolphs",
+      "raw_affiliation_strings": [
+        "Division of Humanities and Social Sciences, California Institute of Technology, Pasadena, CA 91125, USA. radolphs@hss.caltech.edu",
+        "Division of Humanities and Social Sciences, California Institute of Technology, Pasadena, CA, 91125, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Humanities and Social Sciences, California Institute of Technology, Pasadena, CA 91125, USA. radolphs@hss.caltech.edu",
+          "institution_ids": [
+            "https://openalex.org/I122411786"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Division of Humanities and Social Sciences, California Institute of Technology, Pasadena, CA, 91125, USA",
+          "institution_ids": [
+            "https://openalex.org/I122411786"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5009705401"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I122411786"
+  ],
+  "apc_list": {
+    "value": 6830,
+    "currency": "USD",
+    "value_usd": 6830
+  },
+  "apc_paid": null,
+  "fwci": 10.9678,
+  "has_fulltext": true,
+  "cited_by_count": 523,
+  "citation_normalized_percentile": {
+    "value": 0.98978197,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "23",
+    "issue": "2",
+    "first_page": "R79",
+    "last_page": "R93"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10448",
+    "display_name": "Memory and Neural Mechanisms",
+    "score": 0.9848999977111816,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2805",
+      "display_name": "Cognitive Neuroscience"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/28",
+      "display_name": "Neuroscience"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10448",
+      "display_name": "Memory and Neural Mechanisms",
+      "score": 0.9848999977111816,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11541",
+      "display_name": "Neuroendocrine regulation and behavior",
+      "score": 0.9592000246047974,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11118",
+      "display_name": "Evolutionary Psychology and Human Behavior",
+      "score": 0.9269000291824341,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.9439496397972107
+    },
+    {
+      "id": "https://openalex.org/keywords/evolutionary-biology",
+      "display_name": "Evolutionary biology",
+      "score": 0.3486509919166565
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.3390599489212036
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.9439496397972107
+    },
+    {
+      "id": "https://openalex.org/C78458016",
+      "wikidata": "https://www.wikidata.org/wiki/Q840400",
+      "display_name": "Evolutionary biology",
+      "level": 1,
+      "score": 0.3486509919166565
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.3390599489212036
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000220",
+      "descriptor_name": "Adaptation, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000220",
+      "descriptor_name": "Adaptation, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000220",
+      "descriptor_name": "Adaptation, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000679",
+      "descriptor_name": "Amygdala",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000679",
+      "descriptor_name": "Amygdala",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000679",
+      "descriptor_name": "Amygdala",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001522",
+      "descriptor_name": "Behavior, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001522",
+      "descriptor_name": "Behavior, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001522",
+      "descriptor_name": "Behavior, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001525",
+      "descriptor_name": "Behavioral Sciences",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001525",
+      "descriptor_name": "Behavioral Sciences",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001525",
+      "descriptor_name": "Behavioral Sciences",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003243",
+      "descriptor_name": "Consciousness",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003243",
+      "descriptor_name": "Consciousness",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003243",
+      "descriptor_name": "Consciousness",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005239",
+      "descriptor_name": "Fear",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005239",
+      "descriptor_name": "Fear",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005239",
+      "descriptor_name": "Fear",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.cub.2012.11.055",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.cub.2012.11.055",
+      "pdf_url": "http://www.cell.com/article/S0960982212014352/pdf",
+      "source": {
+        "id": "https://openalex.org/S128425624",
+        "display_name": "Current Biology",
+        "issn_l": "0960-9822",
+        "issn": [
+          "0960-9822",
+          "1879-0445"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Current Biology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:23347946",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/23347946",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Current biology : CB",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:authors.library.caltech.edu:36710",
+      "is_oa": true,
+      "landing_page_url": "https://authors.library.caltech.edu/36710/",
+      "pdf_url": "https://resolver.caltech.edu/CaltechAUTHORS:20130131-105339980",
+      "source": {
+        "id": "https://openalex.org/S4306402161",
+        "display_name": "CaltechAUTHORS (California Institute of Technology)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I122411786",
+        "host_organization_name": "California Institute of Technology",
+        "host_organization_lineage": [
+          "https://openalex.org/I122411786"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:2878880",
+      "is_oa": false,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3595162",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.cub.2012.11.055",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.cub.2012.11.055",
+    "pdf_url": "http://www.cell.com/article/S0960982212014352/pdf",
+    "source": {
+      "id": "https://openalex.org/S128425624",
+      "display_name": "Current Biology",
+      "issn_l": "0960-9822",
+      "issn": [
+        "0960-9822",
+        "1879-0445"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Current Biology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/15",
+      "display_name": "Life in Land",
+      "score": 0.44999998807907104
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320337346",
+      "display_name": "National Institute of Mental Health",
+      "ror": "https://ror.org/04xeg9z08"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2068200449.pdf"
+  },
+  "referenced_works_count": 167,
+  "referenced_works": [
+    "https://openalex.org/W40043294",
+    "https://openalex.org/W102400708",
+    "https://openalex.org/W347095196",
+    "https://openalex.org/W565121618",
+    "https://openalex.org/W575369285",
+    "https://openalex.org/W624134615",
+    "https://openalex.org/W636145102",
+    "https://openalex.org/W1487015583",
+    "https://openalex.org/W1510044868",
+    "https://openalex.org/W1525298240",
+    "https://openalex.org/W1562182300",
+    "https://openalex.org/W1562567640",
+    "https://openalex.org/W1586767291",
+    "https://openalex.org/W1594233936",
+    "https://openalex.org/W1634162372",
+    "https://openalex.org/W1714490037",
+    "https://openalex.org/W1789721553",
+    "https://openalex.org/W1799123644",
+    "https://openalex.org/W1963949534",
+    "https://openalex.org/W1964196268",
+    "https://openalex.org/W1964679842",
+    "https://openalex.org/W1965865206",
+    "https://openalex.org/W1966140331",
+    "https://openalex.org/W1966797434",
+    "https://openalex.org/W1967318820",
+    "https://openalex.org/W1971291914",
+    "https://openalex.org/W1971687303",
+    "https://openalex.org/W1972489844",
+    "https://openalex.org/W1972685191",
+    "https://openalex.org/W1975304982",
+    "https://openalex.org/W1975935425",
+    "https://openalex.org/W1977593923",
+    "https://openalex.org/W1978155128",
+    "https://openalex.org/W1979054006",
+    "https://openalex.org/W1980683585",
+    "https://openalex.org/W1981044491",
+    "https://openalex.org/W1984186949",
+    "https://openalex.org/W1987793892",
+    "https://openalex.org/W1994389924",
+    "https://openalex.org/W1994484302",
+    "https://openalex.org/W1994756080",
+    "https://openalex.org/W1996190920",
+    "https://openalex.org/W1998054262",
+    "https://openalex.org/W1998128125",
+    "https://openalex.org/W1999012661",
+    "https://openalex.org/W2000843844",
+    "https://openalex.org/W2006628933",
+    "https://openalex.org/W2007062612",
+    "https://openalex.org/W2009342550",
+    "https://openalex.org/W2009375902",
+    "https://openalex.org/W2012563519",
+    "https://openalex.org/W2013500884",
+    "https://openalex.org/W2014671181",
+    "https://openalex.org/W2015137582",
+    "https://openalex.org/W2015780545",
+    "https://openalex.org/W2015813999",
+    "https://openalex.org/W2020461442",
+    "https://openalex.org/W2022068631",
+    "https://openalex.org/W2023645850",
+    "https://openalex.org/W2024504055",
+    "https://openalex.org/W2024988985",
+    "https://openalex.org/W2026202566",
+    "https://openalex.org/W2027991937",
+    "https://openalex.org/W2030912026",
+    "https://openalex.org/W2032119183",
+    "https://openalex.org/W2032345561",
+    "https://openalex.org/W2034326650",
+    "https://openalex.org/W2035518691",
+    "https://openalex.org/W2035630779",
+    "https://openalex.org/W2035878636",
+    "https://openalex.org/W2039670967",
+    "https://openalex.org/W2050506045",
+    "https://openalex.org/W2050942025",
+    "https://openalex.org/W2052869567",
+    "https://openalex.org/W2059420659",
+    "https://openalex.org/W2060978874",
+    "https://openalex.org/W2061149379",
+    "https://openalex.org/W2073763059",
+    "https://openalex.org/W2074716497",
+    "https://openalex.org/W2076368132",
+    "https://openalex.org/W2083433785",
+    "https://openalex.org/W2086146798",
+    "https://openalex.org/W2086601414",
+    "https://openalex.org/W2087052199",
+    "https://openalex.org/W2087256402",
+    "https://openalex.org/W2088226858",
+    "https://openalex.org/W2090082878",
+    "https://openalex.org/W2090654839",
+    "https://openalex.org/W2092376180",
+    "https://openalex.org/W2092814050",
+    "https://openalex.org/W2092998846",
+    "https://openalex.org/W2094052846",
+    "https://openalex.org/W2094155147",
+    "https://openalex.org/W2097587816",
+    "https://openalex.org/W2100172973",
+    "https://openalex.org/W2103661556",
+    "https://openalex.org/W2105931454",
+    "https://openalex.org/W2107056293",
+    "https://openalex.org/W2107069925",
+    "https://openalex.org/W2107561257",
+    "https://openalex.org/W2108845151",
+    "https://openalex.org/W2109586655",
+    "https://openalex.org/W2109661582",
+    "https://openalex.org/W2110208797",
+    "https://openalex.org/W2110957653",
+    "https://openalex.org/W2111768113",
+    "https://openalex.org/W2112589391",
+    "https://openalex.org/W2115084515",
+    "https://openalex.org/W2117958894",
+    "https://openalex.org/W2118669892",
+    "https://openalex.org/W2121735828",
+    "https://openalex.org/W2122384242",
+    "https://openalex.org/W2122660499",
+    "https://openalex.org/W2123442817",
+    "https://openalex.org/W2125375538",
+    "https://openalex.org/W2126398976",
+    "https://openalex.org/W2126866281",
+    "https://openalex.org/W2127099931",
+    "https://openalex.org/W2127501699",
+    "https://openalex.org/W2129028793",
+    "https://openalex.org/W2129134806",
+    "https://openalex.org/W2132915420",
+    "https://openalex.org/W2133497932",
+    "https://openalex.org/W2134031328",
+    "https://openalex.org/W2134122056",
+    "https://openalex.org/W2137155095",
+    "https://openalex.org/W2140535904",
+    "https://openalex.org/W2141050240",
+    "https://openalex.org/W2142823391",
+    "https://openalex.org/W2143184913",
+    "https://openalex.org/W2144079442",
+    "https://openalex.org/W2145665826",
+    "https://openalex.org/W2146948477",
+    "https://openalex.org/W2151422895",
+    "https://openalex.org/W2151630600",
+    "https://openalex.org/W2152676810",
+    "https://openalex.org/W2158553737",
+    "https://openalex.org/W2158935941",
+    "https://openalex.org/W2160547432",
+    "https://openalex.org/W2161364208",
+    "https://openalex.org/W2169473752",
+    "https://openalex.org/W2170684975",
+    "https://openalex.org/W2171586605",
+    "https://openalex.org/W2281488167",
+    "https://openalex.org/W2316801295",
+    "https://openalex.org/W2506848386",
+    "https://openalex.org/W2548251506",
+    "https://openalex.org/W2795620863",
+    "https://openalex.org/W2799309725",
+    "https://openalex.org/W2802495650",
+    "https://openalex.org/W2904427799",
+    "https://openalex.org/W3019958835",
+    "https://openalex.org/W3137861108",
+    "https://openalex.org/W4211018604",
+    "https://openalex.org/W4240196784",
+    "https://openalex.org/W4248432763",
+    "https://openalex.org/W4252891102",
+    "https://openalex.org/W4313371768",
+    "https://openalex.org/W4388250061",
+    "https://openalex.org/W4388252364",
+    "https://openalex.org/W6604163110",
+    "https://openalex.org/W6638035981",
+    "https://openalex.org/W6695169497",
+    "https://openalex.org/W6724819558",
+    "https://openalex.org/W6757079393",
+    "https://openalex.org/W6776926429",
+    "https://openalex.org/W6857874751"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2082860237",
+    "https://openalex.org/W2119695867",
+    "https://openalex.org/W2130076355",
+    "https://openalex.org/W1990804418",
+    "https://openalex.org/W1993764875",
+    "https://openalex.org/W2046158694",
+    "https://openalex.org/W2788277189",
+    "https://openalex.org/W2013243191",
+    "https://openalex.org/W2061542922"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 65
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 63
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 59
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 52
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 58
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 45
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 37
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 30
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 20
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2026-06-02T09:04:35.204637",
+  "created_date": "2025-10-10T00:00:00"
+}

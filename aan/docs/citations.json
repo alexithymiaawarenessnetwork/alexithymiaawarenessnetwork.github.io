@@ -276,6 +276,31 @@
       ]
     },
     {
+      "id": "luminet_nielson_ridout_2021_integrative_review",
+      "title": "Cognitive-emotional processing in alexithymia: an integrative review",
+      "authors": [
+        "Olivier Luminet",
+        "Kristy A. Nielson",
+        "Nathan Ridout"
+      ],
+      "year": 2021,
+      "type": "paper",
+      "description": "Integrative review defining alexithymia as a multifaceted personality construct involving difficulty identifying feelings, difficulty describing feelings, and externally oriented thinking.",
+      "journal": "Cognition and Emotion",
+      "volume": "35",
+      "issue": "3",
+      "pages": "449-487",
+      "doi": "10.1080/02699931.2021.1908231",
+      "url": "https://doi.org/10.1080/02699931.2021.1908231",
+      "tags": [
+        "alexithymia",
+        "integrative review",
+        "definition",
+        "cognition",
+        "emotion"
+      ]
+    },
+    {
       "id": "bermond_vorst_2013_bvaq",
       "title": "Validity and reliability of the Bermond–Vorst Alexithymia Questionnaire",
       "authors": [
@@ -570,6 +595,268 @@
         "BVAQ",
         "self-report",
         "machine learning"
+      ]
+    },
+    {
+      "id": "ekman_1992_basic_emotions",
+      "title": "An argument for basic emotions",
+      "authors": [
+        "Paul Ekman"
+      ],
+      "year": 1992,
+      "type": "paper",
+      "description": "Classic statement of basic emotion theory arguing that emotions evolved for adaptive life tasks and have both shared and distinctive features.",
+      "journal": "Cognition & Emotion",
+      "volume": "6",
+      "issue": "3-4",
+      "pages": "169-200",
+      "doi": "10.1080/02699939208411068",
+      "url": "https://doi.org/10.1080/02699939208411068",
+      "tags": [
+        "emotion theory",
+        "basic emotions",
+        "ekman",
+        "foundational"
+      ]
+    },
+    {
+      "id": "izard_2007_basic_emotions_schemas",
+      "title": "Basic Emotions, Natural Kinds, Emotion Schemas, and a New Paradigm",
+      "authors": [
+        "Carroll E. Izard"
+      ],
+      "year": 2007,
+      "type": "paper",
+      "description": "Nuanced defense of basic emotions that distinguishes biologically basic emotions from broader emotion schemas shaped by cognition and development.",
+      "journal": "Perspectives on Psychological Science",
+      "volume": "2",
+      "issue": "3",
+      "pages": "260-280",
+      "doi": "10.1111/j.1745-6916.2007.00044.x",
+      "url": "https://doi.org/10.1111/j.1745-6916.2007.00044.x",
+      "tags": [
+        "emotion theory",
+        "basic emotions",
+        "emotion schemas",
+        "izard"
+      ]
+    },
+    {
+      "id": "barrett_2016_constructed_emotion",
+      "title": "The theory of constructed emotion: an active inference account of interoception and categorization",
+      "authors": [
+        "Lisa Feldman Barrett"
+      ],
+      "year": 2016,
+      "type": "paper",
+      "description": "Major statement of the theory of constructed emotion, framing emotion as arising from predictive regulation, interoception, and categorization rather than fixed emotion modules.",
+      "journal": "Social Cognitive and Affective Neuroscience",
+      "volume": "12",
+      "issue": "1",
+      "pages": "1-23",
+      "doi": "10.1093/scan/nsw154",
+      "url": "https://doi.org/10.1093/scan/nsw154",
+      "tags": [
+        "emotion theory",
+        "constructed emotion",
+        "barrett",
+        "interoception",
+        "prediction"
+      ]
+    },
+    {
+      "id": "barrett_2025_more_than_a_feeling",
+      "title": "The Theory of Constructed Emotion: More Than a Feeling",
+      "authors": [
+        "Lisa Feldman Barrett",
+        "Shir Atzil",
+        "Eliza Bliss-Moreau",
+        "Lorena Chanes",
+        "Maria Gendron",
+        "Katie Hoemann",
+        "Yuta Katsumi",
+        "Ian R. Kleckner",
+        "Kristen A. Lindquist",
+        "Karen S. Quigley",
+        "Ajay B. Satpute",
+        "Eli Sennesh",
+        "Clare Shaffer",
+        "Jordan E. Theriault",
+        "Michele M. Tugade",
+        "Christiana Westlin"
+      ],
+      "year": 2025,
+      "type": "paper",
+      "description": "Recent article arguing that basic emotion theory and the theory of constructed emotion rest on incompatible assumptions and should not be collapsed into a single compromise view.",
+      "journal": "Perspectives on Psychological Science",
+      "doi": "10.1177/17456916251319045",
+      "url": "https://doi.org/10.1177/17456916251319045",
+      "tags": [
+        "emotion theory",
+        "constructed emotion",
+        "barrett",
+        "theory dispute",
+        "debate"
+      ]
+    },
+    {
+      "id": "lindquist_2012_brain_basis_emotion",
+      "title": "The brain basis of emotion: A meta-analytic review",
+      "authors": [
+        "Kristen A. Lindquist",
+        "Tor D. Wager",
+        "Hedy Kober",
+        "Eliza Bliss-Moreau",
+        "Lisa Feldman Barrett"
+      ],
+      "year": 2012,
+      "type": "paper",
+      "description": "Meta-analytic review comparing locationist and psychological constructionist accounts of emotion and finding little support for simple one-region/one-emotion mappings.",
+      "journal": "Behavioral and Brain Sciences",
+      "volume": "35",
+      "issue": "3",
+      "pages": "121-143",
+      "doi": "10.1017/S0140525X11000446",
+      "url": "https://doi.org/10.1017/S0140525X11000446",
+      "tags": [
+        "emotion theory",
+        "meta-analysis",
+        "constructionism",
+        "neuroscience",
+        "lindquist"
+      ]
+    },
+    {
+      "id": "russell_2003_core_affect",
+      "title": "Core affect and the psychological construction of emotion",
+      "authors": [
+        "James A. Russell"
+      ],
+      "year": 2003,
+      "type": "paper",
+      "description": "Influential psychological construction account proposing core affect as a basic ingredient of emotion, mood, and other affective states.",
+      "journal": "Psychological Review",
+      "volume": "110",
+      "issue": "1",
+      "pages": "145-172",
+      "doi": "10.1037/0033-295X.110.1.145",
+      "url": "https://doi.org/10.1037/0033-295X.110.1.145",
+      "tags": [
+        "emotion theory",
+        "core affect",
+        "russell",
+        "psychological construction"
+      ]
+    },
+    {
+      "id": "russell_2009_core_affect_construction",
+      "title": "Emotion, core affect, and psychological construction",
+      "authors": [
+        "James A. Russell"
+      ],
+      "year": 2009,
+      "type": "paper",
+      "description": "Review article extending the core affect framework and arguing for a broader psychological construction approach to emotion science.",
+      "journal": "Cognition & Emotion",
+      "volume": "23",
+      "issue": "7",
+      "pages": "1259-1283",
+      "doi": "10.1080/02699930902809375",
+      "url": "https://doi.org/10.1080/02699930902809375",
+      "tags": [
+        "emotion theory",
+        "core affect",
+        "russell",
+        "psychological construction"
+      ]
+    },
+    {
+      "id": "scherer_2001_multilevel_sequential_checking",
+      "title": "Appraisal Considered as a Process of Multilevel Sequential Checking",
+      "authors": [
+        "Klaus R. Scherer"
+      ],
+      "year": 2001,
+      "type": "chapter",
+      "description": "Foundational appraisal-theory chapter describing the component process model and the sequential checking account of emotion differentiation.",
+      "publisher": "Oxford University Press",
+      "book_title": "Appraisal Processes in Emotion: Theory, Methods, Research",
+      "doi": "10.1093/oso/9780195130072.003.0005",
+      "url": "https://doi.org/10.1093/oso/9780195130072.003.0005",
+      "tags": [
+        "emotion theory",
+        "appraisal",
+        "scherer",
+        "component process model"
+      ]
+    },
+    {
+      "id": "scherer_moors_2018_emotion_process",
+      "title": "The Emotion Process: Event Appraisal and Component Differentiation",
+      "authors": [
+        "Klaus R. Scherer",
+        "Agnes Moors"
+      ],
+      "year": 2018,
+      "type": "paper",
+      "description": "Review of appraisal as an emotion process, focusing on how evaluation of events leads to differentiated emotion components and action tendencies.",
+      "journal": "Annual Review of Psychology",
+      "volume": "70",
+      "pages": "719-745",
+      "doi": "10.1146/annurev-psych-122216-011854",
+      "url": "https://doi.org/10.1146/annurev-psych-122216-011854",
+      "tags": [
+        "emotion theory",
+        "appraisal",
+        "scherer",
+        "moors",
+        "review"
+      ]
+    },
+    {
+      "id": "davis_montag_2019_pankseppian_affective_neuroscience",
+      "title": "Selected Principles of Pankseppian Affective Neuroscience",
+      "authors": [
+        "Kenneth L. Davis",
+        "Christian Montag"
+      ],
+      "year": 2019,
+      "type": "paper",
+      "description": "Overview of Pankseppian affective neuroscience and its seven primary emotional systems, emphasizing cross-species brain research and deep motivational circuitry.",
+      "journal": "Frontiers in Neuroscience",
+      "volume": "12",
+      "pages": "1025",
+      "doi": "10.3389/fnins.2018.01025",
+      "url": "https://doi.org/10.3389/fnins.2018.01025",
+      "tags": [
+        "emotion theory",
+        "affective neuroscience",
+        "panksepp",
+        "cross-species",
+        "neuroscience"
+      ]
+    },
+    {
+      "id": "adolphs_2013_biology_of_fear",
+      "title": "The Biology of Fear",
+      "authors": [
+        "Ralph Adolphs"
+      ],
+      "year": 2013,
+      "type": "paper",
+      "description": "A focused biological treatment of fear that illustrates how one emotion category can be investigated with greater mechanistic precision than broad folk taxonomies allow.",
+      "journal": "Current Biology",
+      "volume": "23",
+      "issue": "2",
+      "pages": "R79-R93",
+      "doi": "10.1016/j.cub.2012.11.055",
+      "url": "https://doi.org/10.1016/j.cub.2012.11.055",
+      "tags": [
+        "emotion theory",
+        "fear",
+        "adolphs",
+        "biology",
+        "neuroscience"
       ]
     }
   ]

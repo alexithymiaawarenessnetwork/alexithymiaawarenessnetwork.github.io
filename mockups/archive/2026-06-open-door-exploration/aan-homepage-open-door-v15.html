@@ -1,0 +1,2073 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AAN Open Door — Homepage Mock v15</title>
+  <style>
+    :root {
+      --ink: #1F2430;
+      --muted: #5E6670;
+      --sage: #4E6A61;
+      --clay: #9A5B45;
+      --paper: #F6F1EA;
+      --surface: #FFFDFC;
+      --line: #D8CEC3;
+      --sage-tint: #E8EFEB;
+      --clay-tint: #F2E5DE;
+      --shadow: 0 18px 48px rgba(31, 36, 48, 0.08);
+      --button-primary: var(--sage);
+      --button-primary-hover: var(--ink);
+      --header-cta-start: #ffe38f;
+      --header-cta-mid: #f7ce68;
+      --header-cta-end: #f5c85f;
+      --header-cta-shadow: rgba(223, 171, 59, 0.26);
+      --header-cta-text-shadow: 0 1px 1px rgba(120, 82, 18, 0.28);
+      --header-cta-hover-start: color-mix(in srgb, var(--header-cta-start) 78%, white 22%);
+      --header-cta-hover-mid: color-mix(in srgb, var(--header-cta-mid) 88%, black 12%);
+      --header-cta-hover-end: color-mix(in srgb, var(--header-cta-end) 92%, black 8%);
+      --header-cta-hover-shadow: color-mix(in srgb, var(--header-cta-shadow) 82%, black 18%);
+      --page-backdrop-top: #fbf6ef;
+      --page-backdrop-bottom: #f7f1ea;
+      --page-radial-glow: rgba(255,255,255,0.72);
+      --hero-overlay-top: rgba(255,255,255,0.08);
+      --hero-overlay-mid: rgba(246, 241, 234, 0.28);
+      --hero-overlay-strong: rgba(246, 241, 234, 0.74);
+      --hero-side-left: rgba(246, 241, 234, 0.88);
+      --hero-side-mid: rgba(246, 241, 234, 0.56);
+      --hero-side-soft: rgba(246, 241, 234, 0.24);
+      --hero-side-right: rgba(246, 241, 234, 0.68);
+      --hero-sun: rgba(255, 221, 127, 0.28);
+      --hero-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wild_Garden_%28Unsplash%29.jpg/1920px-Wild_Garden_%28Unsplash%29.jpg");
+      --header-glass-top: rgba(255,255,255,0.22);
+      --header-glass-mid: rgba(243, 248, 255, 0.48);
+      --header-glass-bottom: rgba(246, 241, 234, 0.74);
+      --header-orb-left: rgba(255,255,255,0.84);
+      --header-orb-left-fade: rgba(255,255,255,0.34);
+      --header-orb-right: rgba(255,255,255,0.8);
+      --header-orb-right-fade: rgba(255,255,255,0.3);
+      --header-accent-top: rgba(99, 172, 228, 0.32);
+      --header-accent-mid: rgba(199, 223, 244, 0.14);
+      --header-accent-bottom: rgba(246, 241, 234, 0.18);
+      --header-image: url("https://upload.wikimedia.org/wikipedia/commons/d/dc/Trees_against_blue_sky_with_clouds.jpg");
+      --radius-sm: 8px;
+      --radius-md: 16px;
+      --radius-lg: 24px;
+      --radius-xl: 36px;
+      --radius-pill: 999px;
+      --space-1: 4px;
+      --space-2: 8px;
+      --space-3: 16px;
+      --space-4: 24px;
+      --space-5: 40px;
+      --space-6: 64px;
+      --space-7: 96px;
+      --max: 1180px;
+      --serif: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+      --sans: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    html {
+      scroll-behavior: smooth;
+      background: var(--paper);
+    }
+
+    body {
+      margin: 0;
+      font-family: var(--sans);
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, var(--page-radial-glow), transparent 34%),
+        linear-gradient(180deg, var(--page-backdrop-top) 0%, var(--paper) 28%, var(--page-backdrop-bottom) 100%);
+      line-height: 1.6;
+      text-rendering: optimizeLegibility;
+      transition: background 220ms ease, color 220ms ease;
+    }
+
+    img { max-width: 100%; display: block; }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    a:focus-visible,
+    button:focus-visible {
+      outline: 3px solid color-mix(in srgb, var(--sage) 65%, white 35%);
+      outline-offset: 3px;
+      border-radius: 10px;
+    }
+
+    .page-shell {
+      position: relative;
+      isolation: isolate;
+      overflow: clip;
+    }
+
+    .page-shell::before {
+      content: "";
+      position: absolute;
+      inset: 0 0 auto 0;
+      height: min(720px, 66vw);
+      background:
+        linear-gradient(180deg, var(--hero-overlay-top) 0%, var(--hero-overlay-mid) 16%, var(--hero-overlay-strong) 70%, var(--paper) 100%),
+        linear-gradient(90deg, var(--hero-side-left) 0%, var(--hero-side-mid) 34%, var(--hero-side-soft) 68%, var(--hero-side-right) 100%),
+        radial-gradient(circle at 82% 18%, var(--hero-sun), rgba(255, 221, 127, 0) 24%),
+        var(--hero-image) center 42% / cover no-repeat;
+      pointer-events: none;
+      z-index: 0;
+      transition: background 220ms ease;
+    }
+
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      isolation: isolate;
+      backdrop-filter: blur(18px);
+      background:
+        linear-gradient(180deg, var(--header-glass-top), var(--header-glass-mid) 46%, var(--header-glass-bottom) 100%),
+        radial-gradient(circle at 22% 26%, var(--header-orb-left) 0%, var(--header-orb-left-fade) 16%, rgba(255,255,255,0) 28%),
+        radial-gradient(circle at 70% 18%, var(--header-orb-right) 0%, var(--header-orb-right-fade) 15%, rgba(255,255,255,0) 27%),
+        linear-gradient(180deg, var(--header-accent-top), var(--header-accent-mid) 52%, var(--header-accent-bottom) 100%),
+        var(--header-image) center 18% / cover no-repeat;
+      border-bottom: 1px solid rgba(216, 206, 195, 0.8);
+      transition: background 220ms ease, border-color 220ms ease;
+    }
+
+    .header-inner,
+    .section-inner,
+    .footer-inner {
+      width: min(var(--max), calc(100% - 40px));
+      margin: 0 auto;
+      position: relative;
+      z-index: 1;
+    }
+
+    .header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: var(--space-4);
+      min-height: 78px;
+    }
+
+    .brand {
+      display: block;
+    }
+
+    .brand-title {
+      font-size: 1rem;
+      font-weight: 600;
+    }
+
+    .header-nav {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      color: var(--muted);
+      font-size: 0.96rem;
+    }
+
+    .header-nav a:hover {
+      color: var(--ink);
+    }
+
+    .header-cta {
+      padding: 13px 18px;
+      border-radius: var(--radius-pill);
+      background: linear-gradient(180deg, var(--header-cta-start) 0%, var(--header-cta-mid) 42%, var(--header-cta-end) 100%);
+      color: white;
+      font-weight: 700;
+      text-shadow: var(--header-cta-text-shadow);
+      box-shadow: 0 16px 34px var(--header-cta-shadow);
+      border: 1px solid rgba(255,255,255,0.66);
+    }
+
+    .header-cta:hover {
+      background: linear-gradient(180deg, var(--header-cta-hover-start) 0%, var(--header-cta-hover-mid) 42%, var(--header-cta-hover-end) 100%);
+      color: white;
+      box-shadow: 0 18px 38px var(--header-cta-hover-shadow);
+    }
+
+    main {
+      display: grid;
+      gap: var(--space-7);
+      padding-bottom: var(--space-7);
+    }
+
+    .hero {
+      padding-top: 38px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .hero-layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1.08fr) minmax(320px, 0.92fr);
+      gap: clamp(28px, 4vw, 56px);
+      align-items: center;
+      padding: 26px 0 0;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 14px;
+      border-radius: var(--radius-pill);
+      background: rgba(255,255,255,0.66);
+      border: 1px solid rgba(216, 206, 195, 0.9);
+      color: var(--muted);
+      font-size: 0.77rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+
+    .hero-copy h1,
+    h2,
+    .quote-block,
+    .research-lede {
+      font-family: var(--serif);
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      text-wrap: pretty;
+    }
+
+    .hero-provisional-mark {
+      display: block;
+      width: clamp(96px, 10vw, 132px);
+      margin: 2px 0 14px;
+      color: color-mix(in srgb, var(--button-primary) 68%, var(--clay) 32%);
+    }
+
+    .hero-provisional-mark svg {
+      display: block;
+      width: 100%;
+      height: auto;
+      overflow: visible;
+    }
+
+    .hero-provisional-mark .mark-bridge {
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      opacity: 0.86;
+    }
+
+    .hero-provisional-mark .mark-thread {
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 2;
+      stroke-linecap: round;
+      opacity: 0.28;
+    }
+
+    .hero-provisional-mark .mark-pier,
+    .hero-provisional-mark .mark-dot {
+      fill: currentColor;
+    }
+
+    .hero-provisional-mark .mark-pier {
+      opacity: 0.18;
+    }
+
+    .hero-provisional-mark .mark-dot {
+      opacity: 0.44;
+    }
+
+    .hero-copy h1 {
+      margin: 12px 0 18px;
+      font-size: clamp(3rem, 5.55vw, 5rem);
+      line-height: 0.97;
+      max-width: 12ch;
+    }
+
+    .hero-copy p {
+      margin: 0;
+      max-width: 61ch;
+      font-size: 1.12rem;
+      color: color-mix(in srgb, var(--ink) 32%, var(--muted) 68%);
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-top: 28px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 48px;
+      padding: 13px 20px;
+      border-radius: var(--radius-pill);
+      font-weight: 600;
+      transition: transform 180ms ease, background-color 180ms ease, color 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+    }
+
+    .button:hover {
+      transform: translateY(-1px);
+    }
+
+    .button-primary {
+      background: var(--button-primary);
+      color: white;
+      box-shadow: var(--shadow);
+    }
+
+    .button-primary:hover {
+      background: var(--button-primary-hover);
+    }
+
+    .button-secondary {
+      background: rgba(255,255,255,0.6);
+      border: 1px solid rgba(216, 206, 195, 0.95);
+      color: var(--ink);
+    }
+
+    .hero-visual {
+      position: relative;
+      min-height: 630px;
+      display: grid;
+      align-content: start;
+      align-items: stretch;
+      gap: 16px;
+    }
+
+    .portrait-card {
+      position: relative;
+      border-radius: 34px;
+      overflow: hidden;
+      background: linear-gradient(145deg, #efe6d8 2%, #d7c3aa 30%, #9ca978 68%, #5f6958 100%);
+      min-height: 520px;
+      box-shadow: var(--shadow);
+      border: 1px solid rgba(255,255,255,0.56);
+    }
+
+    .portrait-card::before,
+    .portrait-card::after {
+      content: "";
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(6px);
+      opacity: 0.72;
+    }
+
+    .portrait-card::before {
+      width: 240px;
+      height: 240px;
+      left: 7%;
+      top: 10%;
+      background: radial-gradient(circle at 50% 50%, rgba(250,241,232,0.9), rgba(250,241,232,0));
+    }
+
+    .portrait-card::after {
+      width: 200px;
+      height: 200px;
+      right: 6%;
+      bottom: 14%;
+      background: radial-gradient(circle at 50% 50%, rgba(76,106,97,0.4), rgba(76,106,97,0));
+    }
+
+    .portrait-grid {
+      position: absolute;
+      inset: 0;
+      display: grid;
+      grid-template-columns: 1.12fr 0.82fr;
+      grid-template-rows: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+      padding: 12px;
+      min-height: 520px;
+      height: 100%;
+    }
+
+    .photo-panel {
+      border-radius: 24px;
+      position: relative;
+      overflow: hidden;
+      border: 1px solid rgba(255,255,255,0.48);
+      background: linear-gradient(140deg, rgba(241, 232, 221, 0.5), rgba(118, 101, 92, 0.5));
+      min-height: 0;
+    }
+
+    .photo-panel img {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: cover;
+      filter: saturate(0.97) contrast(1.02) brightness(0.99);
+      transform: scale(1.02);
+    }
+
+    .photo-panel::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(180deg, rgba(31,36,48,0.02) 0%, rgba(31,36,48,0.10) 100%),
+        linear-gradient(160deg, rgba(255, 239, 201, 0.20) 0%, rgba(244, 229, 214, 0) 44%);
+      pointer-events: none;
+    }
+
+    .photo-panel.large {
+      grid-row: 1 / span 2;
+      min-height: 0;
+    }
+
+    .photo-panel.small.one {
+      background: linear-gradient(135deg, #eadbce 0%, #cdb5a4 32%, #8f786f 100%);
+    }
+
+    .photo-panel.small.two {
+      background: linear-gradient(135deg, #d4cec5 0%, #aeb7ac 38%, #6c756d 100%);
+    }
+
+    .photo-panel.large img {
+      object-position: center 40%;
+    }
+
+    .photo-panel.small.one img {
+      object-position: center 52%;
+      filter: saturate(0.98) contrast(1.02) brightness(1.12);
+    }
+
+    .photo-panel.small.two img {
+      object-position: center 28%;
+    }
+
+    .panel-label {
+      position: absolute;
+      left: 14px;
+      right: 14px;
+      bottom: 14px;
+      padding: 12px 13px;
+      border-radius: 18px;
+      background: rgba(255, 253, 252, 0.82);
+      color: var(--ink);
+      font-size: 0.88rem;
+      line-height: 1.35;
+      backdrop-filter: blur(12px);
+    }
+
+    .hero-note {
+      position: static;
+      width: min(360px, 100%);
+      justify-self: end;
+      border-radius: 22px;
+      background: rgba(255,255,255,0.82);
+      border: 1px solid rgba(216, 206, 195, 0.9);
+      padding: 20px;
+      box-shadow: 0 18px 50px rgba(31, 36, 48, 0.12);
+    }
+
+    .hero-note strong {
+      display: block;
+      font-size: 0.8rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--clay);
+      margin-bottom: 8px;
+    }
+
+    .hero-note p {
+      margin: 0;
+      font-size: 0.98rem;
+      color: var(--muted);
+    }
+
+    .hero-copy {
+      position: relative;
+      padding-right: 16px;
+      overflow: visible;
+    }
+
+    .hero-copy > *:not(.hero-motif) {
+      position: relative;
+      z-index: 1;
+    }
+
+    .hero-motif,
+    .section-motif,
+    .quote-motif {
+      pointer-events: none;
+      user-select: none;
+    }
+
+    .hero-motif img,
+    .section-motif img,
+    .quote-motif img {
+      width: 100%;
+      height: auto;
+      display: block;
+      filter: saturate(0.9) contrast(1.01);
+    }
+
+    .hero-motif {
+      position: absolute;
+      right: clamp(-28px, -2vw, -10px);
+      top: 392px;
+      z-index: 0;
+      width: min(310px, 48%);
+      margin: 0;
+      opacity: 0.56;
+      filter: saturate(0.96) contrast(1.08);
+      mix-blend-mode: multiply;
+      transform: rotate(-5deg);
+      pointer-events: none;
+    }
+
+    .hero-motif img {
+      width: 100%;
+      max-width: 100%;
+      margin: 0;
+    }
+
+    .section-inner.has-motif,
+    .quote-section,
+    .research-layout,
+    .support-main,
+    .support-side,
+    .research-copy,
+    .evidence-grid,
+    .editorial-stack,
+    .quote-block-wrap {
+      position: relative;
+    }
+
+    .support-side,
+    .support-main,
+    .research-copy,
+    .evidence-grid,
+    .editorial-stack,
+    .quote-block-wrap {
+      z-index: 1;
+    }
+
+    .pathways-divider {
+      width: min(50%, 420px);
+      margin: -4px 0 20px clamp(18%, 22vw, 220px);
+      opacity: 0.78;
+      filter: saturate(0.9);
+      mix-blend-mode: multiply;
+      transform: rotate(-2deg);
+    }
+
+    .support-motif {
+      position: absolute;
+      right: 18px;
+      bottom: 18px;
+      width: min(118px, 22%);
+      margin: 0;
+      opacity: 0.42;
+      align-self: auto;
+      justify-self: auto;
+      transform: none;
+      mix-blend-mode: multiply;
+      z-index: 0;
+    }
+
+    .quote-block-wrap {
+      min-height: 100%;
+      display: grid;
+      gap: 18px;
+      align-content: start;
+      padding-bottom: 24px;
+    }
+
+    .quote-motif {
+      position: absolute;
+      right: -10px;
+      bottom: 2px;
+      width: min(220px, 52%);
+      opacity: 0.34;
+      filter: saturate(0.84);
+      mix-blend-mode: multiply;
+      z-index: 0;
+    }
+
+    .research-motif {
+      width: min(74%, 320px);
+      opacity: 0.46;
+      filter: saturate(0.84);
+      margin: 14px 0 -2px auto;
+      transform: translateX(16px);
+      mix-blend-mode: multiply;
+      z-index: 0;
+    }
+
+    .section {
+      position: relative;
+    }
+
+    .section-scene {
+      isolation: isolate;
+      overflow: clip;
+      padding-block: 34px;
+      --section-accent: var(--sage);
+    }
+
+    .section-scene::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .section-scene > .section-inner {
+      position: relative;
+      z-index: 1;
+    }
+
+    .section-scene .section-heading .label,
+    .section-scene .pathway-link span,
+    .section-scene .resource-index,
+    .section-scene .trust-list li::before,
+    .section-scene .editorial-panel strong,
+    .section-scene .nature-accent strong,
+    .section-scene .evidence-card strong {
+      color: var(--section-accent);
+    }
+
+    .section-scene .pathway-card,
+    .section-scene .resource-card,
+    .section-scene .trust-card,
+    .section-scene .evidence-card,
+    .section-scene .editorial-panel,
+    .section-scene .nature-accent,
+    .section-scene .quote-block,
+    .section-scene .support-main {
+      border-color: rgba(255,255,255,0.76);
+      box-shadow: 0 14px 36px rgba(31, 36, 48, 0.06);
+    }
+
+    .section-pathways {
+      --section-accent: var(--clay);
+    }
+
+    .section-pathways::before {
+      background:
+        linear-gradient(180deg, rgba(255, 249, 244, 0.94) 0%, rgba(250, 243, 236, 0.94) 100%),
+        linear-gradient(120deg, rgba(187, 102, 69, 0.18) 0%, rgba(255,255,255,0.05) 38%, rgba(255, 214, 119, 0.2) 100%),
+        url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Field_of_Flowers_%28Unsplash%29.jpg/1920px-Field_of_Flowers_%28Unsplash%29.jpg") center 58% / cover no-repeat;
+    }
+
+    .section-pathways .pathway-card {
+      background: rgba(255, 251, 248, 0.78);
+    }
+
+    .section-pathways .pathway-kicker {
+      background: rgba(255, 236, 224, 0.86);
+    }
+
+    .section-support {
+      --section-accent: var(--sage);
+    }
+
+    .section-support::before {
+      background:
+        linear-gradient(180deg, rgba(244, 250, 246, 0.9) 0%, rgba(251, 248, 243, 0.9) 100%),
+        linear-gradient(125deg, rgba(76, 106, 97, 0.18) 0%, rgba(255,255,255,0.06) 34%, rgba(245, 206, 112, 0.16) 100%),
+        url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/In_the_garden_%28Unsplash%29.jpg/1920px-In_the_garden_%28Unsplash%29.jpg") center 60% / cover no-repeat;
+    }
+
+    .section-support .support-main {
+      background: rgba(255, 253, 252, 0.58);
+    }
+
+    .section-support .resource-card,
+    .section-support .trust-card {
+      background: rgba(255,255,255,0.74);
+    }
+
+    .section-understanding {
+      --section-accent: #7d6070;
+    }
+
+    .section-understanding::before {
+      background:
+        linear-gradient(180deg, rgba(252, 247, 249, 0.92) 0%, rgba(249, 242, 238, 0.92) 100%),
+        linear-gradient(130deg, rgba(139, 98, 117, 0.18) 0%, rgba(255,255,255,0.08) 36%, rgba(246, 211, 130, 0.12) 100%),
+        url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pink_flowers_on_branches_%28Unsplash%29.jpg/1920px-Pink_flowers_on_branches_%28Unsplash%29.jpg") center 44% / cover no-repeat;
+    }
+
+    .section-understanding .quote-block {
+      background: rgba(248, 237, 239, 0.84);
+    }
+
+    .section-understanding .editorial-panel,
+    .section-understanding .nature-accent {
+      background: rgba(255, 253, 252, 0.76);
+    }
+
+    .section-research {
+      --section-accent: #516c82;
+    }
+
+    .section-research::before {
+      background:
+        linear-gradient(180deg, rgba(245, 249, 251, 0.92) 0%, rgba(247, 244, 238, 0.92) 100%),
+        linear-gradient(125deg, rgba(81, 108, 130, 0.16) 0%, rgba(255,255,255,0.08) 38%, rgba(151, 183, 145, 0.12) 100%),
+        url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flowers_-_2_%28Unsplash%29.jpg/1920px-Flowers_-_2_%28Unsplash%29.jpg") center 24% / cover no-repeat;
+    }
+
+    .section-research .evidence-card {
+      background: rgba(255,255,255,0.72);
+    }
+
+    .section-heading {
+      display: grid;
+      gap: 12px;
+      max-width: 65ch;
+      margin-bottom: 30px;
+    }
+
+    .section-heading .label {
+      color: var(--sage);
+      font-size: 0.76rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+
+    .section-heading h2 {
+      margin: 0;
+      font-size: clamp(2rem, 4vw, 3.15rem);
+      line-height: 1.03;
+    }
+
+    .section-heading p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 1.05rem;
+      max-width: 62ch;
+    }
+
+    .pathways-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .pathway-card,
+    .resource-card,
+    .trust-card,
+    .evidence-card {
+      background: rgba(255, 253, 252, 0.82);
+      border: 1px solid rgba(216, 206, 195, 0.9);
+      border-radius: 26px;
+      padding: 22px;
+      box-shadow: 0 8px 24px rgba(31, 36, 48, 0.04);
+    }
+
+    .pathway-card {
+      display: grid;
+      gap: 14px;
+      min-height: 260px;
+      transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+    }
+
+    .pathway-card:hover {
+      transform: translateY(-2px);
+      border-color: rgba(78, 106, 97, 0.35);
+      box-shadow: 0 18px 48px rgba(31, 36, 48, 0.08);
+    }
+
+    .pathway-kicker {
+      align-self: start;
+      width: fit-content;
+      padding: 8px 12px;
+      border-radius: var(--radius-pill);
+      background: var(--clay-tint);
+      color: var(--clay);
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 700;
+    }
+
+    .pathway-card h3,
+    .resource-card h3,
+    .trust-card h3 {
+      margin: 0;
+      font-family: var(--serif);
+      font-weight: 600;
+      letter-spacing: -0.015em;
+      line-height: 1.08;
+    }
+
+    .pathway-card h3 {
+      font-size: 1.55rem;
+    }
+
+    .pathway-card p,
+    .resource-card p,
+    .trust-card p,
+    .evidence-card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.98rem;
+    }
+
+    .pathway-link,
+    .resource-link {
+      margin-top: auto;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--ink);
+      font-weight: 600;
+    }
+
+    .pathway-link span,
+    .resource-link span {
+      color: var(--sage);
+      font-size: 1.05rem;
+      transform: translateY(-1px);
+    }
+
+    .support-band {
+      background: transparent;
+      border-block: 1px solid rgba(216, 206, 195, 0.9);
+      padding: 34px 0;
+    }
+
+    .support-layout {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 22px;
+      align-items: start;
+    }
+
+    .support-main {
+      background: rgba(255, 253, 252, 0.54);
+      border: 1px solid rgba(255,255,255,0.75);
+      border-radius: 30px;
+      padding: 28px;
+      display: grid;
+      gap: 18px;
+      overflow: hidden;
+    }
+
+    .support-main h2 {
+      margin: 0;
+      font-size: clamp(2rem, 4vw, 3rem);
+      line-height: 1.02;
+    }
+
+    .support-main > p {
+      margin: 0;
+      color: var(--muted);
+      max-width: 58ch;
+      font-size: 1.05rem;
+    }
+
+    .start-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .resource-card {
+      min-height: 164px;
+      display: grid;
+      gap: 12px;
+      background: rgba(255,255,255,0.68);
+    }
+
+    .resource-index {
+      color: var(--clay);
+      font-size: 0.82rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .support-side {
+      display: grid;
+      gap: 16px;
+    }
+
+    .trust-card {
+      background: rgba(255,255,255,0.72);
+      display: grid;
+      gap: 12px;
+    }
+
+    .trust-list {
+      list-style: none;
+      padding: 0;
+      margin: 2px 0 0;
+      display: grid;
+      gap: 10px;
+      color: var(--muted);
+      font-size: 0.98rem;
+    }
+
+    .trust-list li {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 10px;
+      align-items: start;
+    }
+
+    .trust-list li::before {
+      content: "•";
+      color: var(--sage);
+      font-weight: 900;
+    }
+
+    .quote-section {
+      display: grid;
+      grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
+      gap: 22px;
+      align-items: stretch;
+    }
+
+    .quote-block {
+      margin: 0;
+      font-size: clamp(1.8rem, 3vw, 2.55rem);
+      line-height: 1.12;
+      background: var(--clay-tint);
+      border-radius: 36px;
+      padding: 34px;
+      border: 1px solid rgba(216, 206, 195, 0.95);
+    }
+
+    .quote-caption {
+      display: block;
+      margin-top: 20px;
+      font-family: var(--sans);
+      color: var(--muted);
+      font-size: 0.98rem;
+      letter-spacing: 0;
+      font-weight: 500;
+    }
+
+    .editorial-stack {
+      display: grid;
+      gap: 16px;
+    }
+
+    .nature-accent {
+      margin: 2px 0 0;
+      border-radius: 26px;
+      overflow: hidden;
+      background: rgba(255, 253, 252, 0.84);
+      border: 1px solid rgba(216, 206, 195, 0.9);
+      box-shadow: 0 16px 36px rgba(31, 36, 48, 0.08);
+    }
+
+    .nature-accent img {
+      width: 100%;
+      height: 176px;
+      object-fit: cover;
+      object-position: center 48%;
+      filter: saturate(1.02) brightness(1.02);
+    }
+
+    .nature-accent figcaption {
+      padding: 14px 18px 16px;
+      font-size: 0.96rem;
+      color: var(--muted);
+      background: linear-gradient(180deg, rgba(232, 239, 235, 0.64), rgba(255, 253, 252, 0.94));
+    }
+
+    .nature-accent strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 0.8rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--sage);
+    }
+
+    .editorial-panel {
+      padding: 22px;
+      border-radius: 26px;
+      background: rgba(255, 253, 252, 0.72);
+      border: 1px solid rgba(216, 206, 195, 0.9);
+    }
+
+    .editorial-panel strong {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 0.8rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--sage);
+    }
+
+    .editorial-panel p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .research-layout {
+      display: grid;
+      grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+      gap: 24px;
+      align-items: start;
+    }
+
+    .research-copy {
+      display: grid;
+      gap: 14px;
+      align-content: start;
+    }
+
+    .research-copy h2 {
+      margin: 0;
+      font-size: clamp(2rem, 4vw, 3.05rem);
+      line-height: 1.03;
+    }
+
+    .research-lede {
+      margin: 0;
+      font-size: 1.08rem;
+      line-height: 1.62;
+      max-width: 58ch;
+    }
+
+    .research-photo-grid {
+      display: grid;
+      grid-template-columns: 1.25fr 0.95fr;
+      gap: 14px;
+      margin-top: 6px;
+    }
+
+    .research-photo-card {
+      margin: 0;
+      border-radius: 24px;
+      overflow: hidden;
+      border: 1px solid rgba(216, 206, 195, 0.9);
+      background: rgba(255,255,255,0.7);
+      box-shadow: 0 14px 34px rgba(31, 36, 48, 0.07);
+      min-height: 168px;
+    }
+
+    .research-photo-card img {
+      width: 100%;
+      height: 100%;
+      min-height: 168px;
+      object-fit: cover;
+      display: block;
+      filter: saturate(0.96) brightness(1.02);
+    }
+
+    .research-photo-stack {
+      display: grid;
+      gap: 14px;
+    }
+
+    .research-photo-card.tall {
+      min-height: 350px;
+    }
+
+    .research-photo-card.tall img {
+      filter: saturate(0.9) contrast(0.92) brightness(1.2);
+    }
+
+    .research-copy p {
+      margin: 0;
+      color: var(--muted);
+      max-width: 58ch;
+      font-size: 1.04rem;
+    }
+
+    .evidence-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+      align-content: start;
+    }
+
+    .evidence-card {
+      display: grid;
+      gap: 12px;
+      background: rgba(255,255,255,0.56);
+    }
+
+    .evidence-card strong {
+      font-size: 0.78rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--clay);
+    }
+
+    .evidence-card h3 {
+      margin: 0;
+      font-family: var(--serif);
+      font-size: 1.34rem;
+      font-weight: 600;
+      letter-spacing: -0.015em;
+      line-height: 1.1;
+    }
+
+    .evidence-card p {
+      font-size: 0.95rem;
+      line-height: 1.58;
+    }
+
+    .footer {
+      border-top: 1px solid rgba(216, 206, 195, 0.9);
+      padding: 28px 0 40px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .footer-inner {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: baseline;
+      gap: 14px 28px;
+    }
+
+    .footer-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 18px;
+    }
+
+    .mock-note {
+      margin-top: 8px;
+      font-size: 0.88rem;
+      color: var(--muted);
+    }
+
+    .theme-lab-layer {
+      position: fixed;
+      top: 96px;
+      right: 18px;
+      z-index: 40;
+      width: min(420px, calc(100vw - 24px));
+      pointer-events: none;
+    }
+
+    .theme-lab-dock {
+      display: grid;
+      gap: 12px;
+      pointer-events: auto;
+    }
+
+    .theme-lab-toggle {
+      appearance: none;
+      width: 100%;
+      border: 1px solid rgba(216, 206, 195, 0.9);
+      border-radius: 999px;
+      background: rgba(255,255,255,0.86);
+      box-shadow: 0 20px 42px rgba(31, 36, 48, 0.12);
+      backdrop-filter: blur(18px);
+      padding: 12px 14px 12px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      color: var(--ink);
+      cursor: pointer;
+      transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease, background-color 180ms ease;
+    }
+
+    .theme-lab-toggle:hover {
+      transform: translateY(-1px);
+      border-color: color-mix(in srgb, var(--sage) 44%, var(--line) 56%);
+      box-shadow: 0 24px 48px rgba(31, 36, 48, 0.16);
+    }
+
+    .theme-lab-toggle-copy {
+      min-width: 0;
+      display: grid;
+      gap: 2px;
+      text-align: left;
+    }
+
+    .theme-lab-toggle-label {
+      font-size: 0.72rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-weight: 700;
+    }
+
+    .theme-lab-toggle-copy strong {
+      font-size: 0.98rem;
+      font-weight: 700;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .theme-lab-toggle-action {
+      flex-shrink: 0;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 40px;
+      padding: 0 14px;
+      border-radius: 999px;
+      background: color-mix(in srgb, var(--paper) 84%, white 16%);
+      border: 1px solid rgba(216, 206, 195, 0.84);
+      color: var(--ink);
+      font-size: 0.82rem;
+      font-weight: 700;
+    }
+
+    .theme-lab-panel {
+      display: grid;
+      gap: 18px;
+      padding: 18px;
+      border-radius: 28px;
+      background: rgba(255,255,255,0.82);
+      border: 1px solid rgba(216, 206, 195, 0.88);
+      box-shadow: 0 22px 52px rgba(31, 36, 48, 0.14);
+      backdrop-filter: blur(22px);
+      max-height: calc(100vh - 104px);
+      overflow: auto;
+    }
+
+    body[data-theme-lab-state="closed"] .theme-lab-layer {
+      top: auto;
+      bottom: 18px;
+      width: min(138px, calc(100vw - 24px));
+    }
+
+    body[data-theme-lab-state="closed"] .theme-lab-toggle {
+      padding: 8px;
+      box-shadow: 0 14px 32px rgba(31, 36, 48, 0.13);
+    }
+
+    body[data-theme-lab-state="closed"] .theme-lab-toggle-copy {
+      display: none;
+    }
+
+    body[data-theme-lab-state="closed"] .theme-lab-toggle-action {
+      width: 100%;
+      min-height: 42px;
+      padding: 0 10px;
+    }
+
+    body[data-theme-lab-state="closed"] .theme-lab-panel {
+      display: none;
+    }
+
+    .theme-lab-panel h2 {
+      margin: 6px 0 8px;
+      font-size: clamp(1.5rem, 2.8vw, 2rem);
+      line-height: 1.06;
+    }
+
+    .theme-lab-panel p {
+      margin: 0;
+      color: var(--muted);
+      max-width: 42ch;
+      font-size: 0.95rem;
+    }
+
+    .theme-active-readout {
+      display: grid;
+      gap: 4px;
+      margin-top: 16px;
+      padding-top: 16px;
+      border-top: 1px solid rgba(216, 206, 195, 0.76);
+    }
+
+    .theme-active-readout strong {
+      font-size: 1rem;
+      color: var(--ink);
+    }
+
+    .theme-active-readout span {
+      color: var(--muted);
+      font-size: 0.94rem;
+    }
+
+    .theme-option-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+
+    .theme-option {
+      appearance: none;
+      width: 100%;
+      text-align: left;
+      border: 1px solid rgba(216, 206, 195, 0.86);
+      border-radius: 22px;
+      background: rgba(255,255,255,0.7);
+      padding: 14px 15px;
+      display: grid;
+      gap: 10px;
+      cursor: pointer;
+      color: var(--ink);
+      transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease, background-color 180ms ease;
+    }
+
+    .theme-option:hover {
+      transform: translateY(-1px);
+      border-color: color-mix(in srgb, var(--sage) 40%, var(--line) 60%);
+      box-shadow: 0 16px 28px rgba(31, 36, 48, 0.08);
+    }
+
+    .theme-option.is-active {
+      border-color: color-mix(in srgb, var(--sage) 62%, white 38%);
+      box-shadow: 0 18px 30px rgba(31, 36, 48, 0.12);
+      background: rgba(255,255,255,0.94);
+    }
+
+    .theme-option-name {
+      display: grid;
+      gap: 5px;
+    }
+
+    .theme-option-name strong {
+      font-size: 1rem;
+      font-weight: 700;
+    }
+
+    .theme-option-name span {
+      color: var(--muted);
+      font-size: 0.92rem;
+      line-height: 1.45;
+    }
+
+    .theme-swatches {
+      display: flex;
+      gap: 8px;
+    }
+
+    .theme-swatches span {
+      width: 24px;
+      height: 24px;
+      border-radius: 999px;
+      border: 1px solid rgba(31, 36, 48, 0.1);
+      background: var(--swatch-color);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.55);
+    }
+
+    .theme-tag {
+      justify-self: start;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: color-mix(in srgb, var(--paper) 78%, white 22%);
+      border: 1px solid rgba(216, 206, 195, 0.82);
+      color: var(--muted);
+      font-size: 0.74rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+
+    @media (max-width: 1080px) {
+      .pathways-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .hero-layout,
+      .support-layout,
+      .quote-section,
+      .research-layout {
+        grid-template-columns: 1fr;
+      }
+
+      .hero-visual {
+        min-height: 560px;
+      }
+
+      .portrait-card,
+      .portrait-grid {
+        min-height: 500px;
+      }
+
+      .hero-note {
+        justify-self: stretch;
+        width: auto;
+      }
+
+      .research-photo-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .research-photo-card.tall,
+      .research-photo-card img {
+        min-height: 220px;
+      }
+    }
+
+    @media (max-width: 780px) {
+      .theme-lab-layer {
+        top: 12px;
+        right: 12px;
+        left: 12px;
+        width: auto;
+      }
+
+      .theme-lab-panel {
+        padding: 16px;
+        border-radius: 24px;
+        max-height: calc(100vh - 92px);
+      }
+
+      .theme-lab-toggle {
+        padding: 11px 12px 11px 14px;
+      }
+
+      body[data-theme-lab-state="closed"] .theme-lab-layer {
+        top: auto;
+        right: 14px;
+        bottom: 14px;
+        left: auto;
+        width: 62px;
+      }
+
+      body[data-theme-lab-state="closed"] .theme-lab-toggle {
+        min-height: 54px;
+        border-radius: 999px;
+        padding: 6px;
+      }
+
+      body[data-theme-lab-state="closed"] .theme-lab-toggle-action {
+        min-height: 42px;
+        border-radius: 999px;
+        padding: 0;
+        font-size: 0;
+      }
+
+      body[data-theme-lab-state="closed"] .theme-lab-toggle-action::after {
+        content: "Theme";
+        font-size: 0.64rem;
+      }
+
+      .header-inner {
+        align-items: start;
+        padding: 16px 0;
+        min-height: 0;
+        flex-direction: column;
+      }
+
+      .header-nav {
+        flex-wrap: wrap;
+        gap: 14px;
+      }
+
+      .evidence-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .hero {
+        padding-top: 18px;
+      }
+
+      .hero-copy h1 {
+        max-width: 12ch;
+      }
+
+      .hero-provisional-mark {
+        width: 94px;
+        margin-bottom: 10px;
+      }
+
+
+      .hero-copy {
+        padding-right: 0;
+      }
+
+      .hero-motif {
+        top: 82px;
+        right: 0;
+        width: min(76vw, 300px);
+        opacity: 0.28;
+      }
+
+      .pathways-divider {
+        width: min(72vw, 280px);
+        margin: 2px auto 18px 0;
+      }
+
+      .support-motif {
+        width: min(124px, 34vw);
+        margin: 2px 0 8px auto;
+        transform: translateX(2px);
+      }
+
+      .quote-motif {
+        right: -4px;
+        bottom: 8px;
+        width: min(180px, 44vw);
+        opacity: 0.28;
+      }
+
+      .research-motif {
+        width: min(68vw, 260px);
+        margin: 10px 0 0 auto;
+        transform: none;
+      }
+
+      .section-scene {
+        padding-block: 26px;
+      }
+
+      .hero-visual {
+        min-height: 480px;
+      }
+
+      .portrait-card,
+      .portrait-grid {
+        min-height: 420px;
+      }
+
+      .portrait-grid {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1.35fr 0.7fr 0.7fr;
+      }
+
+      .photo-panel.large {
+        grid-row: auto;
+      }
+
+      .pathways-grid,
+      .start-grid {
+        grid-template-columns: 1fr;
+      }
+
+      main {
+        gap: 72px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after {
+        animation: none !important;
+        transition: none !important;
+      }
+    }
+  </style>
+</head>
+<body data-theme="open-door" data-theme-lab-state="open">
+  <div class="theme-lab-layer" aria-label="Theme lab overlay">
+    <div class="theme-lab-dock">
+      <button class="theme-lab-toggle" id="themeLabToggle" type="button" aria-controls="themeLabPanel" aria-expanded="true">
+        <span class="theme-lab-toggle-copy">
+          <span class="theme-lab-toggle-label">Theme lab</span>
+          <strong id="themeLabToggleTheme">Open Door</strong>
+        </span>
+        <span class="theme-lab-toggle-action" id="themeLabToggleAction">Hide menu</span>
+      </button>
+      <section class="theme-lab-panel" id="themeLabPanel" aria-labelledby="theme-lab-title">
+        <div>
+          <span class="label">Theme lab</span>
+          <h2 id="theme-lab-title">Try the homepage in different moods without pushing the page around.</h2>
+          <p>Same structure, same content, different trust signal and emotional temperature. Open Door still leads; the menu now floats as its own review layer.</p>
+          <div class="theme-active-readout" aria-live="polite">
+            <strong id="themeActiveName">Open Door</strong>
+            <span id="themeActiveDescription">Warm, humane, grounded — the current house direction.</span>
+          </div>
+        </div>
+        <div class="theme-option-grid" role="list" aria-label="Theme options">
+          <button class="theme-option is-active" type="button" data-theme-option="open-door">
+            <div class="theme-swatches" aria-hidden="true">
+              <span style="--swatch-color: #1F2430"></span>
+              <span style="--swatch-color: #4E6A61"></span>
+              <span style="--swatch-color: #9A5B45"></span>
+              <span style="--swatch-color: #F6F1EA"></span>
+            </div>
+            <div class="theme-option-name">
+              <strong>Open Door</strong>
+              <span>Warm nonprofit calm with editorial restraint and gentle reassurance.</span>
+            </div>
+            <span class="theme-tag">Current baseline</span>
+          </button>
+          <button class="theme-option" type="button" data-theme-option="harbor-mist">
+            <div class="theme-swatches" aria-hidden="true">
+              <span style="--swatch-color: #203246"></span>
+              <span style="--swatch-color: #547B86"></span>
+              <span style="--swatch-color: #D69200"></span>
+              <span style="--swatch-color: #EEF4F6"></span>
+            </div>
+            <div class="theme-option-name">
+              <strong>Harbor Mist</strong>
+              <span>Cooler and more civic-trust oriented, with a little more public-service clarity.</span>
+            </div>
+            <span class="theme-tag">Civic / calm</span>
+          </button>
+          <button class="theme-option" type="button" data-theme-option="sunlit-paper">
+            <div class="theme-swatches" aria-hidden="true">
+              <span style="--swatch-color: #2C241D"></span>
+              <span style="--swatch-color: #7A6A4F"></span>
+              <span style="--swatch-color: #B46A4E"></span>
+              <span style="--swatch-color: #FBF4EA"></span>
+            </div>
+            <div class="theme-option-name">
+              <strong>Sunlit Paper</strong>
+              <span>Warmer and more editorial, with softer contrast and a more reflective feel.</span>
+            </div>
+            <span class="theme-tag">Editorial / warm</span>
+          </button>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <div class="page-shell">
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="#top" aria-label="Alexithymia Awareness Network home">
+          <span class="brand-title">Alexithymia Awareness Network</span>
+        </a>
+        <nav class="header-nav" aria-label="Primary">
+          <a href="#understanding">Understanding</a>
+          <a href="#research">Research</a>
+          <a href="#support">Support</a>
+          <a class="header-cta" href="#pathways">Start here</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="top">
+  <section class="section hero">
+    <div class="section-inner hero-layout">
+      <div class="hero-copy">
+        <figure class="hero-provisional-mark" aria-hidden="true">
+          <svg viewBox="0 0 132 74" focusable="false">
+            <path class="mark-thread" d="M18 55 C38 43 51 38 66 38 C82 38 94 43 114 55" />
+            <path class="mark-bridge" d="M25 50 C44 22 87 22 107 50" />
+            <rect class="mark-pier" x="22" y="45" width="19" height="19" rx="9" />
+            <rect class="mark-pier" x="91" y="45" width="19" height="19" rx="9" />
+            <circle class="mark-dot" cx="66" cy="28" r="4" />
+          </svg>
+        </figure>
+        <h1>Bridging gaps</h1>
+        <p>
+          <strong>1 in 10 people are affected by Alexithymia.</strong> Whether you're here for yourself, someone you care about, or professional learning, start with the path that fits your question today.
+        </p>
+        <p style="margin-top: 14px;">
+          The Alexithymia Awareness Network (AAN) connects lived experience, plain-language information, credible research, and practical support around alexithymia — a personality trait that affects how people identify, understand, and express emotions.
+        </p>
+        <figure class="hero-motif" aria-hidden="true">
+          <img src="../../motifs/hero-relational-ribbon.svg" alt="">
+        </figure>
+      </div>
+
+      <div class="hero-visual" aria-label="Portrait collage">
+        <div class="portrait-card">
+          <div class="portrait-grid">
+            <div class="photo-panel large">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Smiling_woman_in_blanket_%28Unsplash%29.jpg/1280px-Smiling_woman_in_blanket_%28Unsplash%29.jpg" alt="A warm portrait of a smiling woman outdoors near foliage and yellow flowers">
+            </div>
+            <div class="photo-panel small one">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/A_woman_looking_out_the_window_%28Unsplash%29.jpg/1280px-A_woman_looking_out_the_window_%28Unsplash%29.jpg" alt="A person standing by a sunlit window in a quiet reflective moment">
+            </div>
+            <div class="photo-panel small two">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Young_people_in_conversation_%28Unsplash%29.jpg/1280px-Young_people_in_conversation_%28Unsplash%29.jpg" alt="Three people in warm conversation outdoors in a community setting">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-scene section-pathways" id="pathways">
+    <div class="section-inner has-motif">
+      <div class="section-heading">
+        <span class="label">Where to start</span>
+      </div>
+      <figure class="pathways-divider" aria-hidden="true">
+        <img src="../../motifs/pathways-divider.svg" alt="">
+      </figure>
+      <div class="pathways-grid">
+        <article class="pathway-card">
+          <span class="pathway-kicker">For yourself or someone you care about</span>
+          <h3>Understand alexithymia in plain language.</h3>
+          <p>Start with common questions, core traits, related conditions, and context on assessment and support without treating screening tools as diagnoses.</p>
+          <a class="pathway-link" href="../../../docs/faq/index.html">Start with understanding <span>→</span></a>
+        </article>
+        <article class="pathway-card">
+          <span class="pathway-kicker">For support and care questions</span>
+          <h3>Find support options without pressure.</h3>
+          <p>Move at your own pace through urgent help, therapist directories, family and relationship guidance, peer communities, workplace rights, and student resources.</p>
+          <a class="pathway-link" href="../../../docs/support/index.html">Find support options <span>→</span></a>
+        </article>
+        <article class="pathway-card">
+          <span class="pathway-kicker">For professional or research use</span>
+          <h3>Explore evidence, tools, papers, and labs.</h3>
+          <p>Browse frameworks, researcher profiles, validated assessment instruments, papers, labs, books, podcasts, and curated learning tools.</p>
+          <a class="pathway-link" href="../../../docs/resources/index.html">Browse resources <span>→</span></a>
+        </article>
+        <article class="pathway-card">
+          <span class="pathway-kicker">For allies and collaborators</span>
+          <h3>Learn the mission or get in touch.</h3>
+          <p>See what AAN does, who it serves, and how to reach out with questions, feedback, media requests, or collaboration ideas.</p>
+          <a class="pathway-link" href="../../../docs/contact/index.html">Contact AAN <span>→</span></a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section section-scene section-understanding" id="understanding">
+    <div class="section-inner quote-section">
+      <div class="quote-block-wrap">
+        <blockquote class="quote-block">
+          “Alexithymia is a multifaceted personality construct characterised by difficulties identifying one’s feelings and distinguishing them from bodily sensations, difficulties describing one’s feelings to others, and an externally oriented cognitive style.”
+          <cite class="quote-caption">Luminet, Nielson &amp; Ridout (2021)</cite>
+        </blockquote>
+        <figure class="quote-motif" aria-hidden="true">
+          <img src="../../motifs/understanding-tile-clear.svg" alt="">
+        </figure>
+      </div>
+      <div class="editorial-stack">
+        <div class="section-heading" style="margin-bottom: 0;">
+          <span class="label">What is alexithymia?</span>
+          <h2>What is Alexithymia?</h2>
+          <p>
+            Alexithymia, from the Greek meaning “no words for emotions,” is associated with difficulty identifying emotions, difficulty describing emotions, limited emotional awareness, and externally oriented thinking.
+          </p>
+        </div>
+        <figure class="nature-accent">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wild_Garden_%28Unsplash%29.jpg/1920px-Wild_Garden_%28Unsplash%29.jpg" alt="A vibrant wild garden with yellow flowers and soft sunlight">
+          <figcaption><strong>Mission</strong>Increase awareness of alexithymia. Build a strong, caring community of fellow alexithymics. Develop interest in, and support for, further research. Provide references to the latest and most useful information.</figcaption>
+        </figure>
+        <article class="editorial-panel">
+          <strong>Core features</strong>
+          <p>Difficulty identifying emotions, difficulty describing emotions, limited emotional awareness, and an externally oriented style of thinking form the basic explanation.</p>
+        </article>
+        <article class="editorial-panel">
+          <strong>What it is not</strong>
+          <p>Alexithymia is not listed as a disorder in the DSM-5 or ICD-11. The FAQ frames it as a dimensional trait that can co-occur with a range of medical and psychiatric conditions.</p>
+        </article>
+        <article class="editorial-panel">
+          <strong>Assessment</strong>
+          <p>There is no formal clinical diagnosis of alexithymia. The site points visitors toward validated assessment instruments such as TAS-20, BVAQ, PAQ, TSIA, and OAS, while clarifying that screening tools are not diagnoses.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-scene section-research" id="research">
+    <div class="section-inner research-layout has-motif">
+      <div class="research-copy">
+        <figure class="section-motif research-motif" aria-hidden="true">
+          <img src="../../motifs/research-ribbon-clear.svg" alt="">
+        </figure>
+        <span class="label">Resources and research</span>
+        <h2>Resources and research</h2>
+        <p class="research-lede">Browse books, tools, assessment guides, papers, and research paths from one calm starting point.</p>
+        <p>
+          Use the resource hub to move from broad orientation to deeper study — whether you want recommended reading, app tools, assessment information, or research papers.
+        </p>
+        <div class="hero-actions" style="margin-top: 24px;">
+          <a class="button button-primary" href="../../../docs/resources/index.html">Open resource hub</a>
+          <a class="button button-secondary" href="../../../docs/papers/index.html">Browse papers</a>
+        </div>
+        <div class="research-photo-grid" aria-label="Research and learning imagery">
+          <figure class="research-photo-card tall">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/A_woman_looking_out_the_window_%28Unsplash%29.jpg/1280px-A_woman_looking_out_the_window_%28Unsplash%29.jpg" alt="A person standing by a sunlit window in a quiet reflective moment">
+          </figure>
+          <div class="research-photo-stack">
+            <figure class="research-photo-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flowers_-_2_%28Unsplash%29.jpg/1920px-Flowers_-_2_%28Unsplash%29.jpg" alt="Soft flowers in warm light suggesting calm reflection and exploration">
+            </figure>
+            <figure class="research-photo-card">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Young_people_in_conversation_%28Unsplash%29.jpg/1280px-Young_people_in_conversation_%28Unsplash%29.jpg" alt="Three people in conversation outdoors, suggesting discussion and shared learning">
+            </figure>
+          </div>
+        </div>
+      </div>
+      <div class="evidence-grid">
+        <article class="evidence-card">
+          <strong>Books</strong>
+          <h3>Books and reading lists</h3>
+          <p>Academic texts, self-help and popular science, historical works, and topic-grouped reading recommendations.</p>
+        </article>
+        <article class="evidence-card">
+          <strong>Apps and digital tools</strong>
+          <h3>Apps for reflection and practice</h3>
+          <p>Mobile applications, alexithymia-specific apps, general emotional-wellness tools, and community-reviewed digital resources.</p>
+        </article>
+        <article class="evidence-card">
+          <strong>Assessment instruments</strong>
+          <h3>Validated assessment tools</h3>
+          <p>Validated tools with details on administration, scoring, validation, and interpretation for clinicians, researchers, and informational context.</p>
+        </article>
+        <article class="evidence-card">
+          <strong>Papers, labs, and frameworks</strong>
+          <h3>Research papers, labs, and theory</h3>
+          <p>Search research papers, browse research labs by region, and use emotion frameworks or researcher profiles for a stronger theoretical starting point.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+  <section class="section section-scene section-support support-band" id="support">
+    <div class="section-inner support-layout has-motif">
+      <div class="support-main">
+        <span class="label">Support</span>
+        <h2>Find practical support, crisis help, and next steps.</h2>
+        <p>
+          This page brings together urgent help, professional care options, family guidance, and community resources. AAN is an informational and advocacy project, so the section is designed to help people find the next credible place to turn.
+        </p>
+        <div class="start-grid">
+          <article class="resource-card">
+            <span class="resource-index">Urgent support</span>
+            <h3>988, 911, Crisis Text Line, and international helplines</h3>
+            <p>If you are in immediate danger, call 911 (US) or your local emergency number now. You can also find 988, Crisis Text Line, Find A Helpline, IASP, and Befrienders Worldwide here.</p>
+            <a class="resource-link" href="../../../docs/support/index.html#urgent-support">Open urgent support <span>→</span></a>
+          </article>
+          <article class="resource-card">
+            <span class="resource-index">Professional support</span>
+            <h3>Therapist directories and therapy approaches</h3>
+            <p>Find therapist directories along with therapy approaches such as Emotion-Focused Therapy, MBSR, DBT, and somatic therapies.</p>
+            <a class="resource-link" href="../../../docs/support/index.html#professional-support">See professional support <span>→</span></a>
+          </article>
+          <article class="resource-card">
+            <span class="resource-index">Family and relationships</span>
+            <h3>Guidance for partners, families, parents, and couples</h3>
+            <p>Find communication strategies, couples therapy resources, parenting with alexithymia guidance, and help around children's emotional development.</p>
+            <a class="resource-link" href="../../../docs/support/index.html#family-and-relationship-support">View family support <span>→</span></a>
+          </article>
+          <article class="resource-card">
+            <span class="resource-index">Community and practical support</span>
+            <h3>Online communities, workplace rights, student services, and specialized populations</h3>
+            <p>Browse r/Alexithymia, forums, autism-related communities, workplace and school support, and LGBTQ+ or culturally specific resources.</p>
+            <a class="resource-link" href="../../../docs/support/index.html#community-and-practical-support">Browse community support <span>→</span></a>
+          </article>
+        </div>
+        <figure class="section-motif support-motif" aria-hidden="true">
+          <img src="../../motifs/support-vertical-clear.svg" alt="">
+        </figure>
+      </div>
+
+      <aside class="support-side">
+        <article class="trust-card">
+          <span class="label">A note for people with alexithymia</span>
+          <h3>Physical distress counts too.</h3>
+          <p>People with alexithymia may notice the physical signs of severe distress — chest tightness, nausea, sleep loss, agitation, dissociation — before the emotional signs become clear. If your body is sounding alarms and you cannot name what you are feeling, that is still a good enough reason to reach out.</p>
+        </article>
+        <article class="trust-card">
+          <span class="label">AAN's role</span>
+          <h3>Information and advocacy, not personal clinical advice</h3>
+          <p>This site is informational only. For personal questions about your own emotional life, mental health, or treatment, consult a qualified clinician. For questions, feedback, or collaboration, contact team@alexithymiaawarenessnetwork.org.</p>
+        </article>
+      </aside>
+    </div>
+  </section>
+</main>
+
+    <footer class="footer">
+  <div class="footer-inner">
+    <div>
+      <strong>Alexithymia Awareness Network</strong>
+      <span><em>Fostering community. Increasing awareness. Supporting research. Providing resources.</em></span>
+    </div>
+    <nav class="footer-nav" aria-label="Footer">
+      <a href="../../../docs/contact/index.html">Contact</a>
+    </nav>
+  </div>
+</footer>
+  </div>
+
+  <script>
+    const THEME_STORAGE_KEY = "aan-open-door-theme";
+    const THEME_LAB_STATE_KEY = "aan-open-door-theme-lab-state";
+    const THEME_DEFS = {
+      "open-door": {
+        label: "Open Door",
+        description: "Warm, humane, grounded — the current house direction.",
+        vars: {
+          "--ink": "#1F2430",
+          "--muted": "#5E6670",
+          "--sage": "#4E6A61",
+          "--clay": "#9A5B45",
+          "--paper": "#F6F1EA",
+          "--surface": "#FFFDFC",
+          "--line": "#D8CEC3",
+          "--sage-tint": "#E8EFEB",
+          "--clay-tint": "#F2E5DE",
+          "--shadow": "0 18px 48px rgba(31, 36, 48, 0.08)",
+          "--button-primary": "#4E6A61",
+          "--button-primary-hover": "#1F2430",
+          "--header-cta-start": "#FFE38F",
+          "--header-cta-mid": "#F7CE68",
+          "--header-cta-end": "#F5C85F",
+          "--header-cta-shadow": "rgba(223, 171, 59, 0.26)",
+          "--header-cta-text-shadow": "0 1px 1px rgba(120, 82, 18, 0.28)",
+          "--header-cta-hover-start": "#FFEAB1",
+          "--header-cta-hover-mid": "#E1B85B",
+          "--header-cta-hover-end": "#E4B854",
+          "--header-cta-hover-shadow": "rgba(190, 137, 34, 0.32)",
+          "--page-backdrop-top": "#FBF6EF",
+          "--page-backdrop-bottom": "#F7F1EA",
+          "--page-radial-glow": "rgba(255,255,255,0.72)",
+          "--hero-overlay-top": "rgba(255,255,255,0.08)",
+          "--hero-overlay-mid": "rgba(246, 241, 234, 0.28)",
+          "--hero-overlay-strong": "rgba(246, 241, 234, 0.74)",
+          "--hero-side-left": "rgba(246, 241, 234, 0.88)",
+          "--hero-side-mid": "rgba(246, 241, 234, 0.56)",
+          "--hero-side-soft": "rgba(246, 241, 234, 0.24)",
+          "--hero-side-right": "rgba(246, 241, 234, 0.68)",
+          "--hero-sun": "rgba(255, 221, 127, 0.28)",
+          "--header-glass-top": "rgba(255,255,255,0.22)",
+          "--header-glass-mid": "rgba(243, 248, 255, 0.48)",
+          "--header-glass-bottom": "rgba(246, 241, 234, 0.74)",
+          "--header-orb-left": "rgba(255,255,255,0.84)",
+          "--header-orb-left-fade": "rgba(255,255,255,0.34)",
+          "--header-orb-right": "rgba(255,255,255,0.8)",
+          "--header-orb-right-fade": "rgba(255,255,255,0.3)",
+          "--header-accent-top": "rgba(99, 172, 228, 0.32)",
+          "--header-accent-mid": "rgba(199, 223, 244, 0.14)",
+          "--header-accent-bottom": "rgba(246, 241, 234, 0.18)"
+        }
+      },
+      "harbor-mist": {
+        label: "Harbor Mist",
+        description: "Cooler and more civic-trust oriented, with a little more public-service clarity.",
+        vars: {
+          "--ink": "#203246",
+          "--muted": "#5D6F82",
+          "--sage": "#547B86",
+          "--clay": "#8F6B52",
+          "--paper": "#EEF4F6",
+          "--surface": "#F9FDFE",
+          "--line": "#CAD8DD",
+          "--sage-tint": "#E3EFF3",
+          "--clay-tint": "#ECE4DC",
+          "--shadow": "0 18px 46px rgba(32, 50, 70, 0.10)",
+          "--button-primary": "#547B86",
+          "--button-primary-hover": "#203246",
+          "--header-cta-start": "#D69200",
+          "--header-cta-mid": "#A86600",
+          "--header-cta-end": "#875300",
+          "--header-cta-shadow": "rgba(151, 96, 0, 0.32)",
+          "--header-cta-text-shadow": "0 1px 2px rgba(62, 40, 0, 0.72), 0 0 1px rgba(62, 40, 0, 0.58)",
+          "--header-cta-hover-start": "#C27D00",
+          "--header-cta-hover-mid": "#955C00",
+          "--header-cta-hover-end": "#774B00",
+          "--header-cta-hover-shadow": "rgba(108, 68, 0, 0.42)",
+          "--page-backdrop-top": "#F7FBFC",
+          "--page-backdrop-bottom": "#EAF1F4",
+          "--page-radial-glow": "rgba(255,255,255,0.82)",
+          "--hero-overlay-top": "rgba(255,255,255,0.08)",
+          "--hero-overlay-mid": "rgba(236, 244, 247, 0.28)",
+          "--hero-overlay-strong": "rgba(238, 244, 246, 0.78)",
+          "--hero-side-left": "rgba(238, 244, 246, 0.92)",
+          "--hero-side-mid": "rgba(229, 238, 241, 0.6)",
+          "--hero-side-soft": "rgba(221, 234, 239, 0.28)",
+          "--hero-side-right": "rgba(232, 241, 244, 0.7)",
+          "--hero-sun": "rgba(173, 215, 232, 0.25)",
+          "--header-glass-top": "rgba(255,255,255,0.28)",
+          "--header-glass-mid": "rgba(238, 247, 251, 0.58)",
+          "--header-glass-bottom": "rgba(234, 241, 244, 0.82)",
+          "--header-orb-left": "rgba(255,255,255,0.88)",
+          "--header-orb-left-fade": "rgba(255,255,255,0.4)",
+          "--header-orb-right": "rgba(239, 249, 255, 0.76)",
+          "--header-orb-right-fade": "rgba(220, 237, 245, 0.28)",
+          "--header-accent-top": "rgba(118, 177, 207, 0.28)",
+          "--header-accent-mid": "rgba(210, 230, 239, 0.18)",
+          "--header-accent-bottom": "rgba(234, 241, 244, 0.12)"
+        }
+      },
+      "sunlit-paper": {
+        label: "Sunlit Paper",
+        description: "Warmer and more editorial, with softer contrast and a more reflective feel.",
+        vars: {
+          "--ink": "#2C241D",
+          "--muted": "#6F6256",
+          "--sage": "#7A6A4F",
+          "--clay": "#B46A4E",
+          "--paper": "#FBF4EA",
+          "--surface": "#FFF9F2",
+          "--line": "#DFCFBF",
+          "--sage-tint": "#F3ECDD",
+          "--clay-tint": "#F8E5DA",
+          "--shadow": "0 18px 46px rgba(52, 35, 19, 0.09)",
+          "--button-primary": "#7A6A4F",
+          "--button-primary-hover": "#2C241D",
+          "--header-cta-start": "#EAB08D",
+          "--header-cta-mid": "#D89472",
+          "--header-cta-end": "#C97B56",
+          "--header-cta-shadow": "rgba(201, 123, 86, 0.25)",
+          "--header-cta-text-shadow": "0 1px 1px rgba(120, 82, 18, 0.28)",
+          "--header-cta-hover-start": "#F0C0A4",
+          "--header-cta-hover-mid": "#C98463",
+          "--header-cta-hover-end": "#B96F4D",
+          "--header-cta-hover-shadow": "rgba(172, 95, 58, 0.32)",
+          "--page-backdrop-top": "#FFF8EE",
+          "--page-backdrop-bottom": "#F6EBDD",
+          "--page-radial-glow": "rgba(255,248,239,0.85)",
+          "--hero-overlay-top": "rgba(255,255,255,0.10)",
+          "--hero-overlay-mid": "rgba(251, 244, 234, 0.30)",
+          "--hero-overlay-strong": "rgba(251, 244, 234, 0.78)",
+          "--hero-side-left": "rgba(251, 244, 234, 0.92)",
+          "--hero-side-mid": "rgba(247, 238, 226, 0.64)",
+          "--hero-side-soft": "rgba(244, 231, 216, 0.32)",
+          "--hero-side-right": "rgba(248, 237, 225, 0.72)",
+          "--hero-sun": "rgba(247, 194, 127, 0.23)",
+          "--header-glass-top": "rgba(255,255,255,0.24)",
+          "--header-glass-mid": "rgba(255, 246, 238, 0.52)",
+          "--header-glass-bottom": "rgba(251, 244, 234, 0.82)",
+          "--header-orb-left": "rgba(255,255,255,0.9)",
+          "--header-orb-left-fade": "rgba(255,249,241,0.42)",
+          "--header-orb-right": "rgba(255,246,236,0.78)",
+          "--header-orb-right-fade": "rgba(246, 220, 197, 0.28)",
+          "--header-accent-top": "rgba(225, 181, 137, 0.26)",
+          "--header-accent-mid": "rgba(246, 224, 205, 0.18)",
+          "--header-accent-bottom": "rgba(251, 244, 234, 0.12)"
+        }
+      }
+    };
+
+    const root = document.documentElement;
+    const body = document.body;
+    const nameNode = document.getElementById("themeActiveName");
+    const descriptionNode = document.getElementById("themeActiveDescription");
+    const toggleThemeNode = document.getElementById("themeLabToggleTheme");
+    const toggleActionNode = document.getElementById("themeLabToggleAction");
+    const toggleButton = document.getElementById("themeLabToggle");
+    const panel = document.getElementById("themeLabPanel");
+    const buttons = Array.from(document.querySelectorAll("[data-theme-option]"));
+
+    function setThemeLabState(state) {
+      const nextState = state === "closed" ? "closed" : "open";
+      const isOpen = nextState === "open";
+      body.dataset.themeLabState = nextState;
+      toggleButton.setAttribute("aria-expanded", String(isOpen));
+      panel.setAttribute("aria-hidden", String(!isOpen));
+      toggleActionNode.textContent = isOpen ? "Hide menu" : "Open menu";
+      window.localStorage.setItem(THEME_LAB_STATE_KEY, nextState);
+    }
+
+    function applyTheme(themeName) {
+      const theme = THEME_DEFS[themeName] || THEME_DEFS["open-door"];
+      Object.entries(theme.vars).forEach(([key, value]) => root.style.setProperty(key, value));
+      body.dataset.theme = themeName;
+      nameNode.textContent = theme.label;
+      descriptionNode.textContent = theme.description;
+      toggleThemeNode.textContent = theme.label;
+      buttons.forEach((button) => {
+        const active = button.dataset.themeOption === themeName;
+        button.classList.toggle("is-active", active);
+        button.setAttribute("aria-pressed", String(active));
+      });
+      window.localStorage.setItem(THEME_STORAGE_KEY, themeName);
+    }
+
+    const savedTheme = window.localStorage.getItem(THEME_STORAGE_KEY);
+    applyTheme(savedTheme && THEME_DEFS[savedTheme] ? savedTheme : "open-door");
+    buttons.forEach((button) => button.addEventListener("click", () => applyTheme(button.dataset.themeOption)));
+    const savedLabState = window.localStorage.getItem(THEME_LAB_STATE_KEY);
+    setThemeLabState(savedLabState === "closed" ? "closed" : "open");
+    toggleButton.addEventListener("click", () => {
+      const nextState = body.dataset.themeLabState === "open" ? "closed" : "open";
+      setThemeLabState(nextState);
+    });
+  </script>
+</body>
+</html>

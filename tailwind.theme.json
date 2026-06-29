@@ -1,0 +1,115 @@
+{
+  "theme": {
+    "extend": {
+      "colors": {
+        "primary": "#1f2430",
+        "secondary": "#5e6670",
+        "tertiary": "#4e6a61",
+        "accent": "#9a5b45",
+        "neutral": "#f6f1ea",
+        "surface": "#fffdfc",
+        "border": "#d8cec3",
+        "tint-sage": "#e8efeb",
+        "tint-clay": "#f2e5de",
+        "on-primary": "#ffffff",
+        "on-tertiary": "#ffffff"
+      },
+      "fontFamily": {
+        "h1": [
+          "Source Serif 4"
+        ],
+        "h2": [
+          "Source Serif 4"
+        ],
+        "h3": [
+          "Source Serif 4"
+        ],
+        "body-lg": [
+          "Inter"
+        ],
+        "body-md": [
+          "Inter"
+        ],
+        "body-sm": [
+          "Inter"
+        ],
+        "label-sm": [
+          "Inter"
+        ],
+        "eyebrow": [
+          "Inter"
+        ]
+      },
+      "fontSize": {
+        "h1": [
+          "3.5rem",
+          {
+            "letterSpacing": "-0.02em",
+            "fontWeight": "600"
+          }
+        ],
+        "h2": [
+          "2.5rem",
+          {
+            "letterSpacing": "-0.015em",
+            "fontWeight": "600"
+          }
+        ],
+        "h3": [
+          "1.75rem",
+          {
+            "fontWeight": "600"
+          }
+        ],
+        "body-lg": [
+          "1.125rem",
+          {
+            "fontWeight": "400"
+          }
+        ],
+        "body-md": [
+          "1rem",
+          {
+            "fontWeight": "400"
+          }
+        ],
+        "body-sm": [
+          "0.9375rem",
+          {
+            "fontWeight": "400"
+          }
+        ],
+        "label-sm": [
+          "0.8125rem",
+          {
+            "letterSpacing": "0.04em",
+            "fontWeight": "600"
+          }
+        ],
+        "eyebrow": [
+          "0.75rem",
+          {
+            "letterSpacing": "0.08em",
+            "fontWeight": "600"
+          }
+        ]
+      },
+      "borderRadius": {
+        "sm": "8px",
+        "md": "16px",
+        "lg": "24px",
+        "xl": "36px",
+        "full": "9999px"
+      },
+      "spacing": {
+        "xs": "4px",
+        "sm": "8px",
+        "md": "16px",
+        "lg": "24px",
+        "xl": "40px",
+        "2xl": "64px",
+        "3xl": "96px"
+      }
+    }
+  }
+}

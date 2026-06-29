@@ -1,0 +1,1216 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2026-06-03T00:10:43Z",
+      "timestamp": 1780445443872,
+      "version": "3.54.1"
+    },
+    "reference-count": 104,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              17
+            ]
+          ],
+          "date-time": "2019-01-17T00:00:00Z",
+          "timestamp": 1547683200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001659",
+        "name": "Deutsche Forschungsgemeinschaft",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100001659",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Neurosci."
+    ],
+    "DOI": "10.3389/fnins.2018.01025",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2019-01-17T04:38:56Z",
+      "timestamp": 1547699936000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 113,
+    "title": [
+      "Selected Principles of Pankseppian Affective Neuroscience"
+    ],
+    "prefix": "10.3389",
+    "volume": "12",
+    "author": [
+      {
+        "given": "Kenneth L.",
+        "family": "Davis",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christian",
+        "family": "Montag",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "unstructured": "Long-term memories: the good, the bad, and the ugly21 AlberiniC. 23447766Cerebrum20102010"
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "first-page": "305",
+        "DOI": "10.3181/00379727-51-13950P",
+        "article-title": "Effects of lesions of the periaqueductal gray matter in the cat",
+        "volume": "51",
+        "author": "Bailey",
+        "year": "1942",
+        "journal-title": "Proc. Soc. Exp. Biol. Med."
+      },
+      {
+        "key": "B3",
+        "first-page": "495",
+        "article-title": "Fifty years chlorpromazine: a historical perspective",
+        "volume": "3",
+        "author": "Ban",
+        "year": "2007",
+        "journal-title": "Neuropsychiatr. Dis. Treat."
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "first-page": "110",
+        "DOI": "10.1016/j.biopsych.2009.09.013",
+        "article-title": "Nucleus accumbens deep brain stimulation decreases ratings of depression and anxiety in treatment-resistant depression",
+        "volume": "67",
+        "author": "Bewernick",
+        "year": "2010",
+        "journal-title": "Biol. Psychiatry"
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "408",
+        "DOI": "10.3389/fnhum.2015.00408",
+        "article-title": "Depressive symptoms related to low fractional anisotropy of white matter underlying the right ventral anterior cingulate in older adults with atherosclerotic vascular disease",
+        "volume": "9",
+        "author": "Bijanki",
+        "year": "2015",
+        "journal-title": "Front. Hum. Neurosci"
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "first-page": "49",
+        "DOI": "10.1097/00004714-199502000-00008",
+        "article-title": "Buprenorphine treatment of refractory depression",
+        "volume": "15",
+        "author": "Bodkin",
+        "year": "1995",
+        "journal-title": "J. Clin. Psychopharmacol."
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "first-page": "191",
+        "DOI": "10.1016/0165-1781(95)02601-R",
+        "article-title": "Low-dose naltrexone effects on plasma chemistries and clinical symptoms in autism: a double-blind, placebo-controlled study",
+        "volume": "58",
+        "author": "Bouvard",
+        "year": "1995",
+        "journal-title": "Psychiatry Res."
+      },
+      {
+        "key": "B8",
+        "author": "Burgdorf",
+        "year": "2018",
+        "journal-title": "Jaak Panksepp Memorial Symposium"
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "first-page": "67",
+        "DOI": "10.1007/s10519-004-0856-5",
+        "article-title": "Breeding for 50-kHz positive affective vocalization in rats",
+        "volume": "35",
+        "author": "Burgdorf",
+        "year": "2005",
+        "journal-title": "Behav. Genet."
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "first-page": "1831",
+        "DOI": "10.1016/j.neubiorev.2010.11.011",
+        "article-title": "Frequency-modulated 50 kHz ultrasonic vocalizations: a tool for uncovering the molecular substrates of positive affect",
+        "volume": "35",
+        "author": "Burgdorf",
+        "year": "2011",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "323",
+        "DOI": "10.1016/j.cortex.2015.07.024",
+        "article-title": "Mirth and laughter elicited by electrical stimulation of the human anterior cingulate cortex",
+        "volume": "71",
+        "author": "Caruana",
+        "year": "2015",
+        "journal-title": "Cortex"
+      },
+      {
+        "key": "B12",
+        "first-page": "20",
+        "article-title": "Temperament tests. II. Tests",
+        "volume": "24",
+        "author": "Cattell",
+        "year": "1933",
+        "journal-title": "Br. J. Psychol."
+      },
+      {
+        "key": "B13",
+        "volume-title": "Handbook for the Sixteen Personality Factor Questionnaire (16PF)",
+        "author": "Cattell",
+        "year": "1970"
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1037/10423-001",
+        "article-title": "Introduction: personality disorders and the five-factor model of personality",
+        "volume-title": "Personality Disorders and the Five-Factor Model of Personality, 2nd Edn",
+        "author": "Costa",
+        "year": "2002"
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "first-page": "72",
+        "DOI": "10.1111/j.1749-6632.2011.05990.x",
+        "article-title": "Significance of the insula for the evolution of human awareness of feelings from the body",
+        "volume": "1225",
+        "author": "Craig",
+        "year": "2011",
+        "journal-title": "Ann. N. Y. Acad. Sci."
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "833",
+        "DOI": "10.1093/cercor/bhs077",
+        "article-title": "Persistence of feelings and sentience after bilateral damage of the insula",
+        "volume": "23",
+        "author": "Damasio",
+        "year": "2013",
+        "journal-title": "Cereb. Cortex"
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1049",
+        "DOI": "10.1038/79871",
+        "article-title": "Subcortical and cortical brain activity during the feeling of self-generated emotions",
+        "volume": "3",
+        "author": "Damasio",
+        "year": "2000",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "first-page": "e9",
+        "DOI": "10.1017/pen.2018.5",
+        "article-title": "A tribute to Jaak Panksepp (1943-2017)",
+        "volume": "1",
+        "author": "Davis",
+        "year": "2018",
+        "journal-title": "Pers. Neurosci."
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "first-page": "1946",
+        "DOI": "10.1016/j.neubiorev.2011.04.004",
+        "article-title": "The brain's emotional foundations of human personality and the Affective Neuroscience Personality Scales",
+        "volume": "35",
+        "author": "Davis",
+        "year": "2011",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "B20",
+        "volume-title": "The Emotional Foundations of Personality",
+        "author": "Davis",
+        "year": "2018"
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "first-page": "57",
+        "DOI": "10.1080/15294145.2003.10773410",
+        "article-title": "The affective neuroscience personality scales: normative data and implications",
+        "volume": "5",
+        "author": "Davis",
+        "year": "2003",
+        "journal-title": "Neuropsychoanalysis"
+      },
+      {
+        "key": "B22",
+        "volume-title": "The Biological Basis of Personality",
+        "author": "Eysenck",
+        "year": "1967"
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "first-page": "200",
+        "DOI": "10.1113/jphysiol.1962.sp006841",
+        "article-title": "Organization of the subcortical system governing defence and flight reactions in the cat",
+        "volume": "160",
+        "author": "Fernandez de Molina",
+        "year": "1962",
+        "journal-title": "J. Physiol"
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "first-page": "1465",
+        "DOI": "10.1126/science.aaa1975",
+        "article-title": "Human-specific gene ARHGAP11B promotes basal progenitor amplification and neocortex expansion",
+        "volume": "347",
+        "author": "Florio",
+        "year": "2015",
+        "journal-title": "Science"
+      },
+      {
+        "key": "B25",
+        "volume-title": "Beyond the Pleasure Principle.",
+        "author": "Freud",
+        "year": ""
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "first-page": "2314",
+        "DOI": "10.1016/j.neuroimage.2003.07.027",
+        "article-title": "Reciprocal neural response within lateral and ventral medial prefrontal cortex during hot and cold reasoning",
+        "volume": "20",
+        "author": "Goel",
+        "year": "2003",
+        "journal-title": "Neuroimage"
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1216",
+        "DOI": "10.1037/0022-3514.59.6.1216",
+        "article-title": "An alternative “description of personality”: the Big-Five factor structure",
+        "volume": "59",
+        "author": "Goldberg",
+        "year": "1990",
+        "journal-title": "J. Pers. Soc. Psychol."
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "crossref",
+        "first-page": "26",
+        "DOI": "10.1037/1040-3590.4.1.26",
+        "article-title": "The development of markers for the Big-Five factor structure",
+        "volume": "4",
+        "author": "Goldberg",
+        "year": "1992",
+        "journal-title": "Psychol. Assess."
+      },
+      {
+        "key": "B29",
+        "volume-title": "The Functional Organization of the Diencephalon",
+        "author": "Hess",
+        "year": "1957"
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1007/978-1-4684-5003-3_2",
+        "article-title": "Imprinting and the neural basis of memory",
+        "volume-title": "Brain Plasticity, Learning and Memory",
+        "author": "Horn",
+        "year": "1985"
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/0028-3932(89)90086-9",
+        "article-title": "Memory systems in the chick: dissociations and neuronal analysis",
+        "volume": "27",
+        "author": "Horn",
+        "year": "1989",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "first-page": "467",
+        "DOI": "10.1016/0006-8993(73)90753-1",
+        "article-title": "Operant conditioning in forebrain ablated rats by use of rewarding hypothalamic stimulation",
+        "volume": "50",
+        "author": "Huston",
+        "year": "1973",
+        "journal-title": "Brain Res."
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "first-page": "433",
+        "DOI": "10.1016/0031-9384(74)90121-8",
+        "article-title": "The thalamic rat: general behavior, operant learning with rewarding hypothalamic stimulation, and effects of amphetamine",
+        "volume": "12",
+        "author": "Huston",
+        "year": "1974",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "B34",
+        "volume-title": "Personality Research Form Manual",
+        "author": "Jackson",
+        "year": "1974"
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "first-page": "329",
+        "DOI": "10.1016/0028-3932(86)90018-7",
+        "article-title": "Dissociation of recognition memory and associative learning by a restricted lesion of the chick forebrain",
+        "volume": "24",
+        "author": "Johnson",
+        "year": "1986",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "B36",
+        "doi-asserted-by": "publisher",
+        "first-page": "675",
+        "DOI": "10.1016/S0003-3472(88)80150-7",
+        "article-title": "Development of filial preferences in dark-reared chicks",
+        "volume": "36",
+        "author": "Johnson",
+        "year": "1988",
+        "journal-title": "Anim. Behav"
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "first-page": "169",
+        "DOI": "10.1016/j.neubiorev.2014.10.009",
+        "volume": "50",
+        "author": "Johnson",
+        "year": "2015",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "first-page": "261",
+        "DOI": "10.1002/pmh.1345",
+        "article-title": "Primary emotional traits in patients with personality disorders",
+        "volume": "10",
+        "author": "Karterud",
+        "year": "2016",
+        "journal-title": "Pers. Mental Health"
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "first-page": "257",
+        "DOI": "10.1006/jrpe.1997.2179",
+        "article-title": "The five-factor model plus dominance in chimpanzee personality",
+        "volume": "31",
+        "author": "King",
+        "year": "1997",
+        "journal-title": "J. Res. Pers."
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "first-page": "961",
+        "DOI": "10.1037/0033-2909.128.6.961",
+        "article-title": "Ultrasonic vocalizations as indices of affective states in rats",
+        "volume": "128",
+        "author": "Knutson",
+        "year": "2002",
+        "journal-title": "Psychol. Bull."
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "first-page": "1879",
+        "DOI": "10.1017/S0033291711002674",
+        "article-title": "Initial construction of a maladaptive personality trait model and inventory for DSM-5",
+        "volume": "42",
+        "author": "Krueger",
+        "year": "2012",
+        "journal-title": "Psychol. Med."
+      },
+      {
+        "key": "B42",
+        "volume-title": "Mind: An Essay on Human Feeling (Abridged Edition)",
+        "author": "Langer",
+        "year": "1988"
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "first-page": "653",
+        "DOI": "10.1016/j.neuron.2012.02.004",
+        "article-title": "Rethinking the emotional brain",
+        "volume": "73",
+        "author": "LeDoux",
+        "year": "2012",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "B44",
+        "first-page": "33",
+        "article-title": "Imaging human emotions and affective feelings: implications for biological psychiatry",
+        "volume-title": "Textbook of Biological Psychiatry",
+        "author": "Liotti",
+        "year": "2004"
+      },
+      {
+        "key": "B45",
+        "doi-asserted-by": "publisher",
+        "first-page": "432",
+        "DOI": "10.1037/0021-843X.101.3.432",
+        "article-title": "Factorial structure of traits delineating personality disorders in clinical and general population samples",
+        "volume": "101",
+        "author": "Livesley",
+        "year": "1992",
+        "journal-title": "J. Abnorm. Psychol."
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/12261-000",
+        "volume-title": "Introduction to Social Psychology",
+        "author": "McDougall",
+        "year": "1908"
+      },
+      {
+        "key": "B47",
+        "doi-asserted-by": "publisher",
+        "first-page": "R839",
+        "DOI": "10.1016/j.cub.2010.08.030",
+        "article-title": "Dogs showing separation-related behaviour exhibit a ‘pessimistic' cognitive bias",
+        "volume": "20",
+        "author": "Mendl",
+        "year": "2010",
+        "journal-title": "Curr. Biol."
+      },
+      {
+        "key": "B48",
+        "doi-asserted-by": "publisher",
+        "first-page": "63",
+        "DOI": "10.1017/S0140525X07000891",
+        "article-title": "Consciousness without a cerebral cortex: a challenge for neuroscience and medicine",
+        "volume": "30",
+        "author": "Merker",
+        "year": "2007",
+        "journal-title": "Behav. Brain Sci."
+      },
+      {
+        "key": "B49",
+        "volume-title": "Social Learning and Imitation",
+        "author": "Miller",
+        "year": "1941"
+      },
+      {
+        "key": "B50",
+        "doi-asserted-by": "publisher",
+        "first-page": "12236",
+        "DOI": "10.1523/JNEUROSCI.2378-09.2009",
+        "article-title": "From threat to fear: the neural organization of defensive fear systems in humans",
+        "volume": "29",
+        "author": "Mobbs",
+        "year": "2009",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "B51",
+        "doi-asserted-by": "publisher",
+        "first-page": "1079",
+        "DOI": "10.1126/science.1144298",
+        "article-title": "When fear is near: threat imminence elicits prefrontal-periaqueductal grey shifts in humans",
+        "volume": "317",
+        "author": "Mobbs",
+        "year": "2007",
+        "journal-title": "Science"
+      },
+      {
+        "key": "B52",
+        "doi-asserted-by": "publisher",
+        "first-page": "e12",
+        "DOI": "10.1017/pen.2018.10",
+        "article-title": "Affective neuroscience theory and personality: an update",
+        "volume": "1",
+        "author": "Montag",
+        "year": "2018",
+        "journal-title": "Pers. Neurosci."
+      },
+      {
+        "key": "B53",
+        "doi-asserted-by": "publisher",
+        "first-page": "760",
+        "DOI": "10.1007/s11031-016-9570-x",
+        "article-title": "Primal emotional-affective expressive foundations of human facial expression",
+        "volume": "40",
+        "author": "Montag",
+        "year": "2016",
+        "journal-title": "Motiv. Emot."
+      },
+      {
+        "key": "B54",
+        "doi-asserted-by": "publisher",
+        "first-page": "464",
+        "DOI": "10.3389/fpsyg.2017.00464",
+        "article-title": "Primary emotional systems and personality: an evolutionary perspective",
+        "volume": "8",
+        "author": "Montag",
+        "year": "2017",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "B55",
+        "article-title": "Personality Neuroscience: why it is of importance to include primary emotional systems!",
+        "volume-title": "Encyclopedia of Personality and Individual Differences",
+        "author": "Montag",
+        "year": "2018"
+      },
+      {
+        "key": "B56",
+        "doi-asserted-by": "publisher",
+        "first-page": "136",
+        "DOI": "10.1016/j.comppsych.2016.11.007",
+        "article-title": "Individual differences in Affective Neuroscience Personality Scale (ANPS) primary emotional traits and depressive tendencies",
+        "volume": "73",
+        "author": "Montag",
+        "year": "2017",
+        "journal-title": "Comp. Psychiatry"
+      },
+      {
+        "key": "B57",
+        "doi-asserted-by": "publisher",
+        "first-page": "47",
+        "DOI": "10.2174/1570159X14666160321122703",
+        "article-title": "The development of rapastinel (formerly GLYX-13); a rapid acting and long lasting antidepressant",
+        "volume": "15",
+        "author": "Moskal",
+        "year": "2017",
+        "journal-title": "Curr. Neuropharmacol."
+      },
+      {
+        "key": "B58",
+        "doi-asserted-by": "publisher",
+        "first-page": "968",
+        "DOI": "10.1038/nn1306",
+        "article-title": "Acceleration of visually cued conditioned fear through the auditory pathway",
+        "volume": "7",
+        "author": "Newton",
+        "year": "2004",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "B59",
+        "doi-asserted-by": "publisher",
+        "first-page": "202",
+        "DOI": "10.1002/hbm.20002",
+        "article-title": "Reciprocal modulation and attenuation in the prefrontal cortex: an fMRI study on emotional-cognitive interaction",
+        "volume": "21",
+        "author": "Northoff",
+        "year": "2004",
+        "journal-title": "Hum. Brain Mapp."
+      },
+      {
+        "key": "B60",
+        "doi-asserted-by": "publisher",
+        "first-page": "253",
+        "DOI": "10.1097/00008877-199109000-00002",
+        "article-title": "Historical context of state dependent learning and discriminative drug effects",
+        "volume": "2",
+        "author": "Overton",
+        "year": "1991",
+        "journal-title": "Behav. Pharmacol."
+      },
+      {
+        "key": "B61",
+        "doi-asserted-by": "publisher",
+        "first-page": "407",
+        "DOI": "10.1017/S0140525X00012759",
+        "volume": "5",
+        "author": "Panksepp",
+        "year": "1982",
+        "journal-title": "Behav. Brain Sci."
+      },
+      {
+        "key": "B62",
+        "first-page": "271",
+        "article-title": "Mood changes",
+        "volume-title": "Handbook of Clinical Neurology",
+        "author": "Panksepp",
+        "year": "1985"
+      },
+      {
+        "key": "B63",
+        "first-page": "59",
+        "article-title": "Affective neuroscience: a conceptual framework for the neurological study of emotions",
+        "volume-title": "International Reviews of Emotion Research",
+        "author": "Panksepp",
+        "year": "1991"
+      },
+      {
+        "key": "B64",
+        "doi-asserted-by": "publisher",
+        "first-page": "554",
+        "DOI": "10.1037/0033-295X.99.3.554",
+        "article-title": "A critical role for “affective neuroscience” in resolving what is basic about basic emotions",
+        "volume": "99",
+        "author": "Panksepp",
+        "year": "1992",
+        "journal-title": "Psychol. Rev."
+      },
+      {
+        "key": "B65",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780195096736.001.0001",
+        "volume-title": "Affective Neuroscience: The Foundations of Human and Animal Emotions",
+        "author": "Panksepp",
+        "year": "1998"
+      },
+      {
+        "key": "B66",
+        "unstructured": "Affective neuroscience of the emotional BrainMind: evolutionary perspectives and implications for understanding depression533545 PankseppJ. 21319497Dialog. Clin. Neurosci.122010"
+      },
+      {
+        "key": "B67",
+        "doi-asserted-by": "publisher",
+        "first-page": "e21236",
+        "DOI": "10.1371/journal.pone.0021236",
+        "article-title": "Cross-species affective neuroscience decoding of the primal affective experiences of humans and related animals",
+        "volume": "6",
+        "author": "Panksepp",
+        "year": "2011",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B68",
+        "unstructured": "Affective preclinical modeling of psychiatric disorders: taking imbalanced primal emotional feelings of animals seriously in our search for novel antidepressants363379 PankseppJ. 26869838Dialog. Clin. Neurosci.172015"
+      },
+      {
+        "key": "B69",
+        "volume-title": "The Archeology of Mind",
+        "author": "Panksepp",
+        "year": "2012"
+      },
+      {
+        "key": "B70",
+        "doi-asserted-by": "publisher",
+        "first-page": "97",
+        "DOI": "10.1016/S0278-2626(03)00013-7",
+        "article-title": "Modeling ADHD-type arousal with unilateral frontal cortex damage in rats and beneficial effects of play therapy",
+        "volume": "52",
+        "author": "Panksepp",
+        "year": "2003",
+        "journal-title": "Brain Cogn."
+      },
+      {
+        "key": "B71",
+        "first-page": "607",
+        "article-title": "The biology of social attachments: opiates alleviate separation distress",
+        "volume": "13",
+        "author": "Panksepp",
+        "year": "1978",
+        "journal-title": "Biol. Psychiatry"
+      },
+      {
+        "key": "B72",
+        "doi-asserted-by": "publisher",
+        "first-page": "473",
+        "DOI": "10.1016/0149-7634(80)90036-6",
+        "article-title": "Endogenous opioids and social behavior",
+        "volume": "4",
+        "author": "Panksepp",
+        "year": "1980",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "B73",
+        "doi-asserted-by": "publisher",
+        "first-page": "187",
+        "DOI": "10.1016/j.neubiorev.2016.09.010",
+        "article-title": "Reconciling cognitive and affective neuroscience perspectives on the brain basis of emotional experience",
+        "volume": "76",
+        "author": "Panksepp",
+        "year": "2017",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "B74",
+        "doi-asserted-by": "publisher",
+        "first-page": "429",
+        "DOI": "10.1016/0031-9384(94)90285-2",
+        "article-title": "Effects of neonatal decortication on the social play of juvenile rats",
+        "volume": "56",
+        "author": "Panksepp",
+        "year": "1994",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "B75",
+        "doi-asserted-by": "crossref",
+        "first-page": "357",
+        "DOI": "10.1007/978-1-4899-1992-2_19",
+        "article-title": "Possible brain opioid involvement in disrupted social intent and language development of autism",
+        "volume-title": "Neurobiological Issues in Autism",
+        "author": "Panksepp",
+        "year": "1987"
+      },
+      {
+        "key": "B76",
+        "doi-asserted-by": "publisher",
+        "first-page": "472",
+        "DOI": "10.1177/2167702614535913",
+        "article-title": "Affective neuroscience strategies for understanding and treating depressions: from preclinical models to novel therapeutics",
+        "volume": "2",
+        "author": "Panksepp",
+        "year": "2014",
+        "journal-title": "Clin. Psychol. Sci."
+      },
+      {
+        "key": "B77",
+        "doi-asserted-by": "publisher",
+        "first-page": "383",
+        "DOI": "10.1159/000366208",
+        "article-title": "Preclinical modeling of primal emotional affects (Seeking, Panic and Play): gateways to the development of new treatments for depression",
+        "volume": "47",
+        "author": "Panksepp",
+        "year": "2014",
+        "journal-title": "Psychopathology"
+      },
+      {
+        "key": "B78",
+        "doi-asserted-by": "publisher",
+        "first-page": "171",
+        "DOI": "10.1016/j.bbr.2003.11.014",
+        "article-title": "Ethological analyses of crayfish behavior: a new invertebrate system for measuring the rewarding properties of psychostimulants",
+        "volume": "153",
+        "author": "Panksepp",
+        "year": "2004",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "B79",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1097/00007611-195407000-00024",
+        "volume-title": "Epilepsy and the Functional Anatomy of the Human Brain.",
+        "author": "Penfield",
+        "year": "1954"
+      },
+      {
+        "key": "B80",
+        "doi-asserted-by": "publisher",
+        "first-page": "140",
+        "DOI": "10.1097/01.pra.0000462606.17725.93",
+        "article-title": "Randomized proof of concept trial of GLYX-13, an N-methyl-D-aspartate receptor glycine site partial agonist, in major depressive disorder nonresponsive to a previous antidepressant agent",
+        "volume": "21",
+        "author": "Preskorn",
+        "year": "2015",
+        "journal-title": "J. Psychiatr. Pract."
+      },
+      {
+        "key": "B81",
+        "doi-asserted-by": "publisher",
+        "first-page": "32",
+        "DOI": "10.3389/fnbeh.2015.00032",
+        "article-title": "Effects of optimism on motivation in rats",
+        "volume": "9",
+        "author": "Rygula",
+        "year": "2015",
+        "journal-title": "Front. Behav. Neurosci."
+      },
+      {
+        "key": "B82",
+        "doi-asserted-by": "publisher",
+        "first-page": "e51959",
+        "DOI": "10.1371/journal.pone.0051959",
+        "article-title": "Laughing rats are optimistic",
+        "volume": "7",
+        "author": "Rygula",
+        "year": "2012",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B83",
+        "doi-asserted-by": "publisher",
+        "first-page": "1213",
+        "DOI": "10.1093/brain/121.7.1213",
+        "article-title": "Neural networks for braille reading by the blind",
+        "volume": "121",
+        "author": "Sadato",
+        "year": "1998",
+        "journal-title": "Brain"
+      },
+      {
+        "key": "B84",
+        "doi-asserted-by": "publisher",
+        "first-page": "1577",
+        "DOI": "10.1111/j.1467-6494.2009.00593.x",
+        "article-title": "Recurrent personality dimensions in inclusive lexical studies: indications for a big six structure",
+        "volume": "77",
+        "author": "Saucier",
+        "year": "2009",
+        "journal-title": "J. Pers."
+      },
+      {
+        "key": "B85",
+        "doi-asserted-by": "crossref",
+        "first-page": "283",
+        "DOI": "10.1037/14343-013",
+        "article-title": "What makes a good structural model of personality? evaluating the big five and alternatives",
+        "volume-title": "APA Handbook of Personality and Social Psychology, Volume 4: Personality Processes and Individual Differences",
+        "author": "Saucier",
+        "year": "2015"
+      },
+      {
+        "key": "B86",
+        "doi-asserted-by": "publisher",
+        "first-page": "305",
+        "DOI": "10.1016/j.jad.2007.12.006",
+        "article-title": "Dysthymic and anxiety-related personality traits in bipolar spectrum illness",
+        "volume": "109",
+        "author": "Savitz",
+        "year": "",
+        "journal-title": "J. Affect. Disord."
+      },
+      {
+        "key": "B87",
+        "doi-asserted-by": "publisher",
+        "first-page": "920",
+        "DOI": "10.1016/j.jpsychires.2007.10.011",
+        "article-title": "Hypomanic, cyclothymic and hostile personality traits in bipolar spectrum illness: a family-based study",
+        "volume": "42",
+        "author": "Savitz",
+        "year": "",
+        "journal-title": "J. Psychiatr. Res."
+      },
+      {
+        "key": "B88",
+        "doi-asserted-by": "publisher",
+        "first-page": "1204",
+        "DOI": "10.1016/j.biopsych.2013.01.034",
+        "article-title": "Rapid effects of deep brain stimulation for treatment-resistant major depression",
+        "volume": "73",
+        "author": "Schlaepfer",
+        "year": "2013",
+        "journal-title": "Biol. Psychiatry"
+      },
+      {
+        "key": "B89",
+        "doi-asserted-by": "publisher",
+        "first-page": "368",
+        "DOI": "10.1038/sj.npp.1301408",
+        "article-title": "Deep brain stimulation to reward circuitry alleviates anhedonia in refractory major depression",
+        "volume": "33",
+        "author": "Schlaepfer",
+        "year": "2008",
+        "journal-title": "Neuropsychopharmacology"
+      },
+      {
+        "key": "B90",
+        "volume-title": "Genetics and the Social Behavior of the Dog",
+        "author": "Scott",
+        "year": "1965"
+      },
+      {
+        "key": "B91",
+        "doi-asserted-by": "publisher",
+        "first-page": "127",
+        "DOI": "10.1016/j.tics.2008.11.009",
+        "article-title": "The eye contact effect: mechanisms and development",
+        "volume": "13",
+        "author": "Senju",
+        "year": "2009",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "B92",
+        "doi-asserted-by": "publisher",
+        "first-page": "552",
+        "DOI": "10.1093/arclin/acx104",
+        "article-title": "Personality and primary emotional traits: disentangling multiple sclerosis related fatigue and depression",
+        "volume": "33",
+        "author": "Sindermann",
+        "year": "2018",
+        "journal-title": "Arch. Clin. Neuropsychol."
+      },
+      {
+        "key": "B93",
+        "doi-asserted-by": "publisher",
+        "first-page": "1103",
+        "DOI": "10.1037/0735-7044.99.6.1103",
+        "article-title": "Dorsomedial Diencephalic Involvement in the Juvenile Play of Rats",
+        "volume": "99",
+        "author": "Siviy",
+        "year": "1985",
+        "journal-title": "Behav. Neurosci."
+      },
+      {
+        "key": "B94",
+        "doi-asserted-by": "publisher",
+        "first-page": "995",
+        "DOI": "10.1038/nn.3740",
+        "article-title": "Behavioral and neurophysiological correlates of regret in rat decision-making on a neuroeconomic task",
+        "volume": "17",
+        "author": "Steiner",
+        "year": "2014",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "B95",
+        "doi-asserted-by": "publisher",
+        "first-page": "69",
+        "DOI": "10.1016/0031-9384(74)90069-9",
+        "article-title": "Discriminability of intracranial stimuli: the role of anatomical connectedness",
+        "volume": "12",
+        "author": "Stutz",
+        "year": "1974",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "B96",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1037/h0080017",
+        "article-title": "Memory and consciousness",
+        "volume": "26",
+        "author": "Tulving",
+        "year": "1985",
+        "journal-title": "Can. Psychol."
+      },
+      {
+        "key": "B97",
+        "doi-asserted-by": "publisher",
+        "first-page": "225",
+        "DOI": "10.1111/j.1467-6494.1992.tb00973.x",
+        "article-title": "Recurrent personality factors based on trait ratings",
+        "volume": "60",
+        "author": "Tupes",
+        "year": "1992",
+        "journal-title": "J. Pers."
+      },
+      {
+        "key": "B98",
+        "doi-asserted-by": "publisher",
+        "first-page": "90",
+        "DOI": "10.1016/j.concog.2014.12.005",
+        "article-title": "Social dominance and the affective neuroscience personality scales",
+        "volume": "33",
+        "author": "van der Westhuizen",
+        "year": "2015",
+        "journal-title": "Conscious. Cogn."
+      },
+      {
+        "key": "B99",
+        "doi-asserted-by": "publisher",
+        "first-page": "871",
+        "DOI": "10.1038/35009102",
+        "article-title": "Visual behaviour mediated by retinal projections directed to the auditory pathway",
+        "volume": "404",
+        "author": "von Melchner",
+        "year": "2000",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "B100",
+        "doi-asserted-by": "publisher",
+        "first-page": "2664",
+        "DOI": "10.1523/JNEUROSCI.20-07-02664.2000",
+        "article-title": "A positron emission tomographic study of auditory localization in the congenitally blind",
+        "volume": "20",
+        "author": "Weeks",
+        "year": "2000",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "B101",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12402-018-0266-9",
+        "article-title": "Individual differences in tendencies to attention-deficit/hyperactivity disorder and emotionality: empirical evidence in young healthy adults from Germany and China",
+        "author": "Wernicke",
+        "year": "2018",
+        "journal-title": "ADHD Attent. Defic. Hyperact. Disord"
+      },
+      {
+        "key": "B102",
+        "first-page": "239",
+        "article-title": "The decorticate rat",
+        "volume-title": "The Cerebral Cortex of the Rat",
+        "author": "Whishaw",
+        "year": "1990"
+      },
+      {
+        "key": "B103",
+        "doi-asserted-by": "publisher",
+        "first-page": "243",
+        "DOI": "10.1037/a0016606",
+        "article-title": "An integrative dimensional classification of personality disorder",
+        "volume": "21",
+        "author": "Widiger",
+        "year": "2009",
+        "journal-title": "Psychol. Assess."
+      },
+      {
+        "key": "B104",
+        "doi-asserted-by": "publisher",
+        "first-page": "491",
+        "DOI": "10.1176/appi.ajp.2015.15040535",
+        "article-title": "Ultra-low-dose buprenorphine as a time-limited treatment for severe suicidal ideation: a randomized controlled trial",
+        "volume": "173",
+        "author": "Yovell",
+        "year": "2016",
+        "journal-title": "Am. J. Psychiatry"
+      }
+    ],
+    "container-title": [
+      "Frontiers in Neuroscience"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/article/10.3389/fnins.2018.01025/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          14
+        ]
+      ],
+      "date-time": "2024-07-14T04:31:41Z",
+      "timestamp": 1720931501000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/article/10.3389/fnins.2018.01025/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          17
+        ]
+      ]
+    },
+    "references-count": 104,
+    "alternative-id": [
+      "10.3389/fnins.2018.01025"
+    ],
+    "URL": "https://doi.org/10.3389/fnins.2018.01025",
+    "relation": {},
+    "ISSN": [
+      "1662-453X"
+    ],
+    "issn-type": [
+      {
+        "value": "1662-453X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          17
+        ]
+      ]
+    },
+    "article-number": "1025"
+  }
+}

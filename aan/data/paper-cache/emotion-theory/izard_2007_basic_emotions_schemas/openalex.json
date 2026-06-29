@@ -1,0 +1,1165 @@
+{
+  "id": "https://openalex.org/W2067147147",
+  "doi": "https://doi.org/10.1111/j.1745-6916.2007.00044.x",
+  "title": "Basic Emotions, Natural Kinds, Emotion Schemas, and a New Paradigm",
+  "display_name": "Basic Emotions, Natural Kinds, Emotion Schemas, and a New Paradigm",
+  "publication_year": 2007,
+  "publication_date": "2007-09-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2067147147",
+    "doi": "https://doi.org/10.1111/j.1745-6916.2007.00044.x",
+    "mag": "2067147147",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/26151969"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1111/j.1745-6916.2007.00044.x",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1111/j.1745-6916.2007.00044.x",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S27228949",
+      "display_name": "Perspectives on Psychological Science",
+      "issn_l": "1745-6916",
+      "issn": [
+        "1745-6916",
+        "1745-6924"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Perspectives on Psychological Science",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5001762987",
+        "display_name": "Carroll E. Izard",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I86501945",
+          "display_name": "University of Delaware",
+          "ror": "https://ror.org/01sbq1a82",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86501945"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Carroll E. Izard",
+      "raw_affiliation_strings": [
+        "University of Delaware"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Delaware",
+          "institution_ids": [
+            "https://openalex.org/I86501945"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5001762987"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I86501945"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 34.9383,
+  "has_fulltext": false,
+  "cited_by_count": 1095,
+  "citation_normalized_percentile": {
+    "value": 0.99848583,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "2",
+    "issue": "3",
+    "first_page": "260",
+    "last_page": "280"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12313",
+    "display_name": "Emotions and Moral Behavior",
+    "score": 0.9994000196456909,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3207",
+      "display_name": "Social Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12313",
+      "display_name": "Emotions and Moral Behavior",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11454",
+      "display_name": "Cultural Differences and Values",
+      "score": 0.9854999780654907,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13283",
+      "display_name": "Mental Health Research Topics",
+      "score": 0.9801999926567078,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.6843744516372681
+    },
+    {
+      "id": "https://openalex.org/keywords/affective-science",
+      "display_name": "Affective science",
+      "score": 0.6753090620040894
+    },
+    {
+      "id": "https://openalex.org/keywords/natural",
+      "display_name": "Natural (archaeology)",
+      "score": 0.6673668026924133
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-psychology",
+      "display_name": "Cognitive psychology",
+      "score": 0.5862661004066467
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-science",
+      "display_name": "Cognitive science",
+      "score": 0.5768190026283264
+    },
+    {
+      "id": "https://openalex.org/keywords/consciousness",
+      "display_name": "Consciousness",
+      "score": 0.5682836174964905
+    },
+    {
+      "id": "https://openalex.org/keywords/cognition",
+      "display_name": "Cognition",
+      "score": 0.5307871103286743
+    },
+    {
+      "id": "https://openalex.org/keywords/emotion-classification",
+      "display_name": "Emotion classification",
+      "score": 0.48765456676483154
+    },
+    {
+      "id": "https://openalex.org/keywords/emotion-work",
+      "display_name": "Emotion work",
+      "score": 0.4641464948654175
+    },
+    {
+      "id": "https://openalex.org/keywords/relation",
+      "display_name": "Relation (database)",
+      "score": 0.44059431552886963
+    },
+    {
+      "id": "https://openalex.org/keywords/two-factor-theory-of-emotion",
+      "display_name": "Two-factor theory of emotion",
+      "score": 0.4154254198074341
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.15005406737327576
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.6843744516372681
+    },
+    {
+      "id": "https://openalex.org/C128534915",
+      "wikidata": "https://www.wikidata.org/wiki/Q3475770",
+      "display_name": "Affective science",
+      "level": 3,
+      "score": 0.6753090620040894
+    },
+    {
+      "id": "https://openalex.org/C2776608160",
+      "wikidata": "https://www.wikidata.org/wiki/Q4785462",
+      "display_name": "Natural (archaeology)",
+      "level": 2,
+      "score": 0.6673668026924133
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": 0.5862661004066467
+    },
+    {
+      "id": "https://openalex.org/C188147891",
+      "wikidata": "https://www.wikidata.org/wiki/Q147638",
+      "display_name": "Cognitive science",
+      "level": 1,
+      "score": 0.5768190026283264
+    },
+    {
+      "id": "https://openalex.org/C186720457",
+      "wikidata": "https://www.wikidata.org/wiki/Q7087",
+      "display_name": "Consciousness",
+      "level": 2,
+      "score": 0.5682836174964905
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": 0.5307871103286743
+    },
+    {
+      "id": "https://openalex.org/C206310091",
+      "wikidata": "https://www.wikidata.org/wiki/Q750859",
+      "display_name": "Emotion classification",
+      "level": 2,
+      "score": 0.48765456676483154
+    },
+    {
+      "id": "https://openalex.org/C117409633",
+      "wikidata": "https://www.wikidata.org/wiki/Q5373756",
+      "display_name": "Emotion work",
+      "level": 2,
+      "score": 0.4641464948654175
+    },
+    {
+      "id": "https://openalex.org/C25343380",
+      "wikidata": "https://www.wikidata.org/wiki/Q277521",
+      "display_name": "Relation (database)",
+      "level": 2,
+      "score": 0.44059431552886963
+    },
+    {
+      "id": "https://openalex.org/C126863065",
+      "wikidata": "https://www.wikidata.org/wiki/Q231903",
+      "display_name": "Two-factor theory of emotion",
+      "level": 4,
+      "score": 0.4154254198074341
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.15005406737327576
+    },
+    {
+      "id": "https://openalex.org/C77088390",
+      "wikidata": "https://www.wikidata.org/wiki/Q8513",
+      "display_name": "Database",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C95457728",
+      "wikidata": "https://www.wikidata.org/wiki/Q309",
+      "display_name": "History",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1111/j.1745-6916.2007.00044.x",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1111/j.1745-6916.2007.00044.x",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S27228949",
+        "display_name": "Perspectives on Psychological Science",
+        "issn_l": "1745-6916",
+        "issn": [
+          "1745-6916",
+          "1745-6924"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Perspectives on Psychological Science",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:26151969",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/26151969",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Perspectives on psychological science : a journal of the Association for Psychological Science",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.49000000953674316,
+      "display_name": "Reduced inequalities",
+      "id": "https://metadata.un.org/sdg/10"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 269,
+  "referenced_works": [
+    "https://openalex.org/W10902775",
+    "https://openalex.org/W25676310",
+    "https://openalex.org/W31510190",
+    "https://openalex.org/W46861574",
+    "https://openalex.org/W96095397",
+    "https://openalex.org/W103160041",
+    "https://openalex.org/W103290780",
+    "https://openalex.org/W131610586",
+    "https://openalex.org/W135333644",
+    "https://openalex.org/W139908175",
+    "https://openalex.org/W180870983",
+    "https://openalex.org/W220373037",
+    "https://openalex.org/W284829734",
+    "https://openalex.org/W399511836",
+    "https://openalex.org/W561105358",
+    "https://openalex.org/W561440216",
+    "https://openalex.org/W563257446",
+    "https://openalex.org/W565093886",
+    "https://openalex.org/W573614256",
+    "https://openalex.org/W642778407",
+    "https://openalex.org/W645541153",
+    "https://openalex.org/W649462809",
+    "https://openalex.org/W998572960",
+    "https://openalex.org/W998631149",
+    "https://openalex.org/W1258077868",
+    "https://openalex.org/W1483679835",
+    "https://openalex.org/W1492041649",
+    "https://openalex.org/W1494186755",
+    "https://openalex.org/W1501125750",
+    "https://openalex.org/W1508805656",
+    "https://openalex.org/W1522487910",
+    "https://openalex.org/W1532475385",
+    "https://openalex.org/W1535440274",
+    "https://openalex.org/W1552811717",
+    "https://openalex.org/W1556541525",
+    "https://openalex.org/W1557998370",
+    "https://openalex.org/W1564846583",
+    "https://openalex.org/W1565443366",
+    "https://openalex.org/W1575023497",
+    "https://openalex.org/W1580867010",
+    "https://openalex.org/W1588311733",
+    "https://openalex.org/W1593675506",
+    "https://openalex.org/W1607430780",
+    "https://openalex.org/W1622986096",
+    "https://openalex.org/W1635581608",
+    "https://openalex.org/W1664858912",
+    "https://openalex.org/W1666229076",
+    "https://openalex.org/W1748703215",
+    "https://openalex.org/W1788466595",
+    "https://openalex.org/W1806422357",
+    "https://openalex.org/W1827777223",
+    "https://openalex.org/W1849553904",
+    "https://openalex.org/W1872693690",
+    "https://openalex.org/W1880373995",
+    "https://openalex.org/W1912285410",
+    "https://openalex.org/W1919920345",
+    "https://openalex.org/W1920444580",
+    "https://openalex.org/W1921655560",
+    "https://openalex.org/W1946086219",
+    "https://openalex.org/W1962783329",
+    "https://openalex.org/W1963949534",
+    "https://openalex.org/W1964201266",
+    "https://openalex.org/W1965102844",
+    "https://openalex.org/W1972585530",
+    "https://openalex.org/W1973078179",
+    "https://openalex.org/W1973520194",
+    "https://openalex.org/W1974802010",
+    "https://openalex.org/W1975000068",
+    "https://openalex.org/W1976598983",
+    "https://openalex.org/W1979628958",
+    "https://openalex.org/W1981693912",
+    "https://openalex.org/W1985923895",
+    "https://openalex.org/W1987862410",
+    "https://openalex.org/W1989396341",
+    "https://openalex.org/W1989642163",
+    "https://openalex.org/W1989699098",
+    "https://openalex.org/W1990494474",
+    "https://openalex.org/W1991911963",
+    "https://openalex.org/W1993231688",
+    "https://openalex.org/W1995983082",
+    "https://openalex.org/W1997645284",
+    "https://openalex.org/W1998430703",
+    "https://openalex.org/W1998824234",
+    "https://openalex.org/W1999069442",
+    "https://openalex.org/W2000843844",
+    "https://openalex.org/W2001074813",
+    "https://openalex.org/W2003736410",
+    "https://openalex.org/W2005428812",
+    "https://openalex.org/W2006196292",
+    "https://openalex.org/W2009375902",
+    "https://openalex.org/W2011690037",
+    "https://openalex.org/W2013835196",
+    "https://openalex.org/W2014527488",
+    "https://openalex.org/W2016367277",
+    "https://openalex.org/W2018202910",
+    "https://openalex.org/W2018255452",
+    "https://openalex.org/W2018445256",
+    "https://openalex.org/W2020409714",
+    "https://openalex.org/W2022068631",
+    "https://openalex.org/W2024169416",
+    "https://openalex.org/W2025975991",
+    "https://openalex.org/W2026567452",
+    "https://openalex.org/W2026988541",
+    "https://openalex.org/W2032440215",
+    "https://openalex.org/W2033773024",
+    "https://openalex.org/W2033886336",
+    "https://openalex.org/W2034544322",
+    "https://openalex.org/W2041660643",
+    "https://openalex.org/W2042641861",
+    "https://openalex.org/W2045418622",
+    "https://openalex.org/W2046539643",
+    "https://openalex.org/W2047170290",
+    "https://openalex.org/W2047364474",
+    "https://openalex.org/W2047522205",
+    "https://openalex.org/W2049517993",
+    "https://openalex.org/W2050923428",
+    "https://openalex.org/W2050982961",
+    "https://openalex.org/W2053731071",
+    "https://openalex.org/W2054962017",
+    "https://openalex.org/W2055894321",
+    "https://openalex.org/W2058234041",
+    "https://openalex.org/W2058331473",
+    "https://openalex.org/W2058988599",
+    "https://openalex.org/W2060791811",
+    "https://openalex.org/W2060876244",
+    "https://openalex.org/W2062758252",
+    "https://openalex.org/W2063372382",
+    "https://openalex.org/W2064514337",
+    "https://openalex.org/W2065464206",
+    "https://openalex.org/W2065671433",
+    "https://openalex.org/W2074947418",
+    "https://openalex.org/W2075975630",
+    "https://openalex.org/W2086023016",
+    "https://openalex.org/W2088074973",
+    "https://openalex.org/W2088661631",
+    "https://openalex.org/W2089293481",
+    "https://openalex.org/W2092024509",
+    "https://openalex.org/W2093862925",
+    "https://openalex.org/W2094060699",
+    "https://openalex.org/W2094973377",
+    "https://openalex.org/W2095596789",
+    "https://openalex.org/W2096866604",
+    "https://openalex.org/W2097710556",
+    "https://openalex.org/W2101182646",
+    "https://openalex.org/W2102700131",
+    "https://openalex.org/W2102714739",
+    "https://openalex.org/W2105628924",
+    "https://openalex.org/W2106980598",
+    "https://openalex.org/W2108577177",
+    "https://openalex.org/W2108711633",
+    "https://openalex.org/W2109417522",
+    "https://openalex.org/W2110475150",
+    "https://openalex.org/W2111798822",
+    "https://openalex.org/W2112556402",
+    "https://openalex.org/W2114814559",
+    "https://openalex.org/W2114895909",
+    "https://openalex.org/W2114919756",
+    "https://openalex.org/W2116244583",
+    "https://openalex.org/W2118247692",
+    "https://openalex.org/W2119983670",
+    "https://openalex.org/W2120732923",
+    "https://openalex.org/W2122263166",
+    "https://openalex.org/W2123856966",
+    "https://openalex.org/W2124909602",
+    "https://openalex.org/W2130409243",
+    "https://openalex.org/W2130803403",
+    "https://openalex.org/W2134031328",
+    "https://openalex.org/W2134419850",
+    "https://openalex.org/W2134727133",
+    "https://openalex.org/W2135869619",
+    "https://openalex.org/W2136654837",
+    "https://openalex.org/W2137374870",
+    "https://openalex.org/W2137495700",
+    "https://openalex.org/W2141302415",
+    "https://openalex.org/W2143858405",
+    "https://openalex.org/W2144271658",
+    "https://openalex.org/W2144950273",
+    "https://openalex.org/W2145988075",
+    "https://openalex.org/W2147863532",
+    "https://openalex.org/W2148892681",
+    "https://openalex.org/W2149886468",
+    "https://openalex.org/W2150050966",
+    "https://openalex.org/W2150947790",
+    "https://openalex.org/W2151222692",
+    "https://openalex.org/W2153089721",
+    "https://openalex.org/W2153762863",
+    "https://openalex.org/W2154105506",
+    "https://openalex.org/W2154644236",
+    "https://openalex.org/W2155465530",
+    "https://openalex.org/W2156984202",
+    "https://openalex.org/W2157684370",
+    "https://openalex.org/W2158885936",
+    "https://openalex.org/W2159190230",
+    "https://openalex.org/W2160007652",
+    "https://openalex.org/W2160623970",
+    "https://openalex.org/W2160835214",
+    "https://openalex.org/W2164513234",
+    "https://openalex.org/W2165063134",
+    "https://openalex.org/W2165389424",
+    "https://openalex.org/W2165732693",
+    "https://openalex.org/W2166996472",
+    "https://openalex.org/W2167575933",
+    "https://openalex.org/W2167723703",
+    "https://openalex.org/W2167802794",
+    "https://openalex.org/W2171013711",
+    "https://openalex.org/W2172174229",
+    "https://openalex.org/W2249712882",
+    "https://openalex.org/W2276357497",
+    "https://openalex.org/W2313033429",
+    "https://openalex.org/W2314275789",
+    "https://openalex.org/W2318328213",
+    "https://openalex.org/W2323000864",
+    "https://openalex.org/W2333914441",
+    "https://openalex.org/W2400372398",
+    "https://openalex.org/W2410979608",
+    "https://openalex.org/W2411105550",
+    "https://openalex.org/W2481269729",
+    "https://openalex.org/W2488533857",
+    "https://openalex.org/W2507019685",
+    "https://openalex.org/W2523265507",
+    "https://openalex.org/W2572630290",
+    "https://openalex.org/W2599734864",
+    "https://openalex.org/W2751379301",
+    "https://openalex.org/W2774090594",
+    "https://openalex.org/W2785286163",
+    "https://openalex.org/W2798084781",
+    "https://openalex.org/W2799765158",
+    "https://openalex.org/W2895552032",
+    "https://openalex.org/W2896498531",
+    "https://openalex.org/W2896684164",
+    "https://openalex.org/W2921885394",
+    "https://openalex.org/W2952817806",
+    "https://openalex.org/W3152679453",
+    "https://openalex.org/W4206719735",
+    "https://openalex.org/W4210815591",
+    "https://openalex.org/W4210895374",
+    "https://openalex.org/W4214539641",
+    "https://openalex.org/W4230285053",
+    "https://openalex.org/W4230656213",
+    "https://openalex.org/W4231519654",
+    "https://openalex.org/W4232323871",
+    "https://openalex.org/W4234032456",
+    "https://openalex.org/W4235176312",
+    "https://openalex.org/W4239287933",
+    "https://openalex.org/W4240978772",
+    "https://openalex.org/W4243050466",
+    "https://openalex.org/W4244481548",
+    "https://openalex.org/W4244495453",
+    "https://openalex.org/W4247191997",
+    "https://openalex.org/W4247442712",
+    "https://openalex.org/W4249229873",
+    "https://openalex.org/W4249467711",
+    "https://openalex.org/W4249609777",
+    "https://openalex.org/W4250267003",
+    "https://openalex.org/W4250772347",
+    "https://openalex.org/W4251591997",
+    "https://openalex.org/W4252447152",
+    "https://openalex.org/W4254254617",
+    "https://openalex.org/W4254959318",
+    "https://openalex.org/W4283834748",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4290960469",
+    "https://openalex.org/W4293039961",
+    "https://openalex.org/W4301223053",
+    "https://openalex.org/W4321217413",
+    "https://openalex.org/W4388250061",
+    "https://openalex.org/W4388361956",
+    "https://openalex.org/W4388362327",
+    "https://openalex.org/W4405283870"
+  ],
+  "related_works": [
+    "https://openalex.org/W2362761865",
+    "https://openalex.org/W2123596287",
+    "https://openalex.org/W2140392999",
+    "https://openalex.org/W4237803626",
+    "https://openalex.org/W2094789880",
+    "https://openalex.org/W2386502343",
+    "https://openalex.org/W4311892896",
+    "https://openalex.org/W3022096709",
+    "https://openalex.org/W2801646370",
+    "https://openalex.org/W1868379447"
+  ],
+  "abstract_inverted_index": {
+    "Research": [
+      0
+    ],
+    "on": [
+      1,
+      13,
+      118,
+      131
+    ],
+    "emotion": [
+      2,
+      22,
+      78,
+      88,
+      107,
+      138
+    ],
+    "flourishes": [
+      3
+    ],
+    "in": [
+      4,
+      23,
+      54,
+      67,
+      93,
+      111
+    ],
+    "many": [
+      5
+    ],
+    "disciplines": [
+      6
+    ],
+    "and": [
+      7,
+      17,
+      29,
+      51,
+      58,
+      90,
+      114,
+      120,
+      137,
+      145
+    ],
+    "specialties,": [
+      8
+    ],
+    "yet": [
+      9
+    ],
+    "experts": [
+      10
+    ],
+    "cannot": [
+      11
+    ],
+    "agree": [
+      12
+    ],
+    "its": [
+      14
+    ],
+    "definition.": [
+      15
+    ],
+    "Theorists": [
+      16
+    ],
+    "researchers": [
+      18
+    ],
+    "use": [
+      19
+    ],
+    "the": [
+      20,
+      34,
+      46,
+      75,
+      80
+    ],
+    "term": [
+      21
+    ],
+    "ways": [
+      24
+    ],
+    "that": [
+      25,
+      48,
+      85,
+      104,
+      126,
+      129
+    ],
+    "imply": [
+      26
+    ],
+    "different": [
+      27
+    ],
+    "processes": [
+      28,
+      47
+    ],
+    "meanings.": [
+      30
+    ],
+    "Debate": [
+      31
+    ],
+    "continues": [
+      32
+    ],
+    "about": [
+      33
+    ],
+    "nature": [
+      35,
+      76
+    ],
+    "of": [
+      36,
+      69,
+      77,
+      82,
+      133
+    ],
+    "emotions,": [
+      37
+    ],
+    "their": [
+      38,
+      40,
+      52
+    ],
+    "functions,": [
+      39
+    ],
+    "relations": [
+      41,
+      84
+    ],
+    "to": [
+      42,
+      87,
+      95
+    ],
+    "broad": [
+      43
+    ],
+    "affective": [
+      44,
+      96
+    ],
+    "dimensions,": [
+      45
+    ],
+    "activate": [
+      49
+    ],
+    "them,": [
+      50
+    ],
+    "role": [
+      53
+    ],
+    "our": [
+      55
+    ],
+    "daily": [
+      56
+    ],
+    "activities": [
+      57
+    ],
+    "pursuits.": [
+      59
+    ],
+    "I": [
+      60,
+      99
+    ],
+    "will": [
+      61
+    ],
+    "address": [
+      62
+    ],
+    "these": [
+      63
+    ],
+    "issues": [
+      64
+    ],
+    "here,": [
+      65
+    ],
+    "specifically": [
+      66
+    ],
+    "terms": [
+      68
+    ],
+    "basic": [
+      70,
+      135
+    ],
+    "emotions": [
+      71,
+      92,
+      136
+    ],
+    "as": [
+      72,
+      108,
+      115
+    ],
+    "natural": [
+      73
+    ],
+    "kinds,": [
+      74
+    ],
+    "schemas,": [
+      79,
+      89
+    ],
+    "development": [
+      81
+    ],
+    "emotion-cognition": [
+      83
+    ],
+    "lead": [
+      86
+    ],
+    "discrete": [
+      91
+    ],
+    "relation": [
+      94
+    ],
+    "dimensions.": [
+      97
+    ],
+    "Finally,": [
+      98
+    ],
+    "propose": [
+      100
+    ],
+    "a": [
+      101,
+      109,
+      127,
+      141
+    ],
+    "new": [
+      102
+    ],
+    "paradigm": [
+      103
+    ],
+    "assumes": [
+      105
+    ],
+    "continual": [
+      106
+    ],
+    "factor": [
+      110
+    ],
+    "organizing": [
+      112
+    ],
+    "consciousness": [
+      113
+    ],
+    "an": [
+      116
+    ],
+    "influence": [
+      117
+    ],
+    "mind": [
+      119
+    ],
+    "behavior.": [
+      121
+    ],
+    "The": [
+      122
+    ],
+    "evidence": [
+      123
+    ],
+    "reviewed": [
+      124
+    ],
+    "suggests": [
+      125
+    ],
+    "theory": [
+      128
+    ],
+    "builds": [
+      130
+    ],
+    "concepts": [
+      132
+    ],
+    "both": [
+      134
+    ],
+    "schemas": [
+      139
+    ],
+    "provides": [
+      140
+    ],
+    "viable": [
+      142
+    ],
+    "research": [
+      143
+    ],
+    "tool": [
+      144
+    ],
+    "is": [
+      146
+    ],
+    "compatible": [
+      147
+    ],
+    "with": [
+      148
+    ],
+    "more": [
+      149
+    ],
+    "holistic": [
+      150
+    ],
+    "or": [
+      151
+    ],
+    "dimensional": [
+      152
+    ],
+    "approaches.": [
+      153
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 42
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 55
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 64
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 81
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 93
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 105
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 80
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 87
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 53
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 47
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 46
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 49
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 62
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 56
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 40
+    }
+  ],
+  "updated_date": "2026-06-04T09:04:59.091469",
+  "created_date": "2025-10-10T00:00:00"
+}

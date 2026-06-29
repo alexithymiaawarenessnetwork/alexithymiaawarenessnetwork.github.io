@@ -1,0 +1,1831 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          5
+        ]
+      ],
+      "date-time": "2026-06-05T04:53:44Z",
+      "timestamp": 1780635224314,
+      "version": "3.54.1"
+    },
+    "reference-count": 239,
+    "publisher": "American Psychological Association (APA)",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Psychological Review"
+    ],
+    "DOI": "10.1037/0033-295x.110.1.145",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2005-10-11T21:06:41Z",
+      "timestamp": 1129064801000
+    },
+    "page": "145-172",
+    "source": "Crossref",
+    "is-referenced-by-count": 3909,
+    "title": [
+      "Core affect and the psychological construction of emotion."
+    ],
+    "prefix": "10.1037",
+    "volume": "110",
+    "author": [
+      {
+        "given": "James A.",
+        "family": "Russell",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15",
+    "published-online": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "r1_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780195093582.001.0001",
+        "volume-title": "With pleasure: Thoughts on the nature of human sexuality.",
+        "author": "Abramson",
+        "year": "1995"
+      },
+      {
+        "key": "r2_10.1037/0033-295X.110.1.145",
+        "volume-title": "Emotion and personality.",
+        "author": "Arnold",
+        "year": "1960"
+      },
+      {
+        "key": "r3_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.106.3.529"
+      },
+      {
+        "key": "r4_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1023080224401"
+      },
+      {
+        "key": "r5_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-1-4612-5743-1",
+        "volume-title": "Anger and aggression: An essay on emotion.",
+        "author": "Averill",
+        "year": "1982"
+      },
+      {
+        "key": "r6_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0749-5978(91)90022-L"
+      },
+      {
+        "key": "r7_10.1037/0033-295X.110.1.145",
+        "first-page": "1",
+        "article-title": "The automaticity of everyday life.",
+        "volume-title": "The automaticity of everyday life: Advances in social cognition",
+        "volume": "Vol. 10",
+        "author": "Bargh",
+        "year": "1997"
+      },
+      {
+        "key": "r8_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.54.7.462"
+      },
+      {
+        "key": "r9_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.62.6.893"
+      },
+      {
+        "key": "r10_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/jesp.1996.0005"
+      },
+      {
+        "key": "r11_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1559-1816.1987.tb00298.x"
+      },
+      {
+        "key": "r12_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.50.2.322"
+      },
+      {
+        "key": "r13_10.1037/0033-295X.110.1.145",
+        "first-page": "1",
+        "article-title": "Self-perception theory.",
+        "volume-title": "Advances in experimental social psychology",
+        "volume": "Vol. 6",
+        "author": "Bem",
+        "year": "1972"
+      },
+      {
+        "key": "r14_10.1037/0033-295X.110.1.145",
+        "first-page": "1",
+        "article-title": "Towards a general theory of anger and emotional aggression: Implications of the cognitive-neoassociationistic perspective for the analysis of anger and emotion.",
+        "volume-title": "Perspectives on anger and emotion",
+        "author": "Berkowitz",
+        "year": "1993"
+      },
+      {
+        "key": "r15_10.1037/0033-295X.110.1.145",
+        "first-page": "525",
+        "article-title": "Pleasure, pain, desire, and dread: Hidden core processes of emotion.",
+        "volume-title": "Well-being: The foundations of hedonic psychology",
+        "author": "Berridge",
+        "year": "1999"
+      },
+      {
+        "key": "r16_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.99.2.229"
+      },
+      {
+        "key": "r17_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "665",
+        "DOI": "10.1177/0146167290164007",
+        "article-title": "Individual differences in physiological arousal and perception of arousal: Missing links in Jamesian notions of arousal-based behaviors.",
+        "volume": "16",
+        "author": "Blascovich",
+        "year": "1990",
+        "journal-title": "Personality and Social Psychology Bulletin",
+        "ISSN": "https://id.crossref.org/issn/0146-1672",
+        "issn-type": "print"
+      },
+      {
+        "key": "r18_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1002/ejsp.2420240104",
+        "article-title": "Negative affect and social judgment: The differential impact of anger and sadness.",
+        "volume": "24",
+        "author": "Bodenhausen",
+        "year": "1994",
+        "journal-title": "European Journal of Social Psychology",
+        "ISSN": "https://id.crossref.org/issn/0046-2772",
+        "issn-type": "print"
+      },
+      {
+        "key": "r19_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "335",
+        "DOI": "10.1002/ejsp.2420180404",
+        "article-title": "What triggers causal attributions? The impact of valence and subjective probability.",
+        "volume": "18",
+        "author": "Bohner",
+        "year": "1988",
+        "journal-title": "European Journal of Social Psychology",
+        "ISSN": "https://id.crossref.org/issn/0046-2772",
+        "issn-type": "print"
+      },
+      {
+        "key": "r20_10.1037/0033-295X.110.1.145",
+        "first-page": "3",
+        "article-title": "How might emotions affect learning?",
+        "volume-title": "The handbook of emotion and memory",
+        "author": "Bower",
+        "year": "1992"
+      },
+      {
+        "key": "r21_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1093/oso/9780195113334.003.0003",
+        "article-title": "Affect, memory, and social cognition.",
+        "volume-title": "Cognition & Emotion",
+        "author": "Bower",
+        "year": "2000"
+      },
+      {
+        "key": "r22_10.1037/0033-295X.110.1.145",
+        "volume-title": "Attachment.",
+        "volume": "Vol. 1",
+        "author": "Bowlby",
+        "year": "1969"
+      },
+      {
+        "key": "r23_10.1037/0033-295X.110.1.145",
+        "first-page": "242",
+        "article-title": "Measuring emotion: Behavior, feeling, and physiology.",
+        "volume-title": "Cognitive neuroscience of emotion",
+        "author": "Bradley",
+        "year": "2000"
+      },
+      {
+        "key": "r24_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0043805"
+      },
+      {
+        "key": "r25_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "28",
+        "DOI": "10.1037/10075-019",
+        "article-title": "Taste: The maximization of multidimensional pleasure.",
+        "volume-title": "Taste, experience, and feeding",
+        "author": "Cabanac",
+        "year": "1990"
+      },
+      {
+        "key": "r26_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.115.3.401"
+      },
+      {
+        "key": "r27_10.1037/0033-295X.110.1.145",
+        "first-page": "173",
+        "article-title": "The psychophysiology of emotion.",
+        "volume-title": "Handbook of emotions",
+        "author": "Cacioppo",
+        "year": "2000",
+        "edition": "2nd ed."
+      },
+      {
+        "key": "r28_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.76.5.839"
+      },
+      {
+        "key": "r29_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.1080/02699939208411072",
+        "article-title": "Expressive development and basic emotions.",
+        "volume": "6",
+        "author": "Camras",
+        "year": "1992",
+        "journal-title": "Cognition and Emotion",
+        "ISSN": "https://id.crossref.org/issn/0269-9931",
+        "issn-type": "print"
+      },
+      {
+        "key": "r30_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1415404"
+      },
+      {
+        "key": "r31_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.97.1.19"
+      },
+      {
+        "key": "r32_10.1037/0033-295X.110.1.145",
+        "volume-title": "The conscious mind: In search of a fundamental theory.",
+        "author": "Chalmers",
+        "year": "1996"
+      },
+      {
+        "key": "r33_10.1037/0033-295X.110.1.145",
+        "unstructured": "Chartrand. 1999"
+      },
+      {
+        "key": "r34_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5371(83)90375-4"
+      },
+      {
+        "key": "r35_10.1037/0033-295X.110.1.145",
+        "first-page": "24",
+        "article-title": "Cognition in emotion: Always, sometimes, or never?",
+        "volume-title": "Cognitive neuroscience of emotion",
+        "author": "Clore",
+        "year": "2000"
+      },
+      {
+        "key": "r36_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.36.10.1101"
+      },
+      {
+        "key": "r37_10.1037/0033-295X.110.1.145",
+        "first-page": "11",
+        "article-title": "From evolution to adaptations to behaviors.",
+        "volume-title": "Biological perspectives on motivated activities",
+        "author": "Cosmides",
+        "year": "1995"
+      },
+      {
+        "key": "r38_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.33.5.430"
+      },
+      {
+        "key": "r39_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0278-2626(92)90065-T"
+      },
+      {
+        "key": "r40_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.1080/02699939208411071",
+        "article-title": "A prolegomenon to the structure of emotion: Gleanings from neuropsychology.",
+        "volume": "6",
+        "author": "Davidson",
+        "year": "1992b",
+        "journal-title": "Cognition and Emotion",
+        "ISSN": "https://id.crossref.org/issn/0269-9931",
+        "issn-type": "print"
+      },
+      {
+        "key": "r41_10.1037/0033-295X.110.1.145",
+        "first-page": "371",
+        "article-title": "The functional neuroanatomy of affective style.",
+        "volume-title": "Cognitive neuroscience of emotion",
+        "author": "Davidson",
+        "year": "2000"
+      },
+      {
+        "key": "r42_10.1037/0033-295X.110.1.145",
+        "volume-title": "The intentional stance.",
+        "author": "Dennett",
+        "year": "1987"
+      },
+      {
+        "key": "r43_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9280.00221"
+      },
+      {
+        "key": "r44_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "DOI": "10.1111/j.2044-8295.1993.tb02466.x",
+        "article-title": "Imagery ability and source monitoring: Implications for eyewitness memory.",
+        "volume": "32",
+        "author": "Dobson",
+        "year": "1993",
+        "journal-title": "The British Journal of Psychology",
+        "ISSN": "https://id.crossref.org/issn/0007-1269",
+        "issn-type": "print"
+      },
+      {
+        "key": "r45_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "283",
+        "DOI": "10.1080/00221309.1941.10544400",
+        "article-title": "An explanation of \"emotional\" phenomena without the use of the concept \"emotion.",
+        "volume": "25",
+        "author": "Duffy",
+        "year": "1941",
+        "journal-title": "The Journal of General Psychology",
+        "ISSN": "https://id.crossref.org/issn/0022-1309",
+        "issn-type": "print"
+      },
+      {
+        "key": "r46_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0037031"
+      },
+      {
+        "key": "r47_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0047707"
+      },
+      {
+        "key": "r48_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.1995.tb00309.x"
+      },
+      {
+        "key": "r49_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.115.2.268"
+      },
+      {
+        "key": "r50_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0092-6566(86)90137-6"
+      },
+      {
+        "key": "r51_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-3-642-68390-9",
+        "volume-title": "Attention and arousal.",
+        "author": "Eysenck",
+        "year": "1982"
+      },
+      {
+        "key": "r52_10.1037/0033-295X.110.1.145",
+        "volume-title": "The psychology of consciousness.",
+        "author": "Farthing",
+        "year": "1992"
+      },
+      {
+        "key": "r53_10.1037/0033-295X.110.1.145",
+        "unstructured": "Fazio. 1987"
+      },
+      {
+        "key": "r54_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.50.2.229"
+      },
+      {
+        "key": "r55_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-3445.113.3.464"
+      },
+      {
+        "key": "r56_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8721.00003"
+      },
+      {
+        "key": "r57_10.1037/0033-295X.110.1.145",
+        "unstructured": "Feldman Barrett. 2000"
+      },
+      {
+        "key": "r58_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.69.6.1113"
+      },
+      {
+        "key": "r59_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "255",
+        "DOI": "10.1017/CBO9780511659911.013",
+        "article-title": "Spontaneous facial behavior during intense emotional episodes: Artistic truth and optical truth.",
+        "volume-title": "The psychology of facial expression",
+        "author": "Fernandez-Dols",
+        "year": "1997"
+      },
+      {
+        "key": "r60_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.3758/BF03213481",
+        "article-title": "Memory confusions for real and imagined completions of symmetrical visual patterns.",
+        "volume": "16",
+        "author": "Finke",
+        "year": "1988",
+        "journal-title": "Memory & Cognition",
+        "ISSN": "https://id.crossref.org/issn/0090-502X",
+        "issn-type": "print"
+      },
+      {
+        "key": "r61_10.1037/0033-295X.110.1.145",
+        "volume-title": "Emotion scripts: A study of the social and cognitive facets of emotion.",
+        "author": "Fischer",
+        "year": "1991"
+      },
+      {
+        "key": "r62_10.1037/0033-295X.110.1.145",
+        "first-page": "3",
+        "article-title": "Metamemory.",
+        "volume-title": "Perspectives on the development of memory and cognition",
+        "author": "Flavell",
+        "year": "1977"
+      },
+      {
+        "key": "r63_10.1037/0033-295X.110.1.145",
+        "volume-title": "Developing through relationships: Communication, self, and culture in early infancy.",
+        "author": "Fogel",
+        "year": "1993"
+      },
+      {
+        "key": "r64_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.117.1.39"
+      },
+      {
+        "key": "r65_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0022-1031(84)90040-4"
+      },
+      {
+        "key": "r66_10.1037/0033-295X.110.1.145",
+        "first-page": "78",
+        "article-title": "Facial expressions as modes of action readiness.",
+        "volume-title": "The psychology of facial expression",
+        "author": "Fridja",
+        "year": "1997"
+      },
+      {
+        "key": "r67_10.1037/0033-295X.110.1.145",
+        "volume-title": "Human facial expression.",
+        "author": "Fridlund",
+        "year": "1994"
+      },
+      {
+        "key": "r68_10.1037/0033-295X.110.1.145",
+        "volume-title": "The emotions.",
+        "author": "Frijda",
+        "year": "1986"
+      },
+      {
+        "key": "r69_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "947",
+        "DOI": "10.1126/science.2672334",
+        "article-title": "Organization of the human brain.",
+        "volume": "245",
+        "author": "Gazzaniga",
+        "year": "1989",
+        "journal-title": "Science",
+        "ISSN": "https://id.crossref.org/issn/0036-8075",
+        "issn-type": "print"
+      },
+      {
+        "key": "r70_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.1979.tb00216.x"
+      },
+      {
+        "key": "r71_10.1037/0033-295X.110.1.145",
+        "first-page": "189",
+        "article-title": "Thinking lightly about others: Automatic components of the social inference process.",
+        "volume-title": "Unintended thought",
+        "author": "Gilbert",
+        "year": "1989"
+      },
+      {
+        "key": "r72_10.1037/0033-295X.110.1.145",
+        "first-page": "243",
+        "article-title": "Three fundamental emotion systems.",
+        "volume-title": "The nature of emotion",
+        "author": "Gray",
+        "year": "1994"
+      },
+      {
+        "key": "r73_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1002/0470013494.ch5",
+        "article-title": "Cognition, emotion, conscious experience and the brain.",
+        "volume-title": "Handbook of cognition and emotion",
+        "author": "Gray",
+        "year": "1999"
+      },
+      {
+        "key": "r74_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "97",
+        "DOI": "10.1111/j.1469-8986.1997.tb02420.x",
+        "article-title": "Fear and the startle reflex: Blink modulation and autonomic response patterns in animal and mutilation fearful subjects.",
+        "volume": "34",
+        "author": "Hamm",
+        "year": "1997",
+        "journal-title": "Psychophysiology",
+        "ISSN": "https://id.crossref.org/issn/0048-5772",
+        "issn-type": "print"
+      },
+      {
+        "key": "r75_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0041823"
+      },
+      {
+        "key": "r76_10.1037/0033-295X.110.1.145",
+        "first-page": "328",
+        "article-title": "Emotional experience: A neurological model.",
+        "volume-title": "Cognitive neuroscience of emotion",
+        "author": "Heilman",
+        "year": "2000"
+      },
+      {
+        "key": "r77_10.1037/0033-295X.110.1.145",
+        "first-page": "167",
+        "article-title": "The neuropsychology of emotion: Developmental patterns and implications for psychopathology.",
+        "volume-title": "Psychological and biological approaches to emotion",
+        "author": "Heller",
+        "year": "1990"
+      },
+      {
+        "key": "r78_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0894-4105.7.4.476"
+      },
+      {
+        "key": "r79_10.1037/0033-295X.110.1.145",
+        "volume-title": "Adaptation level theory: An experimental and systematic approach to behavior.",
+        "author": "Helson",
+        "year": "1964"
+      },
+      {
+        "key": "r80_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.69.2.280"
+      },
+      {
+        "key": "r81_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.94.3.319"
+      },
+      {
+        "key": "r82_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.52.12.1280"
+      },
+      {
+        "key": "r83_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-1031(77)80007-3"
+      },
+      {
+        "key": "r84_10.1037/0033-295X.110.1.145",
+        "volume-title": "Divided consciousness: Multiple controls in human thought and action",
+        "author": "Hilgard",
+        "year": "1986",
+        "edition": "Rev. ed."
+      },
+      {
+        "key": "r85_10.1037/0033-295X.110.1.145",
+        "volume-title": "The managed heart: Commercialization of human feeling.",
+        "author": "Hochschild",
+        "year": "1983"
+      },
+      {
+        "key": "r86_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0005-7967(74)90006-0"
+      },
+      {
+        "key": "r87_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.91.2.153"
+      },
+      {
+        "key": "r88_10.1037/0033-295X.110.1.145",
+        "first-page": "261",
+        "article-title": "Positive affect and decision making.",
+        "volume-title": "Handbook of emotions",
+        "author": "Isen",
+        "year": "1993"
+      },
+      {
+        "key": "r89_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "521",
+        "DOI": "10.1002/0470013494.ch25",
+        "article-title": "Positive affect.",
+        "volume-title": "The handbook of cognition and emotion",
+        "author": "Isen",
+        "year": "1999"
+      },
+      {
+        "key": "r90_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-1-4899-2209-0",
+        "volume-title": "Human emotions.",
+        "author": "Izard",
+        "year": "1977"
+      },
+      {
+        "key": "r91_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.115.2.288"
+      },
+      {
+        "key": "r92_10.1037/0033-295X.110.1.145",
+        "first-page": "2",
+        "article-title": "Affect, awareness, and performance.",
+        "volume-title": "Affect, cognition, and personality",
+        "author": "Izard",
+        "year": "1965"
+      },
+      {
+        "key": "r93_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "188",
+        "DOI": "10.1093/mind/os-IX.34.188",
+        "article-title": "What is an emotion?",
+        "volume": "19",
+        "author": "James",
+        "year": "1884",
+        "journal-title": "Mind",
+        "ISSN": "https://id.crossref.org/issn/0026-4423",
+        "issn-type": "print"
+      },
+      {
+        "key": "r94_10.1037/0033-295X.110.1.145",
+        "volume-title": "Why we feel: The science of human emotions.",
+        "author": "Johnston",
+        "year": "1999"
+      },
+      {
+        "key": "r95_10.1037/0033-295X.110.1.145",
+        "volume-title": "Personality development.",
+        "author": "Kagan",
+        "year": "1971"
+      },
+      {
+        "key": "r96_10.1037/0033-295X.110.1.145",
+        "first-page": "11",
+        "article-title": "On emotion and its development: A working paper.",
+        "volume-title": "The development of affect",
+        "author": "Kagan",
+        "year": "1979"
+      },
+      {
+        "key": "r97_10.1037/0033-295X.110.1.145",
+        "first-page": "3",
+        "article-title": "Objective happiness.",
+        "volume-title": "Well-being: The foundations of hedonic psychology",
+        "author": "Kahneman",
+        "year": "1999"
+      },
+      {
+        "key": "r98_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.93.2.136"
+      },
+      {
+        "key": "r99_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1017/CBO9780511809477.015",
+        "article-title": "The simulation heuristic.",
+        "volume-title": "Judgment under uncertainty: Heuristics and biases",
+        "author": "Kahneman",
+        "year": "1982"
+      },
+      {
+        "key": "r100_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.47.1.593"
+      },
+      {
+        "key": "r101_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.1177/0146167293191003",
+        "article-title": "The influence of attributions on the relevance of negative feelings to personal satisfaction.",
+        "volume": "19",
+        "author": "Keltner",
+        "year": "1993",
+        "journal-title": "Personality and Social Psychology Bulletin",
+        "ISSN": "https://id.crossref.org/issn/0146-1672",
+        "issn-type": "print"
+      },
+      {
+        "key": "r102_10.1037/0033-295X.110.1.145",
+        "unstructured": "Kirby. 2000"
+      },
+      {
+        "key": "r103_10.1037/0033-295X.110.1.145",
+        "volume-title": "Image and mind.",
+        "author": "Kosslyn",
+        "year": "1980"
+      },
+      {
+        "key": "r104_10.1037/0033-295X.110.1.145",
+        "first-page": "213",
+        "article-title": "The process of emotional experience: A self-perception theory.",
+        "volume-title": "Review of personality and social psychology: Emotion",
+        "volume": "Vol. 13",
+        "author": "Laird",
+        "year": "1992"
+      },
+      {
+        "key": "r105_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7208/chicago/9780226471013.001.0001",
+        "volume-title": "Women, fire, and dangerous things.",
+        "author": "Lakoff",
+        "year": "1987"
+      },
+      {
+        "key": "r106_10.1037/0033-295X.110.1.145",
+        "first-page": "345",
+        "article-title": "Neural correlates of conscious emotional experience.",
+        "volume-title": "Cognitive neuroscience of emotion",
+        "author": "Lane",
+        "year": "2000"
+      },
+      {
+        "key": "r107_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "90",
+        "DOI": "10.1037/10546-004",
+        "article-title": "Fear reduction and fear behavior: Problems in treating a construct.",
+        "volume-title": "Research in psychotherapy",
+        "volume": "Vol. 3",
+        "author": "Lang",
+        "year": "1968"
+      },
+      {
+        "key": "r108_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "495",
+        "DOI": "10.1111/j.1469-8986.1979.tb01511.x",
+        "article-title": "A bio-informational theory of emotion imagery.",
+        "volume": "16",
+        "author": "Lang",
+        "year": "1979",
+        "journal-title": "Psychophysiology",
+        "ISSN": "https://id.crossref.org/issn/0048-5772",
+        "issn-type": "print"
+      },
+      {
+        "key": "r109_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "173",
+        "DOI": "10.1007/978-94-009-2792-6_7",
+        "article-title": "What are the data of emotion?",
+        "volume-title": "Cognitive perspectives on emotion and motivation",
+        "author": "Lang",
+        "year": "1988"
+      },
+      {
+        "key": "r110_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.50.5.372"
+      },
+      {
+        "key": "r111_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.97.3.377"
+      },
+      {
+        "key": "r112_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.81.4.684"
+      },
+      {
+        "key": "r113_10.1037/0033-295X.110.1.145",
+        "first-page": "25",
+        "article-title": "Promises and problems with the circumplex model of emotion.",
+        "volume-title": "Review of personality and social psychology: Emotion",
+        "volume": "Vol. 13",
+        "author": "Larsen",
+        "year": "1992"
+      },
+      {
+        "key": "r114_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.37.9.1019"
+      },
+      {
+        "key": "r115_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780195069945.001.0001",
+        "volume-title": "Emotion and adaptation.",
+        "author": "Lazarus",
+        "year": "1991"
+      },
+      {
+        "issue": "No. 553",
+        "key": "r116_10.1037/0033-295X.110.1.145",
+        "article-title": "A laboratory study of psychological stress produced by a motion picture film.",
+        "volume": "76",
+        "author": "Lazarus",
+        "year": "1962",
+        "journal-title": "Psychological Monographs",
+        "ISSN": "https://id.crossref.org/issn/0096-9753",
+        "issn-type": "print"
+      },
+      {
+        "key": "r117_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0023989"
+      },
+      {
+        "key": "r118_10.1037/0033-295X.110.1.145",
+        "volume-title": "The emotional brain.",
+        "author": "LeDoux",
+        "year": "1996"
+      },
+      {
+        "key": "r119_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/026999300402763"
+      },
+      {
+        "key": "r120_10.1037/0033-295X.110.1.145",
+        "first-page": "252",
+        "article-title": "The search for autonomic specificity.",
+        "volume-title": "The nature of emotion",
+        "author": "Levenson",
+        "year": "1994"
+      },
+      {
+        "key": "r121_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.62.6.972"
+      },
+      {
+        "key": "r122_10.1037/0033-295X.110.1.145",
+        "article-title": "Witchcraft and sorcery in a Gusii community.",
+        "volume-title": "Witchcraft and sorcery in East Africa.",
+        "author": "LeVine",
+        "year": "1963"
+      },
+      {
+        "key": "r123_10.1037/0033-295X.110.1.145",
+        "volume-title": "Tahitians.",
+        "author": "Levy",
+        "year": "1973"
+      },
+      {
+        "key": "r124_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-1-4613-3620-4",
+        "volume-title": "Children's emotions and moods.",
+        "author": "Lewis",
+        "year": "1983"
+      },
+      {
+        "key": "r125_10.1037/0033-295X.110.1.145",
+        "first-page": "13",
+        "article-title": "Elements of Schachter's cognitive theory of emotional states.",
+        "volume-title": "Thought and feeling: Cognitive alteration of feeling states",
+        "author": "London",
+        "year": "1974"
+      },
+      {
+        "key": "r126_10.1037/0033-295X.110.1.145",
+        "volume-title": "On aggression.",
+        "author": "Lorenz",
+        "year": "1966"
+      },
+      {
+        "key": "r127_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7208/chicago/9780226219783.001.0001",
+        "volume-title": "Unnatural emotions: Everyday sentiments on a Micronesian atoll and their challenge to Western theory.",
+        "author": "Lutz",
+        "year": "1988"
+      },
+      {
+        "key": "r128_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.1996.tb00355.x"
+      },
+      {
+        "key": "r129_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1007/BF03395106",
+        "article-title": "Information gathering: A component of the defensive behavior of rats and Old-World monkeys.",
+        "volume": "41",
+        "author": "MacDonald",
+        "year": "1991",
+        "journal-title": "The Psychological Record",
+        "ISSN": "https://id.crossref.org/issn/0033-2933",
+        "issn-type": "print"
+      },
+      {
+        "key": "r130_10.1037/0033-295X.110.1.145",
+        "volume-title": "The role of emotions in social and personality development.",
+        "author": "Magai",
+        "year": "1995"
+      },
+      {
+        "key": "r131_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.105.1.83"
+      },
+      {
+        "key": "r132_10.1037/0033-295X.110.1.145",
+        "volume-title": "Mind and body: Psychology of emotion and stress.",
+        "author": "Mandler",
+        "year": "1984"
+      },
+      {
+        "key": "r133_10.1037/0033-295X.110.1.145",
+        "first-page": "vii",
+        "article-title": "Foreword.",
+        "volume-title": "The psychology of facial expression",
+        "author": "Mandler",
+        "year": "1997"
+      },
+      {
+        "issue": "No. 513",
+        "key": "r134_10.1037/0033-295X.110.1.145",
+        "article-title": "The response to threat: Relations among verbal and physiological indices.",
+        "volume": "75",
+        "author": "Mandler",
+        "year": "1961",
+        "journal-title": "Psychological Monographs",
+        "ISSN": "https://id.crossref.org/issn/0096-9753",
+        "issn-type": "print"
+      },
+      {
+        "key": "r135_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/3003600"
+      },
+      {
+        "key": "r136_10.1037/0033-295X.110.1.145",
+        "unstructured": "Markham. The effect of vividness of imagery on reality monitoring. 17 159 1993"
+      },
+      {
+        "key": "r137_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.63.1.119"
+      },
+      {
+        "key": "r138_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1016/B978-0-08-021376-7.50041-3",
+        "article-title": "Children's humour: A review of current research trends.",
+        "volume-title": "It's a funny thing, humour",
+        "author": "McGhee",
+        "year": "1977"
+      },
+      {
+        "key": "r139_10.1037/0033-295X.110.1.145",
+        "volume-title": "An approach to environmental psychology.",
+        "author": "Mehrabian",
+        "year": "1974"
+      },
+      {
+        "key": "r140_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0163-6383(92)80004-E"
+      },
+      {
+        "key": "r141_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/10039-000",
+        "volume-title": "Plans and the structure of behavior.",
+        "author": "Miller",
+        "year": "1960"
+      },
+      {
+        "key": "r142_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.86.5.985"
+      },
+      {
+        "key": "r143_10.1037/0033-295X.110.1.145",
+        "first-page": "95",
+        "article-title": "True feelings, the self, and authenticity: A psychosocial perspective.",
+        "volume-title": "Social perspectives on emotion",
+        "volume": "Vol. 1",
+        "author": "Morgan",
+        "year": "1992"
+      },
+      {
+        "key": "r144_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-1-4612-3648-1",
+        "volume-title": "Mood: The frame of mind.",
+        "author": "Morris",
+        "year": "1989"
+      },
+      {
+        "key": "r145_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9280.00238"
+      },
+      {
+        "key": "r146_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.79.2.211"
+      },
+      {
+        "key": "r147_10.1037/0033-295X.110.1.145",
+        "volume-title": "The heart's eye: Emotional influences in perception and attention.",
+        "author": "Niedenthal",
+        "year": "1994"
+      },
+      {
+        "key": "r148_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.106.2.337"
+      },
+      {
+        "key": "r149_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/026999397379863"
+      },
+      {
+        "key": "r150_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0022-1031(66)90081-3"
+      },
+      {
+        "key": "r151_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.84.3.231"
+      },
+      {
+        "key": "r152_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1080/02699938708408362",
+        "article-title": "Towards a cognitive theory of emotions.",
+        "volume": "1",
+        "author": "Oatley",
+        "year": "1987",
+        "journal-title": "Cognition and Emotion",
+        "ISSN": "https://id.crossref.org/issn/0269-9931",
+        "issn-type": "print"
+      },
+      {
+        "key": "r153_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1002/0470013494.ch17",
+        "article-title": "Distinguishing unconscious from conscious emotional processes: Methodological considerations and theoretical implications.",
+        "volume-title": "Handbook of cognition and emotion",
+        "author": "Ohman",
+        "year": "1999"
+      },
+      {
+        "key": "r154_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0021-843X.103.2.231"
+      },
+      {
+        "key": "r155_10.1037/0033-295X.110.1.145",
+        "first-page": "296",
+        "article-title": "Unconscious emotion: Evolutionary perspectives, psychophysiological data and neuropsychological mechanisms.",
+        "volume-title": "Cognitive neuroscience of emotion",
+        "author": "Ohman",
+        "year": "2000"
+      },
+      {
+        "key": "r156_10.1037/0033-295X.110.1.145",
+        "unstructured": "Olson. 1990"
+      },
+      {
+        "key": "r157_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "908",
+        "DOI": "10.1177/0146167295219005",
+        "article-title": "The perceived funniness of humorous stimuli.",
+        "volume": "21",
+        "author": "Olson",
+        "year": "1995",
+        "journal-title": "Personality and Social Psychology Bulletin",
+        "ISSN": "https://id.crossref.org/issn/0146-1672",
+        "issn-type": "print"
+      },
+      {
+        "key": "r158_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.97.3.315"
+      },
+      {
+        "key": "r159_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/CBO9780511571299",
+        "volume-title": "The cognitive structure of emotions.",
+        "author": "Ortony",
+        "year": "1988"
+      },
+      {
+        "key": "r160_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0027715"
+      },
+      {
+        "key": "r161_10.1037/0033-295X.110.1.145",
+        "volume-title": "Cross-cultural universals of affective meaning.",
+        "author": "Osgood",
+        "year": "1975"
+      },
+      {
+        "key": "r162_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.71.1.39"
+      },
+      {
+        "key": "r163_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780195096736.001.0001",
+        "volume-title": "Affective neuroscience.",
+        "author": "Panksepp",
+        "year": "1998"
+      },
+      {
+        "key": "r164_10.1037/0033-295X.110.1.145",
+        "volume-title": "Happiness, pleasure, and judgment: The contextual theory and its applications.",
+        "author": "Parducci",
+        "year": "1995"
+      },
+      {
+        "key": "r165_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.78.6.1005"
+      },
+      {
+        "key": "r166_10.1037/0033-295X.110.1.145",
+        "first-page": "278",
+        "article-title": "Beyond hedonism: Motives for inhibiting good moods and for maintaining bad moods.",
+        "volume-title": "Handbook of mental control",
+        "author": "Parrott",
+        "year": "1993"
+      },
+      {
+        "key": "r167_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0361-9230(84)90189-8"
+      },
+      {
+        "key": "r168_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "137",
+        "DOI": "10.1007/978-94-009-2403-1_8",
+        "article-title": "Adaptive interaction of rats with dangerous inanimate objects: Support for a cognitive theory of defensive behavior.",
+        "volume-title": "Ethoexperimental approaches to the study of behavior",
+        "author": "Pinel",
+        "year": "1989"
+      },
+      {
+        "key": "r169_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.55.10.1105"
+      },
+      {
+        "key": "r170_10.1037/0033-295X.110.1.145",
+        "volume-title": "How the mind works.",
+        "author": "Pinker",
+        "year": "1997"
+      },
+      {
+        "key": "r171_10.1037/0033-295X.110.1.145",
+        "volume-title": "Cognition and emotion: From order to disorder.",
+        "author": "Power",
+        "year": "1997"
+      },
+      {
+        "key": "r172_10.1037/0033-295X.110.1.145",
+        "volume-title": "Fear and courage",
+        "author": "Rachman",
+        "year": "1984",
+        "edition": "2nd ed."
+      },
+      {
+        "key": "r173_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0005-7967(74)90005-9"
+      },
+      {
+        "key": "r174_10.1037/0033-295X.110.1.145",
+        "first-page": "141",
+        "article-title": "A structuralist reconstruction of Wundt's three-dimensional theory of emotion.",
+        "volume-title": "The structuralist program in psychology: Foundations and applications",
+        "author": "Reisenzein",
+        "year": "1992"
+      },
+      {
+        "key": "r175_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/026999300378978"
+      },
+      {
+        "key": "r176_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.47.1.34"
+      },
+      {
+        "key": "r177_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/026999300378914"
+      },
+      {
+        "key": "r178_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1080/02699939108411034",
+        "article-title": "Appraisal determinants of discrete emotions.",
+        "volume": "5",
+        "author": "Roseman",
+        "year": "1991",
+        "journal-title": "Cognition and Emotion",
+        "ISSN": "https://id.crossref.org/issn/0269-9931",
+        "issn-type": "print"
+      },
+      {
+        "key": "r179_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1080/02699939408408938",
+        "article-title": "Coherence between expressive and experiential systems in emotion.",
+        "volume": "8",
+        "author": "Rosenberg",
+        "year": "1994",
+        "journal-title": "Cognition and Emotion",
+        "ISSN": "https://id.crossref.org/issn/0269-9931",
+        "issn-type": "print"
+      },
+      {
+        "key": "r180_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0027800"
+      },
+      {
+        "key": "r181_10.1037/0033-295X.110.1.145",
+        "first-page": "109",
+        "article-title": "Preadaptation and the puzzles and properties of pleasure.",
+        "volume-title": "Well-being: The foundations of hedonic psychology",
+        "author": "Rozin",
+        "year": "1999"
+      },
+      {
+        "key": "r182_10.1037/0033-295X.110.1.145",
+        "first-page": "637",
+        "article-title": "Disgust.",
+        "volume-title": "Handbook of emotions",
+        "author": "Rozin",
+        "year": "2000",
+        "edition": "2nd ed."
+      },
+      {
+        "key": "r183_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0077714"
+      },
+      {
+        "key": "r184_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.110.3.426"
+      },
+      {
+        "key": "r185_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.115.1.102"
+      },
+      {
+        "key": "r186_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.118.3.379"
+      },
+      {
+        "key": "r187_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "295",
+        "DOI": "10.1017/CBO9780511659911.015",
+        "article-title": "Reading emotion from and into faces: Resurrecting a dimensional-contextual perspective.",
+        "volume-title": "The psychology of facial expression",
+        "author": "Russell",
+        "year": "1997"
+      },
+      {
+        "key": "r188_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "309",
+        "DOI": "10.1521/soco.1986.4.3.309",
+        "article-title": "Fuzzy concepts and the perception of emotion in facial expressions.",
+        "volume": "4",
+        "author": "Russell",
+        "year": "1986",
+        "journal-title": "Social Cognition",
+        "ISSN": "https://id.crossref.org/issn/0278-016X",
+        "issn-type": "print"
+      },
+      {
+        "key": "r189_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.125.1.3"
+      },
+      {
+        "key": "r190_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.67.2.186"
+      },
+      {
+        "key": "r191_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.76.5.805"
+      },
+      {
+        "key": "r192_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0092-6566(77)90037-X"
+      },
+      {
+        "key": "r193_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.38.2.311"
+      },
+      {
+        "key": "r194_10.1037/0033-295X.110.1.145",
+        "first-page": "245",
+        "article-title": "Emotion and the environment.",
+        "volume-title": "Handbook of environmental psychology",
+        "author": "Russell",
+        "year": "1987"
+      },
+      {
+        "key": "r195_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1177/0013916581133001",
+        "article-title": "The affective quality attributed to environments: A factor analytic study.",
+        "volume": "13",
+        "author": "Russell",
+        "year": "1981",
+        "journal-title": "Environment and Behavior",
+        "ISSN": "https://id.crossref.org/issn/0013-9165",
+        "issn-type": "print"
+      },
+      {
+        "key": "r196_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/026999398379484"
+      },
+      {
+        "key": "r197_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8721.00086"
+      },
+      {
+        "key": "r198_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1016/S0065-2601(08)60048-9",
+        "article-title": "The interaction of cognitive and physiological determinants of emotional state.",
+        "volume-title": "Advances in experimental social psychology",
+        "volume": "Vol. 1",
+        "author": "Schachter",
+        "year": "1964"
+      },
+      {
+        "key": "r199_10.1037/0033-295X.110.1.145",
+        "unstructured": "Schachter. 1964"
+      },
+      {
+        "key": "r200_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0046234"
+      },
+      {
+        "key": "r201_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0040391"
+      },
+      {
+        "key": "r202_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.35.9.625"
+      },
+      {
+        "key": "r203_10.1037/0033-295X.110.1.145",
+        "first-page": "139",
+        "article-title": "What does a facial expression express?",
+        "volume-title": "International review of studies of emotion",
+        "volume": "Vol. 2",
+        "author": "Scherer",
+        "year": "1992"
+      },
+      {
+        "key": "r204_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0036643"
+      },
+      {
+        "key": "r205_10.1037/0033-295X.110.1.145",
+        "first-page": "527",
+        "article-title": "Feelings as information: Informative and motivational functions of affective states.",
+        "volume-title": "Handbook of motivation and cognition: Foundations of social behavior",
+        "volume": "Vol. 2",
+        "author": "Schwarz",
+        "year": "1990"
+      },
+      {
+        "key": "r206_10.1037/0033-295X.110.1.145",
+        "first-page": "55",
+        "article-title": "Happy and mindless, but sad and smart? The impact of affective states on analytic reasoning.",
+        "volume-title": "Emotion and social judgments",
+        "author": "Schwarz",
+        "year": "1991"
+      },
+      {
+        "key": "r207_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.45.3.513"
+      },
+      {
+        "key": "r208_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.1002/ejsp.2420170107",
+        "article-title": "Soccer, rooms and the quality of your life: Mood effects on judgments of satisfaction with life in general and with specific life-domains.",
+        "volume": "17",
+        "author": "Schwarz",
+        "year": "1987",
+        "journal-title": "European Journal of Social Psychology",
+        "ISSN": "https://id.crossref.org/issn/0046-2772",
+        "issn-type": "print"
+      },
+      {
+        "key": "r209_10.1037/0033-295X.110.1.145",
+        "volume-title": "Intentionality: An essay in the philosophy of mind.",
+        "author": "Searle",
+        "year": "1982"
+      },
+      {
+        "key": "r210_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8721.ep10772715"
+      },
+      {
+        "key": "r211_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.48.4.813"
+      },
+      {
+        "key": "r212_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1017/CBO9780511659911.012",
+        "article-title": "A componential approach to the meaning of facial expressions.",
+        "volume-title": "The psychology of facial expression",
+        "author": "Smith",
+        "year": "1997"
+      },
+      {
+        "key": "r213_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.1521/soco.1997.15.1.55",
+        "article-title": "Color as an environmental processing cue: External affective cues can directly affect processing strategy without affecting mood.",
+        "volume": "15",
+        "author": "Soldat",
+        "year": "1997",
+        "journal-title": "Social Cognition",
+        "ISSN": "https://id.crossref.org/issn/0278-016X",
+        "issn-type": "print"
+      },
+      {
+        "key": "r214_10.1037/0033-295X.110.1.145",
+        "volume-title": "The passions.",
+        "author": "Solomon",
+        "year": "1976"
+      },
+      {
+        "key": "r215_10.1037/0033-295X.110.1.145",
+        "first-page": "66",
+        "article-title": "Addiction.",
+        "volume-title": "Psychopathology: Experimental models",
+        "author": "Solomon",
+        "year": "1977"
+      },
+      {
+        "key": "r216_10.1037/0033-295X.110.1.145",
+        "first-page": "249",
+        "article-title": "Salience, attention, and attribution: Top of the head phenomena.",
+        "volume-title": "Advances in experimental social psychology",
+        "volume": "Vol. 11",
+        "author": "Taylor",
+        "year": "1975"
+      },
+      {
+        "key": "r217_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/S15327957PSPR0404_1"
+      },
+      {
+        "key": "r218_10.1037/0033-295X.110.1.145",
+        "first-page": "400",
+        "article-title": "The psychology of evaluation.",
+        "volume-title": "Social psychology: Handbook of basic principles",
+        "author": "Tesser",
+        "year": "1996"
+      },
+      {
+        "key": "r219_10.1037/0033-295X.110.1.145",
+        "volume-title": "The biopsychology of mood and activation.",
+        "author": "Thayer",
+        "year": "1989"
+      },
+      {
+        "key": "r220_10.1037/0033-295X.110.1.145",
+        "volume-title": "The origin of everyday moods: Managing energy, tension, and stress.",
+        "author": "Thayer",
+        "year": "1996"
+      },
+      {
+        "key": "r221_10.1037/0033-295X.110.1.145",
+        "volume-title": "The positive affects.",
+        "volume": "Vol. 1",
+        "author": "Tomkins",
+        "year": "1962"
+      },
+      {
+        "key": "r222_10.1037/0033-295X.110.1.145",
+        "volume-title": "The negative affects.",
+        "volume": "Vol. 2",
+        "author": "Tomkins",
+        "year": "1963"
+      },
+      {
+        "key": "r223_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0023791"
+      },
+      {
+        "key": "r224_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.62.3.489"
+      },
+      {
+        "key": "r225_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.98.2.219"
+      },
+      {
+        "key": "r226_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.54.7.480"
+      },
+      {
+        "key": "r227_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.92.4.548"
+      },
+      {
+        "key": "r228_10.1037/0033-295X.110.1.145",
+        "first-page": "406",
+        "article-title": "Defensive style and discrepancy between self-report and physiological indexes of stress.",
+        "volume": "10",
+        "author": "Weinstein",
+        "year": "1968",
+        "journal-title": "Psychosomatic Medicine",
+        "ISSN": "https://id.crossref.org/issn/0033-3174",
+        "issn-type": "print"
+      },
+      {
+        "key": "r229_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "first-page": "411",
+        "DOI": "10.1523/JNEUROSCI.18-01-00411.1998",
+        "article-title": "Masked presentations of emotional facial expressions modulate amygdala activity without explicit knowledge.",
+        "volume": "18",
+        "author": "Whalen",
+        "year": "1998",
+        "journal-title": "The Journal of Neuroscience",
+        "ISSN": "https://id.crossref.org/issn/0270-6474",
+        "issn-type": "print"
+      },
+      {
+        "key": "r230_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0364-0213(92)90031-O"
+      },
+      {
+        "key": "r231_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/CBO9780511521256",
+        "volume-title": "Emotions across languages and cultures.",
+        "author": "Wierzbicka",
+        "year": "1999"
+      },
+      {
+        "key": "r232_10.1037/0033-295X.110.1.145",
+        "unstructured": "Winkielman. 2000"
+      },
+      {
+        "key": "r233_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.47.2.237"
+      },
+      {
+        "key": "r234_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1037/12908-000",
+        "volume-title": "Outlines of psychology",
+        "author": "Wundt",
+        "year": "1897"
+      },
+      {
+        "key": "r235_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.77.3.600"
+      },
+      {
+        "key": "r236_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.35.2.151"
+      },
+      {
+        "key": "r237_10.1037/0033-295X.110.1.145",
+        "first-page": "31",
+        "article-title": "Feeling and thinking.",
+        "volume-title": "Feeling and thinking",
+        "author": "Zajonc",
+        "year": "2000"
+      },
+      {
+        "key": "r238_10.1037/0033-295X.110.1.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.1992.tb00261.x"
+      },
+      {
+        "key": "r239_10.1037/0033-295X.110.1.145",
+        "first-page": "215",
+        "article-title": "Transfer of excitation in emotional behavior.",
+        "volume-title": "Social psychophysiology: A sourcebook",
+        "author": "Zillman",
+        "year": "1983"
+      }
+    ],
+    "container-title": [
+      "Psychological Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://psycnet.apa.org/journals/rev/110/1/145.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          6
+        ]
+      ],
+      "date-time": "2024-02-06T20:25:15Z",
+      "timestamp": 1707251115000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://doi.apa.org/doi/10.1037/0033-295X.110.1.145"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "references-count": 239,
+    "aliases": [
+      "10.1037//0033-295x.110.1.145"
+    ],
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2003
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "2002-08416-007",
+      "12529060"
+    ],
+    "URL": "https://doi.org/10.1037/0033-295x.110.1.145",
+    "relation": {},
+    "ISSN": [
+      "1939-1471",
+      "0033-295X"
+    ],
+    "issn-type": [
+      {
+        "value": "1939-1471",
+        "type": "electronic"
+      },
+      {
+        "value": "0033-295X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    }
+  }
+}

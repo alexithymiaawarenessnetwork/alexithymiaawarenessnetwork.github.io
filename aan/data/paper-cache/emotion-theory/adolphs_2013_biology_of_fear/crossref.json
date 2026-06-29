@@ -1,0 +1,1852 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          4
+        ]
+      ],
+      "date-time": "2026-06-04T10:13:01Z",
+      "timestamp": 1780567981090,
+      "version": "3.54.1"
+    },
+    "reference-count": 146,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2013-01-01T00:00:00Z",
+          "timestamp": 1356998400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2013-01-01T00:00:00Z",
+          "timestamp": 1356998400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              1,
+              21
+            ]
+          ],
+          "date-time": "2014-01-21T00:00:00Z",
+          "timestamp": 1390262400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 385,
+        "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2013-01-01T00:00:00Z",
+          "timestamp": 1356998400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2013-01-01T00:00:00Z",
+          "timestamp": 1356998400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2013-01-01T00:00:00Z",
+          "timestamp": 1356998400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2013-01-01T00:00:00Z",
+          "timestamp": 1356998400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2013-01-01T00:00:00Z",
+          "timestamp": 1356998400000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000025",
+        "name": "National Institute of Mental Health",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000025",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "cell.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Current Biology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cub.2012.11.055",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          21
+        ]
+      ],
+      "date-time": "2013-01-21T10:45:23Z",
+      "timestamp": 1358765123000
+    },
+    "page": "R79-R93",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 440,
+    "title": [
+      "The Biology of Fear"
+    ],
+    "prefix": "10.1016",
+    "volume": "23",
+    "author": [
+      {
+        "given": "Ralph",
+        "family": "Adolphs",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib1",
+        "series-title": "Ethoexperimental Approaches to the Study of Behavior",
+        "first-page": "114",
+        "article-title": "Ethoexperimental approaches to the study of defensive behavior",
+        "author": "Blanchard",
+        "year": "1989"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "761",
+        "DOI": "10.1016/S0149-7634(01)00056-2",
+        "article-title": "Human defensive behaviors to threat scenarios show parallels to fear- and anxiety-related defense patterns of nonhuman mammals",
+        "volume": "25",
+        "author": "Blanchard",
+        "year": "2001",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "169",
+        "DOI": "10.1080/02699939208411068",
+        "article-title": "An argument for basic emotions",
+        "volume": "6",
+        "author": "Ekman",
+        "year": "1992",
+        "journal-title": "Cognition Emotion"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1037/0033-295X.110.1.145",
+        "article-title": "Core affect and the psychological construction of emotion",
+        "volume": "110",
+        "author": "Russell",
+        "year": "2003",
+        "journal-title": "Psychol. Rev."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1146/annurev.psych.58.110405.085709",
+        "article-title": "The experience of emotion",
+        "volume": "58",
+        "author": "Barrett",
+        "year": "2007",
+        "journal-title": "Annu. Rev. Psychol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "413",
+        "DOI": "10.1037/a0027555",
+        "article-title": "Emotions are real",
+        "volume": "12",
+        "author": "Barrett",
+        "year": "2012",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "188",
+        "DOI": "10.1093/mind/os-IX.34.188",
+        "article-title": "What is an emotion?",
+        "volume": "9",
+        "author": "James",
+        "year": "1884",
+        "journal-title": "Mind"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "2864",
+        "DOI": "10.1162/jocn.2009.21366",
+        "article-title": "Neuroimaging support for discrete neural correlates of basic emotions: a voxel-based meta-analysis",
+        "volume": "22",
+        "author": "Vytal",
+        "year": "2010",
+        "journal-title": "J. Cogn. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "458",
+        "DOI": "10.1016/j.tics.2012.07.006",
+        "article-title": "Mapping discrete and dimensional emotions onto the brain: controversies and consensus",
+        "volume": "16",
+        "author": "Hamann",
+        "year": "2012",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "121",
+        "DOI": "10.1017/S0140525X11000446",
+        "article-title": "The brain basis of emotion: a meta-analytic review",
+        "volume": "35",
+        "author": "Lindquist",
+        "year": "2012",
+        "journal-title": "Behav. Brain Sci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "998",
+        "DOI": "10.1016/j.neuroimage.2008.03.059",
+        "article-title": "Functional grouping and cortical-subcortical interactions in emotion: a meta-analysis of neuroimaging studies",
+        "volume": "42",
+        "author": "Kober",
+        "year": "2008",
+        "journal-title": "Neuroimage"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib12",
+        "series-title": "Affective Neuroscience",
+        "author": "Panksepp",
+        "year": "1998"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "653",
+        "DOI": "10.1016/j.neuron.2012.02.004",
+        "article-title": "Rethinking the emotional brain",
+        "volume": "73",
+        "author": "LeDoux",
+        "year": "2012",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1146/annurev.psych.58.110405.085709",
+        "article-title": "The experience of emotion",
+        "volume": "58",
+        "author": "Barrett",
+        "year": "2007",
+        "journal-title": "Annu. Rev. Psychol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib15",
+        "series-title": "The Brain and Emotion",
+        "author": "Rolls",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib16",
+        "first-page": "51",
+        "article-title": "Affective judgment and psychophysiological response: dimensional covariation in the evaluation of pictorial stimuli",
+        "volume": "3",
+        "author": "Greenwald",
+        "year": "1989",
+        "journal-title": "J. Psychophysiol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib17",
+        "series-title": "The Expression of the Emotions in Man and Animals",
+        "author": "Darwin",
+        "year": "1872"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "431",
+        "DOI": "10.1016/B978-0-444-53860-4.00021-0",
+        "article-title": "Evolution of human emotion: a view through fear",
+        "volume": "195",
+        "author": "LeDoux",
+        "year": "2012",
+        "journal-title": "Progr. Brain Res."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1038/npp.2009.109",
+        "article-title": "Phasic versus sustained fear in rats and humans: role of the extended amygdala in fear vs. anxiety",
+        "volume": "35",
+        "author": "Davis",
+        "year": "2010",
+        "journal-title": "Neuropsychopharmacology"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib20",
+        "series-title": "Evolution and Learning",
+        "first-page": "185",
+        "article-title": "A functional behavioristic approach to aversively motivated behavior: predatory imminence as a determinant of the topography of defensive behavior",
+        "author": "Fanselow",
+        "year": "1988"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "651",
+        "DOI": "10.1038/nrn3301",
+        "article-title": "The many paths to fear",
+        "volume": "13",
+        "author": "Gross",
+        "year": "2012",
+        "journal-title": "Nature Rev. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1064",
+        "DOI": "10.1016/j.ajhg.2012.04.012",
+        "article-title": "Duplication of GTF2I rsults in separation anxiety in mice and humans",
+        "volume": "90",
+        "author": "Mervis",
+        "year": "2012",
+        "journal-title": "Am. J. Hum. Genet."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib23",
+        "series-title": "Handbook of Emotions",
+        "first-page": "272",
+        "article-title": "Interoception and emotion: a neuroanatomical perspective",
+        "author": "Craig",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib24",
+        "series-title": "Looking for Spinoza: Joy, Sorrow, and the Feeling Brain",
+        "author": "Damasio",
+        "year": "2003"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "655",
+        "DOI": "10.1038/nrn894",
+        "article-title": "How do you feel? Interoception: the sense of the physiological condition of the body",
+        "volume": "3",
+        "author": "Craig",
+        "year": "2002",
+        "journal-title": "Nat. Rev. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib26",
+        "series-title": "The neuropsychology of Anxiety: an Enquiry into the Functions of the Septo-hippocampal System",
+        "author": "Gray",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.1016/j.neubiorev.2004.03.005",
+        "article-title": "A two-dimensional neuropsychology of defense: fear/anxiety and defensive distance",
+        "volume": "28",
+        "author": "McNaughton",
+        "year": "2004",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.1038/nn.2233",
+        "article-title": "Representation of negative motivational value in the primate lateral habenula",
+        "volume": "12",
+        "author": "Matsumoto",
+        "year": "2009",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "386",
+        "DOI": "10.1002/dneu.20913",
+        "article-title": "Genetic dissection of the zebrafish habenula, a possible switching board for selection of behavioral strategy to cope with fear and anxiety",
+        "volume": "72",
+        "author": "Okamoto",
+        "year": "2012",
+        "journal-title": "Dev. Neurobiol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "134",
+        "DOI": "10.1101/lm.1534710",
+        "article-title": "Involvement of the lateral septal area in the expression of fear conditioning to context",
+        "volume": "17",
+        "author": "Reis",
+        "year": "2010",
+        "journal-title": "Learning Memory"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1016/j.neubiorev.2003.12.004",
+        "article-title": "Serotonin, the periaqueductal gray and panic",
+        "volume": "28",
+        "author": "Graeff",
+        "year": "2004",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "1127",
+        "DOI": "10.1016/j.neuron.2011.07.016",
+        "article-title": "Different time courses for learning-related changes in amygdala and orbitofrontal cortex",
+        "volume": "71",
+        "author": "Morrison",
+        "year": "2011",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "12692",
+        "DOI": "10.1073/pnas.1002418107",
+        "article-title": "Optical activation of lateral amygdala pyramidal cells instructs associative fear learning",
+        "volume": "107",
+        "author": "Johansen",
+        "year": "2010",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "656",
+        "DOI": "10.1016/j.neuron.2010.07.008",
+        "article-title": "A neural switch for active and passive fear",
+        "volume": "67",
+        "author": "Gozzi",
+        "year": "2010",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "270",
+        "DOI": "10.1038/nature09553",
+        "article-title": "Genetic dissection of an amygdala microcircuit that gates conditioned fear",
+        "volume": "468",
+        "author": "Haubensak",
+        "year": "2010",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "358",
+        "DOI": "10.1038/nature09820",
+        "article-title": "Amygdala circuitry mediating reversible and bidirectional control of anxiety",
+        "volume": "471",
+        "author": "Tye",
+        "year": "2011",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "669",
+        "DOI": "10.1038/372669a0",
+        "article-title": "Impaired recognition of emotion in facial expressions following bilateral damage to the human amygdala",
+        "volume": "372",
+        "author": "Adolphs",
+        "year": "1994",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "947",
+        "DOI": "10.1016/S0896-6273(00)80476-6",
+        "article-title": "Brain systems mediating aversive conditioning: an event-related fMRI study",
+        "volume": "20",
+        "author": "Buechel",
+        "year": "1998",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "34",
+        "DOI": "10.1016/j.cub.2010.11.042",
+        "article-title": "The human amygdala and the induction and experience of fear",
+        "volume": "21",
+        "author": "Feinstein",
+        "year": "2011",
+        "journal-title": "Curr. Biol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "446",
+        "DOI": "10.1016/S0006-3223(97)00145-5",
+        "article-title": "The functional neuroanatomy of anxiety: a study of three disorders using positron emission tomography and symptom provocation",
+        "volume": "42",
+        "author": "Rauch",
+        "year": "1997",
+        "journal-title": "Biol. Psychiatry"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib41",
+        "doi-asserted-by": "crossref",
+        "first-page": "918",
+        "DOI": "10.1176/ajp.154.7.918",
+        "article-title": "Neuroanatomical correlates of externally and internally generated human emotion",
+        "volume": "154",
+        "author": "Reiman",
+        "year": "1997",
+        "journal-title": "Am. J. Psychiatry"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "7752",
+        "DOI": "10.1523/JNEUROSCI.20-20-07752.2000",
+        "article-title": "Emotional responses to pleasant and unpleasant olfactory, visual, and auditory stimuli: a positron emission tomography study",
+        "volume": "20",
+        "author": "Royet",
+        "year": "2000",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib43",
+        "doi-asserted-by": "crossref",
+        "first-page": "1441",
+        "DOI": "10.1016/j.neuroimage.2005.11.003",
+        "article-title": "Beyond threat: amygdala reactivity across multiple expressions of facial affect",
+        "volume": "30",
+        "author": "Fitzgerald",
+        "year": "2006",
+        "journal-title": "Neuroimage"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib44",
+        "doi-asserted-by": "crossref",
+        "first-page": "11818",
+        "DOI": "10.1073/pnas.191355898",
+        "article-title": "Intensely pleasurable responses to music correlate with activity in brain regions implicated in reward and emotion",
+        "volume": "98",
+        "author": "Blood",
+        "year": "2001",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib45",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1111/1467-9280.00425",
+        "article-title": "Ecstasy and Agony: Activation of the human amygdala in positive and negative emotion",
+        "volume": "13",
+        "author": "Hamann",
+        "year": "2002",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "42",
+        "DOI": "10.1111/j.1749-6632.2010.05445.x",
+        "article-title": "What does the amygdala contribute to social cognition?",
+        "volume": "1191",
+        "author": "Adolphs",
+        "year": "2010",
+        "journal-title": "Ann. N.Y. Acad. Sci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib47",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1146/annurev.neuro.27.070203.144157",
+        "article-title": "The amygdala modulates the consolidation of memories of emotionally arousing experiences",
+        "volume": "27",
+        "author": "McGaugh",
+        "year": "2004",
+        "journal-title": "Annu. Rev. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib48",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1016/S1364-6613(98)01271-6",
+        "article-title": "Amygdala circuitry in attentional and representational processes",
+        "volume": "3",
+        "author": "Holland",
+        "year": "1999",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib49",
+        "doi-asserted-by": "crossref",
+        "first-page": "1271",
+        "DOI": "10.1038/nn1341",
+        "article-title": "Distant influences of amygdala lesion on visual cortical activation during emotional face processing",
+        "volume": "7",
+        "author": "Vuilleumier",
+        "year": "2004",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib50",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1196/annals.1301.010",
+        "article-title": "The amygdala and development of the social brain",
+        "volume": "1008",
+        "author": "Skuse",
+        "year": "2003",
+        "journal-title": "Ann. N.Y. Acad. Sci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib51",
+        "doi-asserted-by": "crossref",
+        "first-page": "R311",
+        "DOI": "10.1016/S0960-9822(06)00146-1",
+        "article-title": "What does the amygdala do?",
+        "volume": "7",
+        "author": "Phelps",
+        "year": "1997",
+        "journal-title": "Curr. Biol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib52",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.1038/nrn2317",
+        "article-title": "On the relationship between emotion and cognition",
+        "volume": "9",
+        "author": "Pessoa",
+        "year": "2008",
+        "journal-title": "Nat. Rev. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib53",
+        "doi-asserted-by": "crossref",
+        "first-page": "377",
+        "DOI": "10.1038/41097",
+        "article-title": "Different types of fear-conditioned behavior mediated by separate nuclei within the amygdala",
+        "volume": "388",
+        "author": "Killcross",
+        "year": "1997",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib54",
+        "doi-asserted-by": "crossref",
+        "first-page": "74",
+        "DOI": "10.1038/71145",
+        "article-title": "Different lateral amygdala outputs mediate reactions and actions elicited by a fear-arousing stimulus",
+        "volume": "3",
+        "author": "Amorapanth",
+        "year": "2000",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib55",
+        "series-title": "The Human Amygdala",
+        "author": "Whalen",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib56",
+        "doi-asserted-by": "crossref",
+        "first-page": "5506",
+        "DOI": "10.1523/JNEUROSCI.0292-04.2004",
+        "article-title": "The role of the central nucleus of the amygdala in mediating fear and anxiety in the primate",
+        "volume": "24",
+        "author": "Kalin",
+        "year": "2004",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib57",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1037/1528-3542.6.1.73",
+        "article-title": "Amygdalectomy and responsiveness to novelty in rhesus monkeys: generality and individual consistency of effects",
+        "volume": "6",
+        "author": "Mason",
+        "year": "2006",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib58",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1146/annurev.neuro.23.1.155",
+        "article-title": "Emotion circuits in the brain",
+        "volume": "23",
+        "author": "LeDoux",
+        "year": "2000",
+        "journal-title": "Annu. Rev. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib59",
+        "series-title": "The Amygdala: A Functional Analysis",
+        "first-page": "213",
+        "article-title": "The role of the amygdala in conditioned and unconditioned fear and anxiety",
+        "author": "Davis",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib60",
+        "doi-asserted-by": "crossref",
+        "first-page": "537",
+        "DOI": "10.1016/S0361-9230(01)00687-6",
+        "article-title": "Striato-amygdaloid transition area lesions reduce the duration of tonic immobility in the lizard Podarcis hispanica",
+        "volume": "57",
+        "author": "Davies",
+        "year": "2002",
+        "journal-title": "Brain Res. Bull."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib61",
+        "doi-asserted-by": "crossref",
+        "first-page": "50",
+        "DOI": "10.1111/j.1749-6632.2003.tb07070.x",
+        "article-title": "Comparative aspects of amygdala connectivity",
+        "volume": "985",
+        "author": "Price",
+        "year": "2003",
+        "journal-title": "Ann. N. Y. Acad. Sci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib62",
+        "doi-asserted-by": "crossref",
+        "first-page": "11087",
+        "DOI": "10.1073/pnas.0805664105",
+        "article-title": "The functional basis of face evaluation",
+        "volume": "105",
+        "author": "Oosterhof",
+        "year": "2008",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib63",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1037/a0014520",
+        "article-title": "Shared perceptual basis of emotional expressions and trustworthiness impressions from faces",
+        "volume": "9",
+        "author": "Oosterhof",
+        "year": "2009",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib64",
+        "series-title": "Human Facial Expression",
+        "author": "Fridlund",
+        "year": "1994"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib65",
+        "doi-asserted-by": "crossref",
+        "first-page": "843",
+        "DOI": "10.1038/nn.2138",
+        "article-title": "Expressing fear enhances sensory acquisition",
+        "volume": "11",
+        "author": "Susskind",
+        "year": "2008",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib66",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/j.tics.2012.09.006",
+        "article-title": "The social brain in psychiatric and neurological disorders",
+        "volume": "16",
+        "author": "Kennedy",
+        "year": "2012",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib67",
+        "doi-asserted-by": "crossref",
+        "first-page": "206",
+        "DOI": "10.1093/cercor/10.3.206",
+        "article-title": "The organization of networks within the orbital and medial prefrontal cortex of rats, monkeys, and humans",
+        "volume": "10",
+        "author": "Öngür",
+        "year": "2000",
+        "journal-title": "Cerebral Cortex"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib68",
+        "doi-asserted-by": "crossref",
+        "first-page": "14681",
+        "DOI": "10.1073/pnas.1206608109",
+        "article-title": "Lesion mapping of cognitive control and value-based decision-making in the prefrontal cortex",
+        "volume": "109",
+        "author": "Glaescher",
+        "year": "2012",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib69",
+        "doi-asserted-by": "crossref",
+        "first-page": "192",
+        "DOI": "10.1038/npp.2009.104",
+        "article-title": "Neurocircuitry of mood disorders",
+        "volume": "35",
+        "author": "Price",
+        "year": "2010",
+        "journal-title": "Neuropsychopharmacology"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib70",
+        "doi-asserted-by": "crossref",
+        "first-page": "268",
+        "DOI": "10.1016/j.tics.2010.04.002",
+        "article-title": "Overlapping neural systems mediating extinction, reversal and regulation of fear",
+        "volume": "14",
+        "author": "Schiller",
+        "year": "2010",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib71",
+        "doi-asserted-by": "crossref",
+        "first-page": "S3",
+        "DOI": "10.1016/0278-5846(89)90105-X",
+        "article-title": "Attach and defense in rodents as ethoexperimental models for the study of emotion",
+        "volume": "13",
+        "author": "Blanchard",
+        "year": "1989",
+        "journal-title": "Progr. Neuropsychopharmacol. Biol. Psychiatry"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib72",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1016/S0149-7634(05)80069-7",
+        "article-title": "The characterization and modelling of antipredator defensive behavior",
+        "volume": "14",
+        "author": "Blanchard",
+        "year": "1990",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib73",
+        "doi-asserted-by": "crossref",
+        "first-page": "232",
+        "DOI": "10.1038/nn2032",
+        "article-title": "Focal brain damage protects against post-traumatic stress disorder in combat veterans",
+        "volume": "11",
+        "author": "Koenigs",
+        "year": "2008",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib74",
+        "series-title": "Fear and Defence",
+        "first-page": "89",
+        "author": "Blanchard",
+        "year": "1990"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib75",
+        "doi-asserted-by": "crossref",
+        "first-page": "773",
+        "DOI": "10.1038/nrn2920",
+        "article-title": "Emotion processing and the amygdala: from a \"low road\" to \"many roads\" of evaluating biological significance",
+        "volume": "11",
+        "author": "Pessoa",
+        "year": "2010",
+        "journal-title": "Nat. Neurosci. Rev."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib76",
+        "doi-asserted-by": "crossref",
+        "first-page": "365",
+        "DOI": "10.1038/nn1399",
+        "article-title": "Medial prefrontal cortex determines how stressor controllability affects behavior and dorsal raphe nucleus",
+        "volume": "8",
+        "author": "Amat",
+        "year": "2005",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib77",
+        "doi-asserted-by": "crossref",
+        "first-page": "801",
+        "DOI": "10.1126/science.7433999",
+        "article-title": "Monkey responses to three different alarm calls: evidence of predator classification and semantic communication",
+        "volume": "210",
+        "author": "Seyfarth",
+        "year": "1980",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib78",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1007/s10519-004-0858-3",
+        "article-title": "Principles of rat communication: quantitative parameters of ultrasonic calls in rats",
+        "volume": "35",
+        "author": "Brudzynski",
+        "year": "2005",
+        "journal-title": "Behav. Genet."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib79",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1163/156853986X00027",
+        "article-title": "Semantics of an avian alarm-call system: the male domestic fowl (Gallus domesticus)",
+        "volume": "102",
+        "author": "Gyger",
+        "year": "1987",
+        "journal-title": "Behavior"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib80",
+        "first-page": "2895",
+        "article-title": "An integrative framework for the study of animal emotion and mood",
+        "volume": "277",
+        "author": "Mendl",
+        "year": "2010",
+        "journal-title": "Proc. R. Soc. London B"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib81",
+        "doi-asserted-by": "crossref",
+        "first-page": "1070",
+        "DOI": "10.1016/j.cub.2011.05.017",
+        "article-title": "Agitated honeybees exhibit pessimistic cognitive biases",
+        "volume": "21",
+        "author": "Bateson",
+        "year": "2011",
+        "journal-title": "Curr. Biol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib82",
+        "series-title": "The Psychology of Fear and Stress",
+        "author": "Gray",
+        "year": "1987"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib83",
+        "doi-asserted-by": "crossref",
+        "first-page": "483",
+        "DOI": "10.1037/0033-295X.108.3.483",
+        "article-title": "Fears, phobias, and preparedness: toward and evolved module of fear and fear learning",
+        "volume": "108",
+        "author": "Öhman",
+        "year": "2001",
+        "journal-title": "Psychol. Rev."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib84",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1523/JNEUROSCI.23-01-00023.2003",
+        "article-title": "Temporary inactivation of the bed nucleus of the stria terminalis but not of the amygdala blocks freezing induced by trimethylthiazoline, a compound of fox feces",
+        "volume": "23",
+        "author": "Fendt",
+        "year": "2003",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib85",
+        "doi-asserted-by": "crossref",
+        "first-page": "1095",
+        "DOI": "10.1038/nn1968",
+        "article-title": "Social learning of fear",
+        "volume": "10",
+        "author": "Olsson",
+        "year": "2007",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib86",
+        "series-title": "The Evolution of Communication",
+        "author": "Hauser",
+        "year": "1996"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib87",
+        "doi-asserted-by": "crossref",
+        "first-page": "3858",
+        "DOI": "10.1073/pnas.0511302103",
+        "article-title": "Between-subject transfer of emotional information evokes specific pattern of amygdala activation",
+        "volume": "103",
+        "author": "Knapska",
+        "year": "2006",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib88",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1093/scan/nsm005",
+        "article-title": "Learning fears by observing others: the neural systems of social fear transmission",
+        "volume": "2",
+        "author": "Olsson",
+        "year": "2007",
+        "journal-title": "Soc. Cogn. Affect. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib89",
+        "doi-asserted-by": "crossref",
+        "first-page": "451",
+        "DOI": "10.1037/0097-7403.33.4.451",
+        "article-title": "Escape from fear: a detailed behavioral analysis of two atypical responses reinforced by CS termination",
+        "volume": "33",
+        "author": "Cain",
+        "year": "2007",
+        "journal-title": "J. Exp. Psychol. Anim. Behav. Process"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib90",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1037/0735-7036.100.2.101",
+        "article-title": "Defensive behaviors of laboratory and wild Rattus norvegicus",
+        "volume": "100",
+        "author": "Blanchard",
+        "year": "1986",
+        "journal-title": "J. Comp. Psychol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib91",
+        "doi-asserted-by": "crossref",
+        "first-page": "1226",
+        "DOI": "10.1038/nn.2381",
+        "article-title": "Personal space regulation by the human amygdala",
+        "volume": "12",
+        "author": "Kennedy",
+        "year": "2009",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib92",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1093/cercor/bhm040",
+        "article-title": "Rising sound intensity: an intrinsic warning cue activating the amygdala",
+        "volume": "18",
+        "author": "Bach",
+        "year": "2008",
+        "journal-title": "Cereb. Cortex"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib93",
+        "doi-asserted-by": "crossref",
+        "first-page": "3855",
+        "DOI": "10.1523/JNEUROSCI.23-09-03855.2003",
+        "article-title": "Neural correlates of competing fear behaviors evoked by an innately aversive stimulus",
+        "volume": "23",
+        "author": "Mongeau",
+        "year": "2003",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib94",
+        "doi-asserted-by": "crossref",
+        "first-page": "379",
+        "DOI": "10.1016/0166-2236(94)90047-7",
+        "article-title": "Columnar organization in the midbrain periaqueductal gray: modules for emotional expression?",
+        "volume": "17",
+        "author": "Bandler",
+        "year": "1994",
+        "journal-title": "Trends Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib95",
+        "doi-asserted-by": "crossref",
+        "first-page": "1079",
+        "DOI": "10.1126/science.1144298",
+        "article-title": "When fear is near: threat imminence elicits prefrontal-periadqueductal gray shifts in humans",
+        "volume": "317",
+        "author": "Mobbs",
+        "year": "2007",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib96",
+        "doi-asserted-by": "crossref",
+        "first-page": "20582",
+        "DOI": "10.1073/pnas.1009076107",
+        "article-title": "Neural activity associated with monitoring the oscillating threat value of a tarantula",
+        "volume": "107",
+        "author": "Mobbs",
+        "year": "2010",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib97",
+        "series-title": "Emotion and Adaptation",
+        "author": "Lazarus",
+        "year": "1991"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib98",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1002/dneu.20873",
+        "article-title": "Fear, anxiety and control in the zebrafish",
+        "volume": "72",
+        "author": "Jesuthasan",
+        "year": "2012",
+        "journal-title": "Dev. Neurobiol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib99",
+        "doi-asserted-by": "crossref",
+        "first-page": "572",
+        "DOI": "10.1038/nrn3289",
+        "article-title": "Knowing how much you don't know: a neural organization of uncertainty estimates",
+        "volume": "13",
+        "author": "Bach",
+        "year": "2012",
+        "journal-title": "Nat. Rev. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib100",
+        "doi-asserted-by": "crossref",
+        "first-page": "499",
+        "DOI": "10.1016/j.tics.2007.08.016",
+        "article-title": "The uncertainty of it all",
+        "volume": "11",
+        "author": "Whalen",
+        "year": "2007",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib101",
+        "doi-asserted-by": "crossref",
+        "first-page": "5958",
+        "DOI": "10.1523/JNEUROSCI.5218-06.2007",
+        "article-title": "Processing of temporal unpredictability in human and animal amygdala",
+        "volume": "27",
+        "author": "Herry",
+        "year": "2007",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib102",
+        "doi-asserted-by": "crossref",
+        "first-page": "1183",
+        "DOI": "10.1038/nprot.2011.361",
+        "article-title": "A standardized protocol for repeated social defeat stress in mice",
+        "volume": "6",
+        "author": "Golden",
+        "year": "2011",
+        "journal-title": "Nat. Protocols"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib103",
+        "doi-asserted-by": "crossref",
+        "first-page": "470",
+        "DOI": "10.1038/30982",
+        "article-title": "The human amygdala in social judgment",
+        "volume": "393",
+        "author": "Adolphs",
+        "year": "1998",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib104",
+        "doi-asserted-by": "crossref",
+        "first-page": "277",
+        "DOI": "10.1038/nn816",
+        "article-title": "Automatic and intentional brain responses during evaluation of trustworthiness of faces",
+        "volume": "5",
+        "author": "Winston",
+        "year": "2002",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib105",
+        "doi-asserted-by": "crossref",
+        "first-page": "355",
+        "DOI": "10.1037/0021-843X.93.4.355",
+        "article-title": "Observational conditioning of snake fear in rhesus monkeys",
+        "volume": "93",
+        "author": "Mineka",
+        "year": "1984",
+        "journal-title": "J. Abnorm. Psychol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib106",
+        "doi-asserted-by": "crossref",
+        "first-page": "R627",
+        "DOI": "10.1016/j.cub.2012.06.015",
+        "article-title": "Silence resulting from the cessation of movement signals danger",
+        "volume": "22",
+        "author": "Pereira",
+        "year": "2012",
+        "journal-title": "Curr. Biol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib107",
+        "doi-asserted-by": "crossref",
+        "first-page": "168",
+        "DOI": "10.1016/j.bbr.2007.10.031",
+        "article-title": "Alarm substance induced behavioral responses in zebrafish",
+        "volume": "188",
+        "author": "Speedie",
+        "year": "2008",
+        "journal-title": "Behav. Brain Res."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib108",
+        "doi-asserted-by": "crossref",
+        "first-page": "1931",
+        "DOI": "10.1016/j.cub.2005.09.015",
+        "article-title": "Social learning in noncolonial insects?",
+        "volume": "15",
+        "author": "Coolen",
+        "year": "2005",
+        "journal-title": "Curr. Biol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib109",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.1038/nature02980",
+        "article-title": "A single population of olfactory sensory neurons mediates an innate avoidance behavior in Drosophila",
+        "volume": "431",
+        "author": "Suh",
+        "year": "2004",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib110",
+        "doi-asserted-by": "crossref",
+        "first-page": "59",
+        "DOI": "10.1016/j.neuroscience.2011.10.032",
+        "article-title": "Evidence of a suffocation alarm system within the periaqueductal gray matter of the rat",
+        "volume": "200",
+        "author": "Schimitel",
+        "year": "2012",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib111",
+        "first-page": "1012",
+        "article-title": "The amygdala is a chemosensory that detects carbon dioxide and acidosis to elicit fear behavior",
+        "volume": "139",
+        "author": "Ziemann",
+        "year": "2009",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib112",
+        "doi-asserted-by": "crossref",
+        "first-page": "1307",
+        "DOI": "10.1080/02699930902928969",
+        "article-title": "The dynamic architecture of emotion: Evidence for the component process model",
+        "volume": "23",
+        "author": "Scherer",
+        "year": "2009",
+        "journal-title": "Cognition Emotion"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib113",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1207/s15327957pspr1001_2",
+        "article-title": "Solving the emotion paradox: categorization and the experience of emotion",
+        "volume": "10",
+        "author": "Barrett",
+        "year": "2006",
+        "journal-title": "Pers. Soc. Psychol. Rev."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib114",
+        "doi-asserted-by": "crossref",
+        "first-page": "30",
+        "DOI": "10.1016/j.concog.2004.10.004",
+        "article-title": "Affective consciousness: core emotional feelings in animals and humans",
+        "volume": "14",
+        "author": "Panksepp",
+        "year": "2005",
+        "journal-title": "Consciousness Cognition"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib115",
+        "doi-asserted-by": "crossref",
+        "first-page": "1402",
+        "DOI": "10.1126/science.1130197",
+        "article-title": "Detecting awareness in the vegetative state",
+        "volume": "313",
+        "author": "Owen",
+        "year": "2006",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib116",
+        "doi-asserted-by": "crossref",
+        "first-page": "1846",
+        "DOI": "10.1126/science.282.5395.1846",
+        "article-title": "Consciousness and complexity",
+        "volume": "282",
+        "author": "Tononi",
+        "year": "1998",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib117",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.2307/25470707",
+        "article-title": "Consciousness as integrated information: a provisional manifesto",
+        "volume": "215",
+        "author": "Tononi",
+        "year": "2008",
+        "journal-title": "Biol. Bull."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib118",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1016/S0079-6123(05)50004-9",
+        "article-title": "Global workspace theory of consciousness: toward a cognitive neuroscience of human experience",
+        "volume": "150",
+        "author": "Baars",
+        "year": "2005",
+        "journal-title": "Progr. Brain Res."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib119",
+        "series-title": "The Feeling of What Happens: Body and Emotion in the Making of Consciousness",
+        "author": "Damasio",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib120",
+        "series-title": "The Amygdala: Neurobiological Aspects of Emotion, Memory, and Mental Dysfunction",
+        "first-page": "1",
+        "article-title": "Anatomical organization of the primate amygdaloid complex",
+        "author": "Amaral",
+        "year": "1992"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib121",
+        "doi-asserted-by": "crossref",
+        "first-page": "396",
+        "DOI": "10.1002/cne.20002",
+        "article-title": "Projections from bed nuclei of the stria terminalis, posterior division: implications for cerebral hemisphere regulation of defensive and reproductive behaviors",
+        "volume": "471",
+        "author": "Dong",
+        "year": "2004",
+        "journal-title": "J. Comp. Neurol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib122",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1038/nature09736",
+        "article-title": "Functional identification of an aggression locus in the mouse hypothalamus",
+        "volume": "470",
+        "author": "Lin",
+        "year": "2011",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib123",
+        "doi-asserted-by": "crossref",
+        "first-page": "865",
+        "DOI": "10.1038/nature04490",
+        "article-title": "The primate amygdala represents the positive and negative value of visual stimuli during learning",
+        "volume": "439",
+        "author": "Paton",
+        "year": "2006",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib124",
+        "series-title": "Encyclopedia of Behavioral Neuroscience",
+        "first-page": "369",
+        "article-title": "Neural substrates of unconditioned fear, defense, and anxiety",
+        "author": "Canteras",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib125",
+        "series-title": "The Design of Animal Communication",
+        "author": "Hauser",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib126",
+        "doi-asserted-by": "crossref",
+        "first-page": "268",
+        "DOI": "10.1037/0033-2909.115.2.268",
+        "article-title": "Strong evidence for universals in facial expressions: a reply to Russell's mistaken critique",
+        "volume": "115",
+        "author": "Ekman",
+        "year": "1994",
+        "journal-title": "Psychol. Bull."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib127",
+        "series-title": "The Neuropsychology of Emotion",
+        "first-page": "137",
+        "article-title": "Psychological models of emotion",
+        "author": "Scherer",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib128",
+        "doi-asserted-by": "crossref",
+        "first-page": "625",
+        "DOI": "10.1080/02699930802645739",
+        "article-title": "Theories of emotion causation: A review",
+        "volume": "23",
+        "author": "Moors",
+        "year": "2009",
+        "journal-title": "Cognition Emotion"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib129",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.1038/nn1364",
+        "article-title": "Discriminating emotional faces without primary visual cortices involves the right amygdala",
+        "volume": "8",
+        "author": "Pegna",
+        "year": "2005",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib130",
+        "doi-asserted-by": "crossref",
+        "first-page": "2023",
+        "DOI": "10.1016/j.cub.2006.08.084",
+        "article-title": "Cortical responses to invisible faces: dissociating subsystems for facial-information processing",
+        "volume": "16",
+        "author": "Jiang",
+        "year": "2006",
+        "journal-title": "Curr. Biol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib131",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1016/j.cub.2011.11.056",
+        "article-title": "Functional evidence for a dual route to amygdala",
+        "volume": "22",
+        "author": "Garrido",
+        "year": "2012",
+        "journal-title": "Curr. Biol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib132",
+        "doi-asserted-by": "crossref",
+        "first-page": "1449",
+        "DOI": "10.1016/j.cub.2012.06.006",
+        "article-title": "Subcortical connections to human amygdala and changes following destruction of the visual cortex",
+        "volume": "22",
+        "author": "Tamietto",
+        "year": "2012",
+        "journal-title": "Curr. Biol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib133",
+        "doi-asserted-by": "crossref",
+        "first-page": "181",
+        "DOI": "10.1080/02699930302289",
+        "article-title": "What is an unconscious emotion? (The case for unconscious \"liking\")",
+        "volume": "17",
+        "author": "Berridge",
+        "year": "2003",
+        "journal-title": "Cognition Emotion"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib134",
+        "doi-asserted-by": "crossref",
+        "first-page": "165",
+        "DOI": "10.1086/418981",
+        "article-title": "Fear and fearfulness in animals",
+        "volume": "70",
+        "author": "Boissy",
+        "year": "1995",
+        "journal-title": "Quart. Rev. Biol."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib135",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1146/annurev.neuro.27.070203.144212",
+        "article-title": "Genetic approaches to the study of anxiety",
+        "volume": "27",
+        "author": "Gordon",
+        "year": "2004",
+        "journal-title": "Annu. Rev. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib136",
+        "doi-asserted-by": "crossref",
+        "first-page": "617",
+        "DOI": "10.1001/archpsyc.62.6.617",
+        "article-title": "Prevalence, severity, and comorbidity of twelve-month DSM-IV disorders in the National Comorbidity Survey Replication (NCS-R)",
+        "volume": "62",
+        "author": "Kessler",
+        "year": "2005",
+        "journal-title": "Arch. Gen. Psychiatry"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib137",
+        "series-title": "Learning Theory and Behavior",
+        "author": "Mowrer",
+        "year": "1960"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib138",
+        "doi-asserted-by": "crossref",
+        "first-page": "862",
+        "DOI": "10.1016/S0005-7894(77)80157-3",
+        "article-title": "Imagery in therapy: an information processing analysis of fear",
+        "volume": "8",
+        "author": "Lang",
+        "year": "1977",
+        "journal-title": "Behavior Therapy"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib139",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1038/nature08637",
+        "article-title": "Preventing the return of fear in humans using reconsolidation update mechanisms",
+        "volume": "463",
+        "author": "Schiller",
+        "year": "2010",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib140",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1037/0033-2909.99.1.20",
+        "article-title": "Emotional processing of fear: exposure to corrective information",
+        "volume": "99",
+        "author": "Foa",
+        "year": "1986",
+        "journal-title": "Psychol. Bull."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib141",
+        "doi-asserted-by": "crossref",
+        "first-page": "11517",
+        "DOI": "10.1523/JNEUROSCI.2265-08.2008",
+        "article-title": "From fear to safety and back: reversal of fear in the human brain",
+        "volume": "28",
+        "author": "Schiller",
+        "year": "2008",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib142",
+        "doi-asserted-by": "crossref",
+        "first-page": "791",
+        "DOI": "10.1038/nn.2802",
+        "article-title": "Auditory aversive learning increases discrimination thresholds",
+        "volume": "14",
+        "author": "Resnik",
+        "year": "2011",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib143",
+        "doi-asserted-by": "crossref",
+        "first-page": "325",
+        "DOI": "10.1037/0033-295X.105.2.325",
+        "article-title": "From normal fear to pathological anxiety",
+        "volume": "105",
+        "author": "Rosen",
+        "year": "1998",
+        "journal-title": "Psychol. Rev."
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib144",
+        "first-page": "292",
+        "article-title": "The nature of anxiety with emphasis upon its relationship to expectancy",
+        "volume": "Vol. 2",
+        "author": "Epstein",
+        "year": "1972"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib145",
+        "doi-asserted-by": "crossref",
+        "first-page": "707",
+        "DOI": "10.1177/070674371105601202",
+        "article-title": "Anxiety: an evolutionary approach",
+        "volume": "56",
+        "author": "Bateson",
+        "year": "2011",
+        "journal-title": "Can. J. Psychiatry"
+      },
+      {
+        "key": "10.1016/j.cub.2012.11.055_bib146",
+        "doi-asserted-by": "crossref",
+        "first-page": "705",
+        "DOI": "10.1177/070674371105601201",
+        "article-title": "Why has natural selection left us so vulnerable to anxiety and mood disorders?",
+        "volume": "56",
+        "author": "Nesse",
+        "year": "2011",
+        "journal-title": "Can. J. Psychiatry"
+      }
+    ],
+    "container-title": [
+      "Current Biology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0960982212014352?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0960982212014352?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          18
+        ]
+      ],
+      "date-time": "2025-10-18T09:24:37Z",
+      "timestamp": 1760779477000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0960982212014352"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    "references-count": 146,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0960982212014352"
+    ],
+    "URL": "https://doi.org/10.1016/j.cub.2012.11.055",
+    "relation": {
+      "has-review": [
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.717973205.793469889",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0960-9822"
+    ],
+    "issn-type": [
+      {
+        "value": "0960-9822",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "The Biology of Fear",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Current Biology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.cub.2012.11.055",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2013 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

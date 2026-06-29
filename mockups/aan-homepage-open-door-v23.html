@@ -888,7 +888,7 @@
 
     .support-layout {
       display: grid;
-      grid-template-columns: 1.15fr 0.85fr;
+      grid-template-columns: 1fr;
       gap: 22px;
       align-items: start;
     }
@@ -905,7 +905,7 @@
 
     .start-grid {
       display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-columns: repeat(4, minmax(0, 1fr));
       gap: 14px;
     }
 
@@ -927,6 +927,30 @@
     .support-side {
       display: grid;
       gap: 16px;
+    }
+
+    .support-role {
+      display: grid;
+      grid-template-columns: minmax(180px, 0.32fr) minmax(0, 0.68fr);
+      gap: 14px 24px;
+      align-items: start;
+      padding: 22px 24px;
+    }
+
+    .support-role .label {
+      color: var(--sage);
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .support-role h3 {
+      max-width: 18ch;
+    }
+
+    .support-role p {
+      align-self: center;
     }
 
     .trust-card {
@@ -1417,6 +1441,10 @@
         grid-template-columns: 1fr;
       }
 
+      .start-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
       .portrait-card,
       .portrait-grid {
         min-height: 500px;
@@ -1589,6 +1617,14 @@
       .portrait-grid {
         grid-template-columns: 1fr;
         grid-template-rows: 1.35fr 0.7fr 0.7fr;
+      }
+
+      .support-role {
+        grid-template-columns: 1fr;
+      }
+
+      .support-role h3 {
+        max-width: none;
       }
 
       .photo-panel.large {
@@ -1952,20 +1988,14 @@
         <figure class="section-motif support-motif" aria-hidden="true">
           <img src="motifs/support-vertical-clear.svg" alt="">
         </figure>
-      </div>
-
-      <aside class="support-side">
-        <article class="trust-card">
-          <span class="label">A note for people with alexithymia</span>
-          <h3>Physical distress counts too.</h3>
-          <p>People with alexithymia may notice the physical signs of severe distress — chest tightness, nausea, sleep loss, agitation, dissociation — before the emotional signs become clear. If your body is sounding alarms and you cannot name what you are feeling, that is still a good enough reason to reach out.</p>
-        </article>
-        <article class="trust-card">
-          <span class="label">AAN's role</span>
-          <h3>Information and advocacy, not personal clinical advice</h3>
+        <article class="trust-card support-role">
+          <div>
+            <span class="label">AAN's role</span>
+            <h3>Information and advocacy, not personal clinical advice</h3>
+          </div>
           <p>This site is informational only. For personal questions about your own emotional life, mental health, or treatment, consult a qualified clinician. For questions, feedback, or collaboration, contact team@alexithymiaawarenessnetwork.org.</p>
         </article>
-      </aside>
+      </div>
     </div>
   </section>
 </main>

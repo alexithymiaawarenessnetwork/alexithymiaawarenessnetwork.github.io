@@ -1,0 +1,2162 @@
+{
+  "id": "https://openalex.org/W4410313068",
+  "doi": "https://doi.org/10.1177/17456916251319045",
+  "title": "The Theory of Constructed Emotion: More Than a Feeling",
+  "display_name": "The Theory of Constructed Emotion: More Than a Feeling",
+  "publication_year": 2025,
+  "publication_date": "2025-05-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4410313068",
+    "doi": "https://doi.org/10.1177/17456916251319045",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40357691"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1177/17456916251319045",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1177/17456916251319045",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S27228949",
+      "display_name": "Perspectives on Psychological Science",
+      "issn_l": "1745-6916",
+      "issn": [
+        "1745-6916",
+        "1745-6924"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Perspectives on Psychological Science",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://ddd.uab.cat/record/326281",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5061385021",
+        "display_name": "Lisa Feldman Barrett",
+        "orcid": "https://orcid.org/0000-0003-4478-2051"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I12912129",
+          "display_name": "Northeastern University",
+          "ror": "https://ror.org/04t5xt781",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I12912129"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210127055",
+          "display_name": "Athinoula A. Martinos Center for Biomedical Imaging",
+          "ror": "https://ror.org/032q5ym94",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I48633490",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Lisa Feldman Barrett",
+      "raw_affiliation_strings": [
+        "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital",
+        "Department of Psychiatry, Massachusetts General Hospital",
+        "Department of Psychology, Northeastern University"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4478-2051",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital",
+          "institution_ids": [
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychiatry, Massachusetts General Hospital",
+          "institution_ids": [
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychology, Northeastern University",
+          "institution_ids": [
+            "https://openalex.org/I12912129"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041852943",
+        "display_name": "Shir Atzil",
+        "orcid": "https://orcid.org/0000-0002-4074-6777"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I200719446",
+          "display_name": "Vanderbilt University",
+          "ror": "https://ror.org/02vm5rt34",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I200719446"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shir Atzil",
+      "raw_affiliation_strings": [
+        "Department of Psychology, Vanderbilt University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, Vanderbilt University",
+          "institution_ids": [
+            "https://openalex.org/I200719446"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051281006",
+        "display_name": "Eliza Bliss‐Moreau",
+        "orcid": "https://orcid.org/0000-0002-0740-5612"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I84218800",
+          "display_name": "University of California, Davis",
+          "ror": "https://ror.org/05rrcem69",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I84218800"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eliza Bliss-Moreau",
+      "raw_affiliation_strings": [
+        "California National Primate Research Center, University of California, Davis",
+        "Department of Psychology, University of California, Davis"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "California National Primate Research Center, University of California, Davis",
+          "institution_ids": [
+            "https://openalex.org/I84218800"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychology, University of California, Davis",
+          "institution_ids": [
+            "https://openalex.org/I84218800"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082153694",
+        "display_name": "Lorena Chanes",
+        "orcid": "https://orcid.org/0000-0002-0581-2927"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I123044942",
+          "display_name": "Universitat Autònoma de Barcelona",
+          "ror": "https://ror.org/052g8jq94",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I123044942"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lorena Chanes",
+      "raw_affiliation_strings": [
+        "Department of Clinical and Health Psychology, Universitat Autònoma de Barcelona",
+        "Institut de Neurociències, Universitat Autònoma de Barcelona"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical and Health Psychology, Universitat Autònoma de Barcelona",
+          "institution_ids": [
+            "https://openalex.org/I123044942"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institut de Neurociències, Universitat Autònoma de Barcelona",
+          "institution_ids": [
+            "https://openalex.org/I123044942"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022205703",
+        "display_name": "Maria Gendron",
+        "orcid": "https://orcid.org/0000-0002-1845-6722"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32971472",
+          "display_name": "Yale University",
+          "ror": "https://ror.org/03v76x132",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maria Gendron",
+      "raw_affiliation_strings": [
+        "Department of Psychology, Yale University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, Yale University",
+          "institution_ids": [
+            "https://openalex.org/I32971472"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045359146",
+        "display_name": "Katie Hoemann",
+        "orcid": "https://orcid.org/0000-0002-9938-7676"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146416000",
+          "display_name": "University of Kansas",
+          "ror": "https://ror.org/001tmjg57",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146416000"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katie Hoemann",
+      "raw_affiliation_strings": [
+        "Department of Psychology, University of Kansas"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, University of Kansas",
+          "institution_ids": [
+            "https://openalex.org/I146416000"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074157799",
+        "display_name": "Yuta Katsumi",
+        "orcid": "https://orcid.org/0000-0003-0413-747X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210127055",
+          "display_name": "Athinoula A. Martinos Center for Biomedical Imaging",
+          "ror": "https://ror.org/032q5ym94",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I48633490",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yuta Katsumi",
+      "raw_affiliation_strings": [
+        "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital",
+        "Department of Neurology, Massachusetts General Hospital",
+        "Department of Psychiatry, Massachusetts General Hospital"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital",
+          "institution_ids": [
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Neurology, Massachusetts General Hospital",
+          "institution_ids": [
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychiatry, Massachusetts General Hospital",
+          "institution_ids": [
+            "https://openalex.org/I4210087915"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079546510",
+        "display_name": "Ian R. Kleckner",
+        "orcid": "https://orcid.org/0000-0002-9828-9986"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ian R. Kleckner",
+      "raw_affiliation_strings": [
+        "School of Nursing, University of Maryland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Nursing, University of Maryland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066329166",
+        "display_name": "Kristen A. Lindquist",
+        "orcid": "https://orcid.org/0000-0002-5368-9302"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kristen A. Lindquist",
+      "raw_affiliation_strings": [
+        "Department of Psychology and Neuroscience, University of North Carolina"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology and Neuroscience, University of North Carolina",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091384457",
+        "display_name": "Karen S. Quigley",
+        "orcid": "https://orcid.org/0000-0001-8844-990X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I12912129",
+          "display_name": "Northeastern University",
+          "ror": "https://ror.org/04t5xt781",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I12912129"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Karen S. Quigley",
+      "raw_affiliation_strings": [
+        "Department of Psychology, Northeastern University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, Northeastern University",
+          "institution_ids": [
+            "https://openalex.org/I12912129"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008148499",
+        "display_name": "Ajay B. Satpute",
+        "orcid": "https://orcid.org/0000-0003-0227-0816"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I12912129",
+          "display_name": "Northeastern University",
+          "ror": "https://ror.org/04t5xt781",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I12912129"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210127055",
+          "display_name": "Athinoula A. Martinos Center for Biomedical Imaging",
+          "ror": "https://ror.org/032q5ym94",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I48633490",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ajay B. Satpute",
+      "raw_affiliation_strings": [
+        "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital",
+        "Department of Psychology, Northeastern University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital",
+          "institution_ids": [
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychology, Northeastern University",
+          "institution_ids": [
+            "https://openalex.org/I12912129"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035429167",
+        "display_name": "Eli Sennesh",
+        "orcid": "https://orcid.org/0000-0001-7014-8471"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I200719446",
+          "display_name": "Vanderbilt University",
+          "ror": "https://ror.org/02vm5rt34",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I200719446"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eli Sennesh",
+      "raw_affiliation_strings": [
+        "Department of Psychology, Vanderbilt University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, Vanderbilt University",
+          "institution_ids": [
+            "https://openalex.org/I200719446"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075596448",
+        "display_name": "Clare Shaffer",
+        "orcid": "https://orcid.org/0000-0002-3977-6151"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I12912129",
+          "display_name": "Northeastern University",
+          "ror": "https://ror.org/04t5xt781",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I12912129"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Clare Shaffer",
+      "raw_affiliation_strings": [
+        "Department of Psychology, Northeastern University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, Northeastern University",
+          "institution_ids": [
+            "https://openalex.org/I12912129"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001364928",
+        "display_name": "Jordan E. Theriault",
+        "orcid": "https://orcid.org/0000-0002-4680-0172"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I12912129",
+          "display_name": "Northeastern University",
+          "ror": "https://ror.org/04t5xt781",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I12912129"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210127055",
+          "display_name": "Athinoula A. Martinos Center for Biomedical Imaging",
+          "ror": "https://ror.org/032q5ym94",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I48633490",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jordan E. Theriault",
+      "raw_affiliation_strings": [
+        "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital",
+        "Department of Biology, Northeastern University",
+        "Department of Psychology, Northeastern University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital",
+          "institution_ids": [
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biology, Northeastern University",
+          "institution_ids": [
+            "https://openalex.org/I12912129"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychology, Northeastern University",
+          "institution_ids": [
+            "https://openalex.org/I12912129"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066700079",
+        "display_name": "Michele M. Tugade",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126820664",
+          "display_name": "Vassar College",
+          "ror": "https://ror.org/022x6qg61",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126820664"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michele Tugade",
+      "raw_affiliation_strings": [
+        "Department of Psychological Science, Vassar College"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychological Science, Vassar College",
+          "institution_ids": [
+            "https://openalex.org/I126820664"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5016215610",
+        "display_name": "Christiana Westlin",
+        "orcid": "https://orcid.org/0000-0001-9127-0847"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I146416000",
+          "display_name": "University of Kansas",
+          "ror": "https://ror.org/001tmjg57",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I146416000"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210127055",
+          "display_name": "Athinoula A. Martinos Center for Biomedical Imaging",
+          "ror": "https://ror.org/032q5ym94",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I48633490",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christiana Westlin",
+      "raw_affiliation_strings": [
+        "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital",
+        "Department of Psychiatry, Massachusetts General Hospital",
+        "Department of Psychology, University of Kansas"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital",
+          "institution_ids": [
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychiatry, Massachusetts General Hospital",
+          "institution_ids": [
+            "https://openalex.org/I4210087915"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychology, University of Kansas",
+          "institution_ids": [
+            "https://openalex.org/I146416000"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 16,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5061385021"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I12912129",
+    "https://openalex.org/I4210087915",
+    "https://openalex.org/I4210127055"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 25.2663,
+  "has_fulltext": false,
+  "cited_by_count": 22,
+  "citation_normalized_percentile": {
+    "value": 0.99741591,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "20",
+    "issue": "3",
+    "first_page": "392",
+    "last_page": "420"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11883",
+    "display_name": "Embodied and Extended Cognition",
+    "score": 0.9478999972343445,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2805",
+      "display_name": "Cognitive Neuroscience"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/28",
+      "display_name": "Neuroscience"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11883",
+      "display_name": "Embodied and Extended Cognition",
+      "score": 0.9478999972343445,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12313",
+      "display_name": "Emotions and Moral Behavior",
+      "score": 0.944599986076355,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10581",
+      "display_name": "Neural dynamics and brain function",
+      "score": 0.920199990272522,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/feeling",
+      "display_name": "Feeling",
+      "score": 0.8740630149841309
+    },
+    {
+      "id": "https://openalex.org/keywords/usable",
+      "display_name": "USable",
+      "score": 0.6321067810058594
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5845069885253906
+    },
+    {
+      "id": "https://openalex.org/keywords/affective-science",
+      "display_name": "Affective science",
+      "score": 0.5453429222106934
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-psychology",
+      "display_name": "Cognitive psychology",
+      "score": 0.5162137150764465
+    },
+    {
+      "id": "https://openalex.org/keywords/trustworthiness",
+      "display_name": "Trustworthiness",
+      "score": 0.47420528531074524
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-evidence",
+      "display_name": "Empirical evidence",
+      "score": 0.42305806279182434
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-science",
+      "display_name": "Cognitive science",
+      "score": 0.42233943939208984
+    },
+    {
+      "id": "https://openalex.org/keywords/emotion-work",
+      "display_name": "Emotion work",
+      "score": 0.40660861134529114
+    },
+    {
+      "id": "https://openalex.org/keywords/social-psychology",
+      "display_name": "Social psychology",
+      "score": 0.39412444829940796
+    },
+    {
+      "id": "https://openalex.org/keywords/epistemology",
+      "display_name": "Epistemology",
+      "score": 0.3808833062648773
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.26807475090026855
+    },
+    {
+      "id": "https://openalex.org/keywords/philosophy",
+      "display_name": "Philosophy",
+      "score": 0.09351274371147156
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C122980154",
+      "wikidata": "https://www.wikidata.org/wiki/Q205555",
+      "display_name": "Feeling",
+      "level": 2,
+      "score": 0.8740630149841309
+    },
+    {
+      "id": "https://openalex.org/C2780615836",
+      "wikidata": "https://www.wikidata.org/wiki/Q2471869",
+      "display_name": "USable",
+      "level": 2,
+      "score": 0.6321067810058594
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5845069885253906
+    },
+    {
+      "id": "https://openalex.org/C128534915",
+      "wikidata": "https://www.wikidata.org/wiki/Q3475770",
+      "display_name": "Affective science",
+      "level": 3,
+      "score": 0.5453429222106934
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": 0.5162137150764465
+    },
+    {
+      "id": "https://openalex.org/C153701036",
+      "wikidata": "https://www.wikidata.org/wiki/Q659974",
+      "display_name": "Trustworthiness",
+      "level": 2,
+      "score": 0.47420528531074524
+    },
+    {
+      "id": "https://openalex.org/C166052673",
+      "wikidata": "https://www.wikidata.org/wiki/Q83021",
+      "display_name": "Empirical evidence",
+      "level": 2,
+      "score": 0.42305806279182434
+    },
+    {
+      "id": "https://openalex.org/C188147891",
+      "wikidata": "https://www.wikidata.org/wiki/Q147638",
+      "display_name": "Cognitive science",
+      "level": 1,
+      "score": 0.42233943939208984
+    },
+    {
+      "id": "https://openalex.org/C117409633",
+      "wikidata": "https://www.wikidata.org/wiki/Q5373756",
+      "display_name": "Emotion work",
+      "level": 2,
+      "score": 0.40660861134529114
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.39412444829940796
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.3808833062648773
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.26807475090026855
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.09351274371147156
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011582",
+      "descriptor_name": "Psychological Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011582",
+      "descriptor_name": "Psychological Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011582",
+      "descriptor_name": "Psychological Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011582",
+      "descriptor_name": "Psychological Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011582",
+      "descriptor_name": "Psychological Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011582",
+      "descriptor_name": "Psychological Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011582",
+      "descriptor_name": "Psychological Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011582",
+      "descriptor_name": "Psychological Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1177/17456916251319045",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/17456916251319045",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S27228949",
+        "display_name": "Perspectives on Psychological Science",
+        "issn_l": "1745-6916",
+        "issn": [
+          "1745-6916",
+          "1745-6924"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Perspectives on Psychological Science",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:40357691",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40357691",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Perspectives on psychological science : a journal of the Association for Psychological Science",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:lirias2repo.kuleuven.be:20.500.12942/767375",
+      "is_oa": false,
+      "landing_page_url": "https://lirias.kuleuven.be/handle/20.500.12942/767375",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401954",
+        "display_name": "Lirias (KU Leuven)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I99464096",
+        "host_organization_name": "KU Leuven",
+        "host_organization_lineage": [
+          "https://openalex.org/I99464096"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "Perspectives On Psychological Science, vol. 20 (3), (392-420)",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:ddd.uab.cat:326281",
+      "is_oa": true,
+      "landing_page_url": "https://ddd.uab.cat/record/326281",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400380",
+        "display_name": "Dipòsit Digital de Documents de la UAB (Universitat Autònoma de Barcelona)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I123044942",
+        "host_organization_name": "Universitat Autònoma de Barcelona",
+        "host_organization_lineage": [
+          "https://openalex.org/I123044942"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:10975813",
+      "is_oa": false,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12164598",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:ddd.uab.cat:326281",
+    "is_oa": true,
+    "landing_page_url": "https://ddd.uab.cat/record/326281",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400380",
+      "display_name": "Dipòsit Digital de Documents de la UAB (Universitat Autònoma de Barcelona)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I123044942",
+      "host_organization_name": "Universitat Autònoma de Barcelona",
+      "host_organization_lineage": [
+        "https://openalex.org/I123044942"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "Article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/16",
+      "display_name": "Peace, Justice and strong institutions",
+      "score": 0.49000000953674316
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3177791240",
+      "display_name": null,
+      "funder_award_id": "R01 AG071173, R01 MH109464, R01 MH113234, R21 MH129902, R21 AG080198, RF1 AG078340, and R56 AG071486",
+      "funder_id": "https://openalex.org/F4320332161",
+      "funder_display_name": "National Institutes of Health"
+    },
+    {
+      "id": "https://openalex.org/G4604643563",
+      "display_name": null,
+      "funder_award_id": "BCS 1947972",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G8594633520",
+      "display_name": null,
+      "funder_award_id": "W911NF-16-1-019",
+      "funder_id": "https://openalex.org/F4320337630",
+      "funder_display_name": "Army Research Institute for the Behavioral and Social Sciences"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306076",
+      "display_name": "National Science Foundation",
+      "ror": "https://ror.org/021nxhr62"
+    },
+    {
+      "id": "https://openalex.org/F4320332161",
+      "display_name": "National Institutes of Health",
+      "ror": "https://ror.org/01cwqze88"
+    },
+    {
+      "id": "https://openalex.org/F4320337630",
+      "display_name": "Army Research Institute for the Behavioral and Social Sciences",
+      "ror": "https://ror.org/03bq05s23"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 254,
+  "referenced_works": [
+    "https://openalex.org/W13022595",
+    "https://openalex.org/W43284170",
+    "https://openalex.org/W83883440",
+    "https://openalex.org/W94650884",
+    "https://openalex.org/W149985330",
+    "https://openalex.org/W242989516",
+    "https://openalex.org/W277467929",
+    "https://openalex.org/W568239032",
+    "https://openalex.org/W1484547183",
+    "https://openalex.org/W1571255846",
+    "https://openalex.org/W1573676524",
+    "https://openalex.org/W1582230957",
+    "https://openalex.org/W1742535724",
+    "https://openalex.org/W1750284199",
+    "https://openalex.org/W1777171305",
+    "https://openalex.org/W1781617452",
+    "https://openalex.org/W1965332903",
+    "https://openalex.org/W1966115499",
+    "https://openalex.org/W1966797434",
+    "https://openalex.org/W1974909087",
+    "https://openalex.org/W1975731691",
+    "https://openalex.org/W1978776212",
+    "https://openalex.org/W1979538778",
+    "https://openalex.org/W1987600586",
+    "https://openalex.org/W1990432147",
+    "https://openalex.org/W1995260207",
+    "https://openalex.org/W1997797132",
+    "https://openalex.org/W2004045253",
+    "https://openalex.org/W2008950282",
+    "https://openalex.org/W2009375902",
+    "https://openalex.org/W2022319429",
+    "https://openalex.org/W2022567100",
+    "https://openalex.org/W2027991937",
+    "https://openalex.org/W2032090023",
+    "https://openalex.org/W2037498910",
+    "https://openalex.org/W2037838725",
+    "https://openalex.org/W2044042249",
+    "https://openalex.org/W2045705118",
+    "https://openalex.org/W2045826950",
+    "https://openalex.org/W2049757669",
+    "https://openalex.org/W2050596356",
+    "https://openalex.org/W2053362767",
+    "https://openalex.org/W2055273434",
+    "https://openalex.org/W2058296271",
+    "https://openalex.org/W2065159495",
+    "https://openalex.org/W2067302347",
+    "https://openalex.org/W2068468618",
+    "https://openalex.org/W2069193149",
+    "https://openalex.org/W2074028900",
+    "https://openalex.org/W2074716497",
+    "https://openalex.org/W2076170850",
+    "https://openalex.org/W2083960832",
+    "https://openalex.org/W2091174247",
+    "https://openalex.org/W2093982073",
+    "https://openalex.org/W2096086610",
+    "https://openalex.org/W2097008109",
+    "https://openalex.org/W2099078585",
+    "https://openalex.org/W2104039741",
+    "https://openalex.org/W2107696655",
+    "https://openalex.org/W2110710184",
+    "https://openalex.org/W2112273791",
+    "https://openalex.org/W2113491937",
+    "https://openalex.org/W2113632995",
+    "https://openalex.org/W2114481234",
+    "https://openalex.org/W2115478715",
+    "https://openalex.org/W2119238414",
+    "https://openalex.org/W2119267782",
+    "https://openalex.org/W2123487278",
+    "https://openalex.org/W2123713131",
+    "https://openalex.org/W2124054008",
+    "https://openalex.org/W2124902961",
+    "https://openalex.org/W2128343378",
+    "https://openalex.org/W2134558131",
+    "https://openalex.org/W2137552275",
+    "https://openalex.org/W2138422751",
+    "https://openalex.org/W2138799866",
+    "https://openalex.org/W2141710309",
+    "https://openalex.org/W2149204358",
+    "https://openalex.org/W2154244491",
+    "https://openalex.org/W2154290876",
+    "https://openalex.org/W2155682088",
+    "https://openalex.org/W2159109763",
+    "https://openalex.org/W2159289472",
+    "https://openalex.org/W2159865598",
+    "https://openalex.org/W2161040676",
+    "https://openalex.org/W2164319935",
+    "https://openalex.org/W2165244952",
+    "https://openalex.org/W2166876889",
+    "https://openalex.org/W2168248188",
+    "https://openalex.org/W2169214866",
+    "https://openalex.org/W2169363201",
+    "https://openalex.org/W2169622879",
+    "https://openalex.org/W2216403645",
+    "https://openalex.org/W2228609879",
+    "https://openalex.org/W2290366356",
+    "https://openalex.org/W2323194371",
+    "https://openalex.org/W2328447414",
+    "https://openalex.org/W2342264685",
+    "https://openalex.org/W2346674441",
+    "https://openalex.org/W2410831681",
+    "https://openalex.org/W2487886157",
+    "https://openalex.org/W2489878678",
+    "https://openalex.org/W2517572465",
+    "https://openalex.org/W2537736171",
+    "https://openalex.org/W2557550202",
+    "https://openalex.org/W2558324625",
+    "https://openalex.org/W2569311369",
+    "https://openalex.org/W2590077454",
+    "https://openalex.org/W2598639751",
+    "https://openalex.org/W2613838191",
+    "https://openalex.org/W2620975570",
+    "https://openalex.org/W2626522798",
+    "https://openalex.org/W2734721194",
+    "https://openalex.org/W2735754839",
+    "https://openalex.org/W2735901613",
+    "https://openalex.org/W2737549857",
+    "https://openalex.org/W2739148453",
+    "https://openalex.org/W2742426565",
+    "https://openalex.org/W2746818629",
+    "https://openalex.org/W2757867238",
+    "https://openalex.org/W2766647118",
+    "https://openalex.org/W2771453755",
+    "https://openalex.org/W2772696116",
+    "https://openalex.org/W2783053624",
+    "https://openalex.org/W2783297063",
+    "https://openalex.org/W2783818177",
+    "https://openalex.org/W2788198206",
+    "https://openalex.org/W2789330371",
+    "https://openalex.org/W2791393728",
+    "https://openalex.org/W2796195636",
+    "https://openalex.org/W2885466588",
+    "https://openalex.org/W2886714195",
+    "https://openalex.org/W2888084850",
+    "https://openalex.org/W2889338382",
+    "https://openalex.org/W2894712541",
+    "https://openalex.org/W2899140183",
+    "https://openalex.org/W2903213022",
+    "https://openalex.org/W2908473373",
+    "https://openalex.org/W2912483755",
+    "https://openalex.org/W2937517290",
+    "https://openalex.org/W2947749380",
+    "https://openalex.org/W2947915034",
+    "https://openalex.org/W2949025125",
+    "https://openalex.org/W2952082564",
+    "https://openalex.org/W2955606186",
+    "https://openalex.org/W2964338037",
+    "https://openalex.org/W2969221148",
+    "https://openalex.org/W2970552953",
+    "https://openalex.org/W2981674673",
+    "https://openalex.org/W2981852025",
+    "https://openalex.org/W2989949548",
+    "https://openalex.org/W2990746314",
+    "https://openalex.org/W2994156655",
+    "https://openalex.org/W2995057720",
+    "https://openalex.org/W3001875714",
+    "https://openalex.org/W3002871564",
+    "https://openalex.org/W3003735678",
+    "https://openalex.org/W3010423010",
+    "https://openalex.org/W3011381463",
+    "https://openalex.org/W3012004216",
+    "https://openalex.org/W3016334761",
+    "https://openalex.org/W3045388177",
+    "https://openalex.org/W3046651484",
+    "https://openalex.org/W3085187766",
+    "https://openalex.org/W3088862667",
+    "https://openalex.org/W3098428315",
+    "https://openalex.org/W3109215284",
+    "https://openalex.org/W3109642624",
+    "https://openalex.org/W3111347180",
+    "https://openalex.org/W3121647461",
+    "https://openalex.org/W3122257694",
+    "https://openalex.org/W3138425942",
+    "https://openalex.org/W3166255094",
+    "https://openalex.org/W3183516149",
+    "https://openalex.org/W3193736813",
+    "https://openalex.org/W3198450109",
+    "https://openalex.org/W3202409950",
+    "https://openalex.org/W3204697109",
+    "https://openalex.org/W3209251567",
+    "https://openalex.org/W3209516655",
+    "https://openalex.org/W3214010604",
+    "https://openalex.org/W3214214739",
+    "https://openalex.org/W4206258535",
+    "https://openalex.org/W4210516060",
+    "https://openalex.org/W4210777007",
+    "https://openalex.org/W4211149825",
+    "https://openalex.org/W4212844288",
+    "https://openalex.org/W4213007804",
+    "https://openalex.org/W4224278039",
+    "https://openalex.org/W4226176287",
+    "https://openalex.org/W4229457271",
+    "https://openalex.org/W4231666190",
+    "https://openalex.org/W4231983017",
+    "https://openalex.org/W4233973055",
+    "https://openalex.org/W4234742022",
+    "https://openalex.org/W4235074976",
+    "https://openalex.org/W4239221348",
+    "https://openalex.org/W4239845627",
+    "https://openalex.org/W4247254250",
+    "https://openalex.org/W4247448751",
+    "https://openalex.org/W4253128327",
+    "https://openalex.org/W4254562683",
+    "https://openalex.org/W4255588914",
+    "https://openalex.org/W4255901102",
+    "https://openalex.org/W4256553901",
+    "https://openalex.org/W4280491907",
+    "https://openalex.org/W4281700528",
+    "https://openalex.org/W4293330730",
+    "https://openalex.org/W4297239179",
+    "https://openalex.org/W4297859606",
+    "https://openalex.org/W4300559119",
+    "https://openalex.org/W4300769645",
+    "https://openalex.org/W4301042878",
+    "https://openalex.org/W4307203499",
+    "https://openalex.org/W4308146259",
+    "https://openalex.org/W4309666046",
+    "https://openalex.org/W4315816982",
+    "https://openalex.org/W4318991843",
+    "https://openalex.org/W4365139901",
+    "https://openalex.org/W4372280091",
+    "https://openalex.org/W4376107187",
+    "https://openalex.org/W4379987563",
+    "https://openalex.org/W4386019568",
+    "https://openalex.org/W4386157555",
+    "https://openalex.org/W4388233800",
+    "https://openalex.org/W4388734471",
+    "https://openalex.org/W4389078268",
+    "https://openalex.org/W4391134157",
+    "https://openalex.org/W4392214640",
+    "https://openalex.org/W4392964365",
+    "https://openalex.org/W4394699212",
+    "https://openalex.org/W4399568765",
+    "https://openalex.org/W4399628163",
+    "https://openalex.org/W4399897285",
+    "https://openalex.org/W4401181953",
+    "https://openalex.org/W4401215755",
+    "https://openalex.org/W4403182598",
+    "https://openalex.org/W4410426876",
+    "https://openalex.org/W6603464578",
+    "https://openalex.org/W6629804531",
+    "https://openalex.org/W6634990383",
+    "https://openalex.org/W6638699950",
+    "https://openalex.org/W6646018473",
+    "https://openalex.org/W6678704653",
+    "https://openalex.org/W6692759975",
+    "https://openalex.org/W6716878026",
+    "https://openalex.org/W6722043159",
+    "https://openalex.org/W6758526202",
+    "https://openalex.org/W6849150367",
+    "https://openalex.org/W6861381509",
+    "https://openalex.org/W7017666203",
+    "https://openalex.org/W7033019483",
+    "https://openalex.org/W7039842427",
+    "https://openalex.org/W7051934559"
+  ],
+  "related_works": [
+    "https://openalex.org/W1999140437",
+    "https://openalex.org/W3211187692",
+    "https://openalex.org/W2919918045",
+    "https://openalex.org/W4237803626",
+    "https://openalex.org/W1484899821",
+    "https://openalex.org/W2062408322",
+    "https://openalex.org/W2801646370",
+    "https://openalex.org/W4311892896",
+    "https://openalex.org/W4385241860",
+    "https://openalex.org/W2138923140"
+  ],
+  "abstract_inverted_index": {
+    "A": [
+      0
+    ],
+    "recently": [
+      1
+    ],
+    "published": [
+      2
+    ],
+    "article": [
+      3,
+      84
+    ],
+    "by": [
+      4,
+      132
+    ],
+    "van": [
+      5
+    ],
+    "Heijst": [
+      6
+    ],
+    "et": [
+      7
+    ],
+    "al.": [
+      8
+    ],
+    "attempted": [
+      9
+    ],
+    "to": [
+      10,
+      108
+    ],
+    "reconcile": [
+      11
+    ],
+    "two": [
+      12,
+      115
+    ],
+    "research": [
+      13,
+      139
+    ],
+    "approaches": [
+      14
+    ],
+    "in": [
+      15,
+      77,
+      141,
+      160
+    ],
+    "the": [
+      16,
+      23,
+      30,
+      38,
+      41,
+      69,
+      78,
+      91,
+      114,
+      142,
+      149,
+      161
+    ],
+    "science": [
+      17,
+      79,
+      143
+    ],
+    "of": [
+      18,
+      25,
+      37,
+      53,
+      71,
+      80,
+      129,
+      144,
+      151
+    ],
+    "emotion—basic": [
+      19
+    ],
+    "emotion": [
+      20,
+      54,
+      73,
+      145,
+      156
+    ],
+    "theory": [
+      21,
+      24,
+      70
+    ],
+    "and": [
+      22,
+      59,
+      74,
+      90,
+      97,
+      125
+    ],
+    "constructed": [
+      26,
+      72
+    ],
+    "emotion—by": [
+      27
+    ],
+    "suggesting": [
+      28
+    ],
+    "that": [
+      29,
+      45,
+      66,
+      113,
+      157
+    ],
+    "former": [
+      31
+    ],
+    "explains": [
+      32,
+      43
+    ],
+    "emotions": [
+      33
+    ],
+    "as": [
+      34
+    ],
+    "bioregulatory": [
+      35
+    ],
+    "states": [
+      36,
+      58
+    ],
+    "body": [
+      39
+    ],
+    "whereas": [
+      40
+    ],
+    "latter": [
+      42
+    ],
+    "feelings": [
+      44,
+      61
+    ],
+    "arise": [
+      46,
+      109
+    ],
+    "from": [
+      47
+    ],
+    "those": [
+      48
+    ],
+    "state": [
+      49
+    ],
+    "changes.": [
+      50
+    ],
+    "This": [
+      51
+    ],
+    "bifurcation": [
+      52
+    ],
+    "into": [
+      55
+    ],
+    "objective": [
+      56
+    ],
+    "physical": [
+      57
+    ],
+    "subjective": [
+      60
+    ],
+    "involves": [
+      62
+    ],
+    "three": [
+      63
+    ],
+    "misleading": [
+      64,
+      88
+    ],
+    "simplifications": [
+      65,
+      89
+    ],
+    "fundamentally": [
+      67
+    ],
+    "misrepresent": [
+      68
+    ],
+    "prevent": [
+      75
+    ],
+    "progress": [
+      76
+    ],
+    "emotion.": [
+      81
+    ],
+    "In": [
+      82
+    ],
+    "this": [
+      83
+    ],
+    "we": [
+      85
+    ],
+    "identify": [
+      86
+    ],
+    "these": [
+      87,
+      135,
+      138
+    ],
+    "resulting": [
+      92
+    ],
+    "factual": [
+      93
+    ],
+    "errors,": [
+      94
+    ],
+    "empirical": [
+      95
+    ],
+    "oversights,": [
+      96
+    ],
+    "evolutionary": [
+      98
+    ],
+    "oversimplifications.": [
+      99
+    ],
+    "We": [
+      100
+    ],
+    "then": [
+      101
+    ],
+    "discuss": [
+      102
+    ],
+    "why": [
+      103
+    ],
+    "such": [
+      104
+    ],
+    "errors": [
+      105
+    ],
+    "will": [
+      106,
+      137
+    ],
+    "continue": [
+      107
+    ],
+    "until": [
+      110
+    ],
+    "scientists": [
+      111
+    ],
+    "realize": [
+      112
+    ],
+    "theories": [
+      116
+    ],
+    "are": [
+      117
+    ],
+    "intrinsically": [
+      118
+    ],
+    "irreconcilable.": [
+      119
+    ],
+    "They": [
+      120
+    ],
+    "rest": [
+      121
+    ],
+    "on": [
+      122
+    ],
+    "incommensurate": [
+      123
+    ],
+    "assumptions": [
+      124
+    ],
+    "require": [
+      126
+    ],
+    "different": [
+      127
+    ],
+    "methods": [
+      128
+    ],
+    "evaluation.": [
+      130
+    ],
+    "Only": [
+      131
+    ],
+    "directly": [
+      133
+    ],
+    "considering": [
+      134
+    ],
+    "differences": [
+      136
+    ],
+    "silos": [
+      140
+    ],
+    "finally": [
+      146
+    ],
+    "dissolve,": [
+      147
+    ],
+    "speeding": [
+      148
+    ],
+    "accumulation": [
+      150
+    ],
+    "trustworthy": [
+      152
+    ],
+    "scientific": [
+      153
+    ],
+    "knowledge": [
+      154
+    ],
+    "about": [
+      155
+    ],
+    "is": [
+      158
+    ],
+    "usable": [
+      159
+    ],
+    "real": [
+      162
+    ],
+    "world.": [
+      163
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 10
+    }
+  ],
+  "updated_date": "2026-05-21T06:26:12.895304",
+  "created_date": "2025-10-10T00:00:00"
+}

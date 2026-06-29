@@ -1,0 +1,706 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          5
+        ]
+      ],
+      "date-time": "2026-06-05T07:15:50Z",
+      "timestamp": 1780643750337,
+      "version": "3.54.1"
+    },
+    "reference-count": 85,
+    "publisher": "Informa UK Limited",
+    "issue": "3-4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Cognition and Emotion"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1992,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1080/02699939208411068",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          1,
+          9
+        ]
+      ],
+      "date-time": "2008-01-09T10:06:31Z",
+      "timestamp": 1199873191000
+    },
+    "page": "169-200",
+    "source": "Crossref",
+    "is-referenced-by-count": 6214,
+    "title": [
+      "An argument for basic emotions"
+    ],
+    "prefix": "10.1080",
+    "volume": "6",
+    "author": [
+      {
+        "given": "Paul",
+        "family": "Ekman",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "a University of California , San Francisco, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          1,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "CIT0001",
+        "volume-title": "Social psychology",
+        "author": "Allport F. H.",
+        "year": "1924"
+      },
+      {
+        "key": "CIT0002",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00006842-195309000-00007"
+      },
+      {
+        "key": "CIT0003",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1007/978-1-4899-2151-2_28",
+        "volume-title": "Human assessment and cultural factors",
+        "author": "Boucher J. D.",
+        "year": "1983"
+      },
+      {
+        "key": "CIT0004",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022022181123002"
+      },
+      {
+        "key": "CIT0005",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.92.3.389"
+      },
+      {
+        "key": "CIT0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "225",
+        "DOI": "10.1037/0022-3514.35.4.225",
+        "volume": "35",
+        "author": "Buck R. W.",
+        "year": "1977",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "key": "CIT0007",
+        "first-page": "11",
+        "volume-title": "Darwin and facial expression",
+        "author": "Chevalier‐Skolnikoff S.",
+        "year": "1973"
+      },
+      {
+        "key": "CIT0008",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/10001-000"
+      },
+      {
+        "key": "CIT0009",
+        "first-page": "320",
+        "volume-title": "Emotion, cognition und behavior",
+        "author": "Davidson R. J.",
+        "year": "1984"
+      },
+      {
+        "key": "CIT0010",
+        "volume-title": "Cerebral dynumics, laterality and psychopathology",
+        "author": "Davidson R. J.",
+        "year": "1987"
+      },
+      {
+        "key": "CIT0011",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.58.2.330"
+      },
+      {
+        "key": "CIT0012",
+        "first-page": "297",
+        "volume-title": "Non‐verbal communication",
+        "author": "Eibl‐Eibesfeldt I.",
+        "year": "1972"
+      },
+      {
+        "key": "CIT0013",
+        "first-page": "207",
+        "volume-title": "Nebraska symposium on motivation",
+        "volume": "19",
+        "author": "Ekman P."
+      },
+      {
+        "key": "CIT0014",
+        "first-page": "34",
+        "volume-title": "Anthropology of the body",
+        "author": "Ekman P.",
+        "year": "1977"
+      },
+      {
+        "key": "CIT0015",
+        "first-page": "169",
+        "volume-title": "Human ethology",
+        "author": "Ekman P.",
+        "year": "1979"
+      },
+      {
+        "key": "CIT0016",
+        "first-page": "319",
+        "volume-title": "Approaches to emotion",
+        "author": "Ekman P.",
+        "year": "1984"
+      },
+      {
+        "key": "CIT0017",
+        "volume-title": "Telling lies: Clues to deceit in the marketplace, marriage, and politics",
+        "author": "Ekman P.",
+        "year": "1985"
+      },
+      {
+        "key": "CIT0018",
+        "first-page": "143",
+        "volume-title": "Handbook of social psychophysiology",
+        "author": "Ekman P.",
+        "year": "1989"
+      },
+      {
+        "key": "CIT0019",
+        "volume-title": "Distinguishing emotions from other affective states",
+        "author": "Ekman P.",
+        "year": "1991"
+      },
+      {
+        "key": "CIT0020",
+        "author": "Ekman P.",
+        "journal-title": "Psychological Science."
+      },
+      {
+        "key": "CIT0021",
+        "author": "Ekman P.",
+        "journal-title": "Voluntary smiling changes regional brain activity"
+      },
+      {
+        "key": "CIT0022",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1515/semi.1969.1.1.49",
+        "volume": "1",
+        "author": "Ekman P.",
+        "year": "1969",
+        "journal-title": "Semiotics"
+      },
+      {
+        "key": "CIT0023",
+        "volume-title": "Unmasking the face: A guide to recognizing emotions from facial clues",
+        "author": "Ekman P.",
+        "year": "1975"
+      },
+      {
+        "key": "CIT0024",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF01115465"
+      },
+      {
+        "key": "CIT0025",
+        "volume-title": "Facial action coding system: A technique for the measurement of facial movement",
+        "author": "Ekman P.",
+        "year": "1978"
+      },
+      {
+        "key": "CIT0026",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00987191"
+      },
+      {
+        "key": "CIT0027",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00992253"
+      },
+      {
+        "key": "CIT0028",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00992470"
+      },
+      {
+        "issue": "4",
+        "key": "CIT0029",
+        "doi-asserted-by": "crossref",
+        "first-page": "303",
+        "DOI": "10.1007/BF00993116",
+        "volume": "12",
+        "author": "Ekman P.",
+        "year": "1988",
+        "journal-title": "Motivation and Emotion"
+      },
+      {
+        "key": "CIT0030",
+        "volume-title": "Emotion in the human face: Guidelines for research and an integration of findings",
+        "author": "Ekman P.",
+        "year": "1972"
+      },
+      {
+        "key": "CIT0031",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0077722"
+      },
+      {
+        "key": "CIT0032",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.6612338"
+      },
+      {
+        "issue": "5",
+        "key": "CIT0033",
+        "doi-asserted-by": "crossref",
+        "first-page": "1416",
+        "DOI": "10.1037/0022-3514.49.5.1416",
+        "volume": "49",
+        "author": "Ekman P.",
+        "year": "1985",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "key": "CIT0034",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.58.2.342"
+      },
+      {
+        "key": "CIT0035",
+        "author": "Ekman P.",
+        "journal-title": "Motivation and Emotion"
+      },
+      {
+        "key": "CIT0036",
+        "first-page": "143",
+        "volume-title": "International review of studies on emotion",
+        "author": "Ellsworth P.",
+        "year": "1991"
+      },
+      {
+        "key": "CIT0037",
+        "author": "Etcoff N. L.",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "CIT0038",
+        "author": "Frank M. G.",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "key": "CIT0039",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0301-0511(91)90003-Y"
+      },
+      {
+        "key": "CIT0040",
+        "first-page": "143",
+        "volume-title": "Nonverbal behavior and communication",
+        "author": "Fridlund A.",
+        "year": "1987"
+      },
+      {
+        "key": "CIT0041",
+        "volume-title": "The emotions",
+        "author": "Frijda N. H.",
+        "year": "1986"
+      },
+      {
+        "key": "CIT0042",
+        "volume-title": "International review of studies on emotion",
+        "volume": "1",
+        "author": "Frijda N. H."
+      },
+      {
+        "key": "CIT0043",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1177/088307388600100114",
+        "volume": "1",
+        "author": "Goldblatt D.",
+        "year": "1986",
+        "journal-title": "Journal of Child Neurology"
+      },
+      {
+        "key": "CIT0044",
+        "first-page": "221",
+        "volume-title": "Physiological correlates of psychological disorder",
+        "author": "Graham D. T.",
+        "year": "1962"
+      },
+      {
+        "key": "CIT0045",
+        "volume-title": "The face of emotion",
+        "author": "Izard C. E.",
+        "year": "1591"
+      },
+      {
+        "key": "CIT0046",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4899-2209-0"
+      },
+      {
+        "key": "CIT0047",
+        "volume-title": "The maximally discriminative facial movement coding system (MAX)",
+        "author": "Izard C. E.",
+        "year": "1979"
+      },
+      {
+        "key": "CIT0048",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00992469"
+      },
+      {
+        "key": "CIT0049",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699938908408075"
+      },
+      {
+        "key": "CIT0050",
+        "volume-title": "A social interactional theory of emotions",
+        "author": "Kemper T. D.",
+        "year": "1598"
+      },
+      {
+        "key": "CIT0051",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780195069945.001.0001",
+        "volume-title": "Emotion and adaptation",
+        "author": "Lazarus R. S.",
+        "year": "1991"
+      },
+      {
+        "key": "CIT0052",
+        "first-page": "49",
+        "volume": "3",
+        "author": "LeDowx J. E.",
+        "year": "1991",
+        "journal-title": "The Journal of NIH Research"
+      },
+      {
+        "key": "CIT0053",
+        "first-page": "11",
+        "volume-title": "Social psychophysiology: Theory and clinical applications",
+        "author": "Levenson R. W.",
+        "year": "1988"
+      },
+      {
+        "key": "CIT0054",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-8986.1990.tb02330.x"
+      },
+      {
+        "key": "CIT0055",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0882-7974.6.1.28"
+      },
+      {
+        "key": "CIT0056",
+        "author": "Levenson R. W.",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "key": "CIT0057",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699938708408361"
+      },
+      {
+        "key": "CIT0058",
+        "volume-title": "Cultural differences in judgments of emotion and other personal attributes: What's in a smile?",
+        "author": "Matsumoto D. R."
+      },
+      {
+        "key": "CIT0059",
+        "volume-title": "Paper presented at the meeting of the American Psychological Association",
+        "author": "Miller R. S.",
+        "year": "1991"
+      },
+      {
+        "key": "CIT0060",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0021-843X.93.4.355"
+      },
+      {
+        "key": "CIT0061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699938708408362"
+      },
+      {
+        "key": "CIT0062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-8986.1986.tb00608.x"
+      },
+      {
+        "key": "CIT0063",
+        "doi-asserted-by": "crossref",
+        "first-page": "313",
+        "DOI": "10.1037/0033-295X.97.3.315",
+        "volume": "97",
+        "author": "Ortony A.",
+        "year": "1990",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "key": "CIT0064",
+        "author": "Oster H.",
+        "journal-title": "Developmental Psychology"
+      },
+      {
+        "key": "CIT0065",
+        "volume-title": "The emotions: Facts, theories and a new model",
+        "author": "Plutchik R.",
+        "year": "1962"
+      },
+      {
+        "key": "CIT0066",
+        "first-page": "212",
+        "volume-title": "Emotion in the human face",
+        "author": "Redican W. K.",
+        "year": "1982",
+        "edition": "2"
+      },
+      {
+        "key": "CIT0067",
+        "volume-title": "Paper presented at the XXIV International Congress of Psychology",
+        "author": "Ricci‐Bitti P. E.",
+        "year": "1988"
+      },
+      {
+        "key": "CIT0068",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.2466/pr0.1982.50.1.219",
+        "volume": "50",
+        "author": "Roberts R. J.",
+        "year": "1982",
+        "journal-title": "Psychological Reports"
+      },
+      {
+        "key": "CIT0069",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0010-0285(73)90017-0"
+      },
+      {
+        "key": "CIT0070",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699939108411034"
+      },
+      {
+        "key": "CIT0071",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archneur.1981.00510090055006"
+      },
+      {
+        "key": "CIT0072",
+        "author": "Russell J.",
+        "journal-title": "Motivation and Emotion"
+      },
+      {
+        "key": "CIT0073",
+        "first-page": "89",
+        "volume-title": "Cognitive perspectives on motivation and emotion",
+        "author": "Scherer K. R.",
+        "year": "1991"
+      },
+      {
+        "key": "CIT0074",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/053901883022003002"
+      },
+      {
+        "key": "CIT0075",
+        "volume-title": "Experiencing emotion: A cross‐cultural study",
+        "author": "Scherer K. R.",
+        "year": "1986"
+      },
+      {
+        "key": "CIT0076",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00006842-198108000-00007"
+      },
+      {
+        "key": "CIT0077",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.52.6.1061"
+      },
+      {
+        "key": "CIT0078",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699938908412712"
+      },
+      {
+        "key": "CIT0079",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-8986.1989.tb03163.x"
+      },
+      {
+        "key": "CIT0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1111/j.1469-8986.1989.tb03125.x",
+        "volume": "26",
+        "author": "Tassinaq L. G.",
+        "year": "1989",
+        "journal-title": "Psychophysiology"
+      },
+      {
+        "key": "CIT0081",
+        "doi-asserted-by": "crossref",
+        "first-page": "375",
+        "DOI": "10.1016/0162-3095(90)90017-Z",
+        "volume": "11",
+        "author": "Toobey J.",
+        "year": "1990",
+        "journal-title": "Ethology and Sociobiology"
+      },
+      {
+        "key": "CIT0082",
+        "volume-title": "Affect, imagery, consciousness. Vol. 1. The positive affects",
+        "author": "Tomkins S. S.",
+        "year": "1962"
+      },
+      {
+        "key": "CIT0083",
+        "volume-title": "Affect, imagery, consciousness. Vol. 2. The negative affects",
+        "author": "Tomkins S. S.",
+        "year": "1963"
+      },
+      {
+        "key": "CIT0084",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2466/pms.1964.18.1.119"
+      },
+      {
+        "key": "CIT0085",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.3883492"
+      }
+    ],
+    "container-title": [
+      "Cognition and Emotion"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/02699939208411068",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2024-02-21T03:54:11Z",
+      "timestamp": 1708487651000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/02699939208411068"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1992,
+          5
+        ]
+      ]
+    },
+    "references-count": 85,
+    "journal-issue": {
+      "issue": "3-4",
+      "published-online": {
+        "date-parts": [
+          [
+            2008,
+            1,
+            7
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            1992,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/02699939208411068"
+    ],
+    "URL": "https://doi.org/10.1080/02699939208411068",
+    "relation": {},
+    "ISSN": [
+      "0269-9931",
+      "1464-0600"
+    ],
+    "issn-type": [
+      {
+        "value": "0269-9931",
+        "type": "print"
+      },
+      {
+        "value": "1464-0600",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1992,
+          5
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AAN Photo Candidates</title>
+  <style>
+    body { margin: 0; font-family: Inter, system-ui, sans-serif; background: #f6f1ea; color: #1f2430; }
+    .wrap { width: min(1200px, calc(100% - 32px)); margin: 0 auto; padding: 32px 0 64px; }
+    h1 { font-size: 2rem; margin: 0 0 24px; }
+    .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+    figure { margin: 0; background: rgba(255,255,255,0.82); border: 1px solid #d8cec3; border-radius: 24px; overflow: hidden; box-shadow: 0 10px 30px rgba(31,36,48,0.08); }
+    img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: #e9e0d6; }
+    figcaption { padding: 14px 16px 18px; font-size: 0.95rem; line-height: 1.4; }
+    .label { display: block; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: #4e6a61; font-weight: 700; margin-bottom: 6px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>AAN photo candidates</h1>
+    <div class="grid">
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Portrait_of_a_young_woman_in_Montreal%2C_Canada_-_25_July_2007.png" alt="Portrait of a young woman outdoors in Montreal">
+        <figcaption><span class="label">Candidate A</span>Portrait of a young woman outdoors in Montreal</figcaption>
+      </figure>
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Half-length_portrait_of_a_young_woman_outdoors_%28AM_74708-1%29.jpg" alt="Half-length portrait of a young woman outdoors">
+        <figcaption><span class="label">Candidate B</span>Half-length portrait of a young woman outdoors</figcaption>
+      </figure>
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Man_Woman_Talking_%2845913066%29.jpeg" alt="A man and woman talking together">
+        <figcaption><span class="label">Candidate C</span>A man and woman talking together</figcaption>
+      </figure>
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/A_group_of_young_people_in_2006.jpg" alt="A group of young people together">
+        <figcaption><span class="label">Candidate D</span>A group of young people together</figcaption>
+      </figure>
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Candid_portrait_of_a_group_of_people_%28AM_75157-2%29.jpg" alt="Candid portrait of a small group of people">
+        <figcaption><span class="label">Candidate E</span>Candid portrait of a small group of people</figcaption>
+      </figure>
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Family_photo_2000s.jpg" alt="Family photo from the 2000s">
+        <figcaption><span class="label">Candidate F</span>Family photo from the 2000s</figcaption>
+      </figure>
+    </div>
+  </div>
+</body>
+</html>

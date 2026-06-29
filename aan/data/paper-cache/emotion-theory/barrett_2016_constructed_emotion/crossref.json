@@ -1,0 +1,1647 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          5
+        ]
+      ],
+      "date-time": "2026-06-05T16:13:23Z",
+      "timestamp": 1780676003386,
+      "version": "3.54.1"
+    },
+    "reference-count": 255,
+    "publisher": "Oxford University Press (OUP)",
+    "content-domain": {
+      "domain": [
+        "oxfordjournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Soc Cogn Affect Neurosci"
+    ],
+    "DOI": "10.1093/scan/nsw154",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2016-10-12T19:07:07Z",
+      "timestamp": 1476299227000
+    },
+    "page": "nsw154",
+    "update-policy": "https://doi.org/10.1093/policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 478,
+    "title": [
+      "The theory of constructed emotion: an active inference account of interoception and categorization"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Lisa Feldman",
+        "family": "Barrett",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          19
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "3",
+        "key": "2017013018001402000_nsw154v2.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "611",
+        "DOI": "10.1007/s00429-012-0475-5",
+        "article-title": "Predictions not commands: active inference in the motor system",
+        "volume": "218",
+        "author": "Adams",
+        "year": "2013",
+        "journal-title": "Brain Structure and Function"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cub.2012.11.055"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9280.00126"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0028-3932(99)00023-8"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0028-3932(03)00064-2"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1174331"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2014.03.003"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Anderson M.L. (2014). After Phrenology: Neural Reuse and the Interactive Brain. Cambridge: MIT Press.",
+        "DOI": "10.7551/mitpress/10111.001.0001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "918",
+        "DOI": "10.3389/fnhum.2013.00918",
+        "article-title": "Allocating structure to function: the strong links between neuroplasticity and natural selection",
+        "volume": "7",
+        "author": "Anderson",
+        "year": "2014",
+        "journal-title": "Frontiers in Human Neuroscience"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biopsych.2008.07.007"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2012.05.003"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2007.04.019"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0166-2236(02)02264-6"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00004647-200110000-00001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroimage.2016.03.071"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2009.08.009"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2008.0310"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-neuro-071714-033936"
+      },
+      {
+        "issue": "5",
+        "key": "2017013018001402000_nsw154v2.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1016/j.tins.2015.03.005",
+        "article-title": "Motor cortex layer 4: less is more",
+        "volume": "38",
+        "author": "Barbas",
+        "year": "2015",
+        "journal-title": "Trends in Neurosciences"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cercor/7.7.635"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/bies.201100185"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1745-6916.2006.00003.x"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15327957pspr1001_2"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1745-6924.2009.01134.x"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1047840X.2011.555216"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721411429125"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0027555"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1754073913489753"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1754073914534479"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.30",
+        "unstructured": "Barrett L.F. (2015). Ten common misconceptions about the psychological construction of emotion. In: Barrett L.F. Russell J.A. , editors. The psychological construction of emotion. p. 45-79, New York: Guilford."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.31",
+        "unstructured": "Barrett L.F. (2017). How Emotions Are Made: The Secret Life the Brain. New York, NY: Houghton-Mifflin-Harcourt."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0065-2601(08)00404-8"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1745-6916.2007.00046.x"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.58.110405.085709"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8721.00003"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.conb.2012.12.012"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn3950"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.130.4.553"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.39",
+        "unstructured": "Barrett L.F. Wilson-Mendenhall C.D. Barsalou L.W. (2015). The conceptual act theory: a road map. In: Barrett L.F. Russell J.A. , editors. The Psychological Construction of Emotion. New York: Guilford."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03196968"
+      },
+      {
+        "issue": "4",
+        "key": "2017013018001402000_nsw154v2.41",
+        "doi-asserted-by": "crossref",
+        "first-page": "577",
+        "DOI": "10.1017/S0140525X99002149",
+        "article-title": "Perceptual symbol systems",
+        "volume": "22",
+        "author": "Barsalou",
+        "year": "1999",
+        "journal-title": "Behavioral and Brain Science"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01690960344000026"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.59.103006.093639"
+      },
+      {
+        "issue": "4",
+        "key": "2017013018001402000_nsw154v2.44",
+        "doi-asserted-by": "crossref",
+        "first-page": "1122",
+        "DOI": "10.3758/s13423-016-1028-3",
+        "article-title": "On staying grounded and avoiding Quixotic dead ends",
+        "volume": "23",
+        "author": "Barsalou",
+        "year": "2016",
+        "journal-title": "Psychonomic Bulletin and Review"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1364-6613(02)00029-3"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2012.10.038"
+      },
+      {
+        "issue": "13",
+        "key": "2017013018001402000_nsw154v2.47",
+        "doi-asserted-by": "crossref",
+        "first-page": "5473",
+        "DOI": "10.1523/JNEUROSCI.19-13-05473.1999",
+        "article-title": "Different contributions of the human amygdala and ventromedial prefrontal cortex to decision-making",
+        "volume": "19",
+        "author": "Bechara",
+        "year": "1999",
+        "journal-title": "Journal of Neuroscience"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.7652558"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biopsych.2011.11.024"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.3328-08.2009"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1195870"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2011.10.001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cercor/bhp055"
+      },
+      {
+        "issue": "5",
+        "key": "2017013018001402000_nsw154v2.54",
+        "doi-asserted-by": "crossref",
+        "first-page": "588",
+        "DOI": "10.1093/scan/nsr047",
+        "article-title": "Changes in cortical morphology resulting from long-term amygdala damage",
+        "volume": "7",
+        "author": "Boes",
+        "year": "2011",
+        "journal-title": "Social Cognitive and Affective Neuroscience"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.55",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Boiger M. Mesquita B. (2012). The construction of emotion in interactions, relationships, and cultures. Emotion Review, 4",
+        "DOI": "10.1177/1754073912439765"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.conb.2014.08.010"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.1529-14.2015"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroimage.2011.10.035"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1196/annals.1440.011"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1152/jn.00339.2011"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.61",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Buhle J.T. Silvers J.A. Wager T.D. , . (2014). Cognitive reappraisal of emotion: a meta-analysis of human neuroimaging studies. Cerebral Cortex",
+        "DOI": "10.1093/cercor/bht154"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn3214"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.63",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Burrows M. (1996). The Neurobiology of an Insect Brain. Oxford; New York: Oxford University Press.",
+        "DOI": "10.1093/acprof:oso/9780198523444.001.0001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.64",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Buzsáki G. (2006). Rhythms of the Brain. Oxford; New York: Oxford University Press.",
+        "DOI": "10.1093/acprof:oso/9780195301069.001.0001"
+      },
+      {
+        "issue": "2",
+        "key": "2017013018001402000_nsw154v2.65",
+        "doi-asserted-by": "crossref",
+        "first-page": "283",
+        "DOI": "10.1152/ajplegacy.1925.72.2.283",
+        "article-title": "Studies on the conditions of activity in endocrine glands",
+        "volume": "72",
+        "author": "Cannon",
+        "year": "1925",
+        "journal-title": "American Journal of Physiology–Legacy Content"
+      },
+      {
+        "issue": "1669",
+        "key": "2017013018001402000_nsw154v2.66",
+        "doi-asserted-by": "crossref",
+        "first-page": "20140104",
+        "DOI": "10.1098/rstb.2014.0104",
+        "article-title": "Social instability and immunity in rhesus monkeys: the role of the sympathetic nervous system",
+        "volume": "370",
+        "author": "Capitanio",
+        "year": "2015",
+        "journal-title": "Philosophical Transactions of the Royal. Society B: Biological Scicnes"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.67",
+        "unstructured": "Carrive P. Morgan M.M. (2012). Periaquiductal gray. In: Mai J.K. Paxinos G. , editors. The Human Nervous System, 3rd edn., pp. 367–400. Boston: Elsevier."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2015.11.005"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.69",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1017/S0140525X12000477",
+        "article-title": "Whatever next? Predictive brains, situated agents, and the future of cognitive science",
+        "volume": "36",
+        "author": "Clark",
+        "year": "2013",
+        "journal-title": "Behavioral and Brain Sciences"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.70",
+        "doi-asserted-by": "crossref",
+        "first-page": "270",
+        "DOI": "10.3389/fpsyg.2013.00270",
+        "article-title": "The many faces of precision (Replies to commentaries on “Whatever next? Neural prediction, situated agents, and the future of cognitive science”)",
+        "volume": "4",
+        "author": "Clark",
+        "year": "2013",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.71",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Clark-Polner E. Johnson T. Barrett L.F. (2016). Multivoxel pattern analysis does not provide evidence to support the existence of basic emotions. Cerebral Cortex doi: 10.1093/cercor/bhw028.",
+        "DOI": "10.1093/cercor/bhw028"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.72",
+        "unstructured": "Clark-Polner E. Wager T.D. Satpute A.B. Barrett L.F. (2016). Neural fingerprinting: Meta-analysis, variation and the search for brain-based essences in the science of emotion. In: Barrett L.F. Lewis M. Haviland-Jones J.M. , editors. The handbook of emotion, 4th edn. p. 146–165, New York: Guilford."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.73",
+        "unstructured": "Clore G.L. Ortony A. (2008). Appraisal theories: how cognition shapes affect into emotion. In: Lewis M. Haviland-Jones J.M. Barrett L.F. , editors. Handbook of Emotions, 3rd edn., pp. 628–42. New York: Guilford Press."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00207727008920220"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.75",
+        "unstructured": "Counts S.E. Mufson E.J. (2012). The human nervous system. In: Mai J.K. Paxinos G. , editors. The Human Nervous System, pp. 425–38. Boston, MA: Elsevier."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.76",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Craig A.D. (2015). How Do You Feel?: an Interoceptive Moment with Your Neurobiological Self. Princeton: Princeton University Press.",
+        "DOI": "10.1515/9781400852727"
+      },
+      {
+        "issue": "7",
+        "key": "2017013018001402000_nsw154v2.77",
+        "doi-asserted-by": "crossref",
+        "first-page": "830",
+        "DOI": "10.1037/xge0000172",
+        "article-title": "Reading emotions from faces in two indigenous societies",
+        "volume": "145",
+        "author": "Crivelli",
+        "year": "2016",
+        "journal-title": "Journal of Experimental Psychology-General"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/brain/awu132"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn3403"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0010-0277(89)90005-X"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.81",
+        "unstructured": "Damasio A.R. (1999). The Feeling of What Happens: Body and Emotion in the Making of Consciousness. Houghton: Houghton Mifflin Harcourt."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tins.2013.10.003"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.83",
+        "unstructured": "Danziger K. (1997). Naming the Mind: How Psychology Found Its Language. London, England: Sage."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.84",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Darwin C. (1859/1964). On the Origin of Species . A Facsimile of the First Edition. Cambridge, MA: Harvard University Press.",
+        "DOI": "10.2307/j.ctvjf9xp5"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.85",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Darwin C. (1872/2005). The Expression of the Emotions in Man and Animals Stilwell, KS: Digireads. com.",
+        "DOI": "10.1037/10001-000"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2014.12.004"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.ne.15.030192.002033"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cortex.2013.12.010"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.89",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0910230107"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/neco.2008.20.1.91"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.91",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1016/j.cobeha.2016.04.001",
+        "article-title": "Circular inference: mistaken belief, misplaced trust",
+        "volume": "11",
+        "author": "Deneve",
+        "year": "2016",
+        "journal-title": "Current Opinion in Behavioral Sciences"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.92",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0070405"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.93",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nn2077"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.94",
+        "unstructured": "Dreyfus G. Thompson E. (2007). Asian perspectives: Indian theories of mind. In: Zelazo P.D. Moscovitch M. Thompson E. , editors. The Cambridge Handbook of Consciousness, pp. 89–114. Cambridge: Cambridge University Press."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.95",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature14106"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.96",
+        "unstructured": "Edelman G.M. Tononi G. (2000). A Universe of Consciousness: How Matter Becomes Imagination. New York: Basic books."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.97",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.231499798"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.98",
+        "unstructured": "Einstein A. Infeld L. (1938). Evolution of physics. Cambridge, United Kingdom: Cambridge University Press."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.99",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn4044"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.100",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.conb.2012.12.007"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.101",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cub.2010.11.042"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.102",
+        "unstructured": "Feinstein J.S. Adolphs R. Tranel D. (2016). A tale of survival from the world of Patient S.M. In: Amaral D.G. Adolphs R. , editors. Living without an Amygdala, pp. 1–38. New York: Guilford."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.103",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nn.3323"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.104",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13803390903066873"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.105",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.3389/fnhum.2010.00215",
+        "article-title": "Attention, uncertainty, and free-energy",
+        "volume": "4",
+        "author": "Feldman",
+        "year": "2010",
+        "journal-title": "Frontiers in Human Neuroscience"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.106",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cercor/bhv020"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.107",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2015.04.009"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.108",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn1431"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.109",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tins.2015.01.002"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.110",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tins.2014.11.004"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.111",
+        "unstructured": "Firestein S. (2012). Ignorance: How It Drives Science. Oxford: Oxford University Press."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.112",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-cellbio-092910-154129"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.113",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn2787"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.114",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0020739"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.115",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nn.4214"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.116",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gelman S.A. Rhodes M. (2012). Two-thousand years of stasis. How psychological essentialism impedes evolutionary understanding. In: Rosengren K.S. Brem S. Evans E.M. Sinatra G. , editors. Evolution Challenges: Integrating Research and Practice in Teaching and Learning About Evolution, pp. 3–21.Oxford: Oxford University Press.",
+        "DOI": "10.1093/acprof:oso/9780199730421.003.0001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.117",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797613517239"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.118",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0036052"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.119",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797614566659"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.120",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroimage.2006.09.046"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.121",
+        "first-page": "89",
+        "volume-title": "The Handbook of Social Psychology",
+        "volume": "1 and 2",
+        "author": "Gilbert",
+        "year": "1998"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.122",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamapsychiatry.2014.2206"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.123",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1754073910380974"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.124",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn3301"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.125",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1047840X.2014.940781"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.126",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/scan/nsu002"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.127",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2014.01.003"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.128",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2014.08.031"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.129",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2007.07.022"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.130",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2012.08.019"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.131",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2008.0296"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.132",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2015.04.006"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.133",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nn.3869"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.134"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.135",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hohwy J. (2013). The Predictive Mind. Oxford: OUP Oxford.",
+        "DOI": "10.1093/acprof:oso/9780199682737.001.0001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.136",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2217/epi.13.8"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.137",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2006.08.027"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.138",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0735-7044.102.1.66"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.139",
+        "doi-asserted-by": "crossref",
+        "unstructured": "James W. (1890/2007). The Principles of Psychology, Vol. 1. New York: Dover.",
+        "DOI": "10.1037/10538-000"
+      },
+      {
+        "issue": "2",
+        "key": "2017013018001402000_nsw154v2.140",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1004722",
+        "DOI": "10.1371/journal.pcbi.1004722",
+        "article-title": "The emotional gatekeeper: A computational model of attention selection and suppression through the pathway from the amygdala to the inhibitory thalamic reticular nucleus",
+        "volume": "12",
+        "author": "John",
+        "year": "2016",
+        "journal-title": "PLOS Computational Biology"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.141",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0014506"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.142",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0066032"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.143",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kleckner I.R. Zhang J. Touroutoglou A. , . (in press). Evidence for a large-scale brain system supporting allostasis and interoception in humans. Nature Human Behavior. doi: https://doi.org/10.1101/098970.",
+        "DOI": "10.1101/098970"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.144",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroimage.2008.03.059"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cub.2015.12.038"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.146",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0031820"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.147",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/scan/nsv032"
+      },
+      {
+        "issue": "6",
+        "key": "2017013018001402000_nsw154v2.148",
+        "doi-asserted-by": "crossref",
+        "first-page": "444",
+        "DOI": "10.1016/j.tics.2016.03.011",
+        "article-title": "Decoding the nature of emotion in the brain",
+        "volume": "20",
+        "author": "Kragel",
+        "year": "2016",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.149",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0030811"
+      },
+      {
+        "issue": "5–6",
+        "key": "2017013018001402000_nsw154v2.150",
+        "doi-asserted-by": "crossref",
+        "first-page": "371",
+        "DOI": "10.1007/s00422-012-0472-z",
+        "article-title": "Modeling habituation in rat EEG-evoked responses via a neural mass model with feedback",
+        "volume": "105",
+        "author": "Laxminarayan",
+        "year": "2011",
+        "journal-title": "Biological Cybernetics"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.151",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lazarus R.S. (1991). Emotion and Adaptation. New York, NY: Oxford University Press.",
+        "DOI": "10.1093/oso/9780195069945.001.0001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.152",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2012.02.004"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.153",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.nlm.2013.05.002"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.154",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liang M. Mouraux A. Hu L. Iannetti G. (2013). Primary sensory cortices contain distinguishable spatial patterns of activity for each sense. Nature Communications, 4",
+        "DOI": "10.1038/ncomms2979"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.155",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X11000446"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.156",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.conb.2011.05.018"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.157",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2004.03.008"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.158",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1066168"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.159",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nn.2735"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.160",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mareschal D. Johnson M.H. Sirois S. Spratling M. Thomas M.S. Westermann G. (2007). Neuroconstructivism-I: How the Brain Constructs Cognition. Oxford: Oxford University Press.",
+        "DOI": "10.1093/acprof:oso/9780198529910.001.0001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.161",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.6.1.73"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.162",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mayr E. (2004). What Makes Biology Unique?: Considerations on the Autonomy of a Scientific Discipline. Cambridge: Cambridge University Press.",
+        "DOI": "10.1017/CBO9780511617188"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.163",
+        "doi-asserted-by": "crossref",
+        "first-page": "177",
+        "DOI": "10.3389/fnhum.2010.00177",
+        "article-title": "Rhythmic pulsing: linking ongoing brain activity with evoked responses",
+        "volume": "4",
+        "author": "Mazaheri",
+        "year": "2010",
+        "journal-title": "Frontiers in Human Neuroscience"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.164",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nn.4086"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.165",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1146/annurev-psych-010814-014954",
+        "article-title": "Consolidating memories",
+        "volume": "66",
+        "author": "McGaugh",
+        "year": "2016",
+        "journal-title": "Annual Review of Psychology"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.166",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1385/NI:2:2:175"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.167",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tins.2011.03.005"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.168",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.3389/fnhum.2012.00285",
+        "article-title": "A meta-analytic review of multisensory imagery identifies the neural correlates of modality-specific and modality-general imagery",
+        "volume": "6",
+        "author": "McNorgan",
+        "year": "2012",
+        "journal-title": "Frontiers in Human Neuroscience"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.169",
+        "doi-asserted-by": "crossref",
+        "first-page": "1013",
+        "DOI": "10.1093/brain/121.6.1013",
+        "article-title": "From sensation to cognition",
+        "volume": "121(Pt 6)",
+        "author": "Mesulam",
+        "year": "1998",
+        "journal-title": "Brain"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.170",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mesulam M.M. (2002). The human frontal lobes: Transcending the default mode through contingent encoding. In: Stuss D.T. Knight R.T. , editors. Principles of Frontal Lobe Function, pp. 8–30. New York, NY: Oxford University Press.",
+        "DOI": "10.1093/acprof:oso/9780195134971.003.0002"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.171",
+        "first-page": "376",
+        "article-title": "Convergence and divergence in a neural architecture for recognition and memory",
+        "volume": "32",
+        "author": "Meyer",
+        "year": "2009",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.172",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biopsych.2012.10.029"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.173",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.4255-12.2013"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.174",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Murphy G. (2002). The Big Book of Concepts. Cambridge, MA: MIT press.",
+        "DOI": "10.7551/mitpress/1602.001.0001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.175",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cne.10609"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.176",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1093/scan/nsv088",
+        "article-title": "The neural representation of typical and atypical experiences of negative images: comparing fear, disgust and morbid fascination",
+        "volume": "11",
+        "author": "Oosterwijk",
+        "year": "2015",
+        "journal-title": "Social Cognitive and Affective Neuroscience"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.177",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroimage.2012.05.079"
+      },
+      {
+        "issue": "3",
+        "key": "2017013018001402000_nsw154v2.178",
+        "doi-asserted-by": "crossref",
+        "first-page": "294",
+        "DOI": "10.1080/17470919.2014.998840",
+        "article-title": "Concepts in context: processing mental state concepts with internal or external focus involves different neural systems",
+        "volume": "10",
+        "author": "Oosterwijk",
+        "year": "2015",
+        "journal-title": "Social Neuroscience"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.179",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pavlenko A. (2014). The Bilingual Mind: And What It Tells Us about Language and Thought. Cambridge: Cambridge University Press.",
+        "DOI": "10.1017/CBO9781139021456"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.180",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.2161-10.2010"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.181",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pneurobio.2015.09.001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.182",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0025953"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.183",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2011.09.006"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.184",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2013.06.004"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.185",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.2197-11.2011"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.186",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2010.01.008"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.187",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/4580"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.188",
+        "doi-asserted-by": "crossref",
+        "first-page": "709",
+        "DOI": "10.3758/s13415-016-0425-4",
+        "article-title": "Functional connectivity dynamics during film viewing reveal common networks for different emotional experiences",
+        "volume": "16",
+        "author": "Raz",
+        "year": "2016",
+        "journal-title": "Cognitive, Affective, and Behavioral Neuroscience"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.189",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12160"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.190",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1353/anq.0.0005"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.191",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1177/1754073911410744",
+        "article-title": "Emotional behaviors, emotivational goals, emotion strategies: Multiple levels of organization integrate variable and consistent responses",
+        "volume": "3",
+        "author": "Roseman",
+        "year": "2011",
+        "journal-title": "Emotion Review"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.192",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.110.3.426"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.193",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cercor/bhv086"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.194",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2012.10.021"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.195",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archpsyc.1993.01820140037004"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.196",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Satpute A.B. Wilson-Mendenhall C.D. Kleckner I.R. Barrett L.F. (2015). Emotional experience. In: Toga A.W. , editor. Brain Mapping: An Encyclopedic Reference, pp. 65–72. Boston MA: Elsevier.",
+        "DOI": "10.1016/B978-0-12-397025-1.00156-1"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.197",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/247481a0"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.198",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn2213"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.199",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.4697-10.2011"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.200",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2009.0141"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.201",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11065-010-9142-x"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.202",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0074-7742(08)60346-3"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.203",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn.2015.26"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.204",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Searle J.R. (1992). The Rediscovery of the Mind. Cambridge: MIT press.",
+        "DOI": "10.7551/mitpress/5834.001.0001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.205",
+        "unstructured": "Searle J.R. (2004). Mind: A Brief Introduction. Oxford: Oxford University Press."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.206",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.0759-12.2012"
+      },
+      {
+        "issue": "11",
+        "key": "2017013018001402000_nsw154v2.207",
+        "doi-asserted-by": "crossref",
+        "first-page": "565",
+        "DOI": "10.1016/j.tics.2013.09.007",
+        "article-title": "Interoceptive inference, emotion, and the embodied self",
+        "volume": "17",
+        "author": "Seth",
+        "year": "2013",
+        "journal-title": "Trends in Cognitiive Sciences"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.208",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.3389/fpsyg.2011.00395",
+        "article-title": "An interoceptive predictive coding model of conscious presence",
+        "volume": "2",
+        "author": "Seth",
+        "year": "2012",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.209",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Seth A. K. Friston K. J. (2016). Active interoceptive inference and the emotional brain. Philosophical Transactions of the Royal Society B, doi: 10.1098/rstb.2016.0007.",
+        "DOI": "10.1098/rstb.2016.0007"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.210",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/lm.038273.115"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.211",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tins.2013.09.004"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.212",
+        "doi-asserted-by": "crossref",
+        "first-page": "14",
+        "DOI": "10.1007/s10458-009-9093-x",
+        "article-title": "Modeling appraisal in Theory of Mind Reasoning",
+        "volume": "20",
+        "author": "Si",
+        "year": "2010",
+        "journal-title": "Journal of Autonomous Agents and Multi-Agent Systems"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.213",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cub.2015.06.009"
+      },
+      {
+        "issue": "1",
+        "key": "2017013018001402000_nsw154v2.214",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1016/j.bbi.2007.06.011",
+        "article-title": "Stress-induced remodeling of lymphoid innervation",
+        "volume": "22",
+        "author": "Sloan",
+        "year": "2008",
+        "journal-title": "Brain, Behavior, and Immunity"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.215",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.1247-07.2007"
+      },
+      {
+        "issue": "9",
+        "key": "2017013018001402000_nsw154v2.216",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.1167/15.9.7",
+        "article-title": "Beyond the classical receptive field: The effect of contextual stimuli",
+        "volume": "15",
+        "author": "Spillmann",
+        "year": "2015",
+        "journal-title": "Journal Vision"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.217",
+        "unstructured": "Sporns O. (2011). Networks of the Brain. Cambridge: MIT press."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.218",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biopsycho.2010.03.014"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.219",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.physbeh.2011.06.004"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.220",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sterling P. Laughlin S. (2015). Principles of Neural Design. Cambridge: MIT Press.",
+        "DOI": "10.7551/mitpress/9780262028707.001.0001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.221",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2013.01.039"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.222",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.neuro.31.060407.125606"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.223",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0006-8993(00)02905-X"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.224",
+        "unstructured": "Swanson L.W. (2012). Brain Architecture: Understanding the Basic Plan. Oxford: Oxford University Press."
+      },
+      {
+        "issue": "5",
+        "key": "2017013018001402000_nsw154v2.225",
+        "doi-asserted-by": "crossref",
+        "first-page": "e115",
+        "DOI": "10.1038/tp.2012.46",
+        "article-title": "Hypervigilance for fear after basolateral amygdala damage in humans",
+        "volume": "2",
+        "author": "Terburg",
+        "year": "2012",
+        "journal-title": "Translational Psychiatry"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.226",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.96.6.3257"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.227",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Touroutoglou A. Hollenbeck M. Dickerson B.C. Barrett L.F. (2012). Dissociable large-scale networks anchored in the right anterior insula subserve affective experience and attention. NeuroImage.",
+        "DOI": "10.1016/j.neuroimage.2012.02.012"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.228",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/scan/nsv013"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.229",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn3945"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.230",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1754073911410747"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.231",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nn.2380"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.232",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-psych-113011-143752"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.233",
+        "first-page": "55",
+        "article-title": "Salience procesing and insular cortical function and dysfunction",
+        "volume": "16",
+        "author": "Uddin",
+        "year": "2015",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.234",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1152/physrev.00041.2012"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.235",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1203593109"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.236",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.3539-11.2011"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.237",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.2128-13.2013"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.238",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2013.09.012"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.239",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13423-011-0122-9"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.240",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/jocn.2009.21366"
+      },
+      {
+        "issue": "4",
+        "key": "2017013018001402000_nsw154v2.241",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1004066",
+        "DOI": "10.1371/journal.pcbi.1004066",
+        "article-title": "A Bayesian model of category-specific emotional brain responses",
+        "volume": "11",
+        "author": "Wager",
+        "year": "2015",
+        "journal-title": "PLOS Computational Biology"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.242",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-7687.2007.00567.x"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.243",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8721.ep10836912"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.244",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtbi.2009.11.008"
+      },
+      {
+        "issue": "6",
+        "key": "2017013018001402000_nsw154v2.245",
+        "first-page": "1",
+        "article-title": "Degeneracy: a link between evolvability, robustness and complexity in biological systems",
+        "volume": "7",
+        "author": "Whitacre",
+        "year": "2010",
+        "journal-title": "Theoretical Biology and Medical Modelling"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.246",
+        "unstructured": "Wierzbicka A. (2014). Imprisoned in English. The Hazards of English as a Default Language. Oxford: Oxford University Press."
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.247",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tins.2010.08.001"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.248",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797612464242"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.249",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/scan/nsu037"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.250",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2010.12.032"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.251",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1113/jphysiol.1904.sp001034"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.252",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wundt W. (1897). Outlines of Psychology In: Judd C.H. (Trans.). Leipzig: Wilhelm Engelmann.",
+        "DOI": "10.1037/12908-000"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.253",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721412469396"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.254",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.5511-05.2006"
+      },
+      {
+        "key": "2017013018001402000_nsw154v2.255",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.4793-11.2012"
+      }
+    ],
+    "container-title": [
+      "Social Cognitive and Affective Neuroscience"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2024-06-19T22:13:36Z",
+      "timestamp": 1718835216000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/scan/article-lookup/doi/10.1093/scan/nsw154"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          19
+        ]
+      ]
+    },
+    "references-count": 255,
+    "alternative-id": [
+      "10.1093/scan/nsw154"
+    ],
+    "URL": "https://doi.org/10.1093/scan/nsw154",
+    "relation": {},
+    "ISSN": [
+      "1749-5016",
+      "1749-5024"
+    ],
+    "issn-type": [
+      {
+        "value": "1749-5016",
+        "type": "print"
+      },
+      {
+        "value": "1749-5024",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          19
+        ]
+      ]
+    }
+  }
+}

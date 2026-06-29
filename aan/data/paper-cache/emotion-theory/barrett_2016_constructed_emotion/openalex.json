@@ -1,0 +1,1481 @@
+{
+  "id": "https://openalex.org/W2538626945",
+  "doi": "https://doi.org/10.1093/scan/nsw154",
+  "title": "The theory of constructed emotion: an active inference account of interoception and categorization",
+  "display_name": "The theory of constructed emotion: an active inference account of interoception and categorization",
+  "publication_year": 2016,
+  "publication_date": "2016-10-12",
+  "ids": {
+    "openalex": "https://openalex.org/W2538626945",
+    "doi": "https://doi.org/10.1093/scan/nsw154",
+    "mag": "2538626945",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/27798257"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1093/scan/nsw154",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1093/scan/nsw154",
+    "pdf_url": "https://academic.oup.com/scan/article-pdf/12/1/1/27103603/nsw154.pdf",
+    "source": {
+      "id": "https://openalex.org/S107213193",
+      "display_name": "Social Cognitive and Affective Neuroscience",
+      "issn_l": "1749-5016",
+      "issn": [
+        "1749-5016",
+        "1749-5024"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311647",
+      "host_organization_name": "University of Oxford",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311647"
+      ],
+      "host_organization_lineage_names": [
+        "University of Oxford"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Social Cognitive and Affective Neuroscience",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://academic.oup.com/scan/article-pdf/12/1/1/27103603/nsw154.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5061385021",
+        "display_name": "Lisa Feldman Barrett",
+        "orcid": "https://orcid.org/0000-0003-4478-2051"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I12912129",
+          "display_name": "Northeastern University",
+          "ror": "https://ror.org/04t5xt781",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I12912129"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I136199984"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087915",
+          "display_name": "Massachusetts General Hospital",
+          "ror": "https://ror.org/002pd6e78",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I48633490"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210127055",
+          "display_name": "Athinoula A. Martinos Center for Biomedical Imaging",
+          "ror": "https://ror.org/032q5ym94",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I136199984",
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I4210127055",
+            "https://openalex.org/I48633490",
+            "https://openalex.org/I63966007"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Lisa Feldman Barrett",
+      "raw_affiliation_strings": [
+        "Athinoula, A. Martinos Center for Biomedical Imaging",
+        "Department of Psychology, Northeastern University, Boston, MA, USA",
+        "Psychiatric Neuroimaging Division, Department of Psychiatry, Massachusetts General Hospital and Harvard Medical School, Charlestown, MA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Athinoula, A. Martinos Center for Biomedical Imaging",
+          "institution_ids": [
+            "https://openalex.org/I4210127055"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychology, Northeastern University, Boston, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I12912129"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Psychiatric Neuroimaging Division, Department of Psychiatry, Massachusetts General Hospital and Harvard Medical School, Charlestown, MA, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210087915",
+            "https://openalex.org/I136199984"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5061385021"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I12912129",
+    "https://openalex.org/I136199984",
+    "https://openalex.org/I4210087915",
+    "https://openalex.org/I4210127055"
+  ],
+  "apc_list": {
+    "value": 2158,
+    "currency": "USD",
+    "value_usd": 2158
+  },
+  "apc_paid": null,
+  "fwci": 38.0026,
+  "has_fulltext": true,
+  "cited_by_count": 1425,
+  "citation_normalized_percentile": {
+    "value": 0.9992307,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "12",
+    "issue": "1",
+    "first_page": "nsw154",
+    "last_page": "nsw154"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11883",
+    "display_name": "Embodied and Extended Cognition",
+    "score": 0.9965999722480774,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2805",
+      "display_name": "Cognitive Neuroscience"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/28",
+      "display_name": "Neuroscience"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11883",
+      "display_name": "Embodied and Extended Cognition",
+      "score": 0.9965999722480774,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11431",
+      "display_name": "Action Observation and Synchronization",
+      "score": 0.9915000200271606,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11094",
+      "display_name": "Face Recognition and Perception",
+      "score": 0.9879000186920166,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/interoception",
+      "display_name": "Interoception",
+      "score": 0.9164658188819885
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.7602515816688538
+    },
+    {
+      "id": "https://openalex.org/keywords/categorization",
+      "display_name": "Categorization",
+      "score": 0.7589114904403687
+    },
+    {
+      "id": "https://openalex.org/keywords/folk-psychology",
+      "display_name": "Folk psychology",
+      "score": 0.6445763111114502
+    },
+    {
+      "id": "https://openalex.org/keywords/inference",
+      "display_name": "Inference",
+      "score": 0.5782909393310547
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-science",
+      "display_name": "Cognitive science",
+      "score": 0.5401211977005005
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-psychology",
+      "display_name": "Cognitive psychology",
+      "score": 0.48721760511398315
+    },
+    {
+      "id": "https://openalex.org/keywords/function",
+      "display_name": "Function (biology)",
+      "score": 0.4830961227416992
+    },
+    {
+      "id": "https://openalex.org/keywords/brain-function",
+      "display_name": "Brain function",
+      "score": 0.4499465227127075
+    },
+    {
+      "id": "https://openalex.org/keywords/affective-science",
+      "display_name": "Affective science",
+      "score": 0.4215485751628876
+    },
+    {
+      "id": "https://openalex.org/keywords/epistemology",
+      "display_name": "Epistemology",
+      "score": 0.32265520095825195
+    },
+    {
+      "id": "https://openalex.org/keywords/emotion-classification",
+      "display_name": "Emotion classification",
+      "score": 0.21744397282600403
+    },
+    {
+      "id": "https://openalex.org/keywords/neuroscience",
+      "display_name": "Neuroscience",
+      "score": 0.1426793932914734
+    },
+    {
+      "id": "https://openalex.org/keywords/perception",
+      "display_name": "Perception",
+      "score": 0.11292612552642822
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2908550385",
+      "wikidata": "https://www.wikidata.org/wiki/Q40221469",
+      "display_name": "Interoception",
+      "level": 3,
+      "score": 0.9164658188819885
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.7602515816688538
+    },
+    {
+      "id": "https://openalex.org/C94124525",
+      "wikidata": "https://www.wikidata.org/wiki/Q912550",
+      "display_name": "Categorization",
+      "level": 2,
+      "score": 0.7589114904403687
+    },
+    {
+      "id": "https://openalex.org/C128482177",
+      "wikidata": "https://www.wikidata.org/wiki/Q1429140",
+      "display_name": "Folk psychology",
+      "level": 2,
+      "score": 0.6445763111114502
+    },
+    {
+      "id": "https://openalex.org/C2776214188",
+      "wikidata": "https://www.wikidata.org/wiki/Q408386",
+      "display_name": "Inference",
+      "level": 2,
+      "score": 0.5782909393310547
+    },
+    {
+      "id": "https://openalex.org/C188147891",
+      "wikidata": "https://www.wikidata.org/wiki/Q147638",
+      "display_name": "Cognitive science",
+      "level": 1,
+      "score": 0.5401211977005005
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": 0.48721760511398315
+    },
+    {
+      "id": "https://openalex.org/C14036430",
+      "wikidata": "https://www.wikidata.org/wiki/Q3736076",
+      "display_name": "Function (biology)",
+      "level": 2,
+      "score": 0.4830961227416992
+    },
+    {
+      "id": "https://openalex.org/C3018390542",
+      "wikidata": "https://www.wikidata.org/wiki/Q1073",
+      "display_name": "Brain function",
+      "level": 2,
+      "score": 0.4499465227127075
+    },
+    {
+      "id": "https://openalex.org/C128534915",
+      "wikidata": "https://www.wikidata.org/wiki/Q3475770",
+      "display_name": "Affective science",
+      "level": 3,
+      "score": 0.4215485751628876
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.32265520095825195
+    },
+    {
+      "id": "https://openalex.org/C206310091",
+      "wikidata": "https://www.wikidata.org/wiki/Q750859",
+      "display_name": "Emotion classification",
+      "level": 2,
+      "score": 0.21744397282600403
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.1426793932914734
+    },
+    {
+      "id": "https://openalex.org/C26760741",
+      "wikidata": "https://www.wikidata.org/wiki/Q160402",
+      "display_name": "Perception",
+      "level": 2,
+      "score": 0.11292612552642822
+    },
+    {
+      "id": "https://openalex.org/C78458016",
+      "wikidata": "https://www.wikidata.org/wiki/Q840400",
+      "display_name": "Evolutionary biology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000339",
+      "descriptor_name": "Affect",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000339",
+      "descriptor_name": "Affect",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000339",
+      "descriptor_name": "Affect",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001921",
+      "descriptor_name": "Brain",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001921",
+      "descriptor_name": "Brain",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001921",
+      "descriptor_name": "Brain",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011582",
+      "descriptor_name": "Psychological Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011582",
+      "descriptor_name": "Psychological Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011582",
+      "descriptor_name": "Psychological Theory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D065812",
+      "descriptor_name": "Interoception",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D065812",
+      "descriptor_name": "Interoception",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D065812",
+      "descriptor_name": "Interoception",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1093/scan/nsw154",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1093/scan/nsw154",
+      "pdf_url": "https://academic.oup.com/scan/article-pdf/12/1/1/27103603/nsw154.pdf",
+      "source": {
+        "id": "https://openalex.org/S107213193",
+        "display_name": "Social Cognitive and Affective Neuroscience",
+        "issn_l": "1749-5016",
+        "issn": [
+          "1749-5016",
+          "1749-5024"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311647",
+        "host_organization_name": "University of Oxford",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311647"
+        ],
+        "host_organization_lineage_names": [
+          "University of Oxford"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Social Cognitive and Affective Neuroscience",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:27798257",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/27798257",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Social cognitive and affective neuroscience",
+      "raw_type": null
+    },
+    {
+      "id": "pmid:28472391",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/28472391",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Social cognitive and affective neuroscience",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:europepmc.org:4261134",
+      "is_oa": false,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5390700",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:5691871",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5691871",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Soc Cogn Affect Neurosci",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1093/scan/nsw154",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1093/scan/nsw154",
+    "pdf_url": "https://academic.oup.com/scan/article-pdf/12/1/1/27103603/nsw154.pdf",
+    "source": {
+      "id": "https://openalex.org/S107213193",
+      "display_name": "Social Cognitive and Affective Neuroscience",
+      "issn_l": "1749-5016",
+      "issn": [
+        "1749-5016",
+        "1749-5024"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311647",
+      "host_organization_name": "University of Oxford",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311647"
+      ],
+      "host_organization_lineage_names": [
+        "University of Oxford"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Social Cognitive and Affective Neuroscience",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education",
+      "score": 0.5099999904632568
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1138252777",
+      "display_name": null,
+      "funder_award_id": "CA193632",
+      "funder_id": "https://openalex.org/F4320337351",
+      "funder_display_name": "National Cancer Institute"
+    },
+    {
+      "id": "https://openalex.org/G2852116164",
+      "display_name": null,
+      "funder_award_id": "AG030311",
+      "funder_id": "https://openalex.org/F4320337337",
+      "funder_display_name": "National Institute on Aging"
+    },
+    {
+      "id": "https://openalex.org/G3528796698",
+      "display_name": null,
+      "funder_award_id": "CMMI 1638234",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G4542854641",
+      "display_name": null,
+      "funder_award_id": "CMMI 1638234",
+      "funder_id": "https://openalex.org/F4320337630",
+      "funder_display_name": "Army Research Institute for the Behavioral and Social Sciences"
+    },
+    {
+      "id": "https://openalex.org/G5596896278",
+      "display_name": "CRISP Type 2: Identification and Control of Uncertain, Highly Interdependent Processes Involving Humans with Applications to Resilient Emergency Health Response",
+      "funder_award_id": "1638234",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G5761681497",
+      "display_name": null,
+      "funder_award_id": "U01 CA193632",
+      "funder_id": "https://openalex.org/F4320337351",
+      "funder_display_name": "National Cancer Institute"
+    },
+    {
+      "id": "https://openalex.org/G5826801075",
+      "display_name": null,
+      "funder_award_id": "CMMI 1638234",
+      "funder_id": "https://openalex.org/F4320337351",
+      "funder_display_name": "National Cancer Institute"
+    },
+    {
+      "id": "https://openalex.org/G6098318695",
+      "display_name": null,
+      "funder_award_id": "R01 AG030311",
+      "funder_id": "https://openalex.org/F4320337337",
+      "funder_display_name": "National Institute on Aging"
+    },
+    {
+      "id": "https://openalex.org/G7126260126",
+      "display_name": null,
+      "funder_award_id": "U01 CA193632",
+      "funder_id": "https://openalex.org/F4320337630",
+      "funder_display_name": "Army Research Institute for the Behavioral and Social Sciences"
+    },
+    {
+      "id": "https://openalex.org/G7276097123",
+      "display_name": null,
+      "funder_award_id": "W911NF-16-1-0191",
+      "funder_id": "https://openalex.org/F4320337630",
+      "funder_display_name": "Army Research Institute for the Behavioral and Social Sciences"
+    },
+    {
+      "id": "https://openalex.org/G8013241394",
+      "display_name": null,
+      "funder_award_id": "W911NF-15-1-0647",
+      "funder_id": "https://openalex.org/F4320337630",
+      "funder_display_name": "Army Research Institute for the Behavioral and Social Sciences"
+    },
+    {
+      "id": "https://openalex.org/G8807956751",
+      "display_name": null,
+      "funder_award_id": "U01 CA193632",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306076",
+      "display_name": "National Science Foundation",
+      "ror": "https://ror.org/021nxhr62"
+    },
+    {
+      "id": "https://openalex.org/F4320337337",
+      "display_name": "National Institute on Aging",
+      "ror": "https://ror.org/049v75w11"
+    },
+    {
+      "id": "https://openalex.org/F4320337351",
+      "display_name": "National Cancer Institute",
+      "ror": "https://ror.org/040gcmg81"
+    },
+    {
+      "id": "https://openalex.org/F4320337391",
+      "display_name": "Division of Civil, Mechanical and Manufacturing Innovation",
+      "ror": "https://ror.org/028yd4c30"
+    },
+    {
+      "id": "https://openalex.org/F4320337630",
+      "display_name": "Army Research Institute for the Behavioral and Social Sciences",
+      "ror": "https://ror.org/03bq05s23"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2538626945.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2538626945.grobid-xml"
+  },
+  "referenced_works_count": 288,
+  "referenced_works": [
+    "https://openalex.org/W38292645",
+    "https://openalex.org/W39174686",
+    "https://openalex.org/W194099155",
+    "https://openalex.org/W379488513",
+    "https://openalex.org/W588868971",
+    "https://openalex.org/W631046676",
+    "https://openalex.org/W1418557530",
+    "https://openalex.org/W1483679835",
+    "https://openalex.org/W1490367821",
+    "https://openalex.org/W1492607487",
+    "https://openalex.org/W1496738545",
+    "https://openalex.org/W1507893557",
+    "https://openalex.org/W1517868336",
+    "https://openalex.org/W1537542164",
+    "https://openalex.org/W1547865271",
+    "https://openalex.org/W1550232114",
+    "https://openalex.org/W1550310024",
+    "https://openalex.org/W1574216169",
+    "https://openalex.org/W1574920822",
+    "https://openalex.org/W1575992056",
+    "https://openalex.org/W1589968137",
+    "https://openalex.org/W1590203034",
+    "https://openalex.org/W1596254730",
+    "https://openalex.org/W1604879017",
+    "https://openalex.org/W1620203002",
+    "https://openalex.org/W1673737377",
+    "https://openalex.org/W1747101780",
+    "https://openalex.org/W1804524409",
+    "https://openalex.org/W1893417051",
+    "https://openalex.org/W1958676502",
+    "https://openalex.org/W1963949534",
+    "https://openalex.org/W1964138406",
+    "https://openalex.org/W1969707662",
+    "https://openalex.org/W1971976749",
+    "https://openalex.org/W1975731691",
+    "https://openalex.org/W1977979993",
+    "https://openalex.org/W1980158097",
+    "https://openalex.org/W1980683585",
+    "https://openalex.org/W1982047119",
+    "https://openalex.org/W1982311102",
+    "https://openalex.org/W1983485726",
+    "https://openalex.org/W1984186949",
+    "https://openalex.org/W1985940938",
+    "https://openalex.org/W1986856036",
+    "https://openalex.org/W1989615119",
+    "https://openalex.org/W1989975840",
+    "https://openalex.org/W1990432147",
+    "https://openalex.org/W1990574575",
+    "https://openalex.org/W1990877586",
+    "https://openalex.org/W1994389924",
+    "https://openalex.org/W1997797132",
+    "https://openalex.org/W2002306727",
+    "https://openalex.org/W2003220763",
+    "https://openalex.org/W2004045253",
+    "https://openalex.org/W2005476331",
+    "https://openalex.org/W2006030610",
+    "https://openalex.org/W2008950282",
+    "https://openalex.org/W2009375902",
+    "https://openalex.org/W2009634691",
+    "https://openalex.org/W2009912939",
+    "https://openalex.org/W2012559638",
+    "https://openalex.org/W2013500884",
+    "https://openalex.org/W2013554506",
+    "https://openalex.org/W2016479629",
+    "https://openalex.org/W2016830543",
+    "https://openalex.org/W2019301333",
+    "https://openalex.org/W2019751136",
+    "https://openalex.org/W2020628123",
+    "https://openalex.org/W2022269251",
+    "https://openalex.org/W2022333848",
+    "https://openalex.org/W2022616811",
+    "https://openalex.org/W2023149227",
+    "https://openalex.org/W2023596252",
+    "https://openalex.org/W2023957242",
+    "https://openalex.org/W2026202566",
+    "https://openalex.org/W2027991937",
+    "https://openalex.org/W2028010529",
+    "https://openalex.org/W2030751218",
+    "https://openalex.org/W2032746142",
+    "https://openalex.org/W2033008398",
+    "https://openalex.org/W2033422410",
+    "https://openalex.org/W2033625525",
+    "https://openalex.org/W2033708181",
+    "https://openalex.org/W2034790845",
+    "https://openalex.org/W2035419353",
+    "https://openalex.org/W2037156065",
+    "https://openalex.org/W2037838725",
+    "https://openalex.org/W2039772527",
+    "https://openalex.org/W2042422091",
+    "https://openalex.org/W2045565604",
+    "https://openalex.org/W2047159572",
+    "https://openalex.org/W2048009237",
+    "https://openalex.org/W2048681789",
+    "https://openalex.org/W2050596356",
+    "https://openalex.org/W2051850587",
+    "https://openalex.org/W2052685640",
+    "https://openalex.org/W2054260111",
+    "https://openalex.org/W2054613715",
+    "https://openalex.org/W2055221332",
+    "https://openalex.org/W2055308071",
+    "https://openalex.org/W2055894321",
+    "https://openalex.org/W2056594786",
+    "https://openalex.org/W2057569161",
+    "https://openalex.org/W2059312295",
+    "https://openalex.org/W2060051579",
+    "https://openalex.org/W2062758252",
+    "https://openalex.org/W2062995163",
+    "https://openalex.org/W2064029491",
+    "https://openalex.org/W2064877840",
+    "https://openalex.org/W2065133030",
+    "https://openalex.org/W2066541966",
+    "https://openalex.org/W2067242602",
+    "https://openalex.org/W2067456724",
+    "https://openalex.org/W2067886794",
+    "https://openalex.org/W2068200449",
+    "https://openalex.org/W2072799373",
+    "https://openalex.org/W2073407709",
+    "https://openalex.org/W2074141888",
+    "https://openalex.org/W2075964924",
+    "https://openalex.org/W2076170850",
+    "https://openalex.org/W2077896336",
+    "https://openalex.org/W2081978414",
+    "https://openalex.org/W2082928871",
+    "https://openalex.org/W2083252150",
+    "https://openalex.org/W2085722350",
+    "https://openalex.org/W2086023016",
+    "https://openalex.org/W2088137508",
+    "https://openalex.org/W2088443095",
+    "https://openalex.org/W2089572795",
+    "https://openalex.org/W2089767272",
+    "https://openalex.org/W2090502680",
+    "https://openalex.org/W2091174247",
+    "https://openalex.org/W2094918351",
+    "https://openalex.org/W2095047274",
+    "https://openalex.org/W2096962395",
+    "https://openalex.org/W2099078585",
+    "https://openalex.org/W2099992049",
+    "https://openalex.org/W2100358226",
+    "https://openalex.org/W2102628289",
+    "https://openalex.org/W2103695170",
+    "https://openalex.org/W2104185643",
+    "https://openalex.org/W2104760284",
+    "https://openalex.org/W2104907299",
+    "https://openalex.org/W2105931454",
+    "https://openalex.org/W2106565313",
+    "https://openalex.org/W2106705508",
+    "https://openalex.org/W2106873368",
+    "https://openalex.org/W2107696655",
+    "https://openalex.org/W2108301231",
+    "https://openalex.org/W2108629469",
+    "https://openalex.org/W2108845151",
+    "https://openalex.org/W2109586655",
+    "https://openalex.org/W2110339714",
+    "https://openalex.org/W2110441769",
+    "https://openalex.org/W2110957653",
+    "https://openalex.org/W2112273791",
+    "https://openalex.org/W2112891119",
+    "https://openalex.org/W2113022628",
+    "https://openalex.org/W2113168798",
+    "https://openalex.org/W2114429947",
+    "https://openalex.org/W2114481234",
+    "https://openalex.org/W2114520249",
+    "https://openalex.org/W2114567332",
+    "https://openalex.org/W2115478715",
+    "https://openalex.org/W2116592969",
+    "https://openalex.org/W2116996894",
+    "https://openalex.org/W2117141679",
+    "https://openalex.org/W2117865617",
+    "https://openalex.org/W2119195417",
+    "https://openalex.org/W2119885245",
+    "https://openalex.org/W2120079537",
+    "https://openalex.org/W2120768649",
+    "https://openalex.org/W2120841452",
+    "https://openalex.org/W2124902961",
+    "https://openalex.org/W2125693923",
+    "https://openalex.org/W2127389037",
+    "https://openalex.org/W2128343378",
+    "https://openalex.org/W2128666650",
+    "https://openalex.org/W2129134806",
+    "https://openalex.org/W2131236995",
+    "https://openalex.org/W2133991911",
+    "https://openalex.org/W2134398180",
+    "https://openalex.org/W2134503929",
+    "https://openalex.org/W2134981097",
+    "https://openalex.org/W2135394513",
+    "https://openalex.org/W2136435696",
+    "https://openalex.org/W2136449688",
+    "https://openalex.org/W2137552275",
+    "https://openalex.org/W2138326456",
+    "https://openalex.org/W2138867073",
+    "https://openalex.org/W2139295975",
+    "https://openalex.org/W2144364601",
+    "https://openalex.org/W2145597092",
+    "https://openalex.org/W2146004938",
+    "https://openalex.org/W2148601705",
+    "https://openalex.org/W2148764920",
+    "https://openalex.org/W2148992333",
+    "https://openalex.org/W2150375089",
+    "https://openalex.org/W2150906796",
+    "https://openalex.org/W2150922105",
+    "https://openalex.org/W2151959122",
+    "https://openalex.org/W2152444902",
+    "https://openalex.org/W2152663369",
+    "https://openalex.org/W2152868521",
+    "https://openalex.org/W2153469952",
+    "https://openalex.org/W2153491397",
+    "https://openalex.org/W2153663755",
+    "https://openalex.org/W2153791616",
+    "https://openalex.org/W2154193857",
+    "https://openalex.org/W2154290876",
+    "https://openalex.org/W2154974767",
+    "https://openalex.org/W2156539308",
+    "https://openalex.org/W2159109763",
+    "https://openalex.org/W2159210250",
+    "https://openalex.org/W2159289472",
+    "https://openalex.org/W2160195521",
+    "https://openalex.org/W2161493176",
+    "https://openalex.org/W2162241822",
+    "https://openalex.org/W2162679451",
+    "https://openalex.org/W2164583235",
+    "https://openalex.org/W2166876889",
+    "https://openalex.org/W2167247432",
+    "https://openalex.org/W2168183996",
+    "https://openalex.org/W2168248188",
+    "https://openalex.org/W2168336873",
+    "https://openalex.org/W2170172094",
+    "https://openalex.org/W2171375557",
+    "https://openalex.org/W2171775221",
+    "https://openalex.org/W2171952745",
+    "https://openalex.org/W2174944216",
+    "https://openalex.org/W2197670420",
+    "https://openalex.org/W2204388929",
+    "https://openalex.org/W2216403645",
+    "https://openalex.org/W2239228331",
+    "https://openalex.org/W2259013223",
+    "https://openalex.org/W2259622857",
+    "https://openalex.org/W2263610200",
+    "https://openalex.org/W2276275925",
+    "https://openalex.org/W2279620263",
+    "https://openalex.org/W2283394469",
+    "https://openalex.org/W2290366356",
+    "https://openalex.org/W2309056208",
+    "https://openalex.org/W2332549914",
+    "https://openalex.org/W2335887430",
+    "https://openalex.org/W2341720544",
+    "https://openalex.org/W2342894681",
+    "https://openalex.org/W2346522032",
+    "https://openalex.org/W2346674441",
+    "https://openalex.org/W2478443986",
+    "https://openalex.org/W2488463714",
+    "https://openalex.org/W2498013954",
+    "https://openalex.org/W2500722721",
+    "https://openalex.org/W2530226740",
+    "https://openalex.org/W2571918371",
+    "https://openalex.org/W2572009480",
+    "https://openalex.org/W2606863060",
+    "https://openalex.org/W2751379301",
+    "https://openalex.org/W2780382187",
+    "https://openalex.org/W2889338382",
+    "https://openalex.org/W2895552032",
+    "https://openalex.org/W2908473373",
+    "https://openalex.org/W2910649667",
+    "https://openalex.org/W2949653992",
+    "https://openalex.org/W2955254504",
+    "https://openalex.org/W2979941427",
+    "https://openalex.org/W3040892939",
+    "https://openalex.org/W3102930440",
+    "https://openalex.org/W3125134639",
+    "https://openalex.org/W4205910582",
+    "https://openalex.org/W4210699655",
+    "https://openalex.org/W4211018604",
+    "https://openalex.org/W4211105648",
+    "https://openalex.org/W4212844288",
+    "https://openalex.org/W4231520991",
+    "https://openalex.org/W4232379769",
+    "https://openalex.org/W4233994114",
+    "https://openalex.org/W4235582938",
+    "https://openalex.org/W4237718205",
+    "https://openalex.org/W4239752430",
+    "https://openalex.org/W4245500012",
+    "https://openalex.org/W4247698036",
+    "https://openalex.org/W4247883378",
+    "https://openalex.org/W4253076047",
+    "https://openalex.org/W4254236282",
+    "https://openalex.org/W4301042878",
+    "https://openalex.org/W4388252364",
+    "https://openalex.org/W6666617927",
+    "https://openalex.org/W6785735549"
+  ],
+  "related_works": [
+    "https://openalex.org/W2733981984",
+    "https://openalex.org/W3211186241",
+    "https://openalex.org/W2903611662",
+    "https://openalex.org/W4221083782",
+    "https://openalex.org/W4205965811",
+    "https://openalex.org/W2607348396",
+    "https://openalex.org/W4390081453",
+    "https://openalex.org/W2538626945",
+    "https://openalex.org/W2015072572",
+    "https://openalex.org/W4285386956"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      21,
+      86
+    ],
+    "science": [
+      1
+    ],
+    "of": [
+      2,
+      19,
+      25,
+      34,
+      42,
+      53,
+      71,
+      82,
+      96
+    ],
+    "emotion": [
+      3
+    ],
+    "has": [
+      4
+    ],
+    "been": [
+      5
+    ],
+    "using": [
+      6
+    ],
+    "folk": [
+      7
+    ],
+    "psychology": [
+      8
+    ],
+    "categories": [
+      9
+    ],
+    "derived": [
+      10
+    ],
+    "from": [
+      11,
+      75
+    ],
+    "philosophy": [
+      12
+    ],
+    "to": [
+      13,
+      31,
+      49
+    ],
+    "search": [
+      14
+    ],
+    "for": [
+      15
+    ],
+    "the": [
+      16,
+      32,
+      40,
+      43,
+      47,
+      67,
+      72,
+      79,
+      94
+    ],
+    "brain": [
+      17
+    ],
+    "basis": [
+      18,
+      81
+    ],
+    "emotion.": [
+      20,
+      98
+    ],
+    "last": [
+      22
+    ],
+    "two": [
+      23
+    ],
+    "decades": [
+      24
+    ],
+    "neuroscience": [
+      26
+    ],
+    "research": [
+      27
+    ],
+    "have": [
+      28
+    ],
+    "brought": [
+      29
+    ],
+    "us": [
+      30
+    ],
+    "brink": [
+      33
+    ],
+    "a": [
+      35,
+      89
+    ],
+    "paradigm": [
+      36
+    ],
+    "shift": [
+      37
+    ],
+    "in": [
+      38
+    ],
+    "understanding": [
+      39,
+      52
+    ],
+    "workings": [
+      41
+    ],
+    "brain,": [
+      44,
+      73
+    ],
+    "however,": [
+      45
+    ],
+    "setting": [
+      46
+    ],
+    "stage": [
+      48
+    ],
+    "revolutionize": [
+      50
+    ],
+    "our": [
+      51
+    ],
+    "what": [
+      54,
+      78
+    ],
+    "emotions": [
+      55,
+      83
+    ],
+    "are": [
+      56
+    ],
+    "and": [
+      57,
+      69,
+      74
+    ],
+    "how": [
+      58
+    ],
+    "they": [
+      59
+    ],
+    "work.": [
+      60
+    ],
+    "In": [
+      61
+    ],
+    "this": [
+      62
+    ],
+    "article,": [
+      63
+    ],
+    "we": [
+      64
+    ],
+    "begin": [
+      65
+    ],
+    "with": [
+      66
+    ],
+    "structure": [
+      68
+    ],
+    "function": [
+      70
+    ],
+    "there": [
+      76
+    ],
+    "deduce": [
+      77
+    ],
+    "biological": [
+      80
+    ],
+    "might": [
+      84
+    ],
+    "be.": [
+      85
+    ],
+    "answer": [
+      87
+    ],
+    "is": [
+      88
+    ],
+    "brain-based,": [
+      90
+    ],
+    "computational": [
+      91
+    ],
+    "account": [
+      92
+    ],
+    "called": [
+      93
+    ],
+    "theory": [
+      95
+    ],
+    "constructed": [
+      97
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 56
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 197
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 188
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 232
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 175
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 198
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 152
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 117
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 72
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 37
+    }
+  ],
+  "updated_date": "2026-06-03T09:05:47.796612",
+  "created_date": "2016-10-28T00:00:00"
+}

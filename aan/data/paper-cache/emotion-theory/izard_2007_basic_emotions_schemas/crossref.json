@@ -1,0 +1,1495 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          4
+        ]
+      ],
+      "date-time": "2026-06-04T11:15:50Z",
+      "timestamp": 1780571750861,
+      "version": "3.54.1"
+    },
+    "reference-count": 232,
+    "publisher": "SAGE Publications",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2007-09-01T00:00:00Z",
+          "timestamp": 1188604800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Perspect Psychol Sci"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Research on emotion flourishes in many disciplines and specialties, yet experts cannot agree on its definition. Theorists and researchers use the term emotion in ways that imply different processes and meanings. Debate continues about the nature of emotions, their functions, their relations to broad affective dimensions, the processes that activate them, and their role in our daily activities and pursuits. I will address these issues here, specifically in terms of basic emotions as natural kinds, the nature of emotion schemas, the development of emotion—cognition relations that lead to emotion schemas, and discrete emotions in relation to affective dimensions. Finally, I propose a new paradigm that assumes continual emotion as a factor in organizing consciousness and as an influence on mind and behavior. The evidence reviewed suggests that a theory that builds on concepts of both basic emotions and emotion schemas provides a viable research tool and is compatible with more holistic or dimensional approaches.</jats:p>",
+    "DOI": "10.1111/j.1745-6916.2007.00044.x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          9,
+          4
+        ]
+      ],
+      "date-time": "2007-09-04T07:03:38Z",
+      "timestamp": 1188889418000
+    },
+    "page": "260-280",
+    "source": "Crossref",
+    "is-referenced-by-count": 725,
+    "title": [
+      "Basic Emotions, Natural Kinds, Emotion Schemas, and a New Paradigm"
+    ],
+    "prefix": "10.1177",
+    "volume": "2",
+    "author": [
+      {
+        "given": "Carroll E.",
+        "family": "Izard",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Delaware"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2007,
+          9,
+          1
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2004.05.002"
+      },
+      {
+        "key": "bibr2-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.77.3.566"
+      },
+      {
+        "key": "bibr3-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4899-1939-7_4"
+      },
+      {
+        "key": "bibr4-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ackerman B.P., Izard C.E., Kobak R., Brown E. (2006). The longitudinal relation between reading problems and internalizing behavior in school for preadolescent children from economically disadvantaged families. Unpublished manuscript, University of Delaware, Newark.",
+        "DOI": "10.1111/j.1467-8624.2007.01015.x"
+      },
+      {
+        "key": "bibr5-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8624.00103"
+      },
+      {
+        "key": "bibr6-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8721.2006.00440.x"
+      },
+      {
+        "key": "bibr7-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1469-8986.3840685"
+      },
+      {
+        "key": "bibr8-j.1745-6916.2007.00044.x",
+        "volume-title": "Diagnostic and statistical manual of mental disorders",
+        "author": "American Psychiatric Association",
+        "year": "1994",
+        "edition": "4"
+      },
+      {
+        "key": "bibr9-j.1745-6916.2007.00044.x",
+        "volume-title": "Selections",
+        "author": "Aristotle",
+        "year": "1995"
+      },
+      {
+        "key": "bibr10-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biopsych.2005.09.009"
+      },
+      {
+        "key": "bibr11-j.1745-6916.2007.00044.x",
+        "first-page": "47",
+        "volume-title": "The works of Francis Bacon: Baron of Verulam, Viscount St. Alban, and Lord High Chancellor of England",
+        "volume": "1",
+        "author": "Bacon F.",
+        "year": "1968"
+      },
+      {
+        "key": "bibr12-j.1745-6916.2007.00044.x",
+        "first-page": "255",
+        "volume-title": "Emotion and consciousness",
+        "author": "Barrett L.F.",
+        "year": "2005"
+      },
+      {
+        "key": "bibr13-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1745-6916.2006.00003.x"
+      },
+      {
+        "key": "bibr14-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0963-7214.2006.00411.x"
+      },
+      {
+        "key": "bibr15-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cercor/10.3.295"
+      },
+      {
+        "key": "bibr16-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.7652558"
+      },
+      {
+        "key": "bibr17-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1511/2006.59.995"
+      },
+      {
+        "key": "bibr18-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0010-0277(00)00129-3"
+      },
+      {
+        "key": "bibr19-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2004.12.006"
+      },
+      {
+        "key": "bibr20-j.1745-6916.2007.00044.x",
+        "first-page": "31",
+        "volume-title": "Emotion and social judgments: International series in experimental social psychology",
+        "author": "Bower G.H.",
+        "year": "1991"
+      },
+      {
+        "key": "bibr21-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.18.6.906"
+      },
+      {
+        "key": "bibr22-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.106.2.301"
+      },
+      {
+        "key": "bibr23-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8624.2004.00681.x"
+      },
+      {
+        "key": "bibr24-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.34.4.616"
+      },
+      {
+        "key": "bibr25-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.2.2.179"
+      },
+      {
+        "key": "bibr26-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0935845100"
+      },
+      {
+        "key": "bibr27-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.4.1.3"
+      },
+      {
+        "key": "bibr28-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15327957pspr0904_2"
+      },
+      {
+        "key": "bibr29-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.97.1.19"
+      },
+      {
+        "key": "bibr30-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bjps/53.4.511"
+      },
+      {
+        "key": "bibr31-j.1745-6916.2007.00044.x",
+        "first-page": "82",
+        "volume": "12",
+        "author": "Charland L.C.",
+        "year": "2005",
+        "journal-title": "Journal of Consciousness Studies"
+      },
+      {
+        "key": "bibr32-j.1745-6916.2007.00044.x",
+        "first-page": "334",
+        "volume-title": "The new unconscious",
+        "author": "Chartrand T.L.",
+        "year": "2005"
+      },
+      {
+        "key": "bibr33-j.1745-6916.2007.00044.x",
+        "first-page": "133",
+        "volume-title": "The construction of social judgments",
+        "author": "Clore G.L.",
+        "year": "1992"
+      },
+      {
+        "key": "bibr34-j.1745-6916.2007.00044.x",
+        "first-page": "323",
+        "volume-title": "Handbook of social cognition",
+        "volume": "1",
+        "author": "Clore G.L.",
+        "year": "1994",
+        "edition": "2"
+      },
+      {
+        "key": "bibr35-j.1745-6916.2007.00044.x",
+        "first-page": "37",
+        "volume": "13",
+        "author": "Clore G.L.",
+        "year": "2002",
+        "journal-title": "Psychological Inquiry"
+      },
+      {
+        "key": "bibr36-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8624.2004.00673.x"
+      },
+      {
+        "key": "bibr37-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02251005"
+      },
+      {
+        "key": "bibr38-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0954579400004855"
+      },
+      {
+        "key": "bibr39-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-006X.67.5.631"
+      },
+      {
+        "key": "bibr40-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2179320"
+      },
+      {
+        "key": "bibr41-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0956-7976.2004.00760.x"
+      },
+      {
+        "key": "bibr42-j.1745-6916.2007.00044.x",
+        "volume-title": "The feeling of what happens: Body and emotion in the making of consciousness",
+        "author": "Damasio A.R.",
+        "year": "1999"
+      },
+      {
+        "key": "bibr43-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/79871"
+      },
+      {
+        "key": "bibr44-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0166-4328(90)90144-4"
+      },
+      {
+        "key": "bibr45-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7208/chicago/9780226220802.001.0001"
+      },
+      {
+        "key": "bibr46-j.1745-6916.2007.00044.x",
+        "first-page": "237",
+        "volume-title": "The nature of emotion: Fundamental questions",
+        "author": "Davidson R.J.",
+        "year": "1994"
+      },
+      {
+        "key": "bibr47-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/026999398379628"
+      },
+      {
+        "key": "bibr48-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.58.2.330"
+      },
+      {
+        "key": "bibr49-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0963-7214.2006.00406.x"
+      },
+      {
+        "key": "bibr50-j.1745-6916.2007.00044.x",
+        "first-page": "43",
+        "volume-title": "The role of interest in learning and development",
+        "author": "Deci E.L.",
+        "year": "1992"
+      },
+      {
+        "key": "bibr51-j.1745-6916.2007.00044.x",
+        "volume-title": "Emotional development in young children",
+        "author": "Denham S.A.",
+        "year": "1998"
+      },
+      {
+        "key": "bibr52-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8624.00533"
+      },
+      {
+        "key": "bibr53-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4615-0055-1"
+      },
+      {
+        "key": "bibr54-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X99002046"
+      },
+      {
+        "key": "bibr55-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.50.5.1031"
+      },
+      {
+        "key": "bibr56-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0963-7214.2004.00501001.x"
+      },
+      {
+        "key": "bibr57-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.69.1.130"
+      },
+      {
+        "key": "bibr58-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9280.00221"
+      },
+      {
+        "key": "bibr59-j.1745-6916.2007.00044.x",
+        "first-page": "120",
+        "volume": "40",
+        "author": "Dunn J.",
+        "year": "1994",
+        "journal-title": "Merrill-Palmer Quarterly"
+      },
+      {
+        "key": "bibr60-j.1745-6916.2007.00044.x",
+        "volume-title": "Second nature: Brain science and human knowledge",
+        "author": "Edelman G.M.",
+        "year": "2006"
+      },
+      {
+        "key": "bibr61-j.1745-6916.2007.00044.x",
+        "first-page": "297",
+        "volume-title": "Nonverbal communication",
+        "author": "Eibl-Eibesfeldt I.",
+        "year": "1972"
+      },
+      {
+        "key": "bibr62-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1131652"
+      },
+      {
+        "key": "bibr63-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8624.2004.00674.x"
+      },
+      {
+        "key": "bibr64-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.115.2.268"
+      },
+      {
+        "key": "bibr65-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/0470013494.ch3"
+      },
+      {
+        "key": "bibr66-j.1745-6916.2007.00044.x",
+        "volume-title": "Emotions revealed",
+        "author": "Ekman P.",
+        "year": "2003"
+      },
+      {
+        "key": "bibr67-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.128.2.203"
+      },
+      {
+        "key": "bibr68-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.101.2.222"
+      },
+      {
+        "key": "bibr69-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.3.1.81"
+      },
+      {
+        "key": "bibr70-j.1745-6916.2007.00044.x",
+        "first-page": "572",
+        "volume-title": "Handbook of affective sciences",
+        "author": "Ellsworth P.C.",
+        "year": "2003"
+      },
+      {
+        "key": "bibr71-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00993115"
+      },
+      {
+        "key": "bibr72-j.1745-6916.2007.00044.x",
+        "unstructured": "The Eternities\n                      (2007, January). Retrieved July 17, 2007, from\nhttp://www.theeternities.com/2007/01/last_words_a_life_in_summary.html"
+      },
+      {
+        "key": "bibr73-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1131287"
+      },
+      {
+        "key": "bibr74-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1076-898X.11.2.124"
+      },
+      {
+        "key": "bibr75-j.1745-6916.2007.00044.x",
+        "first-page": "143",
+        "volume-title": "Language and learning",
+        "author": "Fodor J.A.",
+        "year": "1980"
+      },
+      {
+        "key": "bibr76-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.117.1.39"
+      },
+      {
+        "key": "bibr77-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.24.2.230"
+      },
+      {
+        "key": "bibr78-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1089-2680.2.3.300"
+      },
+      {
+        "key": "bibr79-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fredrickson B.L. (2000). Cultivating positive emotions to optimize health and well-being.\n                      Prevention & Treatment\n                      ,\n                      3\n                      , Article 1a. Retrieved February 1, 2001, from http://journals.apa.org/prevention/volume3/pre0030001a.html",
+        "DOI": "10.1037//1522-3736.3.1.31a"
+      },
+      {
+        "key": "bibr80-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.60.7.678"
+      },
+      {
+        "key": "bibr81-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511659911.007"
+      },
+      {
+        "key": "bibr82-j.1745-6916.2007.00044.x",
+        "volume-title": "The emotions",
+        "author": "Frijda N.H.",
+        "year": "1986"
+      },
+      {
+        "key": "bibr83-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.43.5.349"
+      },
+      {
+        "key": "bibr84-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699939308409193"
+      },
+      {
+        "key": "bibr85-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4684-4076-8_13"
+      },
+      {
+        "key": "bibr86-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8624.2004.00678.x"
+      },
+      {
+        "key": "bibr87-j.1745-6916.2007.00044.x",
+        "volume-title": "Meta-emotion: How families communicate emotionally",
+        "author": "Gottman J.M.",
+        "year": "1997"
+      },
+      {
+        "key": "bibr88-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699939008410799"
+      },
+      {
+        "key": "bibr89-j.1745-6916.2007.00044.x",
+        "first-page": "329",
+        "volume-title": "The nature of emotion: Fundamental questions. Series in affective science",
+        "author": "Gray J.A.",
+        "year": "1994"
+      },
+      {
+        "key": "bibr90-j.1745-6916.2007.00044.x",
+        "first-page": "243",
+        "volume-title": "The nature of emotion: Fundamental questions. Series in affective science",
+        "author": "Gray J.A.",
+        "year": "1994"
+      },
+      {
+        "key": "bibr91-j.1745-6916.2007.00044.x",
+        "first-page": "67",
+        "volume-title": "Emotion and consciousness",
+        "author": "Gray J.R.",
+        "year": "2005"
+      },
+      {
+        "key": "bibr92-j.1745-6916.2007.00044.x",
+        "volume-title": "Working with emotions in psychotherapy",
+        "author": "Greenberg L.S.",
+        "year": "1997"
+      },
+      {
+        "key": "bibr93-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0954579400006374"
+      },
+      {
+        "key": "bibr94-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780195153170.003.0016"
+      },
+      {
+        "key": "bibr95-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0006-8993(78)90569-3"
+      },
+      {
+        "key": "bibr96-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.74.5.1310"
+      },
+      {
+        "key": "bibr97-j.1745-6916.2007.00044.x",
+        "volume-title": "Physics and philosophy: The revolution in modern science",
+        "author": "Heisenberg W.",
+        "year": "1999"
+      },
+      {
+        "key": "bibr98-j.1745-6916.2007.00044.x",
+        "unstructured": "Hembree E.A. (1986). Individual differences and developmental changes in infants' emotion expressions during early mother-infant interaction. Unpublished manuscript, University of Delaware, Newark."
+      },
+      {
+        "key": "bibr99-j.1745-6916.2007.00044.x",
+        "first-page": "1",
+        "volume-title": "Monographs of the Society for Research in Child Development",
+        "volume": "71",
+        "author": "Hobson R.P.",
+        "year": "2006"
+      },
+      {
+        "key": "bibr100-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511805851"
+      },
+      {
+        "key": "bibr101-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9507.2004.00255.x"
+      },
+      {
+        "key": "bibr102-j.1745-6916.2007.00044.x",
+        "volume-title": "Evolution of facial musculature and facial expression",
+        "author": "Huber E.",
+        "year": "1931"
+      },
+      {
+        "key": "bibr103-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00992173"
+      },
+      {
+        "key": "bibr104-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4159/9780674038905"
+      },
+      {
+        "key": "bibr105-j.1745-6916.2007.00044.x",
+        "volume-title": "The face of emotion",
+        "author": "Izard C.E.",
+        "year": "1971"
+      },
+      {
+        "key": "bibr106-j.1745-6916.2007.00044.x",
+        "volume-title": "Patterns of emotions: A new analysis of anxiety and depression",
+        "author": "Izard C.E.",
+        "year": "1972"
+      },
+      {
+        "key": "bibr107-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4899-2209-0"
+      },
+      {
+        "key": "bibr108-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4684-2616-8_17"
+      },
+      {
+        "key": "bibr109-j.1745-6916.2007.00044.x",
+        "first-page": "17",
+        "volume-title": "Emotion, cognition, and behavior",
+        "author": "Izard C.E.",
+        "year": "1984"
+      },
+      {
+        "key": "bibr110-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4899-0615-1"
+      },
+      {
+        "key": "bibr111-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.99.3.561"
+      },
+      {
+        "key": "bibr112-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.100.1.68"
+      },
+      {
+        "key": "bibr113-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.115.2.288"
+      },
+      {
+        "key": "bibr114-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.128.5.796"
+      },
+      {
+        "key": "bibr115-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15327078in0603_7"
+      },
+      {
+        "key": "bibr116-j.1745-6916.2007.00044.x",
+        "unstructured": "Izard C.E. (2006). Experts' definitions of emotion and their ratings of its components and characteristics. Unpublished manuscript, University of Delaware, Newark."
+      },
+      {
+        "key": "bibr117-j.1745-6916.2007.00044.x",
+        "first-page": "1",
+        "volume-title": "Annual review of gerontology and geriatrics",
+        "volume": "17",
+        "author": "Izard C.E.",
+        "year": "1997"
+      },
+      {
+        "key": "bibr118-j.1745-6916.2007.00044.x",
+        "first-page": "253",
+        "volume-title": "Handbook of emotions",
+        "author": "Izard C.E.",
+        "year": "2000",
+        "edition": "2"
+      },
+      {
+        "key": "bibr119-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511527883.003"
+      },
+      {
+        "key": "bibr120-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.31.6.997"
+      },
+      {
+        "key": "bibr121-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9280.00304"
+      },
+      {
+        "key": "bibr122-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.23.1.105"
+      },
+      {
+        "key": "bibr123-j.1745-6916.2007.00044.x",
+        "unstructured": "Izard C.E., King K.A., Trentacosta C.J., Laurenceau J.P., Morgan J.K., Krauthamer-Ewing E.S., Finlon K.J. (in press). Accelerating the development of emotion competence in Head Start children. Development & Psychopathology."
+      },
+      {
+        "key": "bibr124-j.1745-6916.2007.00044.x",
+        "first-page": "494",
+        "volume-title": "Handbook of infant development",
+        "author": "Izard C.E.",
+        "year": "1987",
+        "edition": "2"
+      },
+      {
+        "key": "bibr125-j.1745-6916.2007.00044.x",
+        "first-page": "1",
+        "volume-title": "Perspectives on anxiety, panic, and fear",
+        "volume": "43",
+        "author": "Izard C.E.",
+        "year": "1996"
+      },
+      {
+        "key": "bibr126-j.1745-6916.2007.00044.x",
+        "first-page": "244",
+        "volume-title": "Developmental psychology: Theory and method",
+        "volume": "1",
+        "author": "Izard C.E.",
+        "year": "2006",
+        "edition": "2"
+      },
+      {
+        "key": "bibr127-j.1745-6916.2007.00044.x",
+        "volume-title": "The principles of emotion",
+        "volume": "2",
+        "author": "James W.",
+        "year": "1950"
+      },
+      {
+        "key": "bibr128-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4684-2616-8_2"
+      },
+      {
+        "key": "bibr129-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.64.5.740"
+      },
+      {
+        "key": "bibr130-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/mds.1174"
+      },
+      {
+        "key": "bibr131-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.109.2.219"
+      },
+      {
+        "key": "bibr132-j.1745-6916.2007.00044.x",
+        "first-page": "345",
+        "volume-title": "Cognitive neuroscience of emotion",
+        "author": "Lane R.D.",
+        "year": "2000"
+      },
+      {
+        "key": "bibr133-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0006-3223(98)00275-3"
+      },
+      {
+        "key": "bibr134-j.1745-6916.2007.00044.x",
+        "volume-title": "Philosophy in a new key: A study in the symbolism of reason, rite, and art",
+        "author": "Langer S.K.",
+        "year": "1942"
+      },
+      {
+        "key": "bibr135-j.1745-6916.2007.00044.x",
+        "volume-title": "Mind: An essay on human feeling",
+        "author": "Langer S.K.",
+        "year": "1967"
+      },
+      {
+        "key": "bibr136-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.19.3.375"
+      },
+      {
+        "key": "bibr137-j.1745-6916.2007.00044.x",
+        "volume-title": "The emotional brain: The mysterious underpinnings of emotional life",
+        "author": "LeDoux J.E.",
+        "year": "1996"
+      },
+      {
+        "key": "bibr138-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9280.01433"
+      },
+      {
+        "key": "bibr139-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/026999300402763"
+      },
+      {
+        "key": "bibr140-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/026999399379159"
+      },
+      {
+        "key": "bibr141-j.1745-6916.2007.00044.x",
+        "volume-title": "Shame and guilt in neurosis",
+        "author": "Lewis H.B.",
+        "year": "1971"
+      },
+      {
+        "key": "bibr142-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4613-3620-4"
+      },
+      {
+        "key": "bibr143-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/dev.20151"
+      },
+      {
+        "key": "bibr144-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511527883.004"
+      },
+      {
+        "key": "bibr145-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X0500004X"
+      },
+      {
+        "key": "bibr146-j.1745-6916.2007.00044.x",
+        "volume-title": "Some thoughts concerning education",
+        "author": "Locke J.",
+        "year": "1695",
+        "edition": "3"
+      },
+      {
+        "key": "bibr147-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13506280444000085"
+      },
+      {
+        "key": "bibr148-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jclp.20243"
+      },
+      {
+        "key": "bibr149-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.131.6.803"
+      },
+      {
+        "key": "bibr150-j.1745-6916.2007.00044.x",
+        "first-page": "247",
+        "volume-title": "Handbook of emotions",
+        "author": "Magai C.",
+        "year": "1993"
+      },
+      {
+        "key": "bibr151-j.1745-6916.2007.00044.x",
+        "volume-title": "The role of emotions in social and personality development: History, theory, and research",
+        "author": "Magai C.",
+        "year": "1995"
+      },
+      {
+        "key": "bibr152-j.1745-6916.2007.00044.x",
+        "first-page": "237",
+        "volume-title": "Patterns of emotions: A new analysis of anxiety and depression",
+        "author": "Marshall A.G.",
+        "year": "1972"
+      },
+      {
+        "key": "bibr153-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X07000891"
+      },
+      {
+        "key": "bibr154-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.37.6.826"
+      },
+      {
+        "key": "bibr155-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8624.00475"
+      },
+      {
+        "key": "bibr156-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8624.00505"
+      },
+      {
+        "key": "bibr157-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-94-015-8234-6_15"
+      },
+      {
+        "key": "bibr158-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.psyneuen.2005.03.019"
+      },
+      {
+        "key": "bibr159-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-3445.130.3.466"
+      },
+      {
+        "key": "bibr160-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.108.3.483"
+      },
+      {
+        "key": "bibr161-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13554790490507632"
+      },
+      {
+        "key": "bibr162-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X00012759"
+      },
+      {
+        "key": "bibr163-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780195096736.001.0001"
+      },
+      {
+        "key": "bibr164-j.1745-6916.2007.00044.x",
+        "first-page": "137",
+        "volume-title": "Handbook of emotions",
+        "author": "Panksepp J.",
+        "year": "2000",
+        "edition": "2"
+      },
+      {
+        "key": "bibr165-j.1745-6916.2007.00044.x",
+        "first-page": "158",
+        "volume": "12",
+        "author": "Panksepp J.",
+        "year": "2005",
+        "journal-title": "Journal of Consciousness Studies"
+      },
+      {
+        "key": "bibr166-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1745-6916.2007.00045.x"
+      },
+      {
+        "key": "bibr167-j.1745-6916.2007.00044.x",
+        "volume-title": "The emotions: Facts, theories, and a new model",
+        "author": "Plutchik R.",
+        "year": "1962"
+      },
+      {
+        "key": "bibr168-j.1745-6916.2007.00044.x",
+        "volume-title": "Emotion: A psychoevolutionary synthesis",
+        "author": "Plutchik R.",
+        "year": "1980"
+      },
+      {
+        "key": "bibr169-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.41.4.803"
+      },
+      {
+        "key": "bibr170-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00004703-200306000-00002"
+      },
+      {
+        "key": "bibr171-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0735-7044.110.2.401"
+      },
+      {
+        "key": "bibr172-j.1745-6916.2007.00044.x",
+        "unstructured": "Quinn B.A. (in press). Cognitive and affective processes in collection development. Library Resources & Technical Services."
+      },
+      {
+        "key": "bibr173-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8721.00170"
+      },
+      {
+        "key": "bibr174-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/S15327647JCD0101N_6"
+      },
+      {
+        "key": "bibr175-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2005.01665.x"
+      },
+      {
+        "key": "bibr176-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8624.00286"
+      },
+      {
+        "key": "bibr177-j.1745-6916.2007.00044.x",
+        "volume-title": "Explaining emotions",
+        "author": "Rorty A.O.",
+        "year": "1980"
+      },
+      {
+        "key": "bibr178-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.1093/oso/9780195153170.003.0018",
+        "volume-title": "Thinking about feeling: Contemporary philosophers on emotions",
+        "author": "Rorty A.O.",
+        "year": "2004"
+      },
+      {
+        "key": "bibr179-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.4.2.145"
+      },
+      {
+        "key": "bibr180-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1093/oso/9780195130072.003.0001",
+        "volume-title": "Appraisal processes in emotion: Theory, methods, research. Series in affective science",
+        "author": "Roseman I.J.",
+        "year": "2001"
+      },
+      {
+        "key": "bibr181-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1534582304265945"
+      },
+      {
+        "key": "bibr182-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1053-8100(02)00017-X"
+      },
+      {
+        "key": "bibr183-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.78.1.122"
+      },
+      {
+        "key": "bibr184-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8624.00355"
+      },
+      {
+        "key": "bibr185-j.1745-6916.2007.00044.x",
+        "volume-title": "The conquest of happiness",
+        "author": "Russell B.",
+        "year": "1930"
+      },
+      {
+        "key": "bibr186-j.1745-6916.2007.00044.x",
+        "volume-title": "A history of western philosophy, and its connection with political and social circumstances from the earliest times to the present day",
+        "author": "Russell B.",
+        "year": "1945"
+      },
+      {
+        "key": "bibr187-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.118.3.379"
+      },
+      {
+        "key": "bibr188-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.110.1.145"
+      },
+      {
+        "key": "bibr189-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.22.1.97"
+      },
+      {
+        "key": "bibr190-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X05450049"
+      },
+      {
+        "key": "bibr191-j.1745-6916.2007.00044.x",
+        "first-page": "127",
+        "volume-title": "Measuring emotions in infants and children",
+        "author": "Scherer K.R.",
+        "year": "1982"
+      },
+      {
+        "key": "bibr192-j.1745-6916.2007.00044.x",
+        "first-page": "151",
+        "volume-title": "Introduction to social psychology: A European perspective",
+        "author": "Scherer K.R.",
+        "year": "2000"
+      },
+      {
+        "key": "bibr193-j.1745-6916.2007.00044.x",
+        "first-page": "312",
+        "volume-title": "Emotion and consciousness",
+        "author": "Scherer K.R.",
+        "year": "2005"
+      },
+      {
+        "key": "bibr194-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699930500305016"
+      },
+      {
+        "key": "bibr195-j.1745-6916.2007.00044.x",
+        "first-page": "433",
+        "volume-title": "Handbook of affective sciences",
+        "author": "Scherer K.R.",
+        "year": "2003"
+      },
+      {
+        "key": "bibr196-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X05460045"
+      },
+      {
+        "key": "bibr197-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0954579404044566"
+      },
+      {
+        "key": "bibr198-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022022104264124"
+      },
+      {
+        "key": "bibr199-j.1745-6916.2007.00044.x",
+        "first-page": "177",
+        "volume-title": "Brain mechanisms of sensation",
+        "author": "Scott T.R.",
+        "year": "1981"
+      },
+      {
+        "key": "bibr200-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroimage.2005.11.053"
+      },
+      {
+        "key": "bibr201-j.1745-6916.2007.00044.x",
+        "volume-title": "The nature of emotion: Fundamental questions",
+        "author": "Shweder R.A.",
+        "year": "1994"
+      },
+      {
+        "key": "bibr202-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/acprof:oso/9780195158557.001.0001"
+      },
+      {
+        "key": "bibr203-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/11120-000"
+      },
+      {
+        "key": "bibr204-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.21.1.195"
+      },
+      {
+        "key": "bibr205-j.1745-6916.2007.00044.x",
+        "volume-title": "The principles of psychology",
+        "volume": "1",
+        "author": "Spencer H.",
+        "year": "1890"
+      },
+      {
+        "key": "bibr206-j.1745-6916.2007.00044.x",
+        "volume-title": "The ethics of Spinoza",
+        "author": "Spinoza B.",
+        "year": "1957"
+      },
+      {
+        "key": "bibr207-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511527661"
+      },
+      {
+        "key": "bibr208-j.1745-6916.2007.00044.x",
+        "first-page": "254",
+        "volume-title": "Fourth symposium on oral sensation and perception",
+        "author": "Steiner J.E.",
+        "year": "1973"
+      },
+      {
+        "key": "bibr209-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0065-2407(08)60349-3"
+      },
+      {
+        "key": "bibr210-j.1745-6916.2007.00044.x",
+        "first-page": "247",
+        "volume-title": "Psychological and biological approaches to emotion",
+        "author": "Stenberg C.R.",
+        "year": "1990"
+      },
+      {
+        "key": "bibr211-j.1745-6916.2007.00044.x",
+        "volume-title": "The interpersonal world of the infant: A view from psychoanalysis and developmental psychology",
+        "author": "Stern D.N.",
+        "year": "1985"
+      },
+      {
+        "key": "bibr212-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.39.4.693"
+      },
+      {
+        "key": "bibr213-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.24.2.223"
+      },
+      {
+        "key": "bibr214-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X05000129"
+      },
+      {
+        "key": "bibr215-j.1745-6916.2007.00044.x",
+        "volume-title": "Affect, imagery, consciousness: Vol. 1. The positive affects",
+        "author": "Tomkins S.S.",
+        "year": "1962"
+      },
+      {
+        "key": "bibr216-j.1745-6916.2007.00044.x",
+        "volume-title": "Affect, imagery, consciousness: Vol. 2. The negative affects",
+        "author": "Tomkins S.S.",
+        "year": "1963"
+      },
+      {
+        "key": "bibr217-j.1745-6916.2007.00044.x",
+        "first-page": "201",
+        "volume-title": "Nebraska symposium on motivation: Vol. 26. Current theories and research in motivation",
+        "author": "Tomkins S.S.",
+        "year": "1979"
+      },
+      {
+        "key": "bibr218-j.1745-6916.2007.00044.x",
+        "volume-title": "The emergence of personality",
+        "author": "Tomkins S.S.",
+        "year": "1987"
+      },
+      {
+        "key": "bibr219-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0079-7421(08)60177-2"
+      },
+      {
+        "key": "bibr220-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.7.1.77"
+      },
+      {
+        "key": "bibr221-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0002-7138(09)62273-1"
+      },
+      {
+        "key": "bibr222-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X05500049"
+      },
+      {
+        "key": "bibr223-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1121448"
+      },
+      {
+        "key": "bibr224-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.96.3.465"
+      },
+      {
+        "key": "bibr225-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.125.5.601"
+      },
+      {
+        "key": "bibr226-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.76.5.820"
+      },
+      {
+        "key": "bibr227-j.1745-6916.2007.00044.x",
+        "volume-title": "La physionomic humaine: Son mecanisme et son role social",
+        "author": "Waynbaum I.",
+        "year": "1994"
+      },
+      {
+        "key": "bibr228-j.1745-6916.2007.00044.x",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.92.4.548"
+      },
+      {
+        "key": "bibr229-j.1745-6916.2007.00044.x",
+        "volume-title": "Experimental psychology",
+        "author": "Woodworth R.S.",
+        "year": "1954"
+      },
+      {
+        "key": "bibr230-j.1745-6916.2007.00044.x",
+        "volume-title": "Outlines of psychology",
+        "author": "Wundt W.",
+        "year": "1907"
+      },
+      {
+        "key": "bibr231-j.1745-6916.2007.00044.x",
+        "volume-title": "Handbook of approach and avoidance motivation",
+        "author": "Youngstrom E.A."
+      },
+      {
+        "key": "bibr232-j.1745-6916.2007.00044.x",
+        "first-page": "591",
+        "volume-title": "The handbook of social psychology",
+        "volume": "1",
+        "author": "Zajonc R.",
+        "year": "1998"
+      }
+    ],
+    "container-title": [
+      "Perspectives on Psychological Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1111/j.1745-6916.2007.00044.x",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1111/j.1745-6916.2007.00044.x",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1111/j.1745-6916.2007.00044.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2026-05-01T04:38:09Z",
+      "timestamp": 1777610289000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1111/j.1745-6916.2007.00044.x"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    },
+    "references-count": 232,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/j.1745-6916.2007.00044.x"
+    ],
+    "URL": "https://doi.org/10.1111/j.1745-6916.2007.00044.x",
+    "relation": {},
+    "ISSN": [
+      "1745-6916",
+      "1745-6924"
+    ],
+    "issn-type": [
+      {
+        "value": "1745-6916",
+        "type": "print"
+      },
+      {
+        "value": "1745-6924",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    }
+  }
+}

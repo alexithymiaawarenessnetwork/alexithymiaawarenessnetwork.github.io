@@ -1,0 +1,293 @@
+{
+  "papers": [
+    {
+      "id": "barrett_2016_constructed_emotion",
+      "doi": "10.1093/scan/nsw154",
+      "title": "The theory of constructed emotion: an active inference account of interoception and categorization",
+      "year": 2016,
+      "authors": [
+        "Lisa Feldman Barrett"
+      ],
+      "host_venue": "Social Cognitive and Affective Neuroscience",
+      "openalex_url": "https://openalex.org/W2538626945",
+      "is_oa": true,
+      "oa_status": "bronze",
+      "cited_by_count": 1425,
+      "primary_location_url": "https://doi.org/10.1093/scan/nsw154",
+      "best_oa_landing_page_url": "https://doi.org/10.1093/scan/nsw154",
+      "best_oa_pdf_url": "https://academic.oup.com/scan/article-pdf/12/1/1/27103603/nsw154.pdf",
+      "pmcid": null,
+      "openalex_cached": true,
+      "crossref_cached": true,
+      "landing_page_cached": false,
+      "landing_errors": [
+        "doi_landing: <HTTPError 403: 'Forbidden'>"
+      ],
+      "pdf_cached": false,
+      "pdf_errors": [
+        "https://academic.oup.com/scan/article-pdf/12/1/1/27103603/nsw154.pdf: <HTTPError 403: 'Forbidden'>"
+      ]
+    },
+    {
+      "id": "barrett_2025_more_than_a_feeling",
+      "doi": "10.1177/17456916251319045",
+      "title": "The Theory of Constructed Emotion: More Than a Feeling",
+      "year": 2025,
+      "authors": [
+        "Lisa Feldman Barrett",
+        "Shir Atzil",
+        "Eliza Bliss‐Moreau",
+        "Lorena Chanes",
+        "Maria Gendron",
+        "Katie Hoemann",
+        "Yuta Katsumi",
+        "Ian R. Kleckner",
+        "Kristen A. Lindquist",
+        "Karen S. Quigley",
+        "Ajay B. Satpute",
+        "Eli Sennesh",
+        "Clare Shaffer",
+        "Jordan E. Theriault",
+        "Michele M. Tugade",
+        "Christiana Westlin"
+      ],
+      "host_venue": "Perspectives on Psychological Science",
+      "openalex_url": "https://openalex.org/W4410313068",
+      "is_oa": true,
+      "oa_status": "green",
+      "cited_by_count": 22,
+      "primary_location_url": "https://doi.org/10.1177/17456916251319045",
+      "best_oa_landing_page_url": "https://ddd.uab.cat/record/326281",
+      "best_oa_pdf_url": null,
+      "pmcid": null,
+      "openalex_cached": true,
+      "crossref_cached": true,
+      "landing_page_cached": false,
+      "landing_errors": [
+        "doi_landing: <HTTPError 403: 'Forbidden'>",
+        "alt_landing: URLError(ConnectionResetError(54, 'Connection reset by peer'))"
+      ],
+      "pdf_cached": false
+    },
+    {
+      "id": "ekman_1992_basic_emotions",
+      "doi": "10.1080/02699939208411068",
+      "title": "An argument for basic emotions",
+      "year": 1992,
+      "authors": [
+        "Paul Ekman"
+      ],
+      "host_venue": "Cognition & Emotion",
+      "openalex_url": "https://openalex.org/W1966797434",
+      "is_oa": false,
+      "oa_status": "closed",
+      "cited_by_count": 9334,
+      "primary_location_url": "https://doi.org/10.1080/02699939208411068",
+      "best_oa_landing_page_url": null,
+      "best_oa_pdf_url": null,
+      "pmcid": null,
+      "openalex_cached": true,
+      "crossref_cached": true,
+      "landing_page_cached": true,
+      "landing_url": "https://www.tandfonline.com/action/cookieAbsent",
+      "pdf_cached": false
+    },
+    {
+      "id": "izard_2007_basic_emotions_schemas",
+      "doi": "10.1111/j.1745-6916.2007.00044.x",
+      "title": "Basic Emotions, Natural Kinds, Emotion Schemas, and a New Paradigm",
+      "year": 2007,
+      "authors": [
+        "Carroll E. Izard"
+      ],
+      "host_venue": "Perspectives on Psychological Science",
+      "openalex_url": "https://openalex.org/W2067147147",
+      "is_oa": false,
+      "oa_status": "closed",
+      "cited_by_count": 1095,
+      "primary_location_url": "https://doi.org/10.1111/j.1745-6916.2007.00044.x",
+      "best_oa_landing_page_url": null,
+      "best_oa_pdf_url": null,
+      "pmcid": null,
+      "openalex_cached": true,
+      "crossref_cached": true,
+      "landing_page_cached": false,
+      "landing_errors": [
+        "doi_landing: <HTTPError 403: 'Forbidden'>"
+      ],
+      "pdf_cached": false
+    },
+    {
+      "id": "lindquist_2012_brain_basis_emotion",
+      "doi": "10.1017/S0140525X11000446",
+      "title": "The brain basis of emotion: A meta-analytic review",
+      "year": 2012,
+      "authors": [
+        "Kristen A. Lindquist",
+        "Tor D. Wager",
+        "Hedy Kober",
+        "Eliza Bliss‐Moreau",
+        "Lisa Feldman Barrett"
+      ],
+      "host_venue": "Behavioral and Brain Sciences",
+      "openalex_url": "https://openalex.org/W2105931454",
+      "is_oa": true,
+      "oa_status": "bronze",
+      "cited_by_count": 2321,
+      "primary_location_url": "https://doi.org/10.1017/s0140525x11000446",
+      "best_oa_landing_page_url": "https://doi.org/10.1017/s0140525x11000446",
+      "best_oa_pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/80F95F093305C76BA2C66BBA48D4BC8A/S0140525X11000446a.pdf/div-class-title-the-brain-basis-of-emotion-a-meta-analytic-review-div.pdf",
+      "pmcid": null,
+      "openalex_cached": true,
+      "crossref_cached": true,
+      "landing_page_cached": true,
+      "landing_url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/brain-basis-of-emotion-a-metaanalytic-review/80F95F093305C76BA2C66BBA48D4BC8A",
+      "pdf_cached": true,
+      "pdf_size": 1571620,
+      "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/80F95F093305C76BA2C66BBA48D4BC8A/S0140525X11000446a.pdf/div-class-title-the-brain-basis-of-emotion-a-meta-analytic-review-div.pdf"
+    },
+    {
+      "id": "russell_2003_core_affect",
+      "doi": "10.1037/0033-295X.110.1.145",
+      "title": "Core affect and the psychological construction of emotion.",
+      "year": 2003,
+      "authors": [
+        "James A. Russell"
+      ],
+      "host_venue": "Psychological Review",
+      "openalex_url": "https://openalex.org/W2134031328",
+      "is_oa": false,
+      "oa_status": "closed",
+      "cited_by_count": 5762,
+      "primary_location_url": "https://doi.org/10.1037/0033-295x.110.1.145",
+      "best_oa_landing_page_url": null,
+      "best_oa_pdf_url": null,
+      "pmcid": null,
+      "openalex_cached": true,
+      "crossref_cached": true,
+      "landing_page_cached": true,
+      "landing_url": "https://psycnet.apa.org:443/doiLanding?doi=10.1037/0033-295X.110.1.145",
+      "pdf_cached": false
+    },
+    {
+      "id": "russell_2009_core_affect_construction",
+      "doi": "10.1080/02699930902809375",
+      "title": "Emotion, core affect, and psychological construction",
+      "year": 2009,
+      "authors": [
+        "James A. Russell"
+      ],
+      "host_venue": "Cognition & Emotion",
+      "openalex_url": "https://openalex.org/W2047504980",
+      "is_oa": false,
+      "oa_status": "closed",
+      "cited_by_count": 614,
+      "primary_location_url": "https://doi.org/10.1080/02699930902809375",
+      "best_oa_landing_page_url": null,
+      "best_oa_pdf_url": null,
+      "pmcid": null,
+      "openalex_cached": true,
+      "crossref_cached": true,
+      "landing_page_cached": false,
+      "landing_errors": [
+        "doi_landing: <HTTPError 403: 'Forbidden'>"
+      ],
+      "pdf_cached": false
+    },
+    {
+      "id": "scherer_2001_multilevel_sequential_checking",
+      "doi": "10.1093/oso/9780195130072.003.0005",
+      "title": "Appraisal Considered as a Process of Multilevel Sequential Checking",
+      "year": 2001,
+      "authors": [
+        "Klaus R. Scherer"
+      ],
+      "openalex_cached": false,
+      "openalex_error": "AttributeError(\"'NoneType' object has no attribute 'get'\")",
+      "crossref_cached": true,
+      "landing_page_cached": false,
+      "landing_errors": [
+        "doi_landing: <HTTPError 403: 'Forbidden'>"
+      ],
+      "pdf_cached": false
+    },
+    {
+      "id": "scherer_moors_2018_emotion_process",
+      "doi": "10.1146/annurev-psych-122216-011854",
+      "title": "The Emotion Process: Event Appraisal and Component Differentiation",
+      "year": 2018,
+      "authors": [
+        "Klaus R. Scherer",
+        "Agnes Moors"
+      ],
+      "host_venue": "Annual Review of Psychology",
+      "openalex_url": "https://openalex.org/W2804575779",
+      "is_oa": true,
+      "oa_status": "bronze",
+      "cited_by_count": 634,
+      "primary_location_url": "https://doi.org/10.1146/annurev-psych-122216-011854",
+      "best_oa_landing_page_url": "https://doi.org/10.1146/annurev-psych-122216-011854",
+      "best_oa_pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-122216-011854",
+      "pmcid": null,
+      "openalex_cached": true,
+      "crossref_cached": true,
+      "landing_page_cached": true,
+      "landing_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-122216-011854",
+      "pdf_cached": true,
+      "pdf_size": 372707,
+      "pdf_url": "https://www.annualreviews.org/docserver/fulltext/psych/70/1/annurev-psych-122216-011854.pdf?expires=1780678344&id=id&accname=guest&checksum=4EF53738BA24CCB7876D6C9AF12C60B5"
+    },
+    {
+      "id": "davis_montag_2019_pankseppian_affective_neuroscience",
+      "doi": "10.3389/fnins.2018.01025",
+      "title": "Selected Principles of Pankseppian Affective Neuroscience",
+      "year": 2019,
+      "authors": [
+        "Kenneth L. Davis",
+        "Christian Montag"
+      ],
+      "host_venue": "Frontiers in Neuroscience",
+      "openalex_url": "https://openalex.org/W2909598371",
+      "is_oa": true,
+      "oa_status": "gold",
+      "cited_by_count": 140,
+      "primary_location_url": "https://doi.org/10.3389/fnins.2018.01025",
+      "best_oa_landing_page_url": "https://doi.org/10.3389/fnins.2018.01025",
+      "best_oa_pdf_url": "https://www.frontiersin.org/articles/10.3389/fnins.2018.01025/pdf",
+      "pmcid": null,
+      "openalex_cached": true,
+      "crossref_cached": true,
+      "landing_page_cached": true,
+      "landing_url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2018.01025/full",
+      "pdf_cached": true,
+      "pdf_size": 525298,
+      "pdf_url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2018.01025/pdf"
+    },
+    {
+      "id": "adolphs_2013_biology_of_fear",
+      "doi": "10.1016/j.cub.2012.11.055",
+      "title": "The Biology of Fear",
+      "year": 2013,
+      "authors": [
+        "Ralph Adolphs"
+      ],
+      "host_venue": "Current Biology",
+      "openalex_url": "https://openalex.org/W2068200449",
+      "is_oa": true,
+      "oa_status": "bronze",
+      "cited_by_count": 523,
+      "primary_location_url": "https://doi.org/10.1016/j.cub.2012.11.055",
+      "best_oa_landing_page_url": "https://doi.org/10.1016/j.cub.2012.11.055",
+      "best_oa_pdf_url": "http://www.cell.com/article/S0960982212014352/pdf",
+      "pmcid": null,
+      "openalex_cached": true,
+      "crossref_cached": true,
+      "landing_page_cached": true,
+      "landing_url": "https://linkinghub.elsevier.com/retrieve/pii/S0960982212014352",
+      "pdf_cached": false,
+      "pdf_errors": [
+        "http://www.cell.com/article/S0960982212014352/pdf: <HTTPError 302: 'The HTTP server returned a redirect error that would lead to an infinite loop.\\nThe last 30x error message was:\\nFound'>"
+      ]
+    }
+  ]
+}

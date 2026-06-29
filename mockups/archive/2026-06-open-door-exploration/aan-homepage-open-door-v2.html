@@ -1,0 +1,1045 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AAN Open Door — Homepage Mock</title>
+  <style>
+    :root {
+      --ink: #1F2430;
+      --muted: #5E6670;
+      --sage: #4E6A61;
+      --clay: #9A5B45;
+      --paper: #F6F1EA;
+      --surface: #FFFDFC;
+      --line: #D8CEC3;
+      --sage-tint: #E8EFEB;
+      --clay-tint: #F2E5DE;
+      --shadow: 0 18px 48px rgba(31, 36, 48, 0.08);
+      --radius-sm: 8px;
+      --radius-md: 16px;
+      --radius-lg: 24px;
+      --radius-xl: 36px;
+      --radius-pill: 999px;
+      --space-1: 4px;
+      --space-2: 8px;
+      --space-3: 16px;
+      --space-4: 24px;
+      --space-5: 40px;
+      --space-6: 64px;
+      --space-7: 96px;
+      --max: 1180px;
+      --serif: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+      --sans: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    html {
+      scroll-behavior: smooth;
+      background: var(--paper);
+    }
+
+    body {
+      margin: 0;
+      font-family: var(--sans);
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(255,255,255,0.72), transparent 34%),
+        linear-gradient(180deg, #faf5ef 0%, var(--paper) 28%, #f8f3ed 100%);
+      line-height: 1.6;
+      text-rendering: optimizeLegibility;
+    }
+
+    img { max-width: 100%; display: block; }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    a:focus-visible,
+    button:focus-visible {
+      outline: 3px solid color-mix(in srgb, var(--sage) 65%, white 35%);
+      outline-offset: 3px;
+      border-radius: 10px;
+    }
+
+    .page-shell {
+      overflow: clip;
+    }
+
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(18px);
+      background: rgba(246, 241, 234, 0.84);
+      border-bottom: 1px solid rgba(216, 206, 195, 0.8);
+    }
+
+    .header-inner,
+    .section-inner,
+    .footer-inner {
+      width: min(var(--max), calc(100% - 40px));
+      margin: 0 auto;
+    }
+
+    .header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: var(--space-4);
+      min-height: 78px;
+    }
+
+    .brand {
+      display: grid;
+      gap: 2px;
+    }
+
+    .brand-mark {
+      font-size: 0.76rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--sage);
+      font-weight: 700;
+    }
+
+    .brand-title {
+      font-size: 1rem;
+      font-weight: 600;
+    }
+
+    .header-nav {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      color: var(--muted);
+      font-size: 0.96rem;
+    }
+
+    .header-nav a:hover {
+      color: var(--ink);
+    }
+
+    .header-cta {
+      padding: 13px 18px;
+      border-radius: var(--radius-pill);
+      background: var(--sage);
+      color: white;
+      font-weight: 600;
+      box-shadow: var(--shadow);
+    }
+
+    main {
+      display: grid;
+      gap: var(--space-7);
+      padding-bottom: var(--space-7);
+    }
+
+    .hero {
+      padding-top: 38px;
+    }
+
+    .hero-layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1.08fr) minmax(320px, 0.92fr);
+      gap: clamp(28px, 4vw, 56px);
+      align-items: center;
+      padding: 26px 0 0;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 14px;
+      border-radius: var(--radius-pill);
+      background: rgba(255,255,255,0.66);
+      border: 1px solid rgba(216, 206, 195, 0.9);
+      color: var(--muted);
+      font-size: 0.77rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+
+    .hero-copy h1,
+    h2,
+    .quote-block,
+    .research-lede {
+      font-family: var(--serif);
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      text-wrap: pretty;
+    }
+
+    .hero-copy h1 {
+      margin: 18px 0 18px;
+      font-size: clamp(3rem, 6vw, 5.15rem);
+      line-height: 0.97;
+      max-width: 10ch;
+    }
+
+    .hero-copy p {
+      margin: 0;
+      max-width: 61ch;
+      font-size: 1.12rem;
+      color: var(--muted);
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-top: 28px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 48px;
+      padding: 13px 20px;
+      border-radius: var(--radius-pill);
+      font-weight: 600;
+      transition: transform 180ms ease, background-color 180ms ease, color 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+    }
+
+    .button:hover {
+      transform: translateY(-1px);
+    }
+
+    .button-primary {
+      background: var(--sage);
+      color: white;
+      box-shadow: var(--shadow);
+    }
+
+    .button-primary:hover {
+      background: var(--ink);
+    }
+
+    .button-secondary {
+      background: rgba(255,255,255,0.6);
+      border: 1px solid rgba(216, 206, 195, 0.95);
+      color: var(--ink);
+    }
+
+    .hero-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-top: 26px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .hero-meta span {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border-radius: var(--radius-pill);
+      background: rgba(255,255,255,0.54);
+      border: 1px solid rgba(216, 206, 195, 0.85);
+    }
+
+    .hero-visual {
+      position: relative;
+      min-height: 630px;
+      display: grid;
+      align-content: start;
+      align-items: stretch;
+      gap: 16px;
+    }
+
+    .portrait-card {
+      position: relative;
+      border-radius: 34px;
+      overflow: hidden;
+      background: linear-gradient(145deg, #d8ccb8 2%, #bea994 28%, #7f695d 66%, #51433f 100%);
+      min-height: 520px;
+      box-shadow: var(--shadow);
+      border: 1px solid rgba(255,255,255,0.5);
+    }
+
+    .portrait-card::before,
+    .portrait-card::after {
+      content: "";
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(6px);
+      opacity: 0.72;
+    }
+
+    .portrait-card::before {
+      width: 240px;
+      height: 240px;
+      left: 7%;
+      top: 10%;
+      background: radial-gradient(circle at 50% 50%, rgba(250,241,232,0.9), rgba(250,241,232,0));
+    }
+
+    .portrait-card::after {
+      width: 200px;
+      height: 200px;
+      right: 6%;
+      bottom: 14%;
+      background: radial-gradient(circle at 50% 50%, rgba(76,106,97,0.4), rgba(76,106,97,0));
+    }
+
+    .portrait-grid {
+      position: absolute;
+      inset: 0;
+      display: grid;
+      grid-template-columns: 1.12fr 0.82fr;
+      grid-template-rows: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+      padding: 12px;
+      min-height: 520px;
+      height: 100%;
+    }
+
+    .photo-panel {
+      border-radius: 24px;
+      position: relative;
+      overflow: hidden;
+      border: 1px solid rgba(255,255,255,0.48);
+      background: linear-gradient(140deg, rgba(241, 232, 221, 0.5), rgba(118, 101, 92, 0.5));
+      min-height: 0;
+    }
+
+    .photo-panel img {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: cover;
+      filter: saturate(0.88) contrast(1.03) brightness(0.95);
+      transform: scale(1.02);
+    }
+
+    .photo-panel::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(180deg, rgba(31,36,48,0.02) 0%, rgba(31,36,48,0.14) 100%),
+        linear-gradient(160deg, rgba(244, 229, 214, 0.22) 0%, rgba(244, 229, 214, 0) 42%);
+      pointer-events: none;
+    }
+
+    .photo-panel.large {
+      grid-row: 1 / span 2;
+      min-height: 0;
+    }
+
+    .photo-panel.small.one {
+      background: linear-gradient(135deg, #eadbce 0%, #cdb5a4 32%, #8f786f 100%);
+    }
+
+    .photo-panel.small.two {
+      background: linear-gradient(135deg, #d4cec5 0%, #aeb7ac 38%, #6c756d 100%);
+    }
+
+    .photo-panel.large img {
+      object-position: center 28%;
+    }
+
+    .photo-panel.small.one img {
+      object-position: 38% center;
+    }
+
+    .photo-panel.small.two img {
+      object-position: 62% center;
+    }
+
+    .panel-label {
+      position: absolute;
+      left: 14px;
+      right: 14px;
+      bottom: 14px;
+      padding: 12px 13px;
+      border-radius: 18px;
+      background: rgba(255, 253, 252, 0.82);
+      color: var(--ink);
+      font-size: 0.88rem;
+      line-height: 1.35;
+      backdrop-filter: blur(12px);
+    }
+
+    .hero-note {
+      position: static;
+      width: min(360px, 100%);
+      justify-self: end;
+      border-radius: 22px;
+      background: rgba(255,255,255,0.82);
+      border: 1px solid rgba(216, 206, 195, 0.9);
+      padding: 20px;
+      box-shadow: 0 18px 50px rgba(31, 36, 48, 0.12);
+    }
+
+    .hero-note strong {
+      display: block;
+      font-size: 0.8rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--clay);
+      margin-bottom: 8px;
+    }
+
+    .hero-note p {
+      margin: 0;
+      font-size: 0.98rem;
+      color: var(--muted);
+    }
+
+    .section {
+      position: relative;
+    }
+
+    .section-heading {
+      display: grid;
+      gap: 12px;
+      max-width: 65ch;
+      margin-bottom: 30px;
+    }
+
+    .section-heading .label {
+      color: var(--sage);
+      font-size: 0.76rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+
+    .section-heading h2 {
+      margin: 0;
+      font-size: clamp(2rem, 4vw, 3.15rem);
+      line-height: 1.03;
+    }
+
+    .section-heading p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 1.05rem;
+      max-width: 62ch;
+    }
+
+    .pathways-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .pathway-card,
+    .resource-card,
+    .trust-card,
+    .evidence-card {
+      background: rgba(255, 253, 252, 0.82);
+      border: 1px solid rgba(216, 206, 195, 0.9);
+      border-radius: 26px;
+      padding: 22px;
+      box-shadow: 0 8px 24px rgba(31, 36, 48, 0.04);
+    }
+
+    .pathway-card {
+      display: grid;
+      gap: 14px;
+      min-height: 260px;
+      transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+    }
+
+    .pathway-card:hover {
+      transform: translateY(-2px);
+      border-color: rgba(78, 106, 97, 0.35);
+      box-shadow: 0 18px 48px rgba(31, 36, 48, 0.08);
+    }
+
+    .pathway-kicker {
+      align-self: start;
+      width: fit-content;
+      padding: 8px 12px;
+      border-radius: var(--radius-pill);
+      background: var(--clay-tint);
+      color: var(--clay);
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 700;
+    }
+
+    .pathway-card h3,
+    .resource-card h3,
+    .trust-card h3 {
+      margin: 0;
+      font-family: var(--serif);
+      font-weight: 600;
+      letter-spacing: -0.015em;
+      line-height: 1.08;
+    }
+
+    .pathway-card h3 {
+      font-size: 1.55rem;
+    }
+
+    .pathway-card p,
+    .resource-card p,
+    .trust-card p,
+    .evidence-card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.98rem;
+    }
+
+    .pathway-link,
+    .resource-link {
+      margin-top: auto;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--ink);
+      font-weight: 600;
+    }
+
+    .pathway-link span,
+    .resource-link span {
+      color: var(--sage);
+      font-size: 1.05rem;
+      transform: translateY(-1px);
+    }
+
+    .support-band {
+      background: linear-gradient(180deg, rgba(232, 239, 235, 0.84), rgba(255, 253, 252, 0.64));
+      border-block: 1px solid rgba(216, 206, 195, 0.9);
+      padding: 34px 0;
+    }
+
+    .support-layout {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 22px;
+      align-items: start;
+    }
+
+    .support-main {
+      background: rgba(255, 253, 252, 0.54);
+      border: 1px solid rgba(255,255,255,0.75);
+      border-radius: 30px;
+      padding: 28px;
+      display: grid;
+      gap: 18px;
+    }
+
+    .support-main h2 {
+      margin: 0;
+      font-size: clamp(2rem, 4vw, 3rem);
+      line-height: 1.02;
+    }
+
+    .support-main > p {
+      margin: 0;
+      color: var(--muted);
+      max-width: 58ch;
+      font-size: 1.05rem;
+    }
+
+    .start-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .resource-card {
+      min-height: 164px;
+      display: grid;
+      gap: 12px;
+      background: rgba(255,255,255,0.68);
+    }
+
+    .resource-index {
+      color: var(--clay);
+      font-size: 0.82rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .support-side {
+      display: grid;
+      gap: 16px;
+    }
+
+    .trust-card {
+      background: rgba(255,255,255,0.72);
+      display: grid;
+      gap: 12px;
+    }
+
+    .trust-list {
+      list-style: none;
+      padding: 0;
+      margin: 2px 0 0;
+      display: grid;
+      gap: 10px;
+      color: var(--muted);
+      font-size: 0.98rem;
+    }
+
+    .trust-list li {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 10px;
+      align-items: start;
+    }
+
+    .trust-list li::before {
+      content: "•";
+      color: var(--sage);
+      font-weight: 900;
+    }
+
+    .quote-section {
+      display: grid;
+      grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
+      gap: 22px;
+      align-items: stretch;
+    }
+
+    .quote-block {
+      margin: 0;
+      font-size: clamp(1.8rem, 3vw, 2.55rem);
+      line-height: 1.12;
+      background: var(--clay-tint);
+      border-radius: 36px;
+      padding: 34px;
+      border: 1px solid rgba(216, 206, 195, 0.95);
+    }
+
+    .quote-caption {
+      display: block;
+      margin-top: 20px;
+      font-family: var(--sans);
+      color: var(--muted);
+      font-size: 0.98rem;
+      letter-spacing: 0;
+      font-weight: 500;
+    }
+
+    .editorial-stack {
+      display: grid;
+      gap: 16px;
+    }
+
+    .editorial-panel {
+      padding: 22px;
+      border-radius: 26px;
+      background: rgba(255, 253, 252, 0.72);
+      border: 1px solid rgba(216, 206, 195, 0.9);
+    }
+
+    .editorial-panel strong {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 0.8rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--sage);
+    }
+
+    .editorial-panel p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .research-layout {
+      display: grid;
+      grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+      gap: 24px;
+      align-items: start;
+    }
+
+    .research-lede {
+      margin: 0 0 18px;
+      font-size: clamp(2rem, 4vw, 3rem);
+      line-height: 1.04;
+    }
+
+    .research-copy p {
+      margin: 0;
+      color: var(--muted);
+      max-width: 58ch;
+      font-size: 1.04rem;
+    }
+
+    .evidence-grid {
+      display: grid;
+      gap: 16px;
+    }
+
+    .evidence-card {
+      display: grid;
+      gap: 10px;
+      background: rgba(255,255,255,0.56);
+    }
+
+    .evidence-card strong {
+      font-size: 0.78rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--clay);
+    }
+
+    .footer {
+      border-top: 1px solid rgba(216, 206, 195, 0.9);
+      padding: 28px 0 40px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .footer-inner {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .footer-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 18px;
+    }
+
+    .mock-note {
+      margin-top: 8px;
+      font-size: 0.88rem;
+      color: var(--muted);
+    }
+
+    @media (max-width: 1080px) {
+      .pathways-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .hero-layout,
+      .support-layout,
+      .quote-section,
+      .research-layout {
+        grid-template-columns: 1fr;
+      }
+
+      .hero-visual {
+        min-height: 560px;
+      }
+
+      .portrait-card,
+      .portrait-grid {
+        min-height: 500px;
+      }
+
+      .hero-note {
+        justify-self: stretch;
+        width: auto;
+      }
+    }
+
+    @media (max-width: 780px) {
+      .header-inner {
+        align-items: start;
+        padding: 16px 0;
+        min-height: 0;
+        flex-direction: column;
+      }
+
+      .header-nav {
+        flex-wrap: wrap;
+        gap: 14px;
+      }
+
+      .hero {
+        padding-top: 18px;
+      }
+
+      .hero-copy h1 {
+        max-width: 12ch;
+      }
+
+      .hero-visual {
+        min-height: 480px;
+      }
+
+      .portrait-card,
+      .portrait-grid {
+        min-height: 420px;
+      }
+
+      .portrait-grid {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1.35fr 0.7fr 0.7fr;
+      }
+
+      .photo-panel.large {
+        grid-row: auto;
+      }
+
+      .pathways-grid,
+      .start-grid {
+        grid-template-columns: 1fr;
+      }
+
+      main {
+        gap: 72px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after {
+        animation: none !important;
+        transition: none !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="#top" aria-label="Alexithymia Awareness Network home mockup">
+          <span class="brand-mark">AAN</span>
+          <span class="brand-title">Alexithymia Awareness Network</span>
+        </a>
+        <nav class="header-nav" aria-label="Primary">
+          <a href="#pathways">Find your starting point</a>
+          <a href="#support">Support resources</a>
+          <a href="#understanding">Understanding alexithymia</a>
+          <a href="#research">Research and learning</a>
+          <a class="header-cta" href="#support">Start here</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="section hero">
+        <div class="section-inner hero-layout">
+          <div class="hero-copy">
+            <div class="eyebrow">A place to begin, not a place to be judged</div>
+            <h1>Understanding alexithymia starts with meeting people where they are.</h1>
+            <p>
+              You may be here for yourself, for someone you care about, for your work, or simply to understand more.
+              This first-pass homepage mockup is designed to help each visitor find support resources without having to arrive with the right vocabulary.
+            </p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="#support">Find support and resources</a>
+              <a class="button button-secondary" href="#pathways">Start with understanding</a>
+            </div>
+            <div class="hero-meta" aria-label="Trust framing">
+              <span>Hopeful, humane, grounded</span>
+              <span>Evidence-informed, public-facing</span>
+              <span>Not clinical or doctory</span>
+            </div>
+          </div>
+
+          <div class="hero-visual" aria-label="Photography collage with temporary Commons-sourced stand-ins">
+            <div class="portrait-card">
+              <div class="portrait-grid">
+                <div class="photo-panel large">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Portrait_of_a_young_woman_in_Montreal%2C_Canada_-_25_July_2007.png" alt="A warm portrait of a young woman outdoors">
+                  <div class="panel-label">Lead with a person, not a diagnosis.</div>
+                </div>
+                <div class="photo-panel small one">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Train_window_person_reading_%28Unsplash%29.jpg" alt="A person reading by a train window in a quiet reflective moment">
+                  <div class="panel-label">Quiet reflection belongs here too.</div>
+                </div>
+                <div class="photo-panel small two">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Three_people_listening_intently_to_a_speaker_during_meeting.jpg" alt="Three people listening closely together in a community setting">
+                  <div class="panel-label">Listening, learning, and support in view.</div>
+                </div>
+              </div>
+            </div>
+            <aside class="hero-note">
+              <strong>Photography note</strong>
+              <p>These are temporary Commons-sourced stand-ins to prove the warmth shift. For production, I’d replace them with a tighter, more contemporary licensed set and avoid anything that feels staged, clinical, or tokenizing.</p>
+            </aside>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="pathways">
+        <div class="section-inner">
+          <div class="section-heading">
+            <span class="label">Audience pathways</span>
+            <h2>You may be here because...</h2>
+            <p>
+              The homepage should acknowledge mixed intentions immediately. Instead of forcing everyone through the same explanation, it offers a respectful starting point for self-understanding, care, helping work, and research.
+            </p>
+          </div>
+          <div class="pathways-grid">
+            <article class="pathway-card">
+              <span class="pathway-kicker">For yourself</span>
+              <h3>I’m trying to understand my own experience.</h3>
+              <p>Lead with recognition, plain language, and low-pressure entry points into common experiences, assessment context, and practical support.</p>
+              <a class="pathway-link" href="#support">Start here <span>→</span></a>
+            </article>
+            <article class="pathway-card">
+              <span class="pathway-kicker">For someone you care about</span>
+              <h3>I want to better understand a partner, family member, or friend.</h3>
+              <p>Prioritize relational explanation, communication friction, and ways to support without turning the interaction into amateur diagnosis.</p>
+              <a class="pathway-link" href="#support">See support paths <span>→</span></a>
+            </article>
+            <article class="pathway-card">
+              <span class="pathway-kicker">For practice or helping work</span>
+              <h3>I’m a clinician, therapist, educator, or helper looking for grounded guidance.</h3>
+              <p>Keep trust visible, but position it behind the human welcome so professional visitors feel informed without making the site feel provider-led.</p>
+              <a class="pathway-link" href="#research">View resources <span>→</span></a>
+            </article>
+            <article class="pathway-card">
+              <span class="pathway-kicker">For research and learning</span>
+              <h3>I’m here for papers, frameworks, and a credible starting library.</h3>
+              <p>Invite deeper exploration through curated entry points rather than dropping visitors straight into a dense archive surface.</p>
+              <a class="pathway-link" href="#research">Explore the library <span>→</span></a>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section support-band" id="support">
+        <div class="section-inner support-layout">
+          <div class="support-main">
+            <span class="label">Start where you are</span>
+            <h2>Support should be easy to find, whatever brought you here.</h2>
+            <p>
+              This section pulls the site away from “docs homepage” behavior. The intent is to surface supportive pathways first, then let visitors move into explanations, tools, therapy approaches, and broader community resources as needed.
+            </p>
+            <div class="start-grid">
+              <article class="resource-card">
+                <span class="resource-index">01</span>
+                <h3>What alexithymia is</h3>
+                <p>A concise, plainspoken introduction that helps visitors orient quickly without jargon overload.</p>
+                <a class="resource-link" href="#understanding">Learn the basics <span>→</span></a>
+              </article>
+              <article class="resource-card">
+                <span class="resource-index">02</span>
+                <h3>Signs and experiences</h3>
+                <p>Frame common patterns gently and descriptively so people can recognize possibilities without feeling categorized.</p>
+                <a class="resource-link" href="#understanding">See common patterns <span>→</span></a>
+              </article>
+              <article class="resource-card">
+                <span class="resource-index">03</span>
+                <h3>Support options</h3>
+                <p>Bring forward therapy approaches, directories, communities, and practical next steps with low-friction scanning.</p>
+                <a class="resource-link" href="#research">Find practical help <span>→</span></a>
+              </article>
+              <article class="resource-card">
+                <span class="resource-index">04</span>
+                <h3>Resources and tools</h3>
+                <p>Curate books, podcasts, apps, papers, and assessments into approachable editorial entry points.</p>
+                <a class="resource-link" href="#research">Browse resources <span>→</span></a>
+              </article>
+            </div>
+          </div>
+
+          <aside class="support-side">
+            <article class="trust-card">
+              <span class="label">Trust without doctor energy</span>
+              <h3>Quiet civic credibility</h3>
+              <p>
+                The site can be structured and trustworthy without borrowing medical branding cues. This side panel demonstrates the “dash of C” in the approved direction.
+              </p>
+              <ul class="trust-list">
+                <li>Plain-language guidance before deep information architecture.</li>
+                <li>Evidence-informed content with clear limits and care disclaimers.</li>
+                <li>Accessible structure, strong contrast, calm interaction states.</li>
+              </ul>
+            </article>
+            <article class="trust-card">
+              <span class="label">Navigation idea</span>
+              <h3>Route by visitor purpose first</h3>
+              <p>Top-level labels should help visitors identify themselves quickly instead of asking them to decode a taxonomy before they belong here.</p>
+            </article>
+          </aside>
+        </div>
+      </section>
+
+      <section class="section" id="understanding">
+        <div class="section-inner quote-section">
+          <blockquote class="quote-block">
+            “You do not need the right vocabulary to belong here. The site should help you find a useful place to begin.”
+            <span class="quote-caption">Draft brand line for the emotional center of the surface — not a testimonial.</span>
+          </blockquote>
+          <div class="editorial-stack">
+            <div class="section-heading" style="margin-bottom: 0;">
+              <span class="label">Humanized content</span>
+              <h2>Make the first interaction feel like an invitation.</h2>
+              <p>
+                This is where the homepage can acknowledge lived difficulty without becoming dramatic or clinical. The goal is dignity, recognition, and practical momentum.
+              </p>
+            </div>
+            <article class="editorial-panel">
+              <strong>Common experiences</strong>
+              <p>Use editorial framing to explain why emotions can feel hard to identify, describe, or communicate — especially in relationships, therapy, stress, and daily life.</p>
+            </article>
+            <article class="editorial-panel">
+              <strong>Support can look like</strong>
+              <p>Clarify that support might mean language tools, therapy context, family understanding, research, or simply finding a more accurate way to describe what has felt confusing.</p>
+            </article>
+            <article class="editorial-panel">
+              <strong>What to avoid</strong>
+              <p>Avoid fake warmth, inspirational filler, and imagery that turns visitors into “cases.” The site should feel companionable, not diagnostic.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="research">
+        <div class="section-inner research-layout">
+          <div class="research-copy">
+            <span class="label">Research and learning</span>
+            <p class="research-lede">The library stays visible, but it enters as a guide — not a wall of links.</p>
+            <p>
+              This section demonstrates how research credibility can sit behind the emotional welcome. It creates a bridge into papers, frameworks, books, podcasts, and assessment tools without turning the homepage back into a reference index.
+            </p>
+            <div class="hero-actions" style="margin-top: 24px;">
+              <a class="button button-primary" href="#top">Return to hero</a>
+              <a class="button button-secondary" href="#pathways">Review pathways</a>
+            </div>
+          </div>
+          <div class="evidence-grid">
+            <article class="evidence-card">
+              <strong>Curated entry point</strong>
+              <h3>Foundations and FAQ</h3>
+              <p>Start with a short guide that distinguishes alexithymia from broad emotional numbness, gives context, and routes onward.</p>
+            </article>
+            <article class="evidence-card">
+              <strong>Applied support</strong>
+              <h3>Tools, therapy approaches, community resources</h3>
+              <p>Bundle practical help together so visitors can act without having to understand the whole library first.</p>
+            </article>
+            <article class="evidence-card">
+              <strong>Deeper research</strong>
+              <h3>Papers, researchers, and labs</h3>
+              <p>Offer a second layer for visitors who need academic grounding, educational sources, or citation-friendly material.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        <div>
+          <strong>AAN homepage mock — Open Door, v2</strong>
+          <span>First-pass visual direction based on the approved design brief and DESIGN.md system.</span>
+          <span>This mock now uses temporary stand-in photography to test tone, hierarchy, and warmth before final image licensing.</span>
+          </div>
+        <nav class="footer-nav" aria-label="Footer">
+          <a href="#support">Support</a>
+          <a href="#understanding">Understanding</a>
+          <a href="#research">Research</a>
+        </nav>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
