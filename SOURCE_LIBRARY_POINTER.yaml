@@ -1,0 +1,33 @@
+project: alexithymia-awareness-network
+library_repo: /Users/div/Repositories/source-library
+library_root_hint: /Users/div/Repositories/source-library
+collections:
+  - alexithymia-research
+constraints:
+  domains:
+    - alexithymia
+  use_for:
+    - source discovery
+    - provenance-aware literature review
+    - citation backfill candidates
+    - claim-map support after explicit review
+  do_not_use_for:
+    - broad PDF redistribution
+    - unsourced public claim promotion
+    - automatic citation insertion without bibliographic verification
+  rights_rule: >-
+    Local possession of PDFs or extracted text is not redistribution permission.
+    Use metadata, short quotations, page/line references, and summaries; verify
+    publication quotations against the PDF before public use.
+  promotion_rule: >-
+    A source-library work may inform AAN prose only after inspecting its WORK.yaml,
+    SOURCE.md, and source text/PDF, assigning an evidence label, and adding or
+    linking a real citation record where appropriate.
+local_notes: >-
+  Current collection membership observed 2026-06-29 includes eight unreviewed support
+  sources: neuroanatomy/subtypes, a public Cambridge excerpt for Disorders of Affect
+  Regulation, treatment-response review, clinical-applications orientation, autism
+  systematic review/meta-analysis, subjective interoception, and the Brewer/Cook/Bird
+  strong interoception-deficit hypothesis paper, plus a TAS-20 factor-structure
+  meta-analytic CFA. Treat them as useful for expert orientation and future
+  source-locking, not yet as public-page canon.

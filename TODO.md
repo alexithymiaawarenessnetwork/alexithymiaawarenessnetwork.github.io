@@ -22,6 +22,13 @@ Canonical active task surface for Milestone M4 plus website implementation tasks
 [] DOCUMENT the composable theme architecture for future contributors
 [] FIX check and fix links, especially book links
 [] FIX remove any junk filler content from the site
+[] FIX deploy freshness mismatch between live site and current local generated output before judging live content fixed
+[] FIX quarantine or rewrite Apps page placeholder ratings/testimonials and broken/fake store links
+[] FIX source-lock Comorbidities page prevalence, causal, and treatment-implication claims or remove exact unsupported numbers
+[] FIX Papers page bibliographic metadata errors and `href="#"` placeholder links
+[] FIX BVAQ citation metadata across citations.json, FAQ, Tools, and Papers
+[] FIX researcher/lab pages so biographical, institutional, and project-status claims are source-backed or marked draft/unverified
+[] FIX soften treatment/support modality-effectiveness claims until review-backed
 [] ADD gather nice visuals to use
 [] MAKE build out any missing needed visuals
 [] ADD Apps page links to official forums / websites / download pages (with partner/referral id only if appropriate)

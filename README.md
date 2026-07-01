@@ -6,6 +6,11 @@ This repository contains the source code and content for the Alexithymia Awarene
 
 > **Status:** active · p0 · org/site bootstrap plus library build-out. Canonical planning artifacts: [`GOALS.md`](GOALS.md), [`MILESTONES.md`](MILESTONES.md), [`WORK-PLAN.md`](WORK-PLAN.md), [`CONTENT_PLAN.md`](CONTENT_PLAN.md), and [`TODO.md`](TODO.md).
 
+Internal orientation and expertise artifacts:
+- [`ORIENT.md`](ORIENT.md) — fast handoff for this repo, the Astro sibling, and local source-library boundaries
+- [`ALEXITHYMIA_EXPERTISE_MAP.md`](ALEXITHYMIA_EXPERTISE_MAP.md) — internal evidence/coverage map for alexithymia-domain stewardship
+- [`SOURCE_LIBRARY_POINTER.yaml`](SOURCE_LIBRARY_POINTER.yaml) — pointer into the local `source-library` alexithymia research collection
+
 ## Site Structure
 
 - **`/docs/`** - Generated site files served by GitHub Pages

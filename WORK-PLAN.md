@@ -12,6 +12,10 @@ Canonical planning artifacts:
 - `TODO.md` — active tasks and punch-list work
 - `CONTENT_PLAN.md` — information architecture and per-page editorial rules
 - `THEME_MIGRATION_PLAN.md` — platform/theme migration strategy, page-type templates, and current page classification
+- `ORIENT.md` — fast re-entry handoff for the repo, Astro sibling, and local source-library boundary
+- `ALEXITHYMIA_EXPERTISE_MAP.md` — internal evidence/coverage map for alexithymia-domain stewardship
+- `SOURCE_LIBRARY_POINTER.yaml` — project pointer into the local `source-library` alexithymia collection
+- `LIVE_SITE_ACCURACY_SCAN_2026-06-30.md` — live public-site accuracy/provenance scan and cleanup task graph
 
 ## Canonical current state for cache derivation
 
