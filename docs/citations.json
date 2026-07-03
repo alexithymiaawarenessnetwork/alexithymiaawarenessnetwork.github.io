@@ -8,7 +8,7 @@
       ],
       "year": 1973,
       "type": "paper",
-      "description": "Original paper coining the term 'alexithymia' and describing the condition characterized by difficulty identifying and describing emotions.",
+      "description": "Bibliographic record for Sifneos's 1973 article introducing alexithymic characteristics in psychosomatic patients.",
       "journal": "Psychotherapy and Psychosomatics",
       "volume": "22",
       "issue": "2",
@@ -32,7 +32,7 @@
       ],
       "year": 1997,
       "type": "book",
-      "description": "Comprehensive academic treatment of alexithymia, covering assessment, clinical applications, and theoretical frameworks.",
+      "description": "Bibliographic record for Taylor, Bagby, and Parker's 1997 academic book on alexithymia and affect regulation.",
       "publisher": "Cambridge University Press",
       "isbn": "9780521454643",
       "retailers": {
@@ -61,7 +61,7 @@
       ],
       "year": 1980,
       "type": "book",
-      "description": "Foundational work on emotion theory introducing Plutchik's Wheel of Emotions and the eight primary emotions framework.",
+      "description": "Bibliographic record for Plutchik's 1980 book on emotion theory, used here as historical framework context.",
       "publisher": "University Press of America",
       "isbn": "9780819182869",
       "retailers": {
@@ -91,7 +91,7 @@
       ],
       "year": 1972,
       "type": "book",
-      "description": "Seminal work establishing the six basic emotions and their universal facial expressions across cultures.",
+      "description": "Bibliographic record for Ekman's 1972 edited volume on facial-expression research.",
       "publisher": "Pergamon Press",
       "isbn": "9780080166438",
       "retailers": {
@@ -120,7 +120,7 @@
       ],
       "year": 1677,
       "type": "book",
-      "description": "Philosophical treatise establishing three primary affects (joy, sadness, desire) as the foundation of all emotions.",
+      "description": "Bibliographic record for Spinoza's historical philosophical text on affects.",
       "publisher": "Various editions",
       "free_sources": {
         "stanford_encyclopedia": "https://plato.stanford.edu/entries/spinoza/",
@@ -152,7 +152,7 @@
       ],
       "year": 1872,
       "type": "book",
-      "description": "Evolutionary analysis of emotional expression, establishing the biological basis of emotions across species.",
+      "description": "Bibliographic record for Darwin's 1872 historical text on emotional expression in humans and animals.",
       "publisher": "John Murray",
       "free_sources": {
         "gutenberg": "https://www.gutenberg.org/ebooks/1227"
@@ -184,7 +184,7 @@
       ],
       "year": 2021,
       "type": "book",
-      "description": "Comprehensive guide to 87 emotions and experiences, providing language and understanding for the full spectrum of human feelings.",
+      "description": "Bibliographic record for Brown's 2021 popular-education book on emotion language; not treated here as alexithymia evidence.",
       "publisher": "Random House",
       "isbn": "9780399592553",
       "retailers": {
@@ -207,20 +207,25 @@
     },
     {
       "id": "wilcox_1982_feeling_wheel",
-      "title": "The Feeling Wheel: A Tool for Expanding Awareness of Emotions and Increasing Spontaneity and Intimacy",
+      "title": "The Feeling Wheel",
       "authors": [
-        "Gloria Wilcox"
+        "Gloria Willcox"
       ],
       "year": 1982,
-      "type": "tool",
-      "description": "Comprehensive emotion vocabulary tool organizing feelings from core emotions to specific emotional states.",
-      "url": "https://feelingswheel.com/",
+      "type": "paper",
+      "description": "Short article introducing the Feeling Wheel as a practical tool for expanding awareness of emotions and supporting spontaneity and intimacy.",
+      "url": "https://doi.org/10.1177/036215378201200411",
       "tags": [
         "emotion vocabulary",
         "feeling wheel",
-        "emotional granularity",
+        "emotional awareness",
         "tool"
-      ]
+      ],
+      "journal": "Transactional Analysis Journal",
+      "volume": "12",
+      "issue": "4",
+      "pages": "274-276",
+      "doi": "10.1177/036215378201200411"
     },
     {
       "id": "damasio_1994_descartes_error",
@@ -230,7 +235,7 @@
       ],
       "year": 1994,
       "type": "book",
-      "description": "Groundbreaking work on the somatic marker hypothesis and the integration of emotion and reason in decision-making.",
+      "description": "Bibliographic record for Damasio's 1994 book on emotion, reason, and the somatic-marker hypothesis.",
       "publisher": "Putnam Publishing",
       "isbn": "9780399138942",
       "retailers": {
@@ -276,6 +281,46 @@
       ]
     },
     {
+      "id": "trent_parker_profile",
+      "title": "James Parker Profile - Psychology - Trent University",
+      "authors": [
+        "Trent University"
+      ],
+      "type": "official_profile",
+      "description": "Official Trent University Psychology profile for James Parker, listing position, education, lab, and research interests in personality, affect regulation, alexithymia, emotional intelligence, outcomes, and psychometric tools.",
+      "url": "https://www.trentu.ca/psychology/faculty-research/james-parker-profile",
+      "accessed": "2026-07-02",
+      "tags": [
+        "official profile",
+        "alexithymia",
+        "emotional intelligence",
+        "psychometrics"
+      ]
+    },
+    {
+      "id": "bagby_parker_taylor_2020_tas20_25_years",
+      "title": "Twenty-five years with the 20-item Toronto Alexithymia Scale",
+      "authors": [
+        "R. Michael Bagby",
+        "James D. A. Parker",
+        "Graeme J. Taylor"
+      ],
+      "year": 2020,
+      "type": "paper",
+      "description": "Review of twenty-five years of TAS-20 research by the instrument authors; tracked for assessment context while full-text review remains a source-library acquisition gap.",
+      "journal": "Journal of Psychosomatic Research",
+      "volume": "131",
+      "pages": "109940",
+      "doi": "10.1016/j.jpsychores.2020.109940",
+      "url": "https://doi.org/10.1016/j.jpsychores.2020.109940",
+      "tags": [
+        "assessment",
+        "TAS-20",
+        "alexithymia",
+        "review"
+      ]
+    },
+    {
       "id": "luminet_nielson_ridout_2021_integrative_review",
       "title": "Cognitive-emotional processing in alexithymia: an integrative review",
       "authors": [
@@ -301,21 +346,21 @@
       ]
     },
     {
-      "id": "bermond_vorst_2013_bvaq",
+      "id": "vorst_bermond_2001_bvaq",
       "title": "Validity and reliability of the Bermond–Vorst Alexithymia Questionnaire",
       "authors": [
-        "Bob Bermond",
-        "Hein C.M. Vorst"
+        "Harrie C. M. Vorst",
+        "Bob Bermond"
       ],
-      "year": 2013,
+      "year": 2001,
       "type": "paper",
-      "description": "Validation study of the BVAQ, an alternative assessment tool for alexithymia with cognitive and affective subscales.",
+      "description": "Bibliographic record for Vorst and Bermond's 2001 BVAQ validation article.",
       "journal": "Personality and Individual Differences",
-      "volume": "54",
-      "issue": "1",
-      "pages": "30-35",
-      "doi": "10.1016/j.paid.2012.08.011",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0191886912003807",
+      "volume": "30",
+      "issue": "3",
+      "pages": "413-434",
+      "doi": "10.1016/S0191-8869(00)00033-7",
+      "url": "https://doi.org/10.1016/S0191-8869(00)00033-7",
       "tags": [
         "assessment",
         "BVAQ",
@@ -361,7 +406,7 @@
       ],
       "year": 1994,
       "type": "book",
-      "description": "Foundational work on mindfulness practice and its applications to emotional awareness and regulation.",
+      "description": "Bibliographic record for Kabat-Zinn's 1994 mindfulness book; adjacent context only unless separately source-reviewed for a page claim.",
       "publisher": "Hyperion",
       "isbn": "9780786880706",
       "retailers": {
@@ -778,7 +823,7 @@
       ],
       "year": 2001,
       "type": "chapter",
-      "description": "Foundational appraisal-theory chapter describing the component process model and the sequential checking account of emotion differentiation.",
+      "description": "Bibliographic record for Scherer's 2001 chapter on appraisal theory and the component process model.",
       "publisher": "Oxford University Press",
       "book_title": "Appraisal Processes in Emotion: Theory, Methods, Research",
       "doi": "10.1093/oso/9780195130072.003.0005",
@@ -822,7 +867,7 @@
       ],
       "year": 2019,
       "type": "paper",
-      "description": "Overview of Pankseppian affective neuroscience and its seven primary emotional systems, emphasizing cross-species brain research and deep motivational circuitry.",
+      "description": "Bibliographic record for Davis and Montag's 2019 article on Pankseppian affective neuroscience.",
       "journal": "Frontiers in Neuroscience",
       "volume": "12",
       "pages": "1025",
@@ -844,7 +889,7 @@
       ],
       "year": 2013,
       "type": "paper",
-      "description": "A focused biological treatment of fear that illustrates how one emotion category can be investigated with greater mechanistic precision than broad folk taxonomies allow.",
+      "description": "Bibliographic record for Adolphs's 2013 article on the biology of fear.",
       "journal": "Current Biology",
       "volume": "23",
       "issue": "2",
@@ -857,6 +902,78 @@
         "adolphs",
         "biology",
         "neuroscience"
+      ]
+    },
+    {
+      "id": "pinna_manchia_paribello_carpiniello_2020_treatment_response",
+      "title": "The Impact of Alexithymia on Treatment Response in Psychiatric Disorders: A Systematic Review",
+      "authors": [
+        "Federica Pinna",
+        "Mirko Manchia",
+        "Pasquale Paribello",
+        "Bernardo Carpiniello"
+      ],
+      "year": 2020,
+      "type": "paper",
+      "description": "Bibliographic record for a 2020 systematic review on alexithymia and treatment response across psychiatric disorders.",
+      "journal": "Frontiers in Psychiatry",
+      "volume": "11",
+      "pages": "311",
+      "doi": "10.3389/fpsyt.2020.00311",
+      "url": "https://doi.org/10.3389/fpsyt.2020.00311",
+      "tags": [
+        "alexithymia",
+        "treatment",
+        "systematic review",
+        "psychiatric disorders"
+      ]
+    },
+    {
+      "id": "tsubaki_shimizu_2024_psychological_treatments",
+      "title": "Psychological Treatments for Alexithymia: A Systematic Review",
+      "authors": [
+        "Kanako Tsubaki",
+        "Eiji Shimizu"
+      ],
+      "year": 2024,
+      "type": "paper",
+      "description": "Bibliographic record for a 2024 systematic review of psychological-treatment studies using TAS-20 alexithymia outcomes.",
+      "journal": "Behavioral Sciences",
+      "volume": "14",
+      "issue": "12",
+      "pages": "1173",
+      "doi": "10.3390/bs14121173",
+      "url": "https://doi.org/10.3390/bs14121173",
+      "tags": [
+        "alexithymia",
+        "treatment",
+        "psychological treatments",
+        "systematic review"
+      ]
+    },
+    {
+      "id": "schroeders_kubera_gnambs_2022_tas20_cfa",
+      "title": "The Structure of the Toronto Alexithymia Scale (TAS-20): A Meta-Analytic Confirmatory Factor Analysis",
+      "authors": [
+        "Ulrich Schroeders",
+        "Fiona Kubera",
+        "Timo Gnambs"
+      ],
+      "year": 2022,
+      "type": "paper",
+      "description": "Meta-analytic confirmatory factor analysis of the TAS-20 structure; tracked for assessment-instrument caveats rather than diagnosis claims.",
+      "journal": "Assessment",
+      "volume": "29",
+      "issue": "8",
+      "pages": "1806-1823",
+      "doi": "10.1177/10731911211033894",
+      "url": "https://doi.org/10.1177/10731911211033894",
+      "tags": [
+        "alexithymia",
+        "TAS-20",
+        "assessment",
+        "meta-analysis",
+        "confirmatory factor analysis"
       ]
     }
   ]
