@@ -194,6 +194,7 @@ Local library items now available:
 - Gaggero et al. (2021), subjective interoception study — work ID `clarifying-relationship-alexithymia-subjective-interoception`.
 - Brewer, Cook, and Bird (2016), `Alexithymia: a general deficit of interoception` — work ID `alexithymia-general-deficit-of-interoception`.
 - Schroeders, Kubera, and Gnambs (2022), TAS-20 meta-analytic confirmatory factor analysis — work ID `structure-of-toronto-alexithymia-scale-tas20-meta-analytic-cfa`.
+- Bjorngard (2018), `An Embodiment Constraint on Theories of Affect` — work ID `an-embodiment-constraint-on-theories-of-affect`; adjacent philosophy-of-emotion background, not clinical/alexithymia evidence.
 - Acquisition status and blocked/needed sources are tracked in `/Users/div/Repositories/source-library/docs/ALEXITHYMIA_ACQUISITION_STATUS.md`.
 - Durable acquisition want-list is tracked in `/Users/div/Repositories/source-library/docs/ALEXITHYMIA_TO_BE_ACQUIRED.md`.
 - Source-library status: support sources, notes_status unreviewed; none are public-page canon until reviewed.
