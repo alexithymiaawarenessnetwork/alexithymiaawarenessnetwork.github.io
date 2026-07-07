@@ -2,7 +2,7 @@
 
 A focused overview of how clinicians often adapt therapy when alexithymia is present. This page is informational, not prescriptive; treatment decisions should be made with a licensed clinician who can consider the person's history, goals, and co-occurring conditions.
 
-For the broader treatment overview, including medication and research directions, see [Treatment](treatment.md). For the conditions that often shape treatment choice, see [Comorbidities](comorbidities.md).
+For the broader treatment overview, including medication and research directions, see [Treatment](treatment.md). For the conditions that often shape treatment choice, see [Related Conditions](comorbidities.md).
 
 ## Core Principle
 
@@ -64,6 +64,6 @@ For therapist directories and support resources, see [Support](support.md#profes
 ## Related Resources
 
 - [Treatment](treatment.md) — broader overview including medication and research directions
-- [Comorbidities](comorbidities.md) — conditions that often shape treatment choice
+- [Related Conditions](comorbidities.md) — conditions that often shape treatment choice
 - [Support](support.md) — therapist directories, groups, and family support
 - [Assessment Instruments](tools.md) — TAS-20, BVAQ, and related measures

@@ -1,10 +1,10 @@
-# Comorbidities
+# Related Conditions
 
 Alexithymia frequently co-occurs with a wide range of psychiatric, medical, neurodevelopmental, substance-related, and trauma-related conditions. Understanding these patterns informs both [diagnosis](diagnosis.md) and [treatment](treatment.md).
 
-This page is a hub. Where comorbidities have substantial dedicated literature (e.g., autism + alexithymia), they may move to their own pages over time; this page will link to them.
+This page is a hub. Where related conditions have substantial dedicated literature (e.g., autism + alexithymia), they may move to their own pages over time; this page will link to them.
 
-## Psychiatric Comorbidities
+## Psychiatric Conditions
 
 ### Mood Disorders
 
@@ -25,7 +25,7 @@ This page is a hub. Where comorbidities have substantial dedicated literature (e
 
 **Generalized Anxiety Disorder (GAD)**
 
-- Prevalence: High comorbidity rates with alexithymia
+- Prevalence: High co-occurrence rates with alexithymia
 - Somatic focus: Anxiety experienced primarily as physical symptoms
 - Worry patterns: Concrete, externally-focused worry content
 
@@ -57,12 +57,12 @@ This page is a hub. Where comorbidities have substantial dedicated literature (e
 
 **Body Dysmorphic Disorder**
 
-- High comorbidity: Significant association with alexithymic traits, particularly difficulty identifying feelings
+- High co-occurrence: Significant association with alexithymic traits, particularly difficulty identifying feelings
 - Body image disturbances: Alexithymia linked to dysmorphic body image concerns and negative body perception
 - Interoceptive deficits: Difficulty distinguishing between emotional feelings and bodily sensations affects body awareness
 - Treatment implications: Need for enhanced emotional awareness and body image interventions
 
-## Medical Comorbidities
+## Medical Conditions
 
 ### Psychosomatic Disorders
 
@@ -102,7 +102,7 @@ This page is a hub. Where comorbidities have substantial dedicated literature (e
 
 **Anorexia Nervosa**
 
-- High comorbidity: 60-80% show elevated alexithymia
+- High co-occurrence: 60-80% show elevated alexithymia
 - Body awareness: Difficulty distinguishing hunger, emotions, and bodily sensations
 - Treatment implications: Focus on interoceptive awareness
 
@@ -116,7 +116,7 @@ This page is a hub. Where comorbidities have substantial dedicated literature (e
 
 ### Autism Spectrum Disorders (ASD)
 
-**High Comorbidity Rates**
+**High Co-occurrence Rates**
 
 - Prevalence: 40-65% of individuals with ASD show elevated alexithymia
 - Overlapping features: Social communication difficulties
@@ -142,7 +142,7 @@ This page is a hub. Where comorbidities have substantial dedicated literature (e
 
 - Executive function: Difficulties with emotional self-regulation
 - Impulsivity: Reduced emotional awareness affects impulse control
-- Comorbidity patterns: Overlapping attention and emotional difficulties
+- Co-occurrence patterns: Overlapping attention and emotional difficulties
 
 **Assessment Considerations:**
 
@@ -154,7 +154,7 @@ This page is a hub. Where comorbidities have substantial dedicated literature (e
 
 ### Alcohol Use Disorder
 
-**High Comorbidity Rates**
+**High Co-occurrence Rates**
 
 - Prevalence: 45-67% of individuals with alcohol use disorder show elevated alexithymia
 - Self-medication: Alcohol used to manage unidentified emotions

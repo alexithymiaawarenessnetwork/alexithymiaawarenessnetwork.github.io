@@ -20,7 +20,7 @@ It affects roughly **10% of the general population** and can shape relationships
 ### 🧠 Understanding Alexithymia
 - [**FAQ**](faq.md) — common questions and answers
 - [**Diagnosis & Assessment**](diagnosis.md) — how alexithymia is identified
-- [**Comorbidities**](comorbidities.md) — what it co-occurs with
+- [**Related Conditions**](comorbidities.md) — what it co-occurs with
 - [**Treatment**](treatment.md) — therapeutic approaches
 - [**Lexicon**](lexicon.md) — alphabetical glossary of feeling words
 

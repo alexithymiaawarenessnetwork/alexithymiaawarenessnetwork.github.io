@@ -85,9 +85,9 @@ His research has explored alexithymia in various medical conditions:
 - **Chronic pain conditions** - Alexithymia as a factor in pain perception and management
 - **Autoimmune disorders** - Emotional factors in immune system functioning
 
-### Psychiatric Comorbidity
+### Psychiatric Co-occurrence
 Taylor's work has examined relationships between alexithymia and mental health:
-- **Depression** - High comorbidity rates and treatment implications
+- **Depression** - High co-occurrence rates and treatment implications
 - **Anxiety disorders** - Emotional processing difficulties in anxiety
 - **Substance use disorders** - Alexithymia as a risk factor for addiction
 - **Eating disorders** - Emotional regulation difficulties in eating pathology

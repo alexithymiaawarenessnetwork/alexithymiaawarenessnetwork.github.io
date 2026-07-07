@@ -2,7 +2,7 @@
 
 Alexithymia is not classified as a standalone psychiatric disorder but as a personality trait or construct, measured dimensionally rather than categorically. This page covers how it is assessed and the clinical evaluation process.
 
-For the conditions that often co-occur with alexithymia, see [Comorbidities](comorbidities.md). For how its presence affects therapeutic approaches and medication, see [Treatment](treatment.md).
+For the conditions that often co-occur with alexithymia, see [Related Conditions](comorbidities.md). For how its presence affects therapeutic approaches and medication, see [Treatment](treatment.md).
 
 **Key Points:**
 
@@ -154,7 +154,7 @@ For the conditions that often co-occur with alexithymia, see [Comorbidities](com
 - Absence of other diagnostic criteria for specific disorders
 - Dimensional nature rather than categorical diagnosis
 
-For specific co-occurring conditions and their interaction with alexithymia, see [Comorbidities](comorbidities.md).
+For specific co-occurring conditions and their interaction with alexithymia, see [Related Conditions](comorbidities.md).
 
 ## Assessment in Clinical Practice
 
@@ -169,7 +169,7 @@ For specific co-occurring conditions and their interaction with alexithymia, see
 **Mental Health Settings:**
 
 - Comprehensive assessment: Full TAS-20 and clinical interview
-- Comorbidity evaluation: Screening for associated conditions
+- Related-conditions evaluation: Screening for associated conditions
 - Treatment planning: Incorporating alexithymia into therapeutic approach
 
 ### Clinical Interview Guidelines
@@ -191,7 +191,7 @@ For specific co-occurring conditions and their interaction with alexithymia, see
 
 ## Related Resources
 
-- [Comorbidities](comorbidities.md) — Conditions that co-occur with alexithymia
+- [Related Conditions](comorbidities.md) — Conditions that co-occur with alexithymia
 - [Treatment](treatment.md) — Therapeutic approaches and medication considerations
 - [Assessment Tools](tools.md) — Detailed information about specific instruments
 - [FAQ](faq.md) — Common questions about alexithymia and diagnosis

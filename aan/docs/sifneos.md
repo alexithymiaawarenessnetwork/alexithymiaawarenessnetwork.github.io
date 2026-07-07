@@ -175,7 +175,7 @@ Some researchers have questioned:
 ### Clinical Considerations
 Practitioners have noted:
 - **Heterogeneity** - Alexithymic individuals vary greatly in their presentations
-- **Comorbidity** - Alexithymia often occurs alongside other conditions
+- **Co-occurrence** - Alexithymia often occurs alongside other conditions
 - **Treatment complexity** - Interventions require careful adaptation
 
 ## Personal Philosophy and Approach

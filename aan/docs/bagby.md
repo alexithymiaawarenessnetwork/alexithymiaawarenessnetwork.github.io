@@ -101,7 +101,7 @@ His work has informed professional training:
 ### Clinical Research
 Bagby has conducted research on clinical applications:
 - **Treatment outcome studies** examining therapy effectiveness
-- **Comorbidity research** exploring alexithymia with other conditions
+- **Related-conditions research** exploring alexithymia with other conditions
 - **Intervention development** for alexithymic individuals
 - **Clinical prediction studies** using TAS-20 scores
 

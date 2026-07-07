@@ -2,7 +2,7 @@
 
 How alexithymia affects therapeutic approaches and what kinds of intervention have evidence behind them.
 
-This page now serves as the overview page for treatment-related material. For the detailed modality-by-modality breakdown, see [Therapy Approaches](therapy-approaches.md). For how alexithymia is identified, see [Diagnosis & Assessment](diagnosis.md). For the conditions it commonly co-occurs with — many of which influence treatment choice — see [Comorbidities](comorbidities.md).
+This page now serves as the overview page for treatment-related material. For the detailed modality-by-modality breakdown, see [Therapy Approaches](therapy-approaches.md). For how alexithymia is identified, see [Diagnosis & Assessment](diagnosis.md). For the conditions it commonly co-occurs with — many of which influence treatment choice — see [Related Conditions](comorbidities.md).
 
 ## Treatment Overview
 
@@ -23,7 +23,7 @@ Most of the clinical detail sits here:
 
 ## Medication Considerations
 
-Medication is rarely the primary intervention for alexithymia itself, but it often comes into play because of the comorbid conditions covered on the [comorbidities page](comorbidities.md).
+Medication is rarely the primary intervention for alexithymia itself, but it often comes into play because of the related conditions covered on the [related conditions page](comorbidities.md).
 
 ### Antidepressants
 
@@ -61,7 +61,7 @@ Current research is exploring:
 
 - [Therapy Approaches](therapy-approaches.md) — modality-specific overview
 - [Diagnosis & Assessment](diagnosis.md) — how alexithymia is identified
-- [Comorbidities](comorbidities.md) — conditions that often shape treatment choices
+- [Related Conditions](comorbidities.md) — conditions that often shape treatment choices
 - [Assessment Tools](tools.md) — TAS-20, BVAQ, and others
 - [Support](support.md) — finding therapists, peer support, and family resources
 - [FAQ](faq.md) — common questions including therapy effectiveness
